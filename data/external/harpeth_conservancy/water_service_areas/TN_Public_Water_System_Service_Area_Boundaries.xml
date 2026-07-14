@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Map</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>TN Public Water System Service Area Boundaries</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Map displaying TN Public Water System Service Area Boundaries.  Users can gain more access for water system details by reviewing general system characteristics or clicking on the URL for more detailed system information on TDEC's Drinking Water Watch website.</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>This project was funded by (1) Strengthening environmental health capacity (EHC) to detect, prevent, and control environmental health hazards through data-driven, evidence-based approaches. Tennessee Department of Health (TDH), National Center for Environmental Health, Centers for Disease Control (prime), CDC-RFA-EH20-2025, (2) Environmental Health Services Support for Public Health Drinking Water Programs to Reduce Drinking Water Exposures. Tennessee Department of Health (TDH), CDC Safe Water for Community Health (prime), CDC-RFA-EH15-1507, (3) Vanderbilt University Interdisciplinary Discovery Grant, and the Tennessee Department of Environment and Conversation.</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>estimated service area boundaries ESAB</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>water systems</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>CWS</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DWJL</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>drinking water</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>water</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>These data should not be used as an endpoint for decision making at local scales for water system infrastructure.  These datasets are generated at a coarse scale not intended to be interpreted at local scales.  More detailed information at a local scale for water utility service should be obtained from the local service providers in that area. </gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>

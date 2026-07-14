@@ -1,0 +1,425 @@
+{
+  "slug": "henderson",
+  "name": "Henderson",
+  "region": "West Tennessee",
+  "population": 27980,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "Lower Tennessee-Beech",
+    "South Fork Forked Deer",
+    "North Fork Forked Deer",
+    "Kentucky Lake"
+  ],
+  "legislativeDistricts": [
+    "House 79",
+    "House 72",
+    "Senate 25"
+  ],
+  "congressionalDistricts": [
+    "TN-08"
+  ],
+  "streamMiles": {
+    "impaired": 395.3,
+    "fullAttainment": 118.3,
+    "notAssessed": 361.9,
+    "otherAssessed": 0.0,
+    "total": 875.6
+  },
+  "rankings": {
+    "population": {
+      "rank": 54,
+      "total": 95,
+      "tieCount": 1,
+      "display": "54th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 37,
+      "total": 95,
+      "tieCount": 1,
+      "display": "37th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 1,
+      "total": 95,
+      "tieCount": 24,
+      "display": "tied 1st of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 9,
+      "total": 95,
+      "tieCount": 1,
+      "display": "9th of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 39,
+      "total": 95,
+      "tieCount": 1,
+      "display": "39th of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 30,
+      "total": 95,
+      "tieCount": 1,
+      "display": "30th of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 42,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 42nd of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 65,
+      "total": 95,
+      "tieCount": 3,
+      "display": "tied 65th of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 29,
+      "total": 95,
+      "tieCount": 67,
+      "display": "tied 29th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 58,
+      "total": 95,
+      "tieCount": 9,
+      "display": "tied 58th of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 6,
+      "total": 95,
+      "tieCount": 90,
+      "display": "tied 6th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 11,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 11th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 118.3
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 361.9
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 364.3
+    },
+    {
+      "category": "Not Supporting (Evaluated)",
+      "label": "Not supporting (evaluated)",
+      "miles": 31.0
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 395.3 river miles in not supporting categories, 118.3 fully supporting miles, and 361.9 not assessed miles in Henderson County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 354.2,
+      "assessmentUnits": 32
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 286.5,
+      "assessmentUnits": 24
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 226.1,
+      "assessmentUnits": 20
+    },
+    {
+      "cause": "sediment",
+      "label": "Sediment / siltation",
+      "miles": 82.2,
+      "assessmentUnits": 9
+    },
+    {
+      "cause": "metals_other_than_mercury",
+      "label": "Metals other than mercury",
+      "miles": 10.9,
+      "assessmentUnits": 1
+    },
+    {
+      "cause": "oxygen_depletion",
+      "label": "Oxygen depletion",
+      "miles": 10.9,
+      "assessmentUnits": 1
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Cane Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Big Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Beech River",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community"
+      ]
+    },
+    {
+      "waterbody": "Big Hurricane Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community"
+      ]
+    },
+    {
+      "waterbody": "Piney Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Cane Creek",
+    "Misc. Tribs to Middle Fork Forked Deer River",
+    "Misc tribs to Beech River",
+    "Middle Fork Creek",
+    "Big Creek"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 6 of 6 census tracts in Henderson County are flagged as disadvantaged (100.0%). 0 tracts carry the water and wastewater stress flag, and 5 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 0,
+      "tractCount": 6,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 6,
+        "total": 95,
+        "tieCount": 90,
+        "display": "tied 6th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 5,
+      "tractCount": 6,
+      "percent": 83.3,
+      "stateRank": {
+        "rank": 11,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 11th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Henderson County is represented as a West Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Lower Tennessee-Beech, South Fork Forked Deer, North Fork Forked Deer and overlaps 3 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Henderson County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside LEXINGTON WATER SYSTEMS; SCOTTS HILL WATER SYSTEM for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "27,980",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 54,
+        "total": 95,
+        "tieCount": 1,
+        "display": "54th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "16.9%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 37,
+        "total": 95,
+        "tieCount": 1,
+        "display": "37th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "100.0%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 1,
+        "total": 95,
+        "tieCount": 24,
+        "display": "tied 1st of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "395.3",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 9,
+        "total": 95,
+        "tieCount": 1,
+        "display": "9th of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "80",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 42,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 42nd of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "75",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 65,
+        "total": 95,
+        "tieCount": 3,
+        "display": "tied 65th of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "0.0",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 29,
+        "total": 95,
+        "tieCount": 67,
+        "display": "tied 29th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 80,
+    "riverStations": 64
+  },
+  "permittingSummary": {
+    "activePermits": 75,
+    "uniquePermittees": 32,
+    "permittedFlow": 11.828
+  },
+  "scenicRiverSummary": {
+    "miles": 0.0,
+    "segments": 0,
+    "names": []
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 8,
+    "names": [
+      "LEXINGTON WATER SYSTEMS",
+      "SCOTTS HILL WATER SYSTEM",
+      "SARDIS WATER SYSTEM",
+      "CEDAR GROVE UTILITY DISTRICT"
+    ]
+  }
+}

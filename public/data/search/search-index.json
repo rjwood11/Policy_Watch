@@ -1,0 +1,477 @@
+[
+  {
+    "type": "county",
+    "slug": "anderson",
+    "label": "Anderson County"
+  },
+  {
+    "type": "county",
+    "slug": "bedford",
+    "label": "Bedford County"
+  },
+  {
+    "type": "county",
+    "slug": "benton",
+    "label": "Benton County"
+  },
+  {
+    "type": "county",
+    "slug": "bledsoe",
+    "label": "Bledsoe County"
+  },
+  {
+    "type": "county",
+    "slug": "blount",
+    "label": "Blount County"
+  },
+  {
+    "type": "county",
+    "slug": "bradley",
+    "label": "Bradley County"
+  },
+  {
+    "type": "county",
+    "slug": "campbell",
+    "label": "Campbell County"
+  },
+  {
+    "type": "county",
+    "slug": "cannon",
+    "label": "Cannon County"
+  },
+  {
+    "type": "county",
+    "slug": "carroll",
+    "label": "Carroll County"
+  },
+  {
+    "type": "county",
+    "slug": "carter",
+    "label": "Carter County"
+  },
+  {
+    "type": "county",
+    "slug": "cheatham",
+    "label": "Cheatham County"
+  },
+  {
+    "type": "county",
+    "slug": "chester",
+    "label": "Chester County"
+  },
+  {
+    "type": "county",
+    "slug": "claiborne",
+    "label": "Claiborne County"
+  },
+  {
+    "type": "county",
+    "slug": "clay",
+    "label": "Clay County"
+  },
+  {
+    "type": "county",
+    "slug": "cocke",
+    "label": "Cocke County"
+  },
+  {
+    "type": "county",
+    "slug": "coffee",
+    "label": "Coffee County"
+  },
+  {
+    "type": "county",
+    "slug": "crockett",
+    "label": "Crockett County"
+  },
+  {
+    "type": "county",
+    "slug": "cumberland",
+    "label": "Cumberland County"
+  },
+  {
+    "type": "county",
+    "slug": "davidson",
+    "label": "Davidson County"
+  },
+  {
+    "type": "county",
+    "slug": "dekalb",
+    "label": "DeKalb County"
+  },
+  {
+    "type": "county",
+    "slug": "decatur",
+    "label": "Decatur County"
+  },
+  {
+    "type": "county",
+    "slug": "dickson",
+    "label": "Dickson County"
+  },
+  {
+    "type": "county",
+    "slug": "dyer",
+    "label": "Dyer County"
+  },
+  {
+    "type": "county",
+    "slug": "fayette",
+    "label": "Fayette County"
+  },
+  {
+    "type": "county",
+    "slug": "fentress",
+    "label": "Fentress County"
+  },
+  {
+    "type": "county",
+    "slug": "franklin",
+    "label": "Franklin County"
+  },
+  {
+    "type": "county",
+    "slug": "gibson",
+    "label": "Gibson County"
+  },
+  {
+    "type": "county",
+    "slug": "giles",
+    "label": "Giles County"
+  },
+  {
+    "type": "county",
+    "slug": "grainger",
+    "label": "Grainger County"
+  },
+  {
+    "type": "county",
+    "slug": "greene",
+    "label": "Greene County"
+  },
+  {
+    "type": "county",
+    "slug": "grundy",
+    "label": "Grundy County"
+  },
+  {
+    "type": "county",
+    "slug": "hamblen",
+    "label": "Hamblen County"
+  },
+  {
+    "type": "county",
+    "slug": "hamilton",
+    "label": "Hamilton County"
+  },
+  {
+    "type": "county",
+    "slug": "hancock",
+    "label": "Hancock County"
+  },
+  {
+    "type": "county",
+    "slug": "hardeman",
+    "label": "Hardeman County"
+  },
+  {
+    "type": "county",
+    "slug": "hardin",
+    "label": "Hardin County"
+  },
+  {
+    "type": "county",
+    "slug": "hawkins",
+    "label": "Hawkins County"
+  },
+  {
+    "type": "county",
+    "slug": "haywood",
+    "label": "Haywood County"
+  },
+  {
+    "type": "county",
+    "slug": "henderson",
+    "label": "Henderson County"
+  },
+  {
+    "type": "county",
+    "slug": "henry",
+    "label": "Henry County"
+  },
+  {
+    "type": "county",
+    "slug": "hickman",
+    "label": "Hickman County"
+  },
+  {
+    "type": "county",
+    "slug": "houston",
+    "label": "Houston County"
+  },
+  {
+    "type": "county",
+    "slug": "humphreys",
+    "label": "Humphreys County"
+  },
+  {
+    "type": "county",
+    "slug": "jackson",
+    "label": "Jackson County"
+  },
+  {
+    "type": "county",
+    "slug": "jefferson",
+    "label": "Jefferson County"
+  },
+  {
+    "type": "county",
+    "slug": "johnson",
+    "label": "Johnson County"
+  },
+  {
+    "type": "county",
+    "slug": "knox",
+    "label": "Knox County"
+  },
+  {
+    "type": "county",
+    "slug": "lake",
+    "label": "Lake County"
+  },
+  {
+    "type": "county",
+    "slug": "lauderdale",
+    "label": "Lauderdale County"
+  },
+  {
+    "type": "county",
+    "slug": "lawrence",
+    "label": "Lawrence County"
+  },
+  {
+    "type": "county",
+    "slug": "lewis",
+    "label": "Lewis County"
+  },
+  {
+    "type": "county",
+    "slug": "lincoln",
+    "label": "Lincoln County"
+  },
+  {
+    "type": "county",
+    "slug": "loudon",
+    "label": "Loudon County"
+  },
+  {
+    "type": "county",
+    "slug": "macon",
+    "label": "Macon County"
+  },
+  {
+    "type": "county",
+    "slug": "madison",
+    "label": "Madison County"
+  },
+  {
+    "type": "county",
+    "slug": "marion",
+    "label": "Marion County"
+  },
+  {
+    "type": "county",
+    "slug": "marshall",
+    "label": "Marshall County"
+  },
+  {
+    "type": "county",
+    "slug": "maury",
+    "label": "Maury County"
+  },
+  {
+    "type": "county",
+    "slug": "mcminn",
+    "label": "McMinn County"
+  },
+  {
+    "type": "county",
+    "slug": "mcnairy",
+    "label": "McNairy County"
+  },
+  {
+    "type": "county",
+    "slug": "meigs",
+    "label": "Meigs County"
+  },
+  {
+    "type": "county",
+    "slug": "monroe",
+    "label": "Monroe County"
+  },
+  {
+    "type": "county",
+    "slug": "montgomery",
+    "label": "Montgomery County"
+  },
+  {
+    "type": "county",
+    "slug": "moore",
+    "label": "Moore County"
+  },
+  {
+    "type": "county",
+    "slug": "morgan",
+    "label": "Morgan County"
+  },
+  {
+    "type": "county",
+    "slug": "obion",
+    "label": "Obion County"
+  },
+  {
+    "type": "county",
+    "slug": "overton",
+    "label": "Overton County"
+  },
+  {
+    "type": "county",
+    "slug": "perry",
+    "label": "Perry County"
+  },
+  {
+    "type": "county",
+    "slug": "pickett",
+    "label": "Pickett County"
+  },
+  {
+    "type": "county",
+    "slug": "polk",
+    "label": "Polk County"
+  },
+  {
+    "type": "county",
+    "slug": "putnam",
+    "label": "Putnam County"
+  },
+  {
+    "type": "county",
+    "slug": "rhea",
+    "label": "Rhea County"
+  },
+  {
+    "type": "county",
+    "slug": "roane",
+    "label": "Roane County"
+  },
+  {
+    "type": "county",
+    "slug": "robertson",
+    "label": "Robertson County"
+  },
+  {
+    "type": "county",
+    "slug": "rutherford",
+    "label": "Rutherford County"
+  },
+  {
+    "type": "county",
+    "slug": "scott",
+    "label": "Scott County"
+  },
+  {
+    "type": "county",
+    "slug": "sequatchie",
+    "label": "Sequatchie County"
+  },
+  {
+    "type": "county",
+    "slug": "sevier",
+    "label": "Sevier County"
+  },
+  {
+    "type": "county",
+    "slug": "shelby",
+    "label": "Shelby County"
+  },
+  {
+    "type": "county",
+    "slug": "smith",
+    "label": "Smith County"
+  },
+  {
+    "type": "county",
+    "slug": "stewart",
+    "label": "Stewart County"
+  },
+  {
+    "type": "county",
+    "slug": "sullivan",
+    "label": "Sullivan County"
+  },
+  {
+    "type": "county",
+    "slug": "sumner",
+    "label": "Sumner County"
+  },
+  {
+    "type": "county",
+    "slug": "tipton",
+    "label": "Tipton County"
+  },
+  {
+    "type": "county",
+    "slug": "trousdale",
+    "label": "Trousdale County"
+  },
+  {
+    "type": "county",
+    "slug": "unicoi",
+    "label": "Unicoi County"
+  },
+  {
+    "type": "county",
+    "slug": "union",
+    "label": "Union County"
+  },
+  {
+    "type": "county",
+    "slug": "van-buren",
+    "label": "Van Buren County"
+  },
+  {
+    "type": "county",
+    "slug": "warren",
+    "label": "Warren County"
+  },
+  {
+    "type": "county",
+    "slug": "washington",
+    "label": "Washington County"
+  },
+  {
+    "type": "county",
+    "slug": "wayne",
+    "label": "Wayne County"
+  },
+  {
+    "type": "county",
+    "slug": "weakley",
+    "label": "Weakley County"
+  },
+  {
+    "type": "county",
+    "slug": "white",
+    "label": "White County"
+  },
+  {
+    "type": "county",
+    "slug": "williamson",
+    "label": "Williamson County"
+  },
+  {
+    "type": "county",
+    "slug": "wilson",
+    "label": "Wilson County"
+  }
+]

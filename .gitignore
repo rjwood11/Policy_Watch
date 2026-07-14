@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+__pycache__/
+*.pyc
+npm-debug.log*
+.DS_Store
+.eslintcache
+data/processed/*
+!data/processed/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+public/data/weekly/*
+!public/data/weekly/README.md

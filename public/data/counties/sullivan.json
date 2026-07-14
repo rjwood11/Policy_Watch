@@ -1,0 +1,435 @@
+{
+  "slug": "sullivan",
+  "name": "Sullivan",
+  "region": "East Tennessee",
+  "population": 160624,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "South Fork Holston",
+    "Watauga, North Carolina, Tennessee",
+    "North Fork Holston"
+  ],
+  "legislativeDistricts": [
+    "House 1",
+    "House 3",
+    "House 2",
+    "Senate 4"
+  ],
+  "congressionalDistricts": [
+    "TN-01"
+  ],
+  "streamMiles": {
+    "impaired": 309.9,
+    "fullAttainment": 144.2,
+    "notAssessed": 100.5,
+    "otherAssessed": 0.0,
+    "total": 554.6
+  },
+  "rankings": {
+    "population": {
+      "rank": 9,
+      "total": 95,
+      "tieCount": 1,
+      "display": "9th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 50,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 50th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 52,
+      "total": 95,
+      "tieCount": 1,
+      "display": "52nd of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 23,
+      "total": 95,
+      "tieCount": 1,
+      "display": "23rd of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 29,
+      "total": 95,
+      "tieCount": 1,
+      "display": "29th of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 89,
+      "total": 95,
+      "tieCount": 1,
+      "display": "89th of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 7,
+      "total": 95,
+      "tieCount": 1,
+      "display": "7th of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 16,
+      "total": 95,
+      "tieCount": 1,
+      "display": "16th of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 29,
+      "total": 95,
+      "tieCount": 67,
+      "display": "tied 29th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 11,
+      "total": 95,
+      "tieCount": 9,
+      "display": "tied 11th of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 3,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 3rd of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 41,
+      "total": 95,
+      "tieCount": 1,
+      "display": "41st of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 113.6
+    },
+    {
+      "category": "Fully Supporting (Evaluated)",
+      "label": "Fully supporting (evaluated)",
+      "miles": 30.6
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 100.5
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 308.5
+    },
+    {
+      "category": "Not Supporting (Evaluated)",
+      "label": "Not supporting (evaluated)",
+      "miles": 1.4
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 309.9 river miles in not supporting categories, 144.2 fully supporting miles, and 100.5 not assessed miles in Sullivan County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 302.4,
+      "assessmentUnits": 51
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 208.5,
+      "assessmentUnits": 37
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 163.7,
+      "assessmentUnits": 33
+    },
+    {
+      "cause": "sediment",
+      "label": "Sediment / siltation",
+      "miles": 108.4,
+      "assessmentUnits": 19
+    },
+    {
+      "cause": "nutrients",
+      "label": "Nutrients",
+      "miles": 51.9,
+      "assessmentUnits": 10
+    },
+    {
+      "cause": "metals_other_than_mercury",
+      "label": "Metals other than mercury",
+      "miles": 10.6,
+      "assessmentUnits": 4
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Fall Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Reedy Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Nutrients",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "South Fork Holston River",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Nutrients",
+        "Pathogens / bacteria",
+        "Temperature"
+      ]
+    },
+    {
+      "waterbody": "Back Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Thomas Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Nutrients",
+        "Pathogens / bacteria"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "South Holston Reservoir Misc. Tribs.",
+    "Possum Creek",
+    "Fall Creek",
+    "Reedy Creek",
+    "South Fork Holston River"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 25 of 39 census tracts in Sullivan County are flagged as disadvantaged (64.1%). 3 tracts carry the water and wastewater stress flag, and 8 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 3,
+      "tractCount": 39,
+      "percent": 7.7,
+      "stateRank": {
+        "rank": 3,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 3rd of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 8,
+      "tractCount": 39,
+      "percent": 20.5,
+      "stateRank": {
+        "rank": 41,
+        "total": 95,
+        "tieCount": 1,
+        "display": "41st of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Sullivan County is represented as a East Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects South Fork Holston, Watauga, North Carolina, Tennessee, North Fork Holston and overlaps 4 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Sullivan County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside KINGSPORT WATER DEPT; JOHNSON CITY WATER DEPT for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "160,624",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 9,
+        "total": 95,
+        "tieCount": 1,
+        "display": "9th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "15.4%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 50,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 50th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "64.1%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 52,
+        "total": 95,
+        "tieCount": 1,
+        "display": "52nd of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "309.9",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 23,
+        "total": 95,
+        "tieCount": 1,
+        "display": "23rd of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "198",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 7,
+        "total": 95,
+        "tieCount": 1,
+        "display": "7th of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "343",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 16,
+        "total": 95,
+        "tieCount": 1,
+        "display": "16th of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "0.0",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 29,
+        "total": 95,
+        "tieCount": 67,
+        "display": "tied 29th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 198,
+    "riverStations": 157
+  },
+  "permittingSummary": {
+    "activePermits": 343,
+    "uniquePermittees": 124,
+    "permittedFlow": 6905.589
+  },
+  "scenicRiverSummary": {
+    "miles": 0.0,
+    "segments": 0,
+    "names": []
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 13,
+    "names": [
+      "KINGSPORT WATER DEPT",
+      "JOHNSON CITY WATER DEPT",
+      "BLOUNTVILLE UTILITY DISTRICT",
+      "BRISTOL DEPT OF UTILITIES"
+    ]
+  }
+}

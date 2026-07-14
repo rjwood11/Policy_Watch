@@ -1,0 +1,430 @@
+{
+  "slug": "clay",
+  "name": "Clay",
+  "region": "Middle Tennessee",
+  "population": 7670,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "Upper Cumberland-Cordell Hull Reservoir",
+    "Obey",
+    "Barren",
+    "Upper Cumberland-Lake Cumberland"
+  ],
+  "legislativeDistricts": [
+    "House 38",
+    "Senate 12"
+  ],
+  "congressionalDistricts": [
+    "TN-06"
+  ],
+  "streamMiles": {
+    "impaired": 87.5,
+    "fullAttainment": 46.4,
+    "notAssessed": 158.2,
+    "otherAssessed": 0.0,
+    "total": 292.0
+  },
+  "rankings": {
+    "population": {
+      "rank": 90,
+      "total": 95,
+      "tieCount": 1,
+      "display": "90th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 3,
+      "total": 95,
+      "tieCount": 1,
+      "display": "3rd of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 1,
+      "total": 95,
+      "tieCount": 24,
+      "display": "tied 1st of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 79,
+      "total": 95,
+      "tieCount": 1,
+      "display": "79th of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 72,
+      "total": 95,
+      "tieCount": 1,
+      "display": "72nd of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 79,
+      "total": 95,
+      "tieCount": 1,
+      "display": "79th of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 73,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 73rd of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 69,
+      "total": 95,
+      "tieCount": 1,
+      "display": "69th of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 29,
+      "total": 95,
+      "tieCount": 67,
+      "display": "tied 29th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 67,
+      "total": 95,
+      "tieCount": 8,
+      "display": "tied 67th of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 6,
+      "total": 95,
+      "tieCount": 90,
+      "display": "tied 6th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 55,
+      "total": 95,
+      "tieCount": 41,
+      "display": "tied 55th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 42.0
+    },
+    {
+      "category": "Fully Supporting (Evaluated)",
+      "label": "Fully supporting (evaluated)",
+      "miles": 4.4
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 158.2
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 87.5
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 87.5 river miles in not supporting categories, 46.4 fully supporting miles, and 158.2 not assessed miles in Clay County.",
+  "impairmentCauses": [
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 84.6,
+      "assessmentUnits": 6
+    },
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 80.1,
+      "assessmentUnits": 6
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 57.2,
+      "assessmentUnits": 5
+    },
+    {
+      "cause": "nutrients",
+      "label": "Nutrients",
+      "miles": 43.0,
+      "assessmentUnits": 4
+    },
+    {
+      "cause": "flow_alterations",
+      "label": "Flow / hydrologic alteration",
+      "miles": 7.9,
+      "assessmentUnits": 1
+    },
+    {
+      "cause": "metals_other_than_mercury",
+      "label": "Metals other than mercury",
+      "miles": 7.4,
+      "assessmentUnits": 1
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Proctor Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Little Trace Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Flow / hydrologic alteration",
+        "Habitat alteration",
+        "Impaired biological community",
+        "Nutrients",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Trace Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Nutrients",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Line Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Nutrients",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Knob Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Nutrients",
+        "Pathogens / bacteria"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Proctor Creek",
+    "Little Trace Creek",
+    "Trace Creek",
+    "Misc Tribs to Cordell Hull Reservoir",
+    "Misc Tribs to Dale Hollow Reservoir"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 2 of 2 census tracts in Clay County are flagged as disadvantaged (100.0%). 0 tracts carry the water and wastewater stress flag, and 0 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 0,
+      "tractCount": 2,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 6,
+        "total": 95,
+        "tieCount": 90,
+        "display": "tied 6th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 0,
+      "tractCount": 2,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 55,
+        "total": 95,
+        "tieCount": 41,
+        "display": "tied 55th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Clay County is represented as a Middle Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Upper Cumberland-Cordell Hull Reservoir, Obey, Barren and overlaps 2 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Clay County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside NORTHWEST CLAY COUNTY UTILITY; CELINA WATER SYSTEM for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "7,670",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 90,
+        "total": 95,
+        "tieCount": 1,
+        "display": "90th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "24.2%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 3,
+        "total": 95,
+        "tieCount": 1,
+        "display": "3rd of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "100.0%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 1,
+        "total": 95,
+        "tieCount": 24,
+        "display": "tied 1st of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "87.5",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 79,
+        "total": 95,
+        "tieCount": 1,
+        "display": "79th of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "46",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 73,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 73rd of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "72",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 69,
+        "total": 95,
+        "tieCount": 1,
+        "display": "69th of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "0.0",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 29,
+        "total": 95,
+        "tieCount": 67,
+        "display": "tied 29th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 46,
+    "riverStations": 43
+  },
+  "permittingSummary": {
+    "activePermits": 72,
+    "uniquePermittees": 25,
+    "permittedFlow": 25.57
+  },
+  "scenicRiverSummary": {
+    "miles": 0.0,
+    "segments": 0,
+    "names": []
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 7,
+    "names": [
+      "NORTHWEST CLAY COUNTY UTILITY",
+      "CELINA WATER SYSTEM",
+      "NORTH OVERTON UTILITY DISTRICT",
+      "RED BOILING SPRINGS W.S."
+    ]
+  }
+}

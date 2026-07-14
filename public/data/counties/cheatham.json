@@ -1,0 +1,422 @@
+{
+  "slug": "cheatham",
+  "name": "Cheatham",
+  "region": "Middle Tennessee",
+  "population": 41829,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Featured county page",
+    "coverageNote": "This county is part of the featured prototype cohort and includes more intentional narrative framing.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": true,
+  "watersheds": [
+    "Lower Cumberland-Sycamore",
+    "Harpeth",
+    "Lower Cumberland"
+  ],
+  "legislativeDistricts": [
+    "House 78",
+    "Senate 23"
+  ],
+  "congressionalDistricts": [
+    "TN-07"
+  ],
+  "streamMiles": {
+    "impaired": 103.1,
+    "fullAttainment": 139.6,
+    "notAssessed": 186.7,
+    "otherAssessed": 0.0,
+    "total": 429.4
+  },
+  "rankings": {
+    "population": {
+      "rank": 39,
+      "total": 95,
+      "tieCount": 1,
+      "display": "39th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 94,
+      "total": 95,
+      "tieCount": 1,
+      "display": "94th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 90,
+      "total": 95,
+      "tieCount": 1,
+      "display": "90th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 73,
+      "total": 95,
+      "tieCount": 1,
+      "display": "73rd of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 31,
+      "total": 95,
+      "tieCount": 1,
+      "display": "31st of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 70,
+      "total": 95,
+      "tieCount": 1,
+      "display": "70th of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 48,
+      "total": 95,
+      "tieCount": 1,
+      "display": "48th of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 34,
+      "total": 95,
+      "tieCount": 1,
+      "display": "34th of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 27,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 27th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 32,
+      "total": 95,
+      "tieCount": 9,
+      "display": "tied 32nd of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 6,
+      "total": 95,
+      "tieCount": 90,
+      "display": "tied 6th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 55,
+      "total": 95,
+      "tieCount": 41,
+      "display": "tied 55th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 139.6
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 186.7
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 99.4
+    },
+    {
+      "category": "Not Supporting (Evaluated)",
+      "label": "Not supporting (evaluated)",
+      "miles": 3.6
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 103.1 river miles in not supporting categories, 139.6 fully supporting miles, and 186.7 not assessed miles in Cheatham County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 103.1,
+      "assessmentUnits": 12
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 66.6,
+      "assessmentUnits": 9
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 66.6,
+      "assessmentUnits": 9
+    },
+    {
+      "cause": "sediment",
+      "label": "Sediment / siltation",
+      "miles": 47.3,
+      "assessmentUnits": 5
+    },
+    {
+      "cause": "ph",
+      "label": "pH",
+      "miles": 0.7,
+      "assessmentUnits": 1
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Harpeth River",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community"
+      ]
+    },
+    {
+      "waterbody": "Sycamore Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Half Pone Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Pond Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Blue Spring Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Harpeth River",
+    "Dry Fork Creek",
+    "Misc Tribs to Sycamore Creek",
+    "Spring Creek",
+    "Marrowbone Creek"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 1 of 9 census tracts in Cheatham County are flagged as disadvantaged (11.1%). 0 tracts carry the water and wastewater stress flag, and 0 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 0,
+      "tractCount": 9,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 6,
+        "total": 95,
+        "tieCount": 90,
+        "display": "tied 6th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 0,
+      "tractCount": 9,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 55,
+        "total": 95,
+        "tieCount": 41,
+        "display": "tied 55th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Cheatham County is represented as a Middle Tennessee county summary focused on downstream watershed context, local infrastructure choices, and river health communication. It intersects Lower Cumberland-Sycamore, Harpeth, Lower Cumberland and overlaps 2 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Cheatham County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside PLEASANT VIEW UTILITY DISTRICT; RIVER ROAD UTILITY DISTRICT for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "41,829",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 39,
+        "total": 95,
+        "tieCount": 1,
+        "display": "39th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "7.7%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 94,
+        "total": 95,
+        "tieCount": 1,
+        "display": "94th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "11.1%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 90,
+        "total": 95,
+        "tieCount": 1,
+        "display": "90th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "103.1",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 73,
+        "total": 95,
+        "tieCount": 1,
+        "display": "73rd of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "76",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 48,
+        "total": 95,
+        "tieCount": 1,
+        "display": "48th of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "197",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 34,
+        "total": 95,
+        "tieCount": 1,
+        "display": "34th of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "0.1",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 27,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 27th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 76,
+    "riverStations": 74
+  },
+  "permittingSummary": {
+    "activePermits": 197,
+    "uniquePermittees": 86,
+    "permittedFlow": 12.288
+  },
+  "scenicRiverSummary": {
+    "miles": 0.1,
+    "segments": 1,
+    "names": [
+      "Harpeth Scenic River"
+    ]
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 11,
+    "names": [
+      "PLEASANT VIEW UTILITY DISTRICT",
+      "RIVER ROAD UTILITY DISTRICT",
+      "EAST MONTGOMERY U.D.",
+      "SECOND SOUTH CHEATHAM U.D."
+    ]
+  }
+}

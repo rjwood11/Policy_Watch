@@ -1,0 +1,438 @@
+{
+  "slug": "madison",
+  "name": "Madison",
+  "region": "West Tennessee",
+  "population": 99295,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "South Fork Forked Deer",
+    "North Fork Forked Deer",
+    "Lower Hatchie"
+  ],
+  "legislativeDistricts": [
+    "House 73",
+    "House 80",
+    "Senate 25"
+  ],
+  "congressionalDistricts": [
+    "TN-08"
+  ],
+  "streamMiles": {
+    "impaired": 501.5,
+    "fullAttainment": 101.2,
+    "notAssessed": 325.0,
+    "otherAssessed": 0.0,
+    "total": 927.7
+  },
+  "rankings": {
+    "population": {
+      "rank": 16,
+      "total": 95,
+      "tieCount": 1,
+      "display": "16th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 27,
+      "total": 95,
+      "tieCount": 1,
+      "display": "27th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 65,
+      "total": 95,
+      "tieCount": 1,
+      "display": "65th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 4,
+      "total": 95,
+      "tieCount": 1,
+      "display": "4th of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 46,
+      "total": 95,
+      "tieCount": 1,
+      "display": "46th of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 34,
+      "total": 95,
+      "tieCount": 1,
+      "display": "34th of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 49,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 49th of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 23,
+      "total": 95,
+      "tieCount": 1,
+      "display": "23rd of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 27,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 27th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 75,
+      "total": 95,
+      "tieCount": 6,
+      "display": "tied 75th of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 6,
+      "total": 95,
+      "tieCount": 90,
+      "display": "tied 6th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 28,
+      "total": 95,
+      "tieCount": 1,
+      "display": "28th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 96.1
+    },
+    {
+      "category": "Fully Supporting (Evaluated)",
+      "label": "Fully supporting (evaluated)",
+      "miles": 5.1
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 325.0
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 397.4
+    },
+    {
+      "category": "Not Supporting (Evaluated)",
+      "label": "Not supporting (evaluated)",
+      "miles": 104.2
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 501.5 river miles in not supporting categories, 101.2 fully supporting miles, and 325.0 not assessed miles in Madison County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 501.4,
+      "assessmentUnits": 40
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 382.0,
+      "assessmentUnits": 28
+    },
+    {
+      "cause": "sediment",
+      "label": "Sediment / siltation",
+      "miles": 331.7,
+      "assessmentUnits": 24
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 160.2,
+      "assessmentUnits": 16
+    },
+    {
+      "cause": "nutrients",
+      "label": "Nutrients",
+      "miles": 66.3,
+      "assessmentUnits": 4
+    },
+    {
+      "cause": "oxygen_depletion",
+      "label": "Oxygen depletion",
+      "miles": 17.8,
+      "assessmentUnits": 2
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Johnson Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Cypress Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Dyer Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Nutrients",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Cub Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "South Fork Forked Deer River",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Metals other than mercury",
+        "Nutrients",
+        "Sediment / siltation"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Misc Tribs to South Fork Forked Deer River",
+    "Misc. Tribs to Middle Fork Forked Deer River",
+    "Johnson Creek",
+    "Meridian Creek",
+    "Cypress Creek"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 13 of 27 census tracts in Madison County are flagged as disadvantaged (48.1%). 0 tracts carry the water and wastewater stress flag, and 13 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 0,
+      "tractCount": 27,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 6,
+        "total": 95,
+        "tieCount": 90,
+        "display": "tied 6th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 13,
+      "tractCount": 27,
+      "percent": 48.1,
+      "stateRank": {
+        "rank": 28,
+        "total": 95,
+        "tieCount": 1,
+        "display": "28th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Madison County is represented as a West Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects South Fork Forked Deer, North Fork Forked Deer, Lower Hatchie and overlaps 3 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Madison County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside JACKSON WATER SYSTEM; COUNTY WIDE UTILITY DISTRICT for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "99,295",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 16,
+        "total": 95,
+        "tieCount": 1,
+        "display": "16th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "18.2%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 27,
+        "total": 95,
+        "tieCount": 1,
+        "display": "27th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "48.1%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 65,
+        "total": 95,
+        "tieCount": 1,
+        "display": "65th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "501.5",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 4,
+        "total": 95,
+        "tieCount": 1,
+        "display": "4th of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "75",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 49,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 49th of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "257",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 23,
+        "total": 95,
+        "tieCount": 1,
+        "display": "23rd of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "0.1",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 27,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 27th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 75,
+    "riverStations": 72
+  },
+  "permittingSummary": {
+    "activePermits": 257,
+    "uniquePermittees": 132,
+    "permittedFlow": 69.386
+  },
+  "scenicRiverSummary": {
+    "miles": 0.1,
+    "segments": 1,
+    "names": [
+      "Hatchie Scenic River"
+    ]
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 6,
+    "names": [
+      "JACKSON WATER SYSTEM",
+      "COUNTY WIDE UTILITY DISTRICT",
+      "HUMBOLDT UTILITIES-WATER DEPT",
+      "JEA-MERCER PLANT"
+    ]
+  }
+}

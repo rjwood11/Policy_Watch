@@ -1,0 +1,416 @@
+{
+  "slug": "dickson",
+  "name": "Dickson",
+  "region": "Middle Tennessee",
+  "population": 55983,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "Harpeth",
+    "Lower Cumberland",
+    "Lower Duck"
+  ],
+  "legislativeDistricts": [
+    "House 69",
+    "House 78",
+    "Senate 23"
+  ],
+  "congressionalDistricts": [
+    "TN-07"
+  ],
+  "streamMiles": {
+    "impaired": 239.8,
+    "fullAttainment": 185.7,
+    "notAssessed": 311.1,
+    "otherAssessed": 0.0,
+    "total": 736.6
+  },
+  "rankings": {
+    "population": {
+      "rank": 29,
+      "total": 95,
+      "tieCount": 1,
+      "display": "29th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 83,
+      "total": 95,
+      "tieCount": 1,
+      "display": "83rd of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 69,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 69th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 36,
+      "total": 95,
+      "tieCount": 1,
+      "display": "36th of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 18,
+      "total": 95,
+      "tieCount": 1,
+      "display": "18th of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 37,
+      "total": 95,
+      "tieCount": 1,
+      "display": "37th of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 38,
+      "total": 95,
+      "tieCount": 3,
+      "display": "tied 38th of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 19,
+      "total": 95,
+      "tieCount": 1,
+      "display": "19th of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 29,
+      "total": 95,
+      "tieCount": 67,
+      "display": "tied 29th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 47,
+      "total": 95,
+      "tieCount": 11,
+      "display": "tied 47th of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 6,
+      "total": 95,
+      "tieCount": 90,
+      "display": "tied 6th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 55,
+      "total": 95,
+      "tieCount": 41,
+      "display": "tied 55th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 185.7
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 311.1
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 225.1
+    },
+    {
+      "category": "Not Supporting (Evaluated)",
+      "label": "Not supporting (evaluated)",
+      "miles": 14.6
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 239.8 river miles in not supporting categories, 185.7 fully supporting miles, and 311.1 not assessed miles in Dickson County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 239.3,
+      "assessmentUnits": 25
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 158.4,
+      "assessmentUnits": 17
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 139.0,
+      "assessmentUnits": 12
+    },
+    {
+      "cause": "sediment",
+      "label": "Sediment / siltation",
+      "miles": 43.6,
+      "assessmentUnits": 5
+    },
+    {
+      "cause": "nutrients",
+      "label": "Nutrients",
+      "miles": 14.3,
+      "assessmentUnits": 3
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "West Piney River",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Little Jones Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community"
+      ]
+    },
+    {
+      "waterbody": "Little Bartons Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Garner Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Beaverdam Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Misc Tribs to Yellow Creek",
+    "Misc.tribs to Jones Creek",
+    "Leatherwood Creek",
+    "Jones Creek",
+    "West Piney River"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 4 of 10 census tracts in Dickson County are flagged as disadvantaged (40.0%). 0 tracts carry the water and wastewater stress flag, and 0 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 0,
+      "tractCount": 10,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 6,
+        "total": 95,
+        "tieCount": 90,
+        "display": "tied 6th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 0,
+      "tractCount": 10,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 55,
+        "total": 95,
+        "tieCount": 41,
+        "display": "tied 55th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Dickson County is represented as a Middle Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Harpeth, Lower Cumberland, Lower Duck and overlaps 3 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Dickson County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside WATER AUTH OF DICKSON COUNTY; SYLVIA-TENN CITY-POND U.D. for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "55,983",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 29,
+        "total": 95,
+        "tieCount": 1,
+        "display": "29th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "10.9%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 83,
+        "total": 95,
+        "tieCount": 1,
+        "display": "83rd of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "40.0%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 69,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 69th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "239.8",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 36,
+        "total": 95,
+        "tieCount": 1,
+        "display": "36th of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "84",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 38,
+        "total": 95,
+        "tieCount": 3,
+        "display": "tied 38th of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "310",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 19,
+        "total": 95,
+        "tieCount": 1,
+        "display": "19th of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "0.0",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 29,
+        "total": 95,
+        "tieCount": 67,
+        "display": "tied 29th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 84,
+    "riverStations": 82
+  },
+  "permittingSummary": {
+    "activePermits": 310,
+    "uniquePermittees": 123,
+    "permittedFlow": 10.009
+  },
+  "scenicRiverSummary": {
+    "miles": 0.0,
+    "segments": 0,
+    "names": []
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 9,
+    "names": [
+      "WATER AUTH OF DICKSON COUNTY",
+      "SYLVIA-TENN CITY-POND U.D.",
+      "VANLEER WATER DEPARTMENT",
+      "CUNNINGHAM UTILITY DISTRICT"
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "slug": "lewis",
+  "name": "Lewis",
+  "region": "Middle Tennessee",
+  "population": 12992,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "Buffalo",
+    "Lower Duck"
+  ],
+  "legislativeDistricts": [
+    "House 69",
+    "Senate 28"
+  ],
+  "congressionalDistricts": [
+    "TN-05"
+  ],
+  "streamMiles": {
+    "impaired": 29.2,
+    "fullAttainment": 156.0,
+    "notAssessed": 252.8,
+    "otherAssessed": 0.0,
+    "total": 438.1
+  },
+  "rankings": {
+    "population": {
+      "rank": 84,
+      "total": 95,
+      "tieCount": 1,
+      "display": "84th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 38,
+      "total": 95,
+      "tieCount": 1,
+      "display": "38th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 1,
+      "total": 95,
+      "tieCount": 24,
+      "display": "tied 1st of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 91,
+      "total": 95,
+      "tieCount": 1,
+      "display": "91st of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 27,
+      "total": 95,
+      "tieCount": 1,
+      "display": "27th of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 46,
+      "total": 95,
+      "tieCount": 1,
+      "display": "46th of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 70,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 70th of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 81,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 81st of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 29,
+      "total": 95,
+      "tieCount": 67,
+      "display": "tied 29th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 81,
+      "total": 95,
+      "tieCount": 9,
+      "display": "tied 81st of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 6,
+      "total": 95,
+      "tieCount": 90,
+      "display": "tied 6th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 1,
+      "total": 95,
+      "tieCount": 9,
+      "display": "tied 1st of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 156.0
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 252.8
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 23.2
+    },
+    {
+      "category": "Not Supporting (Evaluated)",
+      "label": "Not supporting (evaluated)",
+      "miles": 6.1
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 29.2 river miles in not supporting categories, 156.0 fully supporting miles, and 252.8 not assessed miles in Lewis County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 23.2,
+      "assessmentUnits": 1
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 23.2,
+      "assessmentUnits": 1
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 18.1,
+      "assessmentUnits": 1
+    },
+    {
+      "cause": "flow_alterations",
+      "label": "Flow / hydrologic alteration",
+      "miles": 6.1,
+      "assessmentUnits": 2
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Rockhouse Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Chief Creek",
+      "status": "Not Supporting (Evaluated)",
+      "causes": [
+        "Flow / hydrologic alteration"
+      ]
+    },
+    {
+      "waterbody": "Natchez Branch",
+      "status": "Not Supporting (Evaluated)",
+      "causes": [
+        "Flow / hydrologic alteration"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Misc tribs to Big Swan Creek",
+    "Trace Creek",
+    "East Fork Cane Creek",
+    "South Fork Cane Creek",
+    "Rockhouse Creek"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 2 of 2 census tracts in Lewis County are flagged as disadvantaged (100.0%). 0 tracts carry the water and wastewater stress flag, and 2 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 0,
+      "tractCount": 2,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 6,
+        "total": 95,
+        "tieCount": 90,
+        "display": "tied 6th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 2,
+      "tractCount": 2,
+      "percent": 100.0,
+      "stateRank": {
+        "rank": 1,
+        "total": 95,
+        "tieCount": 9,
+        "display": "tied 1st of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Lewis County is represented as a Middle Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Buffalo, Lower Duck and overlaps 2 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Lewis County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside HOHENWALD WATER SYSTEM; THE FARM WATER SYSTEM for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "12,992",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 84,
+        "total": 95,
+        "tieCount": 1,
+        "display": "84th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "16.7%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 38,
+        "total": 95,
+        "tieCount": 1,
+        "display": "38th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "100.0%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 1,
+        "total": 95,
+        "tieCount": 24,
+        "display": "tied 1st of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "29.2",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 91,
+        "total": 95,
+        "tieCount": 1,
+        "display": "91st of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "48",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 70,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 70th of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "49",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 81,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 81st of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "0.0",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 29,
+        "total": 95,
+        "tieCount": 67,
+        "display": "tied 29th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 48,
+    "riverStations": 48
+  },
+  "permittingSummary": {
+    "activePermits": 49,
+    "uniquePermittees": 29,
+    "permittedFlow": 2.15
+  },
+  "scenicRiverSummary": {
+    "miles": 0.0,
+    "segments": 0,
+    "names": []
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 5,
+    "names": [
+      "HOHENWALD WATER SYSTEM",
+      "THE FARM WATER SYSTEM",
+      "MOUNT PLEASANT WAT SYS #1",
+      "SUMMERTOWN WATER SYSTEM"
+    ]
+  }
+}

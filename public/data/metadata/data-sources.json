@@ -1,0 +1,128 @@
+[
+  {
+    "dataset": "Tennessee counties",
+    "purpose": "Base county geography for statewide navigation and county summary pages.",
+    "sourceName": "Census TIGER/Line 2024 Counties",
+    "sourceUrl": "https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip",
+    "refreshFrequency": "Annual",
+    "lastUpdated": "2026-06-25",
+    "notes": "Prototype exports a simplified Tennessee-only county layer from the national TIGER/Line shapefile."
+  },
+  {
+    "dataset": "HUC8 watersheds",
+    "purpose": "Watershed context for county pages and overlay controls.",
+    "sourceName": "USGS WBD MapServer layer 4",
+    "sourceUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/wbd/MapServer/4",
+    "refreshFrequency": "Periodic",
+    "lastUpdated": "2026-06-25",
+    "notes": "Prototype filters the official WBD subbasin layer to hydrologic units whose state list includes Tennessee."
+  },
+  {
+    "dataset": "Legislative districts",
+    "purpose": "State and congressional district overlays and county overlap summaries.",
+    "sourceName": "TNMap Legislative Districts service",
+    "sourceUrl": "https://tnmap.tn.gov/arcgis/rest/services/ADMINISTRATIVE_BOUNDARIES/LEGISLATIVE_DISTRICTS/MapServer",
+    "refreshFrequency": "Redistricting / official updates",
+    "lastUpdated": "2026-06-25",
+    "notes": "Prototype uses the Tennessee 2022 district service for senate, house, and congressional boundaries."
+  },
+  {
+    "dataset": "ACS indicators",
+    "purpose": "County demographic and socioeconomic context.",
+    "sourceName": "U.S. Census ACS 2024 5-year API",
+    "sourceUrl": "https://api.census.gov/data/2024/acs/acs5.html",
+    "refreshFrequency": "Annual",
+    "lastUpdated": "2026-06-25",
+    "notes": "Prototype pulls population, median household income, and poverty-related values and writes them into county summary JSON."
+  },
+  {
+    "dataset": "Justice40 / CEJST local snapshot",
+    "purpose": "County-level rollup of tract disadvantage, water stress, and climate stress flags.",
+    "sourceName": "Harpeth Conservancy copy of ATP and Justice40 tract layer",
+    "sourceUrl": "C:\\Users\\rwjac\\Desktop\\Codex\\PolicyWatch\\data\\external\\harpeth_conservancy\\justice40\\ATP and Justice40.shp",
+    "refreshFrequency": "Versioned snapshot",
+    "lastUpdated": "2026-06-25",
+    "notes": "Copied into the repo from the Harpeth Conservancy GIS workspace for stable local county-level aggregation of CEJST tract category flags."
+  },
+  {
+    "dataset": "2026 303(d) impairment layer",
+    "purpose": "County-level river impairment summaries, inferred cause summaries, and sample waterbody names.",
+    "sourceName": "Harpeth Conservancy copy of TDEC 2026 303(d) layer",
+    "sourceUrl": "C:\\Users\\rwjac\\Desktop\\Codex\\PolicyWatch\\data\\external\\harpeth_conservancy\\impairment_2026\\303d list 2026.shp",
+    "refreshFrequency": "Assessment cycle",
+    "lastUpdated": "2026-06-25",
+    "notes": "River segments are intersected with county boundaries to estimate county-level impaired, fully supporting, and not assessed river miles. Cause summaries are inferred from the local assessment-rationale text when coded cause fields are unavailable."
+  },
+  {
+    "dataset": "EPA ATTAINS assessment geospatial layer",
+    "purpose": "Interactive county-map overlay for impaired, good, and unassessed river status from EPA How's My Waterway / ATTAINS assessment data.",
+    "sourceName": "EPA ATTAINS Assessment MapServer layer 1",
+    "sourceUrl": "https://gispub.epa.gov/arcgis/rest/services/OW/ATTAINS_Assessment/MapServer/1",
+    "refreshFrequency": "EPA service update cycle",
+    "lastUpdated": "2026-06-25",
+    "notes": "County maps query the public EPA geospatial service by county bounding box at runtime and display coded ATTAINS impairment causes when available. Maps fall back to the local 2026 303(d) layer if the service is unavailable."
+  },
+  {
+    "dataset": "DWR monitoring stations",
+    "purpose": "Count county-associated water-quality monitoring stations.",
+    "sourceName": "Harpeth Conservancy copy of Water Quality Monitoring Stations",
+    "sourceUrl": "C:\\Users\\rwjac\\Desktop\\Codex\\PolicyWatch\\data\\external\\harpeth_conservancy\\monitoring_stations\\Water_Quality_Monitoring_Stations.shp",
+    "refreshFrequency": "Periodic",
+    "lastUpdated": "2026-06-25",
+    "notes": "Used to summarize monitoring presence by county."
+  },
+  {
+    "dataset": "TDEC DWR public water resources permits",
+    "purpose": "Interactive county-map overlay differentiating active permit records from pending or incomplete permit records.",
+    "sourceName": "TDEC DWR Public MapServer layer 1",
+    "sourceUrl": "https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1",
+    "refreshFrequency": "Weekly cache",
+    "lastUpdated": "2026-06-25",
+    "notes": "County maps use a static weekly cache generated from the public TDEC DWR MapServer. The browser falls back to the live service when a cache file is unavailable."
+  },
+  {
+    "dataset": "EPA ECHO CWA permit compliance",
+    "purpose": "Interactive county-map overlay identifying CWA/NPDES permits with recent or current violation records.",
+    "sourceName": "EPA ECHO CWA REST Services get_facilities and get_qid",
+    "sourceUrl": "https://echodata.epa.gov/echo/cwa_rest_services.get_facilities",
+    "refreshFrequency": "Weekly cache",
+    "lastUpdated": "2026-06-25",
+    "notes": "County maps use a static weekly cache generated from EPA ECHO CWA REST Services. Records include recent or current noncompliance signals and links to ECHO reports."
+  },
+  {
+    "dataset": "Active permitted features",
+    "purpose": "Count county-associated active water permits.",
+    "sourceName": "Harpeth Conservancy copy of Active Permitted Features",
+    "sourceUrl": "C:\\Users\\rwjac\\Desktop\\Codex\\PolicyWatch\\data\\external\\harpeth_conservancy\\active_water_permits\\Active_Permitted_Features.shp",
+    "refreshFrequency": "Periodic",
+    "lastUpdated": "2026-06-25",
+    "notes": "Used to summarize permitted water features by county."
+  },
+  {
+    "dataset": "TNMap composite address locator",
+    "purpose": "County-map address search and zoom-to-location behavior.",
+    "sourceName": "TNMap Composite GeocodeServer",
+    "sourceUrl": "https://tnmap.tn.gov/arcgis/rest/services/LOCATORS/TN_COMPOSITE/GeocodeServer",
+    "refreshFrequency": "TNMap / E911 addressing update cycle",
+    "lastUpdated": "2026-06-25",
+    "notes": "Address searches are submitted from the client and filtered to the selected county bounding box before the map zooms to a result."
+  },
+  {
+    "dataset": "Tennessee scenic rivers",
+    "purpose": "Show designated scenic river presence by county.",
+    "sourceName": "Harpeth Conservancy copy of Scenic Rivers line layer",
+    "sourceUrl": "C:\\Users\\rwjac\\Desktop\\Codex\\PolicyWatch\\data\\external\\harpeth_conservancy\\scenic_rivers\\Scenic_Rivers_line.shp",
+    "refreshFrequency": "As designated",
+    "lastUpdated": "2026-06-25",
+    "notes": "Scenic river lines are intersected with counties to estimate scenic river miles by county."
+  },
+  {
+    "dataset": "Public water system service areas",
+    "purpose": "Show how many public water service areas intersect each county.",
+    "sourceName": "Harpeth Conservancy copy of Tennessee public water system service areas",
+    "sourceUrl": "C:\\Users\\rwjac\\Desktop\\Codex\\PolicyWatch\\data\\external\\harpeth_conservancy\\water_service_areas\\TN_Public_Water_System_Service_Area_Boundaries.shp",
+    "refreshFrequency": "Periodic",
+    "lastUpdated": "2026-06-25",
+    "notes": "Polygon intersections are used to count overlapping service areas and identify the largest named systems by county."
+  }
+]

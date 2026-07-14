@@ -1,0 +1,419 @@
+{
+  "slug": "haywood",
+  "name": "Haywood",
+  "region": "West Tennessee",
+  "population": 17475,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "Lower Hatchie",
+    "South Fork Forked Deer"
+  ],
+  "legislativeDistricts": [
+    "House 81",
+    "House 80",
+    "Senate 26"
+  ],
+  "congressionalDistricts": [
+    "TN-08"
+  ],
+  "streamMiles": {
+    "impaired": 418.2,
+    "fullAttainment": 47.5,
+    "notAssessed": 345.2,
+    "otherAssessed": 0.0,
+    "total": 810.8
+  },
+  "rankings": {
+    "population": {
+      "rank": 74,
+      "total": 95,
+      "tieCount": 1,
+      "display": "74th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 9,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 9th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 27,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 27th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 8,
+      "total": 95,
+      "tieCount": 1,
+      "display": "8th of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 71,
+      "total": 95,
+      "tieCount": 1,
+      "display": "71st of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 31,
+      "total": 95,
+      "tieCount": 1,
+      "display": "31st of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 65,
+      "total": 95,
+      "tieCount": 1,
+      "display": "65th of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 33,
+      "total": 95,
+      "tieCount": 1,
+      "display": "33rd of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 3,
+      "total": 95,
+      "tieCount": 1,
+      "display": "3rd of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 58,
+      "total": 95,
+      "tieCount": 9,
+      "display": "tied 58th of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 6,
+      "total": 95,
+      "tieCount": 90,
+      "display": "tied 6th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 55,
+      "total": 95,
+      "tieCount": 41,
+      "display": "tied 55th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 47.5
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 345.2
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 223.0
+    },
+    {
+      "category": "Not Supporting (Evaluated)",
+      "label": "Not supporting (evaluated)",
+      "miles": 195.2
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 418.2 river miles in not supporting categories, 47.5 fully supporting miles, and 345.2 not assessed miles in Haywood County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 388.9,
+      "assessmentUnits": 31
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 226.6,
+      "assessmentUnits": 20
+    },
+    {
+      "cause": "sediment",
+      "label": "Sediment / siltation",
+      "miles": 164.4,
+      "assessmentUnits": 13
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 76.4,
+      "assessmentUnits": 7
+    },
+    {
+      "cause": "nutrients",
+      "label": "Nutrients",
+      "miles": 41.6,
+      "assessmentUnits": 4
+    },
+    {
+      "cause": "oxygen_depletion",
+      "label": "Oxygen depletion",
+      "miles": 16.3,
+      "assessmentUnits": 1
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Mud Creek",
+      "status": "Not Supporting (Evaluated)",
+      "causes": [
+        "Impaired biological community"
+      ]
+    },
+    {
+      "waterbody": "Meridian Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Pond Creek",
+      "status": "Not Supporting (Evaluated)",
+      "causes": [
+        "Impaired biological community"
+      ]
+    },
+    {
+      "waterbody": "Jacobs Creek",
+      "status": "Not Supporting (Evaluated)",
+      "causes": [
+        "Impaired biological community"
+      ]
+    },
+    {
+      "waterbody": "Unnamed Trib to South Fork Forked Deer River",
+      "status": "Not Supporting (Evaluated)",
+      "causes": [
+        "Impaired biological community"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Hatchie River",
+    "Misc tribs to South Fork Forked Deer River",
+    "Misc. Tribs to Nixon Creek",
+    "Misc Tribs to Lagoon Creek",
+    "Mud Creek"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 5 of 6 census tracts in Haywood County are flagged as disadvantaged (83.3%). 0 tracts carry the water and wastewater stress flag, and 0 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 0,
+      "tractCount": 6,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 6,
+        "total": 95,
+        "tieCount": 90,
+        "display": "tied 6th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 0,
+      "tractCount": 6,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 55,
+        "total": 95,
+        "tieCount": 41,
+        "display": "tied 55th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Haywood County is represented as a West Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Lower Hatchie, South Fork Forked Deer and overlaps 3 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Haywood County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside HAYWOOD COUNTY U.D.; BROWNSVILLE WATER DEPT for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "17,475",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 74,
+        "total": 95,
+        "tieCount": 1,
+        "display": "74th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "21.5%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 9,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 9th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "83.3%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 27,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 27th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "418.2",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 8,
+        "total": 95,
+        "tieCount": 1,
+        "display": "8th of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "58",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 65,
+        "total": 95,
+        "tieCount": 1,
+        "display": "65th of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "199",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 33,
+        "total": 95,
+        "tieCount": 1,
+        "display": "33rd of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "60.0",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 3,
+        "total": 95,
+        "tieCount": 1,
+        "display": "3rd of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 58,
+    "riverStations": 55
+  },
+  "permittingSummary": {
+    "activePermits": 199,
+    "uniquePermittees": 26,
+    "permittedFlow": 18.338
+  },
+  "scenicRiverSummary": {
+    "miles": 60.0,
+    "segments": 1,
+    "names": [
+      "Hatchie Scenic River"
+    ]
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 8,
+    "names": [
+      "HAYWOOD COUNTY U.D.",
+      "BROWNSVILLE WATER DEPT",
+      "HALLS WATER SYSTEM",
+      "COUNTY WIDE UTILITY DISTRICT"
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "slug": "knox",
+  "name": "Knox",
+  "region": "East Tennessee",
+  "population": 494148,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "Watts Bar Lake",
+    "Lower Clinch",
+    "Holston",
+    "Lower French Broad"
+  ],
+  "legislativeDistricts": [
+    "House 19",
+    "House 89",
+    "House 18",
+    "House 16",
+    "House 14",
+    "House 15",
+    "House 90",
+    "Senate 6",
+    "Senate 7",
+    "Senate 5"
+  ],
+  "congressionalDistricts": [
+    "TN-02"
+  ],
+  "streamMiles": {
+    "impaired": 361.1,
+    "fullAttainment": 70.9,
+    "notAssessed": 248.7,
+    "otherAssessed": 0.0,
+    "total": 680.8
+  },
+  "rankings": {
+    "population": {
+      "rank": 3,
+      "total": 95,
+      "tieCount": 1,
+      "display": "3rd of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 75,
+      "total": 95,
+      "tieCount": 1,
+      "display": "75th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 83,
+      "total": 95,
+      "tieCount": 1,
+      "display": "83rd of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 14,
+      "total": 95,
+      "tieCount": 1,
+      "display": "14th of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 63,
+      "total": 95,
+      "tieCount": 1,
+      "display": "63rd of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 47,
+      "total": 95,
+      "tieCount": 1,
+      "display": "47th of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 8,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 8th of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 3,
+      "total": 95,
+      "tieCount": 2,
+      "display": "tied 3rd of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 9,
+      "total": 95,
+      "tieCount": 1,
+      "display": "9th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 11,
+      "total": 95,
+      "tieCount": 9,
+      "display": "tied 11th of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 5,
+      "total": 95,
+      "tieCount": 1,
+      "display": "5th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 54,
+      "total": 95,
+      "tieCount": 1,
+      "display": "54th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 70.9
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 248.7
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 359.1
+    },
+    {
+      "category": "Not Supporting (Evaluated)",
+      "label": "Not supporting (evaluated)",
+      "miles": 2.1
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 361.1 river miles in not supporting categories, 70.9 fully supporting miles, and 248.7 not assessed miles in Knox County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 346.6,
+      "assessmentUnits": 38
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 230.6,
+      "assessmentUnits": 29
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 227.7,
+      "assessmentUnits": 26
+    },
+    {
+      "cause": "sediment",
+      "label": "Sediment / siltation",
+      "miles": 218.3,
+      "assessmentUnits": 25
+    },
+    {
+      "cause": "nutrients",
+      "label": "Nutrients",
+      "miles": 60.1,
+      "assessmentUnits": 9
+    },
+    {
+      "cause": "metals_other_than_mercury",
+      "label": "Metals other than mercury",
+      "miles": 5.2,
+      "assessmentUnits": 2
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Beaver Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Little Flat Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Roseberry Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Third Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community"
+      ]
+    },
+    {
+      "waterbody": "Swanpond Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Beaver Creek",
+    "Misc tribs to Beaver Creek",
+    "Little Flat Creek",
+    "Misc Tribs to Holston River",
+    "Holston River"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 28 of 112 census tracts in Knox County are flagged as disadvantaged (25.0%). 1 tract carry the water and wastewater stress flag, and 3 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 1,
+      "tractCount": 112,
+      "percent": 0.9,
+      "stateRank": {
+        "rank": 5,
+        "total": 95,
+        "tieCount": 1,
+        "display": "5th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 3,
+      "tractCount": 112,
+      "percent": 2.7,
+      "stateRank": {
+        "rank": 54,
+        "total": 95,
+        "tieCount": 1,
+        "display": "54th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Knox County is represented as a East Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Watts Bar Lake, Lower Clinch, Holston and overlaps 10 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Knox County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside KNOXVILLE UTILITIES BOARD-KUB; HALLSDALE-POWELL U.D. for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "494,148",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 3,
+        "total": 95,
+        "tieCount": 1,
+        "display": "3rd of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "12.2%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 75,
+        "total": 95,
+        "tieCount": 1,
+        "display": "75th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "25.0%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 83,
+        "total": 95,
+        "tieCount": 1,
+        "display": "83rd of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "361.1",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 14,
+        "total": 95,
+        "tieCount": 1,
+        "display": "14th of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "167",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 8,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 8th of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "1610",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 3,
+        "total": 95,
+        "tieCount": 2,
+        "display": "tied 3rd of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "17.1",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 9,
+        "total": 95,
+        "tieCount": 1,
+        "display": "9th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 167,
+    "riverStations": 153
+  },
+  "permittingSummary": {
+    "activePermits": 1610,
+    "uniquePermittees": 536,
+    "permittedFlow": 267.788
+  },
+  "scenicRiverSummary": {
+    "miles": 17.1,
+    "segments": 2,
+    "names": [
+      "Clinch Scenic River",
+      "Tuckahoe Creek Scenic River"
+    ]
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 13,
+    "names": [
+      "KNOXVILLE UTILITIES BOARD-KUB",
+      "HALLSDALE-POWELL U.D.",
+      "FIRST UTIL DIST OF KNOX COUNTY",
+      "NORTHEAST KNOX U.D."
+    ]
+  }
+}

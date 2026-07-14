@@ -1,0 +1,427 @@
+{
+  "slug": "bledsoe",
+  "name": "Bledsoe",
+  "region": "East Tennessee",
+  "population": 15032,
+  "buildDate": "2026-06-25",
+  "prototypeStatus": {
+    "label": "Statewide county summary",
+    "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
+    "availableFeatures": [
+      "County overview",
+      "Indicator cards with definitions and caveats",
+      "Statewide rank comparisons",
+      "Water and climate stress rollups",
+      "2026 impairment summary",
+      "Justice40 screening summary",
+      "Monitoring, permits, and scenic river context"
+    ]
+  },
+  "isFeatured": false,
+  "watersheds": [
+    "Sequatchie",
+    "Caney",
+    "Middle Tennessee-Chickamauga",
+    "Watts Bar Lake"
+  ],
+  "legislativeDistricts": [
+    "House 31",
+    "Senate 10"
+  ],
+  "congressionalDistricts": [
+    "TN-04"
+  ],
+  "streamMiles": {
+    "impaired": 183.3,
+    "fullAttainment": 227.0,
+    "notAssessed": 216.9,
+    "otherAssessed": 0.0,
+    "total": 627.2
+  },
+  "rankings": {
+    "population": {
+      "rank": 78,
+      "total": 95,
+      "tieCount": 1,
+      "display": "78th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county population, high to low."
+    },
+    "povertyRate": {
+      "rank": 14,
+      "total": 95,
+      "tieCount": 1,
+      "display": "14th of 95 Tennessee counties",
+      "basis": "Ranked by ACS county poverty rate, high to low."
+    },
+    "disadvantagedTractShare": {
+      "rank": 1,
+      "total": 95,
+      "tieCount": 24,
+      "display": "tied 1st of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+    },
+    "impairedRiverMiles": {
+      "rank": 45,
+      "total": 95,
+      "tieCount": 1,
+      "display": "45th of 95 Tennessee counties",
+      "basis": "Ranked by impaired river miles, high to low."
+    },
+    "fullAttainmentRiverMiles": {
+      "rank": 9,
+      "total": 95,
+      "tieCount": 1,
+      "display": "9th of 95 Tennessee counties",
+      "basis": "Ranked by full-attainment river miles, high to low."
+    },
+    "notAssessedRiverMiles": {
+      "rank": 62,
+      "total": 95,
+      "tieCount": 1,
+      "display": "62nd of 95 Tennessee counties",
+      "basis": "Ranked by not-assessed river miles, high to low."
+    },
+    "otherAssessedRiverMiles": {
+      "rank": 2,
+      "total": 95,
+      "tieCount": 94,
+      "display": "tied 2nd of 95 Tennessee counties",
+      "basis": "Ranked by other assessed river miles, high to low."
+    },
+    "monitoringStations": {
+      "rank": 33,
+      "total": 95,
+      "tieCount": 3,
+      "display": "tied 33rd of 95 Tennessee counties",
+      "basis": "Ranked by distinct monitoring stations, high to low."
+    },
+    "activePermits": {
+      "rank": 68,
+      "total": 95,
+      "tieCount": 1,
+      "display": "68th of 95 Tennessee counties",
+      "basis": "Ranked by active permitted water features, high to low."
+    },
+    "scenicRiverMiles": {
+      "rank": 24,
+      "total": 95,
+      "tieCount": 1,
+      "display": "24th of 95 Tennessee counties",
+      "basis": "Ranked by designated scenic river miles, high to low."
+    },
+    "waterServiceAreas": {
+      "rank": 75,
+      "total": 95,
+      "tieCount": 6,
+      "display": "tied 75th of 95 Tennessee counties",
+      "basis": "Ranked by overlapping public water service areas, high to low."
+    },
+    "waterStressTractShare": {
+      "rank": 6,
+      "total": 95,
+      "tieCount": 90,
+      "display": "tied 6th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+    },
+    "climateStressTractShare": {
+      "rank": 55,
+      "total": 95,
+      "tieCount": 41,
+      "display": "tied 55th of 95 Tennessee counties",
+      "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+    }
+  },
+  "attainmentCategories": [
+    {
+      "category": "Fully Supporting",
+      "label": "Fully supporting",
+      "miles": 220.1
+    },
+    {
+      "category": "Fully Supporting (Evaluated)",
+      "label": "Fully supporting (evaluated)",
+      "miles": 6.9
+    },
+    {
+      "category": "Not Assessed",
+      "label": "Not assessed",
+      "miles": 216.9
+    },
+    {
+      "category": "Not Supporting",
+      "label": "Not supporting",
+      "miles": 183.3
+    }
+  ],
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 183.3 river miles in not supporting categories, 227.0 fully supporting miles, and 216.9 not assessed miles in Bledsoe County.",
+  "impairmentCauses": [
+    {
+      "cause": "impaired_biota",
+      "label": "Impaired biological community",
+      "miles": 174.2,
+      "assessmentUnits": 27
+    },
+    {
+      "cause": "pathogens",
+      "label": "Pathogens / bacteria",
+      "miles": 124.7,
+      "assessmentUnits": 19
+    },
+    {
+      "cause": "habitat_alterations",
+      "label": "Habitat alteration",
+      "miles": 66.4,
+      "assessmentUnits": 12
+    },
+    {
+      "cause": "sediment",
+      "label": "Sediment / siltation",
+      "miles": 43.9,
+      "assessmentUnits": 7
+    },
+    {
+      "cause": "nutrients",
+      "label": "Nutrients",
+      "miles": 42.1,
+      "assessmentUnits": 4
+    },
+    {
+      "cause": "flow_alterations",
+      "label": "Flow / hydrologic alteration",
+      "miles": 7.3,
+      "assessmentUnits": 1
+    }
+  ],
+  "sampleImpairments": [
+    {
+      "waterbody": "Sequatchie River",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Nutrients"
+      ]
+    },
+    {
+      "waterbody": "Hall Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Cannon Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    },
+    {
+      "waterbody": "Flatwood Branch",
+      "status": "Not Supporting",
+      "causes": [
+        "Habitat alteration",
+        "Impaired biological community",
+        "Nutrients",
+        "Pathogens / bacteria",
+        "Sediment / siltation"
+      ]
+    },
+    {
+      "waterbody": "Skillern Creek",
+      "status": "Not Supporting",
+      "causes": [
+        "Impaired biological community",
+        "Pathogens / bacteria"
+      ]
+    }
+  ],
+  "sampleWaterbodies": [
+    "Sequatchie River",
+    "Misc Tribs to Sequatchie River",
+    "Glade Creek",
+    "Unnamed Trib to Sequatchie River",
+    "Hall Creek"
+  ],
+  "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 3 of 3 census tracts in Bledsoe County are flagged as disadvantaged (100.0%). 0 tracts carry the water and wastewater stress flag, and 0 tracts carry the climate stress flag.",
+  "stressSummary": {
+    "sourceDataset": "Justice40 / CEJST local snapshot",
+    "updatedAt": "2026-06-25",
+    "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
+    "water": {
+      "label": "Water stressed tracts",
+      "tracts": 0,
+      "tractCount": 3,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 6,
+        "total": 95,
+        "tieCount": 90,
+        "display": "tied 6th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST water and wastewater flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST water and wastewater category in the local snapshot."
+    },
+    "climate": {
+      "label": "Climate stressed tracts",
+      "tracts": 0,
+      "tractCount": 3,
+      "percent": 0.0,
+      "stateRank": {
+        "rank": 55,
+        "total": 95,
+        "tieCount": 41,
+        "display": "tied 55th of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts carrying the CEJST climate flag, high to low."
+      },
+      "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
+    }
+  },
+  "overview": "Bledsoe County is represented as a East Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Sequatchie, Caney, Middle Tennessee-Chickamauga and overlaps 2 state legislative district labels plus 1 congressional district labels.",
+  "getInvolved": [
+    "Review county and municipal agendas in Bledsoe County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
+    "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",
+    "Check local monitoring and permit context alongside PIKEVILLE WATER SYSTEM; FALL CREEK FALLS U.D. for community-specific follow-up."
+  ],
+  "indicators": [
+    {
+      "key": "acs-pop",
+      "label": "Population",
+      "value": "15,032",
+      "definition": "ACS 5-year total county population.",
+      "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 78,
+        "total": 95,
+        "tieCount": 1,
+        "display": "78th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county population, high to low."
+      }
+    },
+    {
+      "key": "acs-poverty",
+      "label": "Poverty rate",
+      "value": "20.7%",
+      "definition": "Share of people below the poverty level based on ACS table B17001.",
+      "caveat": "County-wide rates can hide tract-level variation.",
+      "sourceDataset": "ACS indicators",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 14,
+        "total": 95,
+        "tieCount": 1,
+        "display": "14th of 95 Tennessee counties",
+        "basis": "Ranked by ACS county poverty rate, high to low."
+      }
+    },
+    {
+      "key": "j40-disadvantaged",
+      "label": "Disadvantaged tracts",
+      "value": "100.0%",
+      "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
+      "caveat": "Justice40 is a screening context, not a final judgment about community need.",
+      "sourceDataset": "Justice40 / CEJST local snapshot",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 1,
+        "total": 95,
+        "tieCount": 24,
+        "display": "tied 1st of 95 Tennessee counties",
+        "basis": "Ranked by share of county tracts flagged as disadvantaged, high to low."
+      }
+    },
+    {
+      "key": "impaired-river-miles",
+      "label": "Impaired river miles",
+      "value": "183.3",
+      "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
+      "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
+      "sourceDataset": "2026 303(d) impairment layer",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 45,
+        "total": 95,
+        "tieCount": 1,
+        "display": "45th of 95 Tennessee counties",
+        "basis": "Ranked by impaired river miles, high to low."
+      }
+    },
+    {
+      "key": "monitoring-stations",
+      "label": "Monitoring stations",
+      "value": "92",
+      "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
+      "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
+      "sourceDataset": "DWR monitoring stations",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 33,
+        "total": 95,
+        "tieCount": 3,
+        "display": "tied 33rd of 95 Tennessee counties",
+        "basis": "Ranked by distinct monitoring stations, high to low."
+      }
+    },
+    {
+      "key": "active-permits",
+      "label": "Active water permits",
+      "value": "73",
+      "definition": "Count of active permitted features associated with the county in the local permit layer.",
+      "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
+      "sourceDataset": "Active permitted features",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 68,
+        "total": 95,
+        "tieCount": 1,
+        "display": "68th of 95 Tennessee counties",
+        "basis": "Ranked by active permitted water features, high to low."
+      }
+    },
+    {
+      "key": "scenic-river-miles",
+      "label": "Scenic river miles",
+      "value": "1.1",
+      "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
+      "caveat": "This captures designated segments only, not broader watershed influence.",
+      "sourceDataset": "Tennessee scenic rivers",
+      "updatedAt": "2026-06-25",
+      "stateRank": {
+        "rank": 24,
+        "total": 95,
+        "tieCount": 1,
+        "display": "24th of 95 Tennessee counties",
+        "basis": "Ranked by designated scenic river miles, high to low."
+      }
+    }
+  ],
+  "monitoringSummary": {
+    "stations": 92,
+    "riverStations": 92
+  },
+  "permittingSummary": {
+    "activePermits": 73,
+    "uniquePermittees": 30,
+    "permittedFlow": 3.355
+  },
+  "scenicRiverSummary": {
+    "miles": 1.1,
+    "segments": 1,
+    "names": [
+      "Soak Creek Scenic River"
+    ]
+  },
+  "waterServiceSummary": {
+    "serviceAreas": 6,
+    "names": [
+      "PIKEVILLE WATER SYSTEM",
+      "FALL CREEK FALLS U.D.",
+      "DAYTON WATER DEPT",
+      "NORTH WEST UTILITY DISTRICT"
+    ]
+  }
+}
