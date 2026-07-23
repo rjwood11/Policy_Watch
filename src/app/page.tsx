@@ -115,46 +115,44 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="grid items-start gap-4 lg:grid-cols-[20rem_minmax(0,1fr)]">
-        <div className="order-1 min-w-0 lg:order-2">
-          <TennesseeMap counties={counties} countyDetails={countyDetails} />
+      <section>
+        <TennesseeMap counties={counties} countyDetails={countyDetails} />
+      </section>
+
+      <section className="grid gap-4 lg:grid-cols-2">
+        <div className="card p-4">
+          <p className="text-xs font-semibold uppercase tracking-normal text-river">Snapshot</p>
+          <h2 className="mt-1 text-lg font-semibold">Highest impaired-mile counties</h2>
+          <ol className="mt-4 space-y-3 text-sm">
+            {highestImpairmentCounties.map((county, index) => (
+              <li key={county.slug} className="flex items-center justify-between gap-4">
+                <Link href={`/counties/${county.slug}`} className="font-medium text-ink no-underline">
+                  {index + 1}. {county.name}
+                </Link>
+                <span className="text-ink/65">{county.streamMiles.impaired.toFixed(1)} mi</span>
+              </li>
+            ))}
+          </ol>
         </div>
 
-        <aside className="order-2 space-y-4 lg:order-1">
-          <div className="card p-4">
-            <p className="text-xs font-semibold uppercase tracking-normal text-river">Snapshot</p>
-            <h2 className="mt-1 text-lg font-semibold">Highest impaired-mile counties</h2>
-            <ol className="mt-4 space-y-3 text-sm">
-              {highestImpairmentCounties.map((county, index) => (
-                <li key={county.slug} className="flex items-center justify-between gap-4">
-                  <Link href={`/counties/${county.slug}`} className="font-medium text-ink no-underline">
-                    {index + 1}. {county.name}
-                  </Link>
-                  <span className="text-ink/65">{county.streamMiles.impaired.toFixed(1)} mi</span>
-                </li>
-              ))}
-            </ol>
-          </div>
-
-          <div className="card p-4">
-            <div className="flex items-center justify-between gap-4">
-              <div>
-                <p className="text-xs font-semibold uppercase tracking-normal text-river">
-                  Featured counties
-                </p>
-                <h2 className="mt-1 text-lg font-semibold">Fast county reads</h2>
-              </div>
-              <Link href="/counties" className="text-sm font-medium">
-                All counties
-              </Link>
+        <div className="card p-4">
+          <div className="flex items-center justify-between gap-4">
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-normal text-river">
+                Featured counties
+              </p>
+              <h2 className="mt-1 text-lg font-semibold">Fast county reads</h2>
             </div>
-            <div className="mt-3 space-y-2">
-              {featuredCountyDetails.map((county) => (
-                <CompactFeaturedCountyCard key={county.slug} county={county} />
-              ))}
-            </div>
+            <Link href="/counties" className="text-sm font-medium">
+              All counties
+            </Link>
           </div>
-        </aside>
+          <div className="mt-3 grid gap-2 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
+            {featuredCountyDetails.map((county) => (
+              <CompactFeaturedCountyCard key={county.slug} county={county} />
+            ))}
+          </div>
+        </div>
       </section>
 
       <section className="card p-4">
