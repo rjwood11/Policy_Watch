@@ -1899,6 +1899,43 @@ function CountyDetailMapView({
             </div>
           </div>
 
+          <div className="rounded-lg bg-ink p-5 text-white">
+            <p className="text-xs uppercase tracking-normal text-white/70">Legend</p>
+            <ul className="mt-4 space-y-3 text-sm">
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#c6283e]" /> Polluted</span>
+                <span>{epaStats.polluted}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#2e7d4f]" /> Good</span>
+                <span>{epaStats.good}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#7554a1]" /> Unassessed</span>
+                <span>{epaStats.unassessed}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-river ring-2 ring-white" /> Active permit</span>
+                <span>{permitStats.active}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-sunlight ring-2 ring-white" /> Pending permit</span>
+                <span>{permitStats.pending}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#df5b2f] ring-2 ring-white" /> Current ECHO violation</span>
+                <span>{echoStats.current}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#6b4bb1] ring-2 ring-white" /> Recent ECHO violation</span>
+                <span>{echoStats.recent}</span>
+              </li>
+              <li className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm bg-moss/70" /> HUC8 watershed area</li>
+              <li className="flex items-center gap-3"><span className="h-0 w-7 border-t-2 border-dashed border-[#547a76]" /> Congressional boundary</li>
+              <li className="flex items-center gap-3"><span className="h-0 w-7 border-t-2 border-dashed border-gold" /> State legislative boundary</li>
+            </ul>
+          </div>
+
           {echoViolationRecords.length > 0 ? (
             <div className="rounded-lg border border-ink/10 bg-white/90 p-5">
               <p className="text-xs uppercase tracking-normal text-river">ECHO permit violations</p>
@@ -1938,43 +1975,6 @@ function CountyDetailMapView({
             <p>{epaStatusLabel}</p>
             <p className="mt-2">{permitStatusLabel}</p>
             <p className="mt-2">{echoStatusLabel}</p>
-          </div>
-
-          <div className="rounded-lg bg-ink p-5 text-white">
-            <p className="text-xs uppercase tracking-normal text-white/70">Legend</p>
-            <ul className="mt-4 space-y-3 text-sm">
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#c6283e]" /> Polluted</span>
-                <span>{epaStats.polluted}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#2e7d4f]" /> Good</span>
-                <span>{epaStats.good}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#7554a1]" /> Unassessed</span>
-                <span>{epaStats.unassessed}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-river ring-2 ring-white" /> Active permit</span>
-                <span>{permitStats.active}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-sunlight ring-2 ring-white" /> Pending permit</span>
-                <span>{permitStats.pending}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#df5b2f] ring-2 ring-white" /> Current ECHO violation</span>
-                <span>{echoStats.current}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#6b4bb1] ring-2 ring-white" /> Recent ECHO violation</span>
-                <span>{echoStats.recent}</span>
-              </li>
-              <li className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm bg-moss/70" /> HUC8 watershed area</li>
-              <li className="flex items-center gap-3"><span className="h-0 w-7 border-t-2 border-dashed border-[#547a76]" /> Congressional boundary</li>
-              <li className="flex items-center gap-3"><span className="h-0 w-7 border-t-2 border-dashed border-gold" /> State legislative boundary</li>
-            </ul>
           </div>
         </aside>
       </div>
