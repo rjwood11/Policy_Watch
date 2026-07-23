@@ -10,10 +10,6 @@ export const metadata: Metadata = {
     "County-level Tennessee water quality, permitting, monitoring, and policy context from Harpeth Conservancy."
 };
 
-const numberFormatter = new Intl.NumberFormat("en-US", {
-  maximumFractionDigits: 0
-});
-
 const primarySourceOrder = [
   "Tennessee counties",
   "HUC8 watersheds",
@@ -25,10 +21,6 @@ const primarySourceOrder = [
   "EPA ECHO CWA permit compliance"
 ];
 
-function formatNumber(value: number) {
-  return numberFormatter.format(Math.round(value));
-}
-
 function getLatestRefresh(lastUpdated: Record<string, string>) {
   const dates = Object.values(lastUpdated).sort();
   return dates[dates.length - 1] ?? "n/a";
@@ -39,24 +31,6 @@ function getPrimarySources(sources: DataSourceRecord[]) {
   return primarySourceOrder
     .map((dataset) => byDataset.get(dataset))
     .filter((source): source is DataSourceRecord => Boolean(source));
-}
-
-function MetricCard({
-  label,
-  value,
-  detail
-}: {
-  label: string;
-  value: string;
-  detail: string;
-}) {
-  return (
-    <article className="rounded-lg border border-white/15 bg-white/10 p-3">
-      <p className="text-xs font-semibold uppercase tracking-normal text-sunlight">{label}</p>
-      <p className="mt-1 text-2xl font-semibold text-white">{value}</p>
-      <p className="mt-1 text-sm leading-5 text-white/70">{detail}</p>
-    </article>
-  );
 }
 
 function SourceTile({ source }: { source: DataSourceRecord }) {
@@ -122,79 +96,22 @@ export default function HomePage() {
   const sources = getDataSources();
   const lastUpdated = getLastUpdated();
   const latestRefresh = getLatestRefresh(lastUpdated);
-  const statewideCount = counties.filter((county) => county.hasPage).length;
   const featuredCountyDetails = countyDetails.filter((county) => county.isFeatured);
   const primarySources = getPrimarySources(sources);
-  const totalImpairedMiles = countyDetails.reduce(
-    (total, county) => total + county.streamMiles.impaired,
-    0
-  );
-  const totalActivePermits = countyDetails.reduce(
-    (total, county) => total + county.permittingSummary.activePermits,
-    0
-  );
-  const totalMonitoringStations = countyDetails.reduce(
-    (total, county) => total + county.monitoringSummary.stations,
-    0
-  );
   const highestImpairmentCounties = [...countyDetails]
     .sort((a, b) => b.streamMiles.impaired - a.streamMiles.impaired)
     .slice(0, 5);
 
   return (
     <div className="shell space-y-6 py-6">
-      <section className="card border-river/30 bg-ink p-6 text-white md:p-8">
-        <h1 className="max-w-5xl text-4xl font-bold leading-tight tracking-normal text-white sm:text-5xl lg:text-6xl">
+      <section className="card border-river/30 bg-white p-7 md:p-9">
+        <h1 className="max-w-5xl text-4xl font-bold leading-tight tracking-normal text-black sm:text-5xl lg:text-6xl">
           Harpeth Conservancy&apos;s Water Policy Watch
         </h1>
-        <p className="mt-4 max-w-3xl text-base leading-7 text-white/75">
-          County-level water quality, permitting, monitoring, and policy context from public
-          Tennessee and federal datasets.
-        </p>
-        <div className="mt-6 flex flex-wrap gap-2 text-xs font-semibold uppercase tracking-normal">
-          <span className="rounded-md bg-river px-3 py-2 text-white">Updated {latestRefresh}</span>
-          <span className="rounded-md border border-white/15 bg-white/10 px-3 py-2 text-white/75">
-            {statewideCount} counties
+        <div className="mt-5">
+          <span className="inline-flex rounded-md bg-river px-4 py-2 text-sm font-semibold uppercase tracking-normal text-white">
+            Updated on {latestRefresh}
           </span>
-          <span className="rounded-md border border-white/15 bg-white/10 px-3 py-2 text-white/75">
-            {sources.length} source records
-          </span>
-        </div>
-        <div className="mt-5 flex flex-wrap gap-3 text-sm font-semibold">
-          <Link
-            href="/counties"
-            className="rounded-md bg-sunlight px-4 py-3 text-ink no-underline hover:bg-white"
-          >
-            Browse counties
-          </Link>
-          <Link
-            href="/sources"
-            className="rounded-md border border-white/20 bg-white/10 px-4 py-3 text-white no-underline hover:border-white/45 hover:bg-white/15"
-          >
-            Verify sources
-          </Link>
-        </div>
-        <div className="mt-5 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
-          <MetricCard
-            label="County coverage"
-            value={formatNumber(statewideCount)}
-            detail="County profiles generated from the same statewide data contracts."
-          />
-          <MetricCard
-            label="Impaired streams"
-            value={formatNumber(totalImpairedMiles)}
-            detail="County-summed 2026 impaired river and stream miles; shared waters may repeat."
-          />
-          <MetricCard
-            label="Water permits"
-            value={formatNumber(totalActivePermits)}
-            detail="Active permitted water features summarized from the local TDEC layer."
-          />
-          <MetricCard
-            label="Monitoring records"
-            value={formatNumber(totalMonitoringStations)}
-            detail="Water monitoring stations associated with county-level DWR map layers."
-          />
         </div>
       </section>
 
