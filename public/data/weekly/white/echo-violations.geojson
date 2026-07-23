@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BIG M GROCERY, HIGHWAY 70 MARKET",
+        "SourceID": "TNG830293",
+        "RegistryID": "110071884871",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.962257",
+        "FacLong": "-85.627765",
+        "PermitName": "Compliance Engineering Company of the South LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG830293",
+        "echo_display_name": "BIG M GROCERY, HIGHWAY 70 MARKET",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071884871",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.627765,
+          35.962257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SPARTA ELECTRIC AND PUBLIC WORKS DBA SPARTA WASTEWATER TREATMENT PLANT",
+        "SourceID": "TN0061166",
+        "RegistryID": "110009787285",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.9084",
+        "FacLong": "-85.475",
+        "PermitName": "City of Sparta",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVV_VVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "16",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0061166",
+        "echo_display_name": "SPARTA ELECTRIC AND PUBLIC WORKS DBA SPARTA WASTEWATER TREATMENT PLANT",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787285",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.475,
+          35.9084
+        ]
+      }
+    }
+  ]
+}

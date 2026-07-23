@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CENTERVILLE STP",
+        "SourceID": "TN0024937",
+        "RegistryID": "110006690483",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.8197",
+        "FacLong": "-87.6042",
+        "PermitName": "Town of Centerville",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___VV__V__V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "7",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024937",
+        "echo_display_name": "CENTERVILLE STP",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690483",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6042,
+          35.8197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CENTERVILLE WATER TREATMENT PLANT",
+        "SourceID": "TN0078387",
+        "RegistryID": "110017888133",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "35.754691",
+        "FacLong": "-87.422804",
+        "PermitName": "Town of Centerville",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0078387",
+        "echo_display_name": "CENTERVILLE WATER TREATMENT PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110017888133",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.422804,
+          35.754691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "EAST HICKMAN MIDDLE SCHOOL",
+        "SourceID": "TN0067130",
+        "RegistryID": "110033175301",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.779568",
+        "FacLong": "-87.463653",
+        "PermitName": "Hickman County Board of Education",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUV_VVS_VVVV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "22",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0067130",
+        "echo_display_name": "EAST HICKMAN MIDDLE SCHOOL",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110033175301",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.463653,
+          35.779568
+        ]
+      }
+    }
+  ]
+}

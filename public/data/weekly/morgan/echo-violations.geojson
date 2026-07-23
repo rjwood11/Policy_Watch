@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BRUSHY MOUNTAIN WATER TREATMENT PLANT (WTP)",
+        "SourceID": "TN0068632",
+        "RegistryID": "110038779337",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.1037076",
+        "FacLong": "-84.4501608",
+        "PermitName": "Brushy Mountain Water Treatment Plant (WTP)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "5",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "SVVSSSS______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "13",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0068632",
+        "echo_display_name": "BRUSHY MOUNTAIN WATER TREATMENT PLANT (WTP)",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110038779337",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4501608,
+          36.1037076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "COALFIELD SCHOOL",
+        "SourceID": "TN0023078",
+        "RegistryID": "110027713614",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.02685",
+        "FacLong": "-84.42237",
+        "PermitName": "Morgan County Schools",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V________VVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "59",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023078",
+        "echo_display_name": "COALFIELD SCHOOL",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110027713614",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42237,
+          36.02685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "OAKDALE SCHOOL",
+        "SourceID": "TN0023051",
+        "RegistryID": "110010948190",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.98203",
+        "FacLong": "-84.57887",
+        "PermitName": "Morgan County Schools",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___________VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023051",
+        "echo_display_name": "OAKDALE SCHOOL",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010948190",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57887,
+          35.98203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "OLIVER SPRINGS TIPPLE",
+        "SourceID": "TN0072231",
+        "RegistryID": "110009706906",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.0488",
+        "FacLong": "-84.34844",
+        "PermitName": "Clear Energy Corporation",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VSSSS________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0072231",
+        "echo_display_name": "OLIVER SPRINGS TIPPLE",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 8 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706906",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34844,
+          36.0488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WARTBURG STP",
+        "SourceID": "TN0028622",
+        "RegistryID": "110009705765",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.083965",
+        "FacLong": "-84.555494",
+        "PermitName": "Plateau Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVV_VVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "18",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0028622",
+        "echo_display_name": "WARTBURG STP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009705765",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.555494,
+          36.083965
+        ]
+      }
+    }
+  ]
+}

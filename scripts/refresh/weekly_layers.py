@@ -49,15 +49,33 @@ def read_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf8"))
 
 
-def write_json(path: Path, payload: Any) -> None:
+def write_json(path: Path, payload: Any) -> bool:
     path.parent.mkdir(parents=True, exist_ok=True)
+    output = json.dumps(payload, indent=2, sort_keys=False) + "\n"
+    if path.exists() and path.read_text(encoding="utf8") == output:
+        return False
+
     temporary = path.with_suffix(f"{path.suffix}.tmp")
-    temporary.write_text(json.dumps(payload, indent=2, sort_keys=False) + "\n", encoding="utf8")
+    temporary.write_text(output, encoding="utf8")
     temporary.replace(path)
+    return True
 
 
 def empty_collection() -> FeatureCollection:
     return {"type": "FeatureCollection", "features": []}
+
+
+def cached_feature_count(path: Path) -> int | None:
+    if not path.exists():
+        return None
+
+    try:
+        payload = read_json(path)
+    except (OSError, json.JSONDecodeError):
+        return None
+
+    features = payload.get("features") if isinstance(payload, dict) else None
+    return len(features) if isinstance(features, list) else None
 
 
 def request_json(
@@ -66,15 +84,21 @@ def request_json(
     *,
     params: dict[str, str],
     timeout: int = 120,
-    attempts: int = 3,
+    attempts: int = 5,
 ) -> Any:
     last_error: Exception | None = None
 
     for attempt in range(attempts):
         try:
             response = session.get(url, params=params, timeout=timeout)
-            if response.status_code == 429:
-                response.raise_for_status()
+            if response.status_code == 429 and attempt < attempts - 1:
+                retry_after = response.headers.get("Retry-After")
+                try:
+                    delay = int(retry_after) if retry_after else 8 * (attempt + 1)
+                except ValueError:
+                    delay = 8 * (attempt + 1)
+                time.sleep(delay)
+                continue
             if response.status_code in {500, 502, 503, 504} and attempt < attempts - 1:
                 time.sleep(2 * (attempt + 1))
                 continue
@@ -450,7 +474,7 @@ def load_counties(filters: list[str]) -> list[dict[str, Any]]:
     return selected
 
 
-def refresh_county(session: requests.Session, county: dict[str, Any]) -> dict[str, Any]:
+def refresh_county(session: requests.Session, county: dict[str, Any], sources: set[str]) -> dict[str, Any]:
     slug = str(county["slug"])
     name = str(county["name"])
     county_dir = WEEKLY_DIR / slug
@@ -461,26 +485,48 @@ def refresh_county(session: requests.Session, county: dict[str, Any]) -> dict[st
         "echo": {"status": "skipped", "features": 0},
     }
 
-    try:
-        permits = fetch_tdec_permits(session, name)
-        write_json(county_dir / "tdec-permits.geojson", permits)
-        result["tdec"] = {"status": "ok", "features": len(permits.get("features", []))}
-    except Exception as exc:  # noqa: BLE001 - keep weekly deploys best-effort by default.
-        result["tdec"] = {"status": "error", "features": 0, "message": str(exc)}
+    if "tdec" in sources:
+        try:
+            permits = fetch_tdec_permits(session, name)
+            changed = write_json(county_dir / "tdec-permits.geojson", permits)
+            result["tdec"] = {"status": "ok", "features": len(permits.get("features", [])), "changed": changed}
+        except Exception as exc:  # noqa: BLE001 - keep weekly deploys best-effort by default.
+            result["tdec"] = {"status": "error", "features": 0, "message": str(exc)}
 
-    try:
-        echo = fetch_echo_violations(session, name)
-        write_json(county_dir / "echo-violations.geojson", echo)
-        result["echo"] = {"status": "ok", "features": len(echo.get("features", []))}
-    except Exception as exc:  # noqa: BLE001 - keep weekly deploys best-effort by default.
-        result["echo"] = {"status": "error", "features": 0, "message": str(exc)}
+    if "echo" in sources:
+        echo_path = county_dir / "echo-violations.geojson"
+        try:
+            echo = fetch_echo_violations(session, name)
+            changed = write_json(echo_path, echo)
+            result["echo"] = {"status": "ok", "features": len(echo.get("features", [])), "changed": changed}
+        except Exception as exc:  # noqa: BLE001 - keep weekly deploys best-effort by default.
+            stale_features = cached_feature_count(echo_path)
+            if stale_features is None:
+                result["echo"] = {"status": "error", "features": 0, "message": str(exc)}
+            else:
+                result["echo"] = {
+                    "status": "stale",
+                    "features": stale_features,
+                    "message": f"Using existing committed ECHO cache because refresh failed: {exc}",
+                }
 
     return result
 
 
-def update_source_metadata(refresh_date: str, results: list[dict[str, Any]]) -> None:
-    tdec_ok = any(result["tdec"]["status"] == "ok" for result in results)
-    echo_ok = any(result["echo"]["status"] == "ok" for result in results)
+def update_source_metadata(
+    refresh_date: str,
+    results: list[dict[str, Any]],
+    *,
+    only_when_changed: bool = False,
+) -> None:
+    tdec_ok = any(
+        result["tdec"]["status"] == "ok" and (not only_when_changed or bool(result["tdec"].get("changed")))
+        for result in results
+    )
+    echo_ok = any(
+        result["echo"]["status"] == "ok" and (not only_when_changed or bool(result["echo"].get("changed")))
+        for result in results
+    )
 
     last_updated_path = METADATA_DIR / "last-updated.json"
     if last_updated_path.exists():
@@ -506,8 +552,8 @@ def update_source_metadata(refresh_date: str, results: list[dict[str, Any]]) -> 
                 source["refreshFrequency"] = "Weekly cache"
                 source["lastUpdated"] = refresh_date
                 source["notes"] = (
-                    "County maps use a static weekly cache generated from EPA ECHO CWA REST Services. "
-                    "Records include recent or current noncompliance signals and links to ECHO reports."
+                    "County maps load committed ECHO CWA violation cache files first. Weekly refreshes update "
+                    "those files when ECHO responds and leave the last good cache in place when the service is unavailable."
                 )
         write_json(sources_path, sources)
 
@@ -552,12 +598,25 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Exit non-zero if any county/source refresh fails.",
     )
+    parser.add_argument(
+        "--source",
+        action="append",
+        choices=["tdec", "echo"],
+        default=[],
+        help="Refresh only one cache source. Repeat for multiple sources. Defaults to both TDEC and ECHO.",
+    )
+    parser.add_argument(
+        "--metadata-if-changed",
+        action="store_true",
+        help="Only update source metadata dates when a selected cache file changed.",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
     counties = load_counties(args.county)
+    sources = set(args.source or ["tdec", "echo"])
     session = requests.Session()
     session.headers.update(
         {
@@ -578,7 +637,7 @@ def main() -> None:
         name = str(county["name"])
         slug = str(county["slug"])
         print(f"[{index}/{len(counties)}] Refreshing {name} County ({slug})")
-        result = refresh_county(session, county)
+        result = refresh_county(session, county, sources)
         results.append(result)
         print(
             "  TDEC: {tdec_status} ({tdec_count}); ECHO: {echo_status} ({echo_count})".format(
@@ -591,13 +650,13 @@ def main() -> None:
 
     write_manifest(args.date, results)
     if not args.county:
-        update_source_metadata(args.date, results)
+        update_source_metadata(args.date, results, only_when_changed=args.metadata_if_changed)
 
     failures = [
         f"{result['slug']}:{source}"
         for result in results
         for source in ["tdec", "echo"]
-        if result[source]["status"] != "ok"
+        if source in sources and result[source]["status"] not in {"ok", "stale"}
     ]
     if failures:
         print(f"Weekly refresh completed with {len(failures)} source failure(s): {', '.join(failures[:20])}")

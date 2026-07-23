@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "COWAN QUARRY",
+        "SourceID": "TN0070671",
+        "RegistryID": "110071143411",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.1599",
+        "FacLong": "-86.00615",
+        "PermitName": "SRM Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070671",
+        "echo_display_name": "COWAN QUARRY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071143411",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.00615,
+          35.1599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DECHERD WATER WORKS STP",
+        "SourceID": "TN0020508",
+        "RegistryID": "110009789087",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.20425",
+        "FacLong": "-86.079706",
+        "PermitName": "City of Decherd",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VV_VVVS__VVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "25",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020508",
+        "echo_display_name": "DECHERD WATER WORKS STP",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789087",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.079706,
+          35.20425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI TENNESSEE, LLC DBA IMI TN, LLC - WINCHESTER",
+        "SourceID": "TNG110065",
+        "RegistryID": "110006663510",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.18184",
+        "FacLong": "-86.11732",
+        "PermitName": "imi Tennessee, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______VSSSS__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110065",
+        "echo_display_name": "IMI TENNESSEE, LLC DBA IMI TN, LLC - WINCHESTER",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006663510",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11732,
+          35.18184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LHOIST NORTH AMERICA OF TENNESSEE, LLC - ANDERSON PLANT",
+        "SourceID": "TN0063151",
+        "RegistryID": "110006687585",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "34.99424",
+        "FacLong": "-85.90355",
+        "PermitName": "Lhoist North America of Tennessee, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___________VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0063151",
+        "echo_display_name": "LHOIST NORTH AMERICA OF TENNESSEE, LLC - ANDERSON PLANT",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006687585",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90355,
+          34.99424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "UNIVERSITY OF TENNESSEE SPACE INSTITUTE",
+        "SourceID": "TN0067202",
+        "RegistryID": "110064252348",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.316748",
+        "FacLong": "-86.100819",
+        "PermitName": "University of Tennessee Space Institute",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0067202",
+        "echo_display_name": "UNIVERSITY OF TENNESSEE SPACE INSTITUTE",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064252348",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.100819,
+          35.316748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WINCHESTER WWTP",
+        "SourceID": "TN0021857",
+        "RegistryID": "110006367671",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.20729",
+        "FacLong": "-86.15245",
+        "PermitName": "Winchester Utility System",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V_VVVV_V___V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "7",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0021857",
+        "echo_display_name": "WINCHESTER WWTP",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367671",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15245,
+          35.20729
+        ]
+      }
+    }
+  ]
+}

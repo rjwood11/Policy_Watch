@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BEAVER CREEK SHAFT",
+        "SourceID": "TN0061468",
+        "RegistryID": "110064295622",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.073611",
+        "FacLong": "-83.643889",
+        "PermitName": "Nyrstar Tennessee Mines - Strawberry Plains, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0061468",
+        "echo_display_name": "BEAVER CREEK SHAFT",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064295622",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643889,
+          36.073611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CITY OF JEFFERSON CITY, TENNESSEE - WASTEWATER TREATMENT PLANT",
+        "SourceID": "TN0021199",
+        "RegistryID": "110006367653",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.131202",
+        "FacLong": "-83.505998",
+        "PermitName": "Jefferson City",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V______VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0021199",
+        "echo_display_name": "CITY OF JEFFERSON CITY, TENNESSEE - WASTEWATER TREATMENT PLANT",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367653",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.505998,
+          36.131202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DANDRIDGE STP",
+        "SourceID": "TN0021245",
+        "RegistryID": "110009789005",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.018602",
+        "FacLong": "-83.40884",
+        "PermitName": "Town of Dandridge",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVV_VVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "44",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0021245",
+        "echo_display_name": "DANDRIDGE STP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789005",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40884,
+          36.018602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NEW MARKET MINE",
+        "SourceID": "TN0057029",
+        "RegistryID": "110009787944",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.075394",
+        "FacLong": "-83.561313",
+        "PermitName": "Mossy Creek Mining, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__V____V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0057029",
+        "echo_display_name": "NEW MARKET MINE",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787944",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.561313,
+          36.075394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NYRSTAR - COY MINE",
+        "SourceID": "TN0001732",
+        "RegistryID": "110000372604",
+        "CWPNAICSCodes": "212231",
+        "FacLat": "36.123145",
+        "FacLong": "-83.478507",
+        "PermitName": "Nyrstar Tennessee Mines - Strawberry Plains, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____VV__V___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "3",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0001732",
+        "echo_display_name": "NYRSTAR - COY MINE",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000372604",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.478507,
+          36.123145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "RUSH STRONG SCHOOL",
+        "SourceID": "TN0061476",
+        "RegistryID": "110010947654",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.063697",
+        "FacLong": "-83.680733",
+        "PermitName": "Jefferson County Board of Education",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUUU__SSSS___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "15",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0061476",
+        "echo_display_name": "RUSH STRONG SCHOOL",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010947654",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.680733,
+          36.063697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WHALEY MATERIALS, LLC DBA WHALEY MATERIALS JEFFERSON COUNTY",
+        "SourceID": "TN0070699",
+        "RegistryID": "110071179284",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.02213",
+        "FacLong": "-83.52152",
+        "PermitName": "Whaley Construction, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV________V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070699",
+        "echo_display_name": "WHALEY MATERIALS, LLC DBA WHALEY MATERIALS JEFFERSON COUNTY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071179284",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52152,
+          36.02213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WHITE PINE STP",
+        "SourceID": "TN0064971",
+        "RegistryID": "110006689654",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.10031",
+        "FacLong": "-83.26624",
+        "PermitName": "Town of White Pine",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVV__VV__VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "14",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064971",
+        "echo_display_name": "WHITE PINE STP",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006689654",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26624,
+          36.10031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "YOUNG MILL AND MINE",
+        "SourceID": "TN0027677",
+        "RegistryID": "110064602513",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.0803",
+        "FacLong": "-83.61765",
+        "PermitName": "Nyrstar Tennessee Mines-Strawberry Plains, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______VSS____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0027677",
+        "echo_display_name": "YOUNG MILL AND MINE",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064602513",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.61765,
+          36.0803
+        ]
+      }
+    }
+  ]
+}

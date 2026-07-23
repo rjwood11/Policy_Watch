@@ -1,0 +1,565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CH2M HILL SERVICES (FORT CAMPBELL)",
+        "SourceID": "TN0021296",
+        "RegistryID": "110063989625",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.610916",
+        "FacLong": "-87.46251",
+        "PermitName": "CH2M HILL Constructors, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V___V__V_V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "3",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0021296",
+        "echo_display_name": "CH2M HILL SERVICES (FORT CAMPBELL)",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110063989625",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.46251,
+          36.610916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CLARKSVILLE GAS AND WATER DBA CLARKSVILLE WASTEWATER TREATMENT PLANT",
+        "SourceID": "TN0020656",
+        "RegistryID": "110000726251",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.542737",
+        "FacLong": "-87.369507",
+        "PermitName": "City of Clarksville",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "55",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020656",
+        "echo_display_name": "CLARKSVILLE GAS AND WATER DBA CLARKSVILLE WASTEWATER TREATMENT PLANT",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000726251",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.369507,
+          36.542737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CLARKSVILLE MONTGOMERY COUNTY SCHOOL SYSTEM - WOODLAWN SCHOOL",
+        "SourceID": "TN0024651",
+        "RegistryID": "110027728305",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.538938",
+        "FacLong": "-87.491678",
+        "PermitName": "Clarksville Montgomery County School System",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUUU_____VVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "3",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024651",
+        "echo_display_name": "CLARKSVILLE MONTGOMERY COUNTY SCHOOL SYSTEM - WOODLAWN SCHOOL",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110027728305",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.491678,
+          36.538938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CLARKSVILLE MONTGOMERY COUNTY SCHOOL SYSTEM DBA MONTGOMERY CENTRAL",
+        "SourceID": "TN0024643",
+        "RegistryID": "110006690599",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.398662",
+        "FacLong": "-87.373621",
+        "PermitName": "Clarksville Montgomery County School System",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUUU_____VS__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "7",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024643",
+        "echo_display_name": "CLARKSVILLE MONTGOMERY COUNTY SCHOOL SYSTEM DBA MONTGOMERY CENTRAL",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690599",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.373621,
+          36.398662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CLARKSVILLE QUARRY",
+        "SourceID": "TN0026476",
+        "RegistryID": "110007189390",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.545881",
+        "FacLong": "-87.362508",
+        "PermitName": "Vulcan Construction Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__V__________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0026476",
+        "echo_display_name": "CLARKSVILLE QUARRY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 10 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110007189390",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.362508,
+          36.545881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CLARKSVILLE QUARRY",
+        "SourceID": "TN0066583",
+        "RegistryID": "110009786570",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.53709",
+        "FacLong": "-87.40029",
+        "PermitName": "Winn Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__VV______VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0066583",
+        "echo_display_name": "CLARKSVILLE QUARRY",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786570",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.40029,
+          36.53709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CRUCIBLE METALS, LLC",
+        "SourceID": "TN0029157",
+        "RegistryID": "110056972227",
+        "CWPNAICSCodes": "212231",
+        "FacLat": "36.518385",
+        "FacLong": "-87.402918",
+        "PermitName": "Crucible Zinc, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___VV___V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0029157",
+        "echo_display_name": "CRUCIBLE METALS, LLC",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110056972227",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.402918,
+          36.518385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ERIN WATER WORKS WTP",
+        "SourceID": "TN0074675",
+        "RegistryID": "110010148358",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.42132",
+        "FacLong": "-87.57613",
+        "PermitName": "City of Erin",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____V____V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0074675",
+        "echo_display_name": "ERIN WATER WORKS WTP",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010148358",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57613,
+          36.42132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "FIRST STUDENT PLYMOUTH MEETING FAC #11621",
+        "SourceID": "PAG030207",
+        "RegistryID": "110041899960",
+        "CWPNAICSCodes": null,
+        "FacLat": "40.1102",
+        "FacLong": "-75.31015",
+        "PermitName": "FIRST STUDENT INC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "6",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____SSSSSS__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "PAG030207",
+        "echo_display_name": "FIRST STUDENT PLYMOUTH MEETING FAC #11621",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110041899960",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31015,
+          40.1102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI TENNESSEE, LLC",
+        "SourceID": "TNG110481",
+        "RegistryID": "110070115617",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.578274",
+        "FacLong": "-87.259798",
+        "PermitName": "imi TN, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____V__VS_V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "6",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110481",
+        "echo_display_name": "IMI TENNESSEE, LLC",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070115617",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.259798,
+          36.578274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI TN INC. CLARKSVILLE QUARRY",
+        "SourceID": "TNG110074",
+        "RegistryID": "110064252874",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.54248",
+        "FacLong": "-87.36974",
+        "PermitName": "imi Tennessee, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____V____V___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110074",
+        "echo_display_name": "IMI TN INC. CLARKSVILLE QUARRY",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064252874",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.36974,
+          36.54248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "OAK PLAINS ACADEMY OF TENNESSEE INC.",
+        "SourceID": "TN0056081",
+        "RegistryID": "110009787908",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.41977",
+        "FacLong": "-87.1888",
+        "PermitName": "Oak Plains Academy of Tennessee, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUUU_______VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0056081",
+        "echo_display_name": "OAK PLAINS ACADEMY OF TENNESSEE INC.",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787908",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1888,
+          36.41977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "RAMBLEWOOD APARTMENTS",
+        "SourceID": "TN0055387",
+        "RegistryID": "110006690125",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.473106",
+        "FacLong": "-87.37612",
+        "PermitName": "Ramblewood Housing I, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "0",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUUUUU_______",
+        "ViolFlag": "0",
+        "CurrVioFlag": "0",
+        "EffExceeds": "7",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0055387",
+        "echo_display_name": "RAMBLEWOOD APARTMENTS",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation history reported by ECHO",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690125",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.37612,
+          36.473106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WOODLAWN WTP",
+        "SourceID": "TN0082112",
+        "RegistryID": "110070625402",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.49582",
+        "FacLong": "-87.43269",
+        "PermitName": "Woodlawn Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____V________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0082112",
+        "echo_display_name": "WOODLAWN WTP",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 8 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070625402",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.43269,
+          36.49582
+        ]
+      }
+    }
+  ]
+}

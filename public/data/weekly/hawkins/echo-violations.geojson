@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BAE SYSTEMS ORDNANCE SYSTEMS INC. HOLSTON ARMY AMMUNITION PLANT",
+        "SourceID": "TN0003671",
+        "RegistryID": "110070828339",
+        "CWPNAICSCodes": "325920",
+        "FacLat": "36.550455",
+        "FacLong": "-82.634794",
+        "PermitName": "BAE Systems Ordnance Systems Inc. (Holston) (HSAAP)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVVV___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "3",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0003671",
+        "echo_display_name": "BAE SYSTEMS ORDNANCE SYSTEMS INC. HOLSTON ARMY AMMUNITION PLANT",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070828339",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.634794,
+          36.550455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CARDINAL FG COMPANY - GREENLAND PLANT",
+        "SourceID": "TN0002631",
+        "RegistryID": "110000546080",
+        "CWPNAICSCodes": "327211",
+        "FacLat": "36.497",
+        "FacLong": "-82.77946",
+        "PermitName": "Cardinal FG Company",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__VVV_V_VVV__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "10",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0002631",
+        "echo_display_name": "CARDINAL FG COMPANY - GREENLAND PLANT",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000546080",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77946,
+          36.497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CHEROKEE COMPREHENSIVE HIGH SCHOOL",
+        "SourceID": "TN0054623",
+        "RegistryID": "110006690198",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.35422",
+        "FacLong": "-83.01964",
+        "PermitName": "Hawkins County Board of Education",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUUU___VVV___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "7",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0054623",
+        "echo_display_name": "CHEROKEE COMPREHENSIVE HIGH SCHOOL",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690198",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01964,
+          36.35422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CHURCH HILL STP",
+        "SourceID": "TN0021253",
+        "RegistryID": "110006618044",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.523432",
+        "FacLong": "-82.682102",
+        "PermitName": "City of Church Hill",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VV__VVVVVV__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "10",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0021253",
+        "echo_display_name": "CHURCH HILL STP",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006618044",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.682102,
+          36.523432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HOLLISTON HOLDINGS, LLC",
+        "SourceID": "TN0002330",
+        "RegistryID": "110064108647",
+        "CWPNAICSCodes": "313320",
+        "FacLat": "36.51216",
+        "FacLong": "-82.7581",
+        "PermitName": "Holliston Holdings, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0002330",
+        "echo_display_name": "HOLLISTON HOLDINGS, LLC",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064108647",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7581,
+          36.51216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MOUNT CARMEL STP",
+        "SourceID": "TN0062057",
+        "RegistryID": "110006689743",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.55673",
+        "FacLong": "-82.66071",
+        "PermitName": "Town of Mount Carmel",
+        "CWPSNCStatus": "Effluent - Monthly Average Limit",
+        "CWPVioStatus": "Effluent - Monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "6",
+        "CWPSNCEventDesc": "SNC Effluent Violation Monthly Average",
+        "CWP13qtrsComplHistory": "____SSSSS__SV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "189",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0062057",
+        "echo_display_name": "MOUNT CARMEL STP",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006689743",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66071,
+          36.55673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ROGERSVILLE STP",
+        "SourceID": "TN0020672",
+        "RegistryID": "110006367635",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.38004",
+        "FacLong": "-83.04624",
+        "PermitName": "Town of Rogersville",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "11",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVV_VVV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "18",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020672",
+        "echo_display_name": "ROGERSVILLE STP",
+        "echo_violation_count": 11.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367635",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04624,
+          36.38004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SHORT MOUNTAIN SAND QUARRY",
+        "SourceID": "TN0054291",
+        "RegistryID": "110010129903",
+        "CWPNAICSCodes": "212322",
+        "FacLat": "36.365092",
+        "FacLong": "-83.189892",
+        "PermitName": "Short Mountain Silica Company",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_________VVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0054291",
+        "echo_display_name": "SHORT MOUNTAIN SAND QUARRY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010129903",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.189892,
+          36.365092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SURGOINSVILLE UTILITY DISTRICT",
+        "SourceID": "TN0073261",
+        "RegistryID": "110009707022",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.500374",
+        "FacLong": "-82.855163",
+        "PermitName": "Surgoinsville Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_________V___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0073261",
+        "echo_display_name": "SURGOINSVILLE UTILITY DISTRICT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009707022",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.855163,
+          36.500374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "TENNESSEE VALLEY AUTHORITY (TVA) - JOHN SEVIER FOSSIL PLANT (JSF)",
+        "SourceID": "TN0005436",
+        "RegistryID": "110000607530",
+        "CWPNAICSCodes": "221112",
+        "FacLat": "36.376285",
+        "FacLong": "-82.961143",
+        "PermitName": "Tennessee Valley Authority (TVA)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVV_______V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0005436",
+        "echo_display_name": "TENNESSEE VALLEY AUTHORITY (TVA) - JOHN SEVIER FOSSIL PLANT (JSF)",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000607530",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.961143,
+          36.376285
+        ]
+      }
+    }
+  ]
+}

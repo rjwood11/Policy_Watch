@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HENDERSON STP- EAST LAGOON",
+        "SourceID": "TN0026026",
+        "RegistryID": "110009788658",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.450909",
+        "FacLong": "-88.605607",
+        "PermitName": "City of Henderson",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVV______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "34",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0026026",
+        "echo_display_name": "HENDERSON STP- EAST LAGOON",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009788658",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.605607,
+          35.450909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HENDERSON STP- NORTH LAGOON",
+        "SourceID": "TN0064220",
+        "RegistryID": "110009786954",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.470605",
+        "FacLong": "-88.684137",
+        "PermitName": "City of Henderson",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VVVV__V_V_VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "17",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064220",
+        "echo_display_name": "HENDERSON STP- NORTH LAGOON",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786954",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.684137,
+          35.470605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HENDERSON STP- SOUTH LAGOON",
+        "SourceID": "TN0064238",
+        "RegistryID": "110009706504",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.43864",
+        "FacLong": "-88.63353",
+        "PermitName": "City of Henderson",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VV____VVV___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "27",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064238",
+        "echo_display_name": "HENDERSON STP- SOUTH LAGOON",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706504",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63353,
+          35.43864
+        ]
+      }
+    }
+  ]
+}

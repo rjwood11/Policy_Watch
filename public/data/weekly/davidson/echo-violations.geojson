@@ -1,0 +1,1125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ANTIOCH TRAVEL CENTER",
+        "SourceID": "TN0028797",
+        "RegistryID": "110009706229",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "36.01603",
+        "FacLong": "-86.62007",
+        "PermitName": "TA Operating, LLC d/b/a Antioch Travel Center",
+        "CWPSNCStatus": "Effluent - Non-monthly Average Limit",
+        "CWPVioStatus": "Effluent - Non-monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "11",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": "SNC Effluent Violation Non-Monthly Average",
+        "CWP13qtrsComplHistory": "V_VVVVV_VVSSV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "30",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0028797",
+        "echo_display_name": "ANTIOCH TRAVEL CENTER",
+        "echo_violation_count": 11.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Non-Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706229",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.62007,
+          36.01603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BNA NASHVILLE AIRPORT",
+        "SourceID": "TN0064041",
+        "RegistryID": "110000820498",
+        "CWPNAICSCodes": "488119",
+        "FacLat": "36.13448",
+        "FacLong": "-86.66813",
+        "PermitName": "Metro Nashville Airport Authority",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____V________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064041",
+        "echo_display_name": "BNA NASHVILLE AIRPORT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 8 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000820498",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66813,
+          36.13448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BOUNTY CLUB",
+        "SourceID": "TNR246752",
+        "RegistryID": "110071710075",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.251515",
+        "FacLong": "-86.809571",
+        "PermitName": "The Farm Nashville, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNR246752",
+        "echo_display_name": "BOUNTY CLUB",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071710075",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.809571,
+          36.251515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CARLEX GLASS AMERICA, LLC",
+        "SourceID": "TN0003573",
+        "RegistryID": "110000370982",
+        "CWPNAICSCodes": "327211",
+        "FacLat": "36.18364",
+        "FacLong": "-86.87813",
+        "PermitName": "Carlex Glass America, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V_______VVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "27",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0003573",
+        "echo_display_name": "CARLEX GLASS AMERICA, LLC",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000370982",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.87813,
+          36.18364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CENTURY FARMS-CANE RIDGE RD/OLD FRANKLIN RD.",
+        "SourceID": "TN0082066",
+        "RegistryID": "110070238859",
+        "CWPNAICSCodes": "237990",
+        "FacLat": "36.030247",
+        "FacLong": "-86.643832",
+        "PermitName": "Century Farms, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___S_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0082066",
+        "echo_display_name": "CENTURY FARMS-CANE RIDGE RD/OLD FRANKLIN RD.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070238859",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.643832,
+          36.030247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CSX TRANSPORTATION, INC.",
+        "SourceID": "TN0064955",
+        "RegistryID": "110006674606",
+        "CWPNAICSCodes": "482111",
+        "FacLat": "36.101784",
+        "FacLong": "-86.750888",
+        "PermitName": "CSX Transportation, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064955",
+        "echo_display_name": "CSX TRANSPORTATION, INC.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006674606",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.750888,
+          36.101784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CUMBERLAND HEIGHTS REHABILITATION CENTER",
+        "SourceID": "TN0067270",
+        "RegistryID": "110009786446",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.19547",
+        "FacLong": "-86.96635",
+        "PermitName": "Cumberland Heights Foundation, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUUU_______VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0067270",
+        "echo_display_name": "CUMBERLAND HEIGHTS REHABILITATION CENTER",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786446",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.96635,
+          36.19547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "EXXONMOBIL OIL CORPORATION - NASHVILLE TERMINAL",
+        "SourceID": "TN0022462",
+        "RegistryID": "110000910202",
+        "CWPNAICSCodes": "424710",
+        "FacLat": "36.180906",
+        "FacLong": "-86.827665",
+        "PermitName": "ExxonMobil Pipeline Company LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0022462",
+        "echo_display_name": "EXXONMOBIL OIL CORPORATION - NASHVILLE TERMINAL",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000910202",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.827665,
+          36.180906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "FOLEY PRODUCTS COMPANY, LLC - HERMITAGE PLANT",
+        "SourceID": "TNG110408",
+        "RegistryID": "110043993088",
+        "CWPNAICSCodes": "327390",
+        "FacLat": "36.1823",
+        "FacLong": "-86.6239",
+        "PermitName": "Foley Products Company, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____V__VV__VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110408",
+        "echo_display_name": "FOLEY PRODUCTS COMPANY, LLC - HERMITAGE PLANT",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110043993088",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6239,
+          36.1823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HARPETH VALLEY UTILITIES DISTRICT WTP",
+        "SourceID": "TN0074187",
+        "RegistryID": "110000536171",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.133611",
+        "FacLong": "-86.920833",
+        "PermitName": "Harpeth Valley Utilities District of Davidson and Williamson Counties, Tennessee",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V_V__VVV__V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "8",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0074187",
+        "echo_display_name": "HARPETH VALLEY UTILITIES DISTRICT WTP",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000536171",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.920833,
+          36.133611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HARPETH VALLEY UTILITY DISTRICT STP",
+        "SourceID": "TN0074748",
+        "RegistryID": "110006553924",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.14742",
+        "FacLong": "-86.91265",
+        "PermitName": "Harpeth Valley Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__VV____VV___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0074748",
+        "echo_display_name": "HARPETH VALLEY UTILITY DISTRICT STP",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006553924",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.91265,
+          36.14742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HERMITAGE QUARRY",
+        "SourceID": "TN0003115",
+        "RegistryID": "110064285615",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.18641",
+        "FacLong": "-86.61339",
+        "PermitName": "Vulcan Construction Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____V____VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0003115",
+        "echo_display_name": "HERMITAGE QUARRY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064285615",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.61339,
+          36.18641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI TENNESSEE, LLC (NASHVILLE FREIGHTLINER)",
+        "SourceID": "TNG110488",
+        "RegistryID": "110071310367",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.1555",
+        "FacLong": "-86.7339",
+        "PermitName": "IMI Tennessee, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "________V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110488",
+        "echo_display_name": "IMI TENNESSEE, LLC (NASHVILLE FREIGHTLINER)",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071310367",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7339,
+          36.1555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI-TN, INC. - WEST NASHVILLE",
+        "SourceID": "TNG110100",
+        "RegistryID": "110006691712",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.16171",
+        "FacLong": "-86.88512",
+        "PermitName": "imi Tennessee, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V____VV______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "3",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110100",
+        "echo_display_name": "IMI-TN, INC. - WEST NASHVILLE",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006691712",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88512,
+          36.16171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MUNIR HANTOULI DBA A & C AUTO PARTS",
+        "SourceID": "TNR050702",
+        "RegistryID": "110070237683",
+        "CWPNAICSCodes": "811191",
+        "FacLat": "36.211812",
+        "FacLong": "-86.894365",
+        "PermitName": "munir hantouli",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV__________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNR050702",
+        "echo_display_name": "MUNIR HANTOULI DBA A & C AUTO PARTS",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 10 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070237683",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.894365,
+          36.211812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE CENTRAL STP",
+        "SourceID": "TN0020575",
+        "RegistryID": "110000566487",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.186111",
+        "FacLong": "-86.788889",
+        "PermitName": "Metro Water Services - Nashville Central STP",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "57",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020575",
+        "echo_display_name": "NASHVILLE CENTRAL STP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000566487",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.788889,
+          36.186111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE DRY CREEK STP",
+        "SourceID": "TN0020648",
+        "RegistryID": "110039855323",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.28951",
+        "FacLong": "-86.69068",
+        "PermitName": "Metro Water Services (DRY CREEK STP)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVV_VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "28",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020648",
+        "echo_display_name": "NASHVILLE DRY CREEK STP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110039855323",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.69068,
+          36.28951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE J.P.PRIEST LAKE HAMILTON CREEK RECREATION AREA",
+        "SourceID": "TN0028550",
+        "RegistryID": "110010947985",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.10867",
+        "FacLong": "-86.625552",
+        "PermitName": "Metro Water Services",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V____V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "3",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0028550",
+        "echo_display_name": "NASHVILLE J.P.PRIEST LAKE HAMILTON CREEK RECREATION AREA",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010947985",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.625552,
+          36.10867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE QUARRY",
+        "SourceID": "TN0069922",
+        "RegistryID": "110069416297",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.280648",
+        "FacLong": "-86.664659",
+        "PermitName": "Industrial Land Developers, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "S______V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "3",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0069922",
+        "echo_display_name": "NASHVILLE QUARRY",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110069416297",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.664659,
+          36.280648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE WHITES CREEK STP",
+        "SourceID": "TN0024970",
+        "RegistryID": "110000574922",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.181389",
+        "FacLong": "-86.856667",
+        "PermitName": "Metro Water Services",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "11",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V__VVVVVVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "36",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024970",
+        "echo_display_name": "NASHVILLE WHITES CREEK STP",
+        "echo_violation_count": 11.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000574922",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.856667,
+          36.181389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE ZOO AKA GRASSMERE",
+        "SourceID": "TN0080630",
+        "RegistryID": "110040088534",
+        "CWPNAICSCodes": "712130",
+        "FacLat": "36.09082",
+        "FacLong": "-86.734466",
+        "PermitName": "Nashville Zoo Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0080630",
+        "echo_display_name": "NASHVILLE ZOO AKA GRASSMERE",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110040088534",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.734466,
+          36.09082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NWI NASHVILLE, LLC",
+        "SourceID": "TN0001597",
+        "RegistryID": "110000370839",
+        "CWPNAICSCodes": "336413",
+        "FacLat": "36.12399",
+        "FacLong": "-86.69341",
+        "PermitName": "NWI Nashville, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "S__S_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "10",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0001597",
+        "echo_display_name": "NWI NASHVILLE, LLC",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000370839",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.69341,
+          36.12399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "OPRYLAND RESORT & ENTERTAINMENT COMPLEX",
+        "SourceID": "TN0068713",
+        "RegistryID": "110001860264",
+        "CWPNAICSCodes": "721110",
+        "FacLat": "36.211055",
+        "FacLong": "-86.694997",
+        "PermitName": "Ryman Hospitality Properties, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V__S_VVV_V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "13",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0068713",
+        "echo_display_name": "OPRYLAND RESORT & ENTERTAINMENT COMPLEX",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001860264",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.694997,
+          36.211055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PINE BLUFF MATERIALS COMPANY, LLC",
+        "SourceID": "TNR059211",
+        "RegistryID": "110063004911",
+        "CWPNAICSCodes": "488320",
+        "FacLat": "36.162",
+        "FacLong": "-86.88573",
+        "PermitName": "Pine Bluff Materials Co., LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____VVVVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNR059211",
+        "echo_display_name": "PINE BLUFF MATERIALS COMPANY, LLC",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110063004911",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88573,
+          36.162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SMYRNA READY MIX, LLC",
+        "SourceID": "TNG110270",
+        "RegistryID": "110013341348",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.17472",
+        "FacLong": "-86.63497",
+        "PermitName": "Smyrna Ready Mix Concrete, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____V________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110270",
+        "echo_display_name": "SMYRNA READY MIX, LLC",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 8 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110013341348",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.63497,
+          36.17472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "VULCAN CONSTRUCTION MATERIALS, LLC - RIVER ROAD QUARRY",
+        "SourceID": "TN0003549",
+        "RegistryID": "110009162716",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.130891",
+        "FacLong": "-86.917224",
+        "PermitName": "Vulcan Construction Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__VVVVV______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0003549",
+        "echo_display_name": "VULCAN CONSTRUCTION MATERIALS, LLC - RIVER ROAD QUARRY",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009162716",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.917224,
+          36.130891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "VULCAN CONSTRUCTION MATERIALS, LLCDANLEY QUARRY",
+        "SourceID": "TN0003026",
+        "RegistryID": "110001676918",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.081154",
+        "FacLong": "-86.666842",
+        "PermitName": "Vulcan Construction Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0003026",
+        "echo_display_name": "VULCAN CONSTRUCTION MATERIALS, LLCDANLEY QUARRY",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001676918",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.666842,
+          36.081154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WHITE'S CREEK PIKE QUARRY",
+        "SourceID": "TN0057452",
+        "RegistryID": "110071710504",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.224404",
+        "FacLong": "-86.80695",
+        "PermitName": "Rogers Group, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____VVVV_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0057452",
+        "echo_display_name": "WHITE'S CREEK PIKE QUARRY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071710504",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80695,
+          36.224404
+        ]
+      }
+    }
+  ]
+}

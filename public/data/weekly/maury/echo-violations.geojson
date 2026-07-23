@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "B & B CONCRETE PRODUCTS, INC.",
+        "SourceID": "TNG110241",
+        "RegistryID": "110006691302",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.653641",
+        "FacLong": "-87.063896",
+        "PermitName": "B & B Concrete Products, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__S__________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110241",
+        "echo_display_name": "B & B CONCRETE PRODUCTS, INC.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 10 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006691302",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.063896,
+          35.653641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CITY OF SPRING HILL STP",
+        "SourceID": "TN0075868",
+        "RegistryID": "110006688824",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.71673",
+        "FacLong": "-86.91843",
+        "PermitName": "City of Spring Hill",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "48",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0075868",
+        "echo_display_name": "CITY OF SPRING HILL STP",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006688824",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.91843,
+          35.71673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "COLUMBIA WASTEWATER TREATMENT PLANT IMPROVEMENTS",
+        "SourceID": "TN0056103",
+        "RegistryID": "110000537811",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.640071",
+        "FacLong": "-87.087228",
+        "PermitName": "City of Columbia",
+        "CWPSNCStatus": "Effluent - Monthly Average Limit",
+        "CWPVioStatus": "Effluent - Monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": "SNC Effluent Violation Monthly Average",
+        "CWP13qtrsComplHistory": "_VS_VVVSS_VSV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "64",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0056103",
+        "echo_display_name": "COLUMBIA WASTEWATER TREATMENT PLANT IMPROVEMENTS",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000537811",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.087228,
+          35.640071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CYTEC INDUSTRIES INC.",
+        "SourceID": "TN0067415",
+        "RegistryID": "110000375184",
+        "CWPNAICSCodes": "325188",
+        "FacLat": "35.5249",
+        "FacLong": "-87.2431",
+        "PermitName": "CYTEC Industries Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__V__________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0067415",
+        "echo_display_name": "CYTEC INDUSTRIES INC.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 10 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000375184",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2431,
+          35.5249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HARVEST POINT",
+        "SourceID": "TNR182877",
+        "RegistryID": "110071377039",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.75293",
+        "FacLong": "-86.985278",
+        "PermitName": "D.R. Horton, Inc.- Harvest Point",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____S_______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNR182877",
+        "echo_display_name": "HARVEST POINT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 7 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071377039",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.985278,
+          35.75293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MERSEN USA GSTN CORP.",
+        "SourceID": "TN0002275",
+        "RegistryID": "110024586447",
+        "CWPNAICSCodes": "335991",
+        "FacLat": "35.64279",
+        "FacLong": "-87.0437",
+        "PermitName": "Mersen USA GSTN Corp.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "3",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0002275",
+        "echo_display_name": "MERSEN USA GSTN CORP.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110024586447",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0437,
+          35.64279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MOUNT PLEASANT STP (AKA WILLIAM HUNTER OWENS WWTP)",
+        "SourceID": "TN0020800",
+        "RegistryID": "110009788970",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.540074",
+        "FacLong": "-87.194398",
+        "PermitName": "City of Mount Pleasant",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__V___VV___V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "9",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020800",
+        "echo_display_name": "MOUNT PLEASANT STP (AKA WILLIAM HUNTER OWENS WWTP)",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009788970",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.194398,
+          35.540074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SMELTER SERVICE CORPORATION",
+        "SourceID": "TN0078573",
+        "RegistryID": "110000863511",
+        "CWPNAICSCodes": "331492",
+        "FacLat": "35.52743",
+        "FacLong": "-87.20618",
+        "PermitName": "Smelter Service Corp.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V____________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0078573",
+        "echo_display_name": "SMELTER SERVICE CORPORATION",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 12 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000863511",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20618,
+          35.52743
+        ]
+      }
+    }
+  ]
+}

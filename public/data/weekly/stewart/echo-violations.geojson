@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DOVER STP",
+        "SourceID": "TN0022667",
+        "RegistryID": "110064256077",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.48754",
+        "FacLong": "-87.84251",
+        "PermitName": "Town of Dover",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V_VVVVVV_VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "22",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0022667",
+        "echo_display_name": "DOVER STP",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064256077",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84251,
+          36.48754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PINEY CAMPGROUND",
+        "SourceID": "TN0020249",
+        "RegistryID": "110009705881",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.513308",
+        "FacLong": "-87.977019",
+        "PermitName": "United States Department of Agriculture (USDA) Forest Service",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "U_____V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020249",
+        "echo_display_name": "PINEY CAMPGROUND",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009705881",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.977019,
+          36.513308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "TENNESSEE VALLEY AUTHORITY (TVA) - CUMBERLAND FOSSIL PLANT (CUF)",
+        "SourceID": "TN0005789",
+        "RegistryID": "110000493127",
+        "CWPNAICSCodes": "221112",
+        "FacLat": "36.3903",
+        "FacLong": "-87.6539",
+        "PermitName": "Tennessee Valley Authority (TVA)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V____________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0005789",
+        "echo_display_name": "TENNESSEE VALLEY AUTHORITY (TVA) - CUMBERLAND FOSSIL PLANT (CUF)",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 12 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000493127",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6539,
+          36.3903
+        ]
+      }
+    }
+  ]
+}

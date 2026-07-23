@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "50 ACRE TRACT",
+        "SourceID": "TN0066231",
+        "RegistryID": "110006689510",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.132592",
+        "FacLong": "-85.346665",
+        "PermitName": "Martin Marietta Materials, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___________VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0066231",
+        "echo_display_name": "50 ACRE TRACT",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006689510",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.346665,
+          36.132592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BAXTER STP",
+        "SourceID": "TN0021121",
+        "RegistryID": "110006690820",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.14548",
+        "FacLong": "-85.64785",
+        "PermitName": "City of Baxter",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V__VV__VVV_V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "15",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0021121",
+        "echo_display_name": "BAXTER STP",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690820",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64785,
+          36.14548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CITY OF COOKEVILLE DEPARTMENT OF WATER QUALITY CONTROL (WWTP)",
+        "SourceID": "TN0024198",
+        "RegistryID": "110006367751",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.10828",
+        "FacLong": "-85.50571",
+        "PermitName": "City of Cookeville",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "11",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VV_VVVVVVVVV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "27",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024198",
+        "echo_display_name": "CITY OF COOKEVILLE DEPARTMENT OF WATER QUALITY CONTROL (WWTP)",
+        "echo_violation_count": 11.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367751",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50571,
+          36.10828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "COOKEVILLE WATER TREATMENT PLANT",
+        "SourceID": "TN0005231",
+        "RegistryID": "110000543396",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.076173",
+        "FacLong": "-85.67832",
+        "PermitName": "City of Cookeville Department of Water Quality Control",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______VV____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0005231",
+        "echo_display_name": "COOKEVILLE WATER TREATMENT PLANT",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000543396",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67832,
+          36.076173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "GARROTT BROTHERS CONTINUOUS MIX, INC.- COOKEVILLE",
+        "SourceID": "TNG110482",
+        "RegistryID": "110071182274",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.126014",
+        "FacLong": "-85.581535",
+        "PermitName": "Garrott Brothers Continuous Mix, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110482",
+        "echo_display_name": "GARROTT BROTHERS CONTINUOUS MIX, INC.- COOKEVILLE",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071182274",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.581535,
+          36.126014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HIGHWAY 84 LIMESTONE LLC - QUARRY NO. 1",
+        "SourceID": "TN0070203",
+        "RegistryID": "110070048547",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.165955",
+        "FacLong": "-85.283778",
+        "PermitName": "Hwy 84 Limestone LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___________VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070203",
+        "echo_display_name": "HIGHWAY 84 LIMESTONE LLC - QUARRY NO. 1",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070048547",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.283778,
+          36.165955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KELLY AVERITT PROPERTY",
+        "SourceID": "TNR172524",
+        "RegistryID": "110071525689",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.20684",
+        "FacLong": "-85.50971",
+        "PermitName": "Kelly Averitt",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNR172524",
+        "echo_display_name": "KELLY AVERITT PROPERTY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071525689",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50971,
+          36.20684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MONTEREY WWTP",
+        "SourceID": "TN0064688",
+        "RegistryID": "110009789586",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.15351",
+        "FacLong": "-85.29338",
+        "PermitName": "Town of Monterey",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVV_VVVVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "23",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064688",
+        "echo_display_name": "MONTEREY WWTP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789586",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.29338,
+          36.15351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PANTHER ENTERPRISES, LLC",
+        "SourceID": "TN0070645",
+        "RegistryID": "110071064589",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.140801",
+        "FacLong": "-85.790564",
+        "PermitName": "Panther Enterprises, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070645",
+        "echo_display_name": "PANTHER ENTERPRISES, LLC",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071064589",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.790564,
+          36.140801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ROGERS GROUP, INC. - MONTEREY QUARRY",
+        "SourceID": "TN0063487",
+        "RegistryID": "110009785615",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.36592",
+        "FacLong": "-85.631116",
+        "PermitName": "Rogers Group, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0063487",
+        "echo_display_name": "ROGERS GROUP, INC. - MONTEREY QUARRY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009785615",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.631116,
+          36.36592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SCHUBERT ENTERPRISES-DALE MIRES LANE",
+        "SourceID": "TNR172378",
+        "RegistryID": "110071337988",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.143185",
+        "FacLong": "-85.62738",
+        "PermitName": "Schubert Enterprises",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V____V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNR172378",
+        "echo_display_name": "SCHUBERT ENTERPRISES-DALE MIRES LANE",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071337988",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62738,
+          36.143185
+        ]
+      }
+    }
+  ]
+}

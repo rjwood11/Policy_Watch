@@ -86,8 +86,8 @@
     "sourceName": "EPA ECHO CWA REST Services get_facilities and get_qid",
     "sourceUrl": "https://echodata.epa.gov/echo/cwa_rest_services.get_facilities",
     "refreshFrequency": "Weekly cache",
-    "lastUpdated": "2026-06-25",
-    "notes": "County maps use a static weekly cache generated from EPA ECHO CWA REST Services. Records include recent or current noncompliance signals and links to ECHO reports."
+    "lastUpdated": "2026-07-23",
+    "notes": "County maps load committed ECHO CWA violation cache files first. Weekly refreshes update those files when ECHO responds and leave the last good cache in place when the service is unavailable."
   },
   {
     "dataset": "Active permitted features",

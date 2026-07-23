@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BEDFORD COUNTY UTILITY DISTRICT",
+        "SourceID": "TN0074021",
+        "RegistryID": "110000579703",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "35.550796",
+        "FacLong": "-86.58218",
+        "PermitName": "Bedford County Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____VVSSV__V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "10",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0074021",
+        "echo_display_name": "BEDFORD COUNTY UTILITY DISTRICT",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000579703",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58218,
+          35.550796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BELL BUCKLE STP",
+        "SourceID": "TN0020591",
+        "RegistryID": "110009705890",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.584793",
+        "FacLong": "-86.35416",
+        "PermitName": "Town of Bell Buckle",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______VVVV_VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "8",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020591",
+        "echo_display_name": "BELL BUCKLE STP",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009705890",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.35416,
+          35.584793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ROGERS GROUP, INC. - DEASON QUARRY/HAWKINS ASPHALT PAVING - DEASONIMI TENNESSE",
+        "SourceID": "TN0071846",
+        "RegistryID": "110071711388",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "35.642574",
+        "FacLong": "-86.435312",
+        "PermitName": "Rogers Group, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0071846",
+        "echo_display_name": "ROGERS GROUP, INC. - DEASON QUARRY/HAWKINS ASPHALT PAVING - DEASONIMI TENNESSE",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071711388",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.435312,
+          35.642574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SHELBYVILLE POWER, WATER & SEWERAGE SYSTEM STP",
+        "SourceID": "TN0024180",
+        "RegistryID": "110000541165",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.483683",
+        "FacLong": "-86.466661",
+        "PermitName": "Shelbyville Power, Water & Sewerage System",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VVVV__VVV_VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "23",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024180",
+        "echo_display_name": "SHELBYVILLE POWER, WATER & SEWERAGE SYSTEM STP",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000541165",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.466661,
+          35.483683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SHELBYVILLE QUARRY",
+        "SourceID": "TN0069396",
+        "RegistryID": "110064421692",
+        "CWPNAICSCodes": "324121 212312",
+        "FacLat": "35.498809",
+        "FacLong": "-86.41934",
+        "PermitName": "Volunteer Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0069396",
+        "echo_display_name": "SHELBYVILLE QUARRY",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064421692",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.41934,
+          35.498809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "UT ENTERPRISES LLC  DBA LEGACY LEATHERS",
+        "SourceID": "TN0002143",
+        "RegistryID": "110000370777",
+        "CWPNAICSCodes": "316110",
+        "FacLat": "35.51285",
+        "FacLong": "-86.32652",
+        "PermitName": "UT Enterprises LLC DBA Legacy Leathers",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V_______V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0002143",
+        "echo_display_name": "UT ENTERPRISES LLC  DBA LEGACY LEATHERS",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000370777",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.32652,
+          35.51285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WARTRACE STP",
+        "SourceID": "TN0020443",
+        "RegistryID": "110009789069",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.56674",
+        "FacLong": "-86.338882",
+        "PermitName": "Town of Wartrace",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV__VVV_V__V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "23",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020443",
+        "echo_display_name": "WARTRACE STP",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789069",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.338882,
+          35.56674
+        ]
+      }
+    }
+  ]
+}

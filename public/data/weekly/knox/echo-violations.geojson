@@ -1,0 +1,1045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "APAC ATLANTIC, INC. HARRISON DIVISION / KNOXVILLE CONCRETE",
+        "SourceID": "TNG110289",
+        "RegistryID": "110017753527",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.02871",
+        "FacLong": "-83.8454",
+        "PermitName": "Harrison Construction Company",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__V_______VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "3",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110289",
+        "echo_display_name": "APAC ATLANTIC, INC. HARRISON DIVISION / KNOXVILLE CONCRETE",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110017753527",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8454,
+          36.02871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CARBON RIVERS WESTERN AVENUE SITE",
+        "SourceID": "TNG110513",
+        "RegistryID": "110071884169",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.9765",
+        "FacLong": "-83.96286",
+        "PermitName": "BIR Concrete, LLC",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "__________VS_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110513",
+        "echo_display_name": "CARBON RIVERS WESTERN AVENUE SITE",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071884169",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.96286,
+          35.9765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CEMEX CONSTRUCTION MATERIALS ATLANTIC, LLCFKA IDEAL BASIC, FKA DIXIE CEMENT",
+        "SourceID": "TN0003352",
+        "RegistryID": "110009789318",
+        "CWPNAICSCodes": "327310",
+        "FacLat": "36.022505",
+        "FacLong": "-83.834408",
+        "PermitName": "CEMEX Construction Materials Atlantic, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V__V__VS___VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "12",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0003352",
+        "echo_display_name": "CEMEX CONSTRUCTION MATERIALS ATLANTIC, LLCFKA IDEAL BASIC, FKA DIXIE CEMENT",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789318",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.834408,
+          36.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CMC STEEL TENNESSEE",
+        "SourceID": "TN0027804",
+        "RegistryID": "110000373480",
+        "CWPNAICSCodes": "331110",
+        "FacLat": "35.97812",
+        "FacLong": "-83.95645",
+        "PermitName": "CMC Steel US, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVS______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "5",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0027804",
+        "echo_display_name": "CMC STEEL TENNESSEE",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000373480",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95645,
+          35.97812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DARLING INGREDIENTS INC. (FKA VALLEY PROTEIN FKA CBP RESOURCES INC)",
+        "SourceID": "TN0005371",
+        "RegistryID": "110006690928",
+        "CWPNAICSCodes": "311613",
+        "FacLat": "36.046011",
+        "FacLong": "-83.722858",
+        "PermitName": "Darling Ingredients Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "S________VVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "26",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0005371",
+        "echo_display_name": "DARLING INGREDIENTS INC. (FKA VALLEY PROTEIN FKA CBP RESOURCES INC)",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690928",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.722858,
+          36.046011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DURACAP ASPHALT PLANT",
+        "SourceID": "TN0076236",
+        "RegistryID": "110013401103",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.101417",
+        "FacLong": "-84.024641",
+        "PermitName": "Duracap Asphalt Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V________V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0076236",
+        "echo_display_name": "DURACAP ASPHALT PLANT",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110013401103",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.024641,
+          36.101417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ERGON TERMINALING INC.-KNOXVILLE",
+        "SourceID": "TN0055433",
+        "RegistryID": "110001856796",
+        "CWPNAICSCodes": "324121",
+        "FacLat": "35.95282",
+        "FacLong": "-83.86058",
+        "PermitName": "ERGON Terminaling, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0055433",
+        "echo_display_name": "ERGON TERMINALING INC.-KNOXVILLE",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001856796",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.86058,
+          35.95282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "FIRST UTILITY DISTRICT OF KNOX COUNTY - TURKEY CREEK STP",
+        "SourceID": "TN0023353",
+        "RegistryID": "110006367706",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.882522",
+        "FacLong": "-84.15199",
+        "PermitName": "First Utility District of Knox County",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVVV_VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "24",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023353",
+        "echo_display_name": "FIRST UTILITY DISTRICT OF KNOX COUNTY - TURKEY CREEK STP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367706",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15199,
+          35.882522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "FLYING J TRAVEL PLAZA",
+        "SourceID": "TN0064548",
+        "RegistryID": "110009786703",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.88103",
+        "FacLong": "-84.23739",
+        "PermitName": "Pilot Travel Centers, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V__VVV_VVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "64",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064548",
+        "echo_display_name": "FLYING J TRAVEL PLAZA",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786703",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23739,
+          35.88103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HALLSDALE POWELL UTILITY DISTRICT STP",
+        "SourceID": "TN0078905",
+        "RegistryID": "110010813478",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.009342",
+        "FacLong": "-84.060339",
+        "PermitName": "Hallsdale Powell Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVVVV_V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "38",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0078905",
+        "echo_display_name": "HALLSDALE POWELL UTILITY DISTRICT STP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010813478",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.060339,
+          36.009342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HALLSDALE-POWELL RACCOON VALLEY STP",
+        "SourceID": "TN0059323",
+        "RegistryID": "110009787613",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.09965",
+        "FacLong": "-84.0226",
+        "PermitName": "Hallsdale Powell Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___VV____V___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0059323",
+        "echo_display_name": "HALLSDALE-POWELL RACCOON VALLEY STP",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787613",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0226,
+          36.09965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HANCOCK TREE SERVICE",
+        "SourceID": "TNR050685",
+        "RegistryID": "110071546147",
+        "CWPNAICSCodes": "113310",
+        "FacLat": "35.962863",
+        "FacLong": "-84.039916",
+        "PermitName": "Hancock Tree Service, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "________VVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNR050685",
+        "echo_display_name": "HANCOCK TREE SERVICE",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071546147",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.039916,
+          35.962863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KNOX CHAPMAN UTIL KNOXVILLE WTP",
+        "SourceID": "TN0004511",
+        "RegistryID": "110012853625",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.945918",
+        "FacLong": "-83.812401",
+        "PermitName": "Knox Chapman Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______VSS__V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "7",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0004511",
+        "echo_display_name": "KNOX CHAPMAN UTIL KNOXVILLE WTP",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110012853625",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.812401,
+          35.945918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KNOXVILLE UTILITIES BOARD (KUB) - LOVES CREEK WASTEWATER TREATMENT PLANT (STP)",
+        "SourceID": "TN0021822",
+        "RegistryID": "110000551661",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.00866",
+        "FacLong": "-83.83159",
+        "PermitName": "Knoxville Utilities Board (KUB)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVV_VV___V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "12",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0021822",
+        "echo_display_name": "KNOXVILLE UTILITIES BOARD (KUB) - LOVES CREEK WASTEWATER TREATMENT PLANT (STP)",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000551661",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.83159,
+          36.00866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KNOXVILLE UTILITIES BOARD - EAST BRIDGE STP",
+        "SourceID": "TN0061743",
+        "RegistryID": "110009706345",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.055363",
+        "FacLong": "-83.740734",
+        "PermitName": "Knoxville Utilities Board (KUB)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V_VV_VVV_V_V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "10",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0061743",
+        "echo_display_name": "KNOXVILLE UTILITIES BOARD - EAST BRIDGE STP",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706345",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.740734,
+          36.055363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KNOXVILLE WEST TRAVEL CENTER",
+        "SourceID": "TN0065137",
+        "RegistryID": "110009786810",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.87405",
+        "FacLong": "-84.23654",
+        "PermitName": "TA Operating LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__V_VVV_V_V_V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "8",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0065137",
+        "echo_display_name": "KNOXVILLE WEST TRAVEL CENTER",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786810",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23654,
+          35.87405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KUB - FOURTH CREEK STP",
+        "SourceID": "TN0023574",
+        "RegistryID": "110039849714",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.916749",
+        "FacLong": "-83.97074",
+        "PermitName": "Knoxville Utilities Board (KUB)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V_VVVVVV___VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "11",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023574",
+        "echo_display_name": "KUB - FOURTH CREEK STP",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110039849714",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.97074,
+          35.916749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KUB - KUWAHEE STP",
+        "SourceID": "TN0023582",
+        "RegistryID": "110009492307",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.945549",
+        "FacLong": "-83.927151",
+        "PermitName": "Knoxville Utilities Board (KUB)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVS_VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "46",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023582",
+        "echo_display_name": "KUB - KUWAHEE STP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009492307",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.927151,
+          35.945549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LAMBCON READY MIX",
+        "SourceID": "TNG110399",
+        "RegistryID": "110055107913",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.03556",
+        "FacLong": "-83.83953",
+        "PermitName": "LAMBCON, INC",
+        "CWPSNCStatus": "Effluent - Non-monthly Average Limit",
+        "CWPVioStatus": "Effluent - Non-monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC Effluent Violation Non-Monthly Average",
+        "CWP13qtrsComplHistory": "V___V______S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110399",
+        "echo_display_name": "LAMBCON READY MIX",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Non-Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110055107913",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.83953,
+          36.03556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LEE TRAVEL CENTER #1398",
+        "SourceID": "TN0077950",
+        "RegistryID": "110014331678",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "36.17783",
+        "FacLong": "-82.83333",
+        "PermitName": "Lee Oil Company",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0077950",
+        "echo_display_name": "LEE TRAVEL CENTER #1398",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110014331678",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83333,
+          36.17783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LUTTRELL-BLAINE-CORRYTON WTP",
+        "SourceID": "TN0074080",
+        "RegistryID": "110006802111",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.16055",
+        "FacLong": "-83.829791",
+        "PermitName": "Luttrell Blaine Corryton U.D",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___________V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0074080",
+        "echo_display_name": "LUTTRELL-BLAINE-CORRYTON WTP",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006802111",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.829791,
+          36.16055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PETRO STOPPING CENTER #312",
+        "SourceID": "TN0067024",
+        "RegistryID": "110009786384",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.875078",
+        "FacLong": "-84.237419",
+        "PermitName": "TA Operating LLC d.b.a. Petro Stopping Centers",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V_V______V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0067024",
+        "echo_display_name": "PETRO STOPPING CENTER #312",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786384",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.237419,
+          35.875078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PILOT TRAVEL CENTER #270",
+        "SourceID": "TN0064556",
+        "RegistryID": "110009787383",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.904166",
+        "FacLong": "-84.14166",
+        "PermitName": "Pilot Travel Centers LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__V_VVVVVS_VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "18",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064556",
+        "echo_display_name": "PILOT TRAVEL CENTER #270",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787383",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14166,
+          35.904166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PILOT TRAVEL CENTERS, LLC #219",
+        "SourceID": "TN0064351",
+        "RegistryID": "110006664047",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.99922",
+        "FacLong": "-83.77915",
+        "PermitName": "Pilot Travel Centers LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "________V___V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "48",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064351",
+        "echo_display_name": "PILOT TRAVEL CENTERS, LLC #219",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006664047",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.77915,
+          35.99922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "READY MIX USA - NEYLAND DRIVE PLANT",
+        "SourceID": "TNG110246",
+        "RegistryID": "110010951862",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.95087",
+        "FacLong": "-83.9201",
+        "PermitName": "Ready Mix USA, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_________V__V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110246",
+        "echo_display_name": "READY MIX USA - NEYLAND DRIVE PLANT",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010951862",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9201,
+          35.95087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WEST KNOX UD (WKUD) - MELTON HILL POTW",
+        "SourceID": "TN0080721",
+        "RegistryID": "110055488397",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.8925",
+        "FacLong": "-84.2439",
+        "PermitName": "West Knox Utility District (WKUD)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVV_V_V_VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "12",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0080721",
+        "echo_display_name": "WEST KNOX UD (WKUD) - MELTON HILL POTW",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110055488397",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2439,
+          35.8925
+        ]
+      }
+    }
+  ]
+}

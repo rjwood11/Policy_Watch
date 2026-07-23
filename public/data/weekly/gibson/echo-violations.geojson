@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BRADFORD LAGOON",
+        "SourceID": "TN0062022",
+        "RegistryID": "110009706354",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.0879",
+        "FacLong": "-88.8074",
+        "PermitName": "City of Bradford",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______V____V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0062022",
+        "echo_display_name": "BRADFORD LAGOON",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706354",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8074,
+          36.0879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DYER STP",
+        "SourceID": "TN0021563",
+        "RegistryID": "110006690722",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.07146",
+        "FacLong": "-89.0049",
+        "PermitName": "City of Dyer",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VVVVV__V__VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "11",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0021563",
+        "echo_display_name": "DYER STP",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690722",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0049,
+          36.07146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HUMBOLDT UTILITIES AUTHORITY",
+        "SourceID": "TN0062588",
+        "RegistryID": "110009787212",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.809514",
+        "FacLong": "-88.937562",
+        "PermitName": "Humboldt Utilities Authority",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__VV_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "3",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0062588",
+        "echo_display_name": "HUMBOLDT UTILITIES AUTHORITY",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787212",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.937562,
+          35.809514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MILAN STP",
+        "SourceID": "TN0062375",
+        "RegistryID": "110006367939",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.954233",
+        "FacLong": "-88.722282",
+        "PermitName": "Milan Public Utilities Authority",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VVV__VVSS_VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "43",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0062375",
+        "echo_display_name": "MILAN STP",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367939",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.722282,
+          35.954233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "RUTHERFORD LAGOON",
+        "SourceID": "TN0062227",
+        "RegistryID": "110006664056",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.137567",
+        "FacLong": "-88.979233",
+        "PermitName": "Town of Rutherford",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V___V_VVVV___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "33",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0062227",
+        "echo_display_name": "RUTHERFORD LAGOON",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006664056",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.979233,
+          36.137567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SEMO OPERATING COMPANY LLC DBA BT REDI-MIX-HUMBOLDT",
+        "SourceID": "TNG110453",
+        "RegistryID": "110070249824",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.832665",
+        "FacLong": "-88.931307",
+        "PermitName": "SEMO Operating Company, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110453",
+        "echo_display_name": "SEMO OPERATING COMPANY LLC DBA BT REDI-MIX-HUMBOLDT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070249824",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.931307,
+          35.832665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SOUTHERN CONCRETE PRODUCTS, INC. MILAN, TN",
+        "SourceID": "TNG110084",
+        "RegistryID": "110009790100",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.8809",
+        "FacLong": "-88.750337",
+        "PermitName": "Southern Concrete Products, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______VVVVV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110084",
+        "echo_display_name": "SOUTHERN CONCRETE PRODUCTS, INC. MILAN, TN",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009790100",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.750337,
+          35.8809
+        ]
+      }
+    }
+  ]
+}

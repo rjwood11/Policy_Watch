@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "HARTSVILLE-TROUSDALE COUNTY WATER/SEWER UTILITY DISTRICT",
+        "SourceID": "TN0030899",
+        "RegistryID": "110009706050",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.374217",
+        "FacLong": "-86.175545",
+        "PermitName": "Hartsville-Trousdale County Water/Sewer Utility District",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V_VVVV_VVV_V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "26",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0030899",
+        "echo_display_name": "HARTSVILLE-TROUSDALE COUNTY WATER/SEWER UTILITY DISTRICT",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706050",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.175545,
+          36.374217
+        ]
+      }
+    }
+  ]
+}

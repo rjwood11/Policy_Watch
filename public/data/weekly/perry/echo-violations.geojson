@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LINDEN LAGOON",
+        "SourceID": "TN0064394",
+        "RegistryID": "110064252972",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.62507",
+        "FacLong": "-87.833358",
+        "PermitName": "City of Linden",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___VVVS_S_SS_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "8",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064394",
+        "echo_display_name": "LINDEN LAGOON",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064252972",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.833358,
+          35.62507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LOBELVILLE STP",
+        "SourceID": "TN0020818",
+        "RegistryID": "110046339333",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.75173",
+        "FacLong": "-87.79544",
+        "PermitName": "City of Lobelville",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V__VVV_VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "19",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020818",
+        "echo_display_name": "LOBELVILLE STP",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110046339333",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79544,
+          35.75173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LOBELVILLE WATER TREATMENT PLANT",
+        "SourceID": "TN0081426",
+        "RegistryID": "110046339333",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.75173",
+        "FacLong": "-87.79544",
+        "PermitName": "Lobelville Water System",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "5",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VSSSSS____VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "17",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0081426",
+        "echo_display_name": "LOBELVILLE WATER TREATMENT PLANT",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110046339333",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79544,
+          35.75173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PERRY COUNTY QUARRY",
+        "SourceID": "TN0070704",
+        "RegistryID": "110071348522",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.484694",
+        "FacLong": "-87.980417",
+        "PermitName": "Matco Aggregates, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "3",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "SS_S___V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070704",
+        "echo_display_name": "PERRY COUNTY QUARRY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071348522",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.980417,
+          35.484694
+        ]
+      }
+    }
+  ]
+}

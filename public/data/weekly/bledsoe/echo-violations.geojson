@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DUNLAP STONE, INC. - ASPHALT AND DUNLAP STONE, INC. DBA BLEDSOE QUARRY 3",
+        "SourceID": "TN0071331",
+        "RegistryID": "110006802166",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "35.580651",
+        "FacLong": "-85.143042",
+        "PermitName": "Dunlap Stone, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V____________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0071331",
+        "echo_display_name": "DUNLAP STONE, INC. - ASPHALT AND DUNLAP STONE, INC. DBA BLEDSOE QUARRY 3",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 12 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006802166",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.143042,
+          35.580651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "FALL CREEK FALLS UTILITY TREATMENT PLANT",
+        "SourceID": "TN0078263",
+        "RegistryID": "110017693888",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.6195091",
+        "FacLong": "-85.2262999",
+        "PermitName": "Fall Creek Falls Utility Treatment Plant",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "________V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0078263",
+        "echo_display_name": "FALL CREEK FALLS UTILITY TREATMENT PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110017693888",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2262999,
+          35.6195091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PIKEVILLE STP",
+        "SourceID": "TN0025054",
+        "RegistryID": "110006690526",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.597289",
+        "FacLong": "-85.193017",
+        "PermitName": "Town of Pikeville",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "________VSS_V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "56",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0025054",
+        "echo_display_name": "PIKEVILLE STP",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690526",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.193017,
+          35.597289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "REAL STONE VENEERS",
+        "SourceID": "TN0070701",
+        "RegistryID": "110071275791",
+        "CWPNAICSCodes": "212311",
+        "FacLat": "35.493",
+        "FacLong": "-85.301639",
+        "PermitName": "TRE Land, LLC",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "_______VS_VS_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070701",
+        "echo_display_name": "REAL STONE VENEERS",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071275791",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.301639,
+          35.493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "TENNESSEE DEPARTMENT OF CORRECTIONS DBA BLEDSOE COUNTY CORRECTION COMPLEX",
+        "SourceID": "TN0056626",
+        "RegistryID": "110006690036",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.73778",
+        "FacLong": "-85.25107",
+        "PermitName": "Tennessee Department of Correction (TDOC)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV__________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "6",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0056626",
+        "echo_display_name": "TENNESSEE DEPARTMENT OF CORRECTIONS DBA BLEDSOE COUNTY CORRECTION COMPLEX",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 10 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690036",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.25107,
+          35.73778
+        ]
+      }
+    }
+  ]
+}

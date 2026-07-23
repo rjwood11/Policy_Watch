@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ARNOLD AIR FORCE BASE (ARNOLD ENGINEERING DEVELOPMENT COMPLEX)",
+        "SourceID": "TN0003751",
+        "RegistryID": "110017413217",
+        "CWPNAICSCodes": "928110",
+        "FacLat": "35.3778",
+        "FacLong": "-86.0456",
+        "PermitName": "Department of Defense (AEDC)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VV___V___VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "7",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0003751",
+        "echo_display_name": "ARNOLD AIR FORCE BASE (ARNOLD ENGINEERING DEVELOPMENT COMPLEX)",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110017413217",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0456,
+          35.3778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DIAGEO AMERICAS SUPPLY DBA CASCADE HOLLOW DISTILLING COMPANY",
+        "SourceID": "TN0002470",
+        "RegistryID": "110001859285",
+        "CWPNAICSCodes": "312140",
+        "FacLat": "35.43837",
+        "FacLong": "-86.24547",
+        "PermitName": "Cascade Hollow Distilling Company",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "22",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0002470",
+        "echo_display_name": "DIAGEO AMERICAS SUPPLY DBA CASCADE HOLLOW DISTILLING COMPANY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001859285",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24547,
+          35.43837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI-TN, INC. - MANCHESTER",
+        "SourceID": "TNG110061",
+        "RegistryID": "110006826462",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.47374",
+        "FacLong": "-86.08647",
+        "PermitName": "imi Tennessee, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______V___VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110061",
+        "echo_display_name": "IMI-TN, INC. - MANCHESTER",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006826462",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08647,
+          35.47374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MANCHESTER WATER AND SEWER DEPARTMENT",
+        "SourceID": "TN0025038",
+        "RegistryID": "110009789568",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.4833",
+        "FacLong": "-86.09716",
+        "PermitName": "City of Manchester",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV_VVVV_VV_V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "37",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0025038",
+        "echo_display_name": "MANCHESTER WATER AND SEWER DEPARTMENT",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789568",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09716,
+          35.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "TULLAHOMA STP",
+        "SourceID": "TN0023469",
+        "RegistryID": "110009788818",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.35183",
+        "FacLong": "-86.20252",
+        "PermitName": "Tullahoma Utilities Authority",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VV_VV__VV____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "9",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023469",
+        "echo_display_name": "TULLAHOMA STP",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009788818",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20252,
+          35.35183
+        ]
+      }
+    }
+  ]
+}

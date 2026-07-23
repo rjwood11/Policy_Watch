@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BILL RICE RANCH, INC.",
+        "SourceID": "TN0057975",
+        "RegistryID": "110009787828",
+        "CWPNAICSCodes": "721214",
+        "FacLat": "35.843231",
+        "FacLong": "-86.56172",
+        "PermitName": "Bill Rice Ranch, Inc.",
+        "CWPSNCStatus": "Effluent - Monthly Average Limit",
+        "CWPVioStatus": "Effluent - Monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "3",
+        "CWPSNCEventDesc": "SNC Effluent Violation Monthly Average",
+        "CWP13qtrsComplHistory": "VVVVS___VS_SV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "41",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0057975",
+        "echo_display_name": "BILL RICE RANCH, INC.",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787828",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.56172,
+          35.843231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CONSUMER PRODUCT PARTNERS, LLC",
+        "SourceID": "TN0075965",
+        "RegistryID": "110000765949",
+        "CWPNAICSCodes": "325412",
+        "FacLat": "36.00161",
+        "FacLong": "-86.50291",
+        "PermitName": "Consumer Product Partners, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___VS___VVVV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0075965",
+        "echo_display_name": "CONSUMER PRODUCT PARTNERS, LLC",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000765949",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50291,
+          36.00161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MURFREESBORO-SINKING CREEK STP",
+        "SourceID": "TN0022586",
+        "RegistryID": "110010950989",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.900621",
+        "FacLong": "-86.427771",
+        "PermitName": "City of Murfreesboro",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V__V__V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "5",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0022586",
+        "echo_display_name": "MURFREESBORO-SINKING CREEK STP",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010950989",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.427771,
+          35.900621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE READY MIX - LA VERGNE PLANT",
+        "SourceID": "TNG110203",
+        "RegistryID": "110063677052",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.99016",
+        "FacLong": "-86.58206",
+        "PermitName": "Nashville Ready Mix, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "3",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "________SSS__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110203",
+        "echo_display_name": "NASHVILLE READY MIX - LA VERGNE PLANT",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110063677052",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58206,
+          35.99016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PILOT CORPORATION DBA PILOT TRAVEL CENTER #052",
+        "SourceID": "TN0061301",
+        "RegistryID": "110010947636",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.998673",
+        "FacLong": "-86.595551",
+        "PermitName": "Pilot Travel Centers LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "6",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___VSSSSSS__V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "16",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0061301",
+        "echo_display_name": "PILOT CORPORATION DBA PILOT TRAVEL CENTER #052",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010947636",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.595551,
+          35.998673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "RUTHERFORD COUNTY QUARRY",
+        "SourceID": "TN0066150",
+        "RegistryID": "110009786482",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "35.87723",
+        "FacLong": "-86.53111",
+        "PermitName": "Rogers Group, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0066150",
+        "echo_display_name": "RUTHERFORD COUNTY QUARRY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786482",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53111,
+          35.87723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "RUTHERFORD COUNTY ROCK QUARRY",
+        "SourceID": "TN0059561",
+        "RegistryID": "110009787668",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "35.762595",
+        "FacLong": "-86.40002",
+        "PermitName": "Rutherford County Highway Department",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "SSSS_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0059561",
+        "echo_display_name": "RUTHERFORD COUNTY ROCK QUARRY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787668",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.40002,
+          35.762595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SMYRNA READY MIX",
+        "SourceID": "TNG110212",
+        "RegistryID": "110055576078",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.94878",
+        "FacLong": "-86.48544",
+        "PermitName": "Smyrna Ready Mix Concrete, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___________V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110212",
+        "echo_display_name": "SMYRNA READY MIX",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110055576078",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.48544,
+          35.94878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SMYRNA STP",
+        "SourceID": "TN0020541",
+        "RegistryID": "110002052812",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.99321",
+        "FacLong": "-86.51434",
+        "PermitName": "Town of Smyrna",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV_________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "14",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020541",
+        "echo_display_name": "SMYRNA STP",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110002052812",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51434,
+          35.99321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SRM MATERIALS, LLC - SMYRNA QUARRY",
+        "SourceID": "TN0070572",
+        "RegistryID": "110070705324",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "36.000279",
+        "FacLong": "-86.44368",
+        "PermitName": "SRM Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "________VVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070572",
+        "echo_display_name": "SRM MATERIALS, LLC - SMYRNA QUARRY",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070705324",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.44368,
+          36.000279
+        ]
+      }
+    }
+  ]
+}

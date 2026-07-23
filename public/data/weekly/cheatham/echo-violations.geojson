@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ASHLAND CITY WASTEWATER TREATMENT FACILITY",
+        "SourceID": "TN0082252",
+        "RegistryID": "110070948180",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.26282",
+        "FacLong": "-87.063976",
+        "PermitName": "Town of Ashland City",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_________V___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0082252",
+        "echo_display_name": "ASHLAND CITY WASTEWATER TREATMENT FACILITY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070948180",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.063976,
+          36.26282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ASHLAND CITY WATER PLANT",
+        "SourceID": "TN0078743",
+        "RegistryID": "110022468462",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.26559",
+        "FacLong": "-87.06067",
+        "PermitName": "Town of Ashland City Water Treatment Plant",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____V_______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0078743",
+        "echo_display_name": "ASHLAND CITY WATER PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 7 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110022468462",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06067,
+          36.26559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CHEATHAM COUNTY INDUSTRIAL PARK STP",
+        "SourceID": "TN0081574",
+        "RegistryID": "110009787953",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.2254",
+        "FacLong": "-87.02129",
+        "PermitName": "The Cheatham County Water and Wastewater Authority",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V___V_______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "5",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0081574",
+        "echo_display_name": "CHEATHAM COUNTY INDUSTRIAL PARK STP",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 7 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787953",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02129,
+          36.2254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KINGSTON SPRINGS STP",
+        "SourceID": "TN0059790",
+        "RegistryID": "110009787686",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.105615",
+        "FacLong": "-87.112505",
+        "PermitName": "Town of Kingston Springs",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "3",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "S_SS________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "91",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0059790",
+        "echo_display_name": "KINGSTON SPRINGS STP",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787686",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.112505,
+          36.105615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PEGRAM STP",
+        "SourceID": "TN0074586",
+        "RegistryID": "110009707013",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.090294",
+        "FacLong": "-87.044517",
+        "PermitName": "Town of Pegram",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0074586",
+        "echo_display_name": "PEGRAM STP",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009707013",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.044517,
+          36.090294
+        ]
+      }
+    }
+  ]
+}

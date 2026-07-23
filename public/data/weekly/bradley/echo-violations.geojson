@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BRADLEY CONCRETE CO., INC.",
+        "SourceID": "TNG110039",
+        "RegistryID": "110009790413",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.154241",
+        "FacLong": "-84.837443",
+        "PermitName": "Bradley Concrete Construction, Inc",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____S_______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110039",
+        "echo_display_name": "BRADLEY CONCRETE CO., INC.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 7 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009790413",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.837443,
+          35.154241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CLEVELAND UTILITIES AUTHORITY (CUA)",
+        "SourceID": "TN0004642",
+        "RegistryID": "110000573781",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "35.219277",
+        "FacLong": "-84.791039",
+        "PermitName": "Cleveland Utilities Authority (CUA)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V____________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0004642",
+        "echo_display_name": "CLEVELAND UTILITIES AUTHORITY (CUA)",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 12 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000573781",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.791039,
+          35.219277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CLEVELAND UTILITIES STP",
+        "SourceID": "TN0024121",
+        "RegistryID": "110000543341",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.30619",
+        "FacLong": "-84.79805",
+        "PermitName": "Cleveland Utilities Authority (CUA)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VVVV_______V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "33",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024121",
+        "echo_display_name": "CLEVELAND UTILITIES STP",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000543341",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79805,
+          35.30619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "INNOVATIVE WATER CARE, LLC DBA SOLENISFKA ARCH CHEMICALS INC LONZA MICROBIAL",
+        "SourceID": "TN0082414",
+        "RegistryID": "110071087564",
+        "CWPNAICSCodes": "325998",
+        "FacLat": "35.30456",
+        "FacLong": "-84.78783",
+        "PermitName": "Innovative Water Care, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0082414",
+        "echo_display_name": "INNOVATIVE WATER CARE, LLC DBA SOLENISFKA ARCH CHEMICALS INC LONZA MICROBIAL",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071087564",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78783,
+          35.30456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "OLIN CORPORATION",
+        "SourceID": "TN0002461",
+        "RegistryID": "110000371204",
+        "CWPNAICSCodes": "325181",
+        "FacLat": "35.30172",
+        "FacLong": "-84.78356",
+        "PermitName": "Olin Corporation",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___VS_V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "3",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0002461",
+        "echo_display_name": "OLIN CORPORATION",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000371204",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78356,
+          35.30172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WACKER POLYSILICON NORTH AMERICA LLC/LINDE GAS NORTH AMERICA, LLC/EAST TENNESSEE",
+        "SourceID": "TN0081311",
+        "RegistryID": "110055614198",
+        "CWPNAICSCodes": "325998",
+        "FacLat": "35.2919",
+        "FacLong": "-84.79744",
+        "PermitName": "Wacker Polysilicon North America, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0081311",
+        "echo_display_name": "WACKER POLYSILICON NORTH AMERICA LLC/LINDE GAS NORTH AMERICA, LLC/EAST TENNESSEE",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110055614198",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79744,
+          35.2919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WOODLAND HEIGHTS",
+        "SourceID": "TNR113899",
+        "RegistryID": "110071359318",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.1457",
+        "FacLong": "-84.9859",
+        "PermitName": "TTW, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNR113899",
+        "echo_display_name": "WOODLAND HEIGHTS",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071359318",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9859,
+          35.1457
+        ]
+      }
+    }
+  ]
+}

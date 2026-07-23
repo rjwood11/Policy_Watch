@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "APAC ATLANTIC, INC. HARRISON DIVISION/CMI (MORRISTOWN)/DC FOUNDATIONS INC",
+        "SourceID": "TNG110049",
+        "RegistryID": "110009790244",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.20654",
+        "FacLong": "-83.31106",
+        "PermitName": "Apac Atlantic, Inc,",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110049",
+        "echo_display_name": "APAC ATLANTIC, INC. HARRISON DIVISION/CMI (MORRISTOWN)/DC FOUNDATIONS INC",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009790244",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31106,
+          36.20654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LOWLAND INDUSTRIAL COMPLEX, INC. (FKA LIBERTY FIBERS CORPORATION) & WASTE INDUST",
+        "SourceID": "TN0068187",
+        "RegistryID": "110064626855",
+        "CWPNAICSCodes": "325221",
+        "FacLat": "36.15324",
+        "FacLong": "-83.21031",
+        "PermitName": "Morristown Utilities Commission",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "3",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VSSS______VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "68",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0068187",
+        "echo_display_name": "LOWLAND INDUSTRIAL COMPLEX, INC. (FKA LIBERTY FIBERS CORPORATION) & WASTE INDUST",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064626855",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21031,
+          36.15324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "READY MIX USA LLC DBA MORRISTOWN CONCRETE PLANT",
+        "SourceID": "TNG110290",
+        "RegistryID": "110017848524",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.1886",
+        "FacLong": "-83.33544",
+        "PermitName": "Ready Mix USA, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110290",
+        "echo_display_name": "READY MIX USA LLC DBA MORRISTOWN CONCRETE PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110017848524",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33544,
+          36.1886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "TURKEY CREEK WWTP (MORRISTOWN STP)",
+        "SourceID": "TN0023507",
+        "RegistryID": "110006367724",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.248703",
+        "FacLong": "-83.28906",
+        "PermitName": "Morristown Utilities Commission",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVV_V_VVVV_V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "24",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023507",
+        "echo_display_name": "TURKEY CREEK WWTP (MORRISTOWN STP)",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367724",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28906,
+          36.248703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WITT UTILITY DISTRICT WTP",
+        "SourceID": "TN0079090",
+        "RegistryID": "110025170936",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "36.1306",
+        "FacLong": "-83.2631",
+        "PermitName": "Witt Utility District",
+        "CWPSNCStatus": "Effluent - Non-monthly Average Limit",
+        "CWPVioStatus": "Effluent - Non-monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC Effluent Violation Non-Monthly Average",
+        "CWP13qtrsComplHistory": "___VVVVVVVVSV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "10",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0079090",
+        "echo_display_name": "WITT UTILITY DISTRICT WTP",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Non-Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110025170936",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2631,
+          36.1306
+        ]
+      }
+    }
+  ]
+}

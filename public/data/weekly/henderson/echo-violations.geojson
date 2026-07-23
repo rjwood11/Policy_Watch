@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LEXINGTON UTILITIES- WASTE WATER TREATMENT PLANT",
+        "SourceID": "TN0024341",
+        "RegistryID": "110006367760",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.629238",
+        "FacLong": "-88.385601",
+        "PermitName": "City of Lexington, Utilities Division",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V__VVV__VV___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "7",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024341",
+        "echo_display_name": "LEXINGTON UTILITIES- WASTE WATER TREATMENT PLANT",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367760",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.385601,
+          35.629238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MCKEE GROCERY (FACILITY CLOSED) - TDEC FACILITY ID #8-390055",
+        "SourceID": "TNG830259",
+        "RegistryID": "110070688247",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.66399",
+        "FacLong": "-88.42134",
+        "PermitName": "ATC Group Services, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VSS_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG830259",
+        "echo_display_name": "MCKEE GROCERY (FACILITY CLOSED) - TDEC FACILITY ID #8-390055",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070688247",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42134,
+          35.66399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SOUTHERN CONCRETE PRODUCTS, INC. - LEXINGTON PLANT",
+        "SourceID": "TNG110136",
+        "RegistryID": "110006691632",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.644236",
+        "FacLong": "-88.388935",
+        "PermitName": "Southern Concrete Products, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "8",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110136",
+        "echo_display_name": "SOUTHERN CONCRETE PRODUCTS, INC. - LEXINGTON PLANT",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006691632",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.388935,
+          35.644236
+        ]
+      }
+    }
+  ]
+}

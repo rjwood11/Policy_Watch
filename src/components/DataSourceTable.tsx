@@ -4,25 +4,33 @@ export function DataSourceTable({ sources }: { sources: DataSourceRecord[] }) {
   return (
     <div className="card overflow-hidden">
       <div className="overflow-x-auto">
-        <table className="min-w-full text-left text-sm">
+        <table className="min-w-[920px] table-fixed text-left text-[0.8125rem]">
+          <colgroup>
+            <col className="w-[14rem]" />
+            <col className="w-[17rem]" />
+            <col className="w-[15rem]" />
+            <col className="w-[9rem]" />
+            <col className="w-[8rem]" />
+            <col />
+          </colgroup>
           <thead className="bg-river text-white">
             <tr>
-              <th className="px-4 py-3 font-medium">Dataset</th>
-              <th className="px-4 py-3 font-medium">Purpose</th>
-              <th className="px-4 py-3 font-medium">Source</th>
-              <th className="px-4 py-3 font-medium">Refresh</th>
-              <th className="px-4 py-3 font-medium">Last updated</th>
-              <th className="px-4 py-3 font-medium">Notes</th>
+              <th className="px-3 py-3 font-medium">Dataset</th>
+              <th className="px-3 py-3 font-medium">Purpose</th>
+              <th className="px-3 py-3 font-medium">Source</th>
+              <th className="px-3 py-3 font-medium">Refresh</th>
+              <th className="px-3 py-3 font-medium">Updated</th>
+              <th className="px-3 py-3 font-medium">Notes</th>
             </tr>
           </thead>
           <tbody>
             {sources.map((source) => (
               <tr key={source.dataset} className="border-t border-ink/10 align-top">
-                <td className="min-w-52 px-4 py-4 font-medium">
+                <td className="px-3 py-3 font-medium">
                   <div>{source.dataset}</div>
                 </td>
-                <td className="min-w-64 px-4 py-4 leading-6 text-ink/75">{source.purpose}</td>
-                <td className="min-w-60 px-4 py-4 leading-6">
+                <td className="px-3 py-3 leading-5 text-ink/75">{source.purpose}</td>
+                <td className="px-3 py-3 leading-5">
                   {source.sourceUrl.startsWith("http") ? (
                     <a href={source.sourceUrl} target="_blank" rel="noreferrer">
                       {source.sourceName}
@@ -31,9 +39,9 @@ export function DataSourceTable({ sources }: { sources: DataSourceRecord[] }) {
                     <span>{source.sourceName}</span>
                   )}
                 </td>
-                <td className="min-w-40 px-4 py-4 text-ink/75">{source.refreshFrequency}</td>
-                <td className="min-w-36 px-4 py-4 text-ink/75">{source.lastUpdated}</td>
-                <td className="min-w-80 px-4 py-4 leading-6 text-ink/75">{source.notes}</td>
+                <td className="px-3 py-3 text-ink/75">{source.refreshFrequency}</td>
+                <td className="px-3 py-3 text-ink/75">{source.lastUpdated}</td>
+                <td className="px-3 py-3 leading-5 text-ink/75">{source.notes}</td>
               </tr>
             ))}
           </tbody>

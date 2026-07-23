@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ARCONIC TENNESSEE LLC - NORTH PLANT",
+        "SourceID": "TN0067199",
+        "RegistryID": "110070828214",
+        "CWPNAICSCodes": "331315",
+        "FacLat": "35.77193",
+        "FacLong": "-83.9772",
+        "PermitName": "Arconic US LLC",
+        "CWPSNCStatus": "Effluent - Monthly Average Limit",
+        "CWPVioStatus": "Effluent - Monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": "SNC Effluent Violation Monthly Average",
+        "CWP13qtrsComplHistory": "_V_______VSS_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "7",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0067199",
+        "echo_display_name": "ARCONIC TENNESSEE LLC - NORTH PLANT",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070828214",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9772,
+          35.77193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ARCONIC US LLC",
+        "SourceID": "TN0065081",
+        "RegistryID": "110070828214",
+        "CWPNAICSCodes": "331492",
+        "FacLat": "35.77193",
+        "FacLong": "-83.9772",
+        "PermitName": "Arconic US LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V_V_____V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0065081",
+        "echo_display_name": "ARCONIC US LLC",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070828214",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9772,
+          35.77193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CITY OF ALCOA WATER TREATMENT PLANT",
+        "SourceID": "TN0055204",
+        "RegistryID": "110052216071",
+        "CWPNAICSCodes": "221310",
+        "FacLat": "35.80843",
+        "FacLong": "-83.92968",
+        "PermitName": "City of Alcoa",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_________V___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0055204",
+        "echo_display_name": "CITY OF ALCOA WATER TREATMENT PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110052216071",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92968,
+          35.80843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MARYVILLE STP",
+        "SourceID": "TN0020079",
+        "RegistryID": "110000574815",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.8527",
+        "FacLong": "-83.94958",
+        "PermitName": "City of Maryville",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "S__VVV_V_V__V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "8",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020079",
+        "echo_display_name": "MARYVILLE STP",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000574815",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.94958,
+          35.8527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PENINSULA, A DIVISION OF PARKWEST MEDICAL CENTER",
+        "SourceID": "TN0023906",
+        "RegistryID": "110010948145",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.87198",
+        "FacLong": "-84.02279",
+        "PermitName": "Covenant Health d/b/a Peninsula, a Division of Parkwest Medical Center",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V__V___V_V__V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "9",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023906",
+        "echo_display_name": "PENINSULA, A DIVISION OF PARKWEST MEDICAL CENTER",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010948145",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02279,
+          35.87198
+        ]
+      }
+    }
+  ]
+}

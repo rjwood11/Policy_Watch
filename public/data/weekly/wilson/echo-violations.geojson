@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CITY OF LEBANON GASIFICATION PLANT DBA LEBANON WASTE WATER TREATMENT PLANT",
+        "SourceID": "TN0028754",
+        "RegistryID": "110000553696",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.22929",
+        "FacLong": "-86.31836",
+        "PermitName": "City of Lebanon",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV_VV_S_VVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "41",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0028754",
+        "echo_display_name": "CITY OF LEBANON GASIFICATION PLANT DBA LEBANON WASTE WATER TREATMENT PLANT",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000553696",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31836,
+          36.22929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CXT INCORPORATED - VANHOOSECO LEBANON",
+        "SourceID": "TNG110485",
+        "RegistryID": "110071236435",
+        "CWPNAICSCodes": "327331",
+        "FacLat": "36.138414",
+        "FacLong": "-86.31985",
+        "PermitName": "CXT Incorporated",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "3",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "_________SSS_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110485",
+        "echo_display_name": "CXT INCORPORATED - VANHOOSECO LEBANON",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071236435",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31985,
+          36.138414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "GARROTT BROS. CONTINUOUS MIX, INC.",
+        "SourceID": "TNG110519",
+        "RegistryID": "110071816609",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.178069",
+        "FacLong": "-86.291731",
+        "PermitName": "Garrott Brothers Continuous Mix, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_________V___",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110519",
+        "echo_display_name": "GARROTT BROS. CONTINUOUS MIX, INC.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 3 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071816609",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.291731,
+          36.178069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI CONCRETE",
+        "SourceID": "TNG110508",
+        "RegistryID": "110006663574",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.197277",
+        "FacLong": "-86.513883",
+        "PermitName": "IMI TENNESSEE, INC.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110508",
+        "echo_display_name": "IMI CONCRETE",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006663574",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.513883,
+          36.197277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI-TN, INC. - LEBANON",
+        "SourceID": "TNG110169",
+        "RegistryID": "110009789906",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.19999",
+        "FacLong": "-86.29104",
+        "PermitName": "IMI Tennessee, LLC (Lebanon)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VSS__V______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110169",
+        "echo_display_name": "IMI-TN, INC. - LEBANON",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 6 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789906",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.29104,
+          36.19999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WATERTOWN STP",
+        "SourceID": "TN0025488",
+        "RegistryID": "110009788630",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.10125",
+        "FacLong": "-86.13224",
+        "PermitName": "City of Watertown",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V_________V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "29",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0025488",
+        "echo_display_name": "WATERTOWN STP",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009788630",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13224,
+          36.10125
+        ]
+      }
+    }
+  ]
+}

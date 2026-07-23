@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WOODBURY QUARRY",
+        "SourceID": "TN0069558",
+        "RegistryID": "110056980904",
+        "CWPNAICSCodes": "212312",
+        "FacLat": "35.8229",
+        "FacLong": "-86.09058",
+        "PermitName": "SRM Materials, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_________VVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0069558",
+        "echo_display_name": "WOODBURY QUARRY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110056980904",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09058,
+          35.8229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WOODBURY STP",
+        "SourceID": "TN0025089",
+        "RegistryID": "110064252124",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.8334",
+        "FacLong": "-86.06249",
+        "PermitName": "Town of Woodbury",
+        "CWPSNCStatus": "Effluent - Monthly Average Limit",
+        "CWPVioStatus": "Effluent - Monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "3",
+        "CWPSNCEventDesc": "SNC Effluent Violation Monthly Average",
+        "CWP13qtrsComplHistory": "_V__VS__VVSS_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "34",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0025089",
+        "echo_display_name": "WOODBURY STP",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110064252124",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06249,
+          35.8334
+        ]
+      }
+    }
+  ]
+}

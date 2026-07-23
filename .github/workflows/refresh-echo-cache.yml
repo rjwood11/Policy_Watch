@@ -1,0 +1,48 @@
+name: Refresh ECHO Cache
+
+on:
+  schedule:
+    - cron: "42 11 * * 2"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          npm ci
+          python -m pip install requests
+
+      - name: Refresh committed ECHO cache
+        run: npm run data:refresh-echo -- --strict
+
+      - name: Commit cache changes
+        run: |
+          if git diff --quiet -- public/data/weekly public/data/metadata; then
+            echo "No ECHO cache changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/weekly public/data/metadata
+          git commit -m "Refresh ECHO violation cache"
+          git push

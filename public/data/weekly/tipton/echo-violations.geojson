@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BRINGLE ROAD SAND & GRAVEL",
+        "SourceID": "TN0070327",
+        "RegistryID": "110070216829",
+        "CWPNAICSCodes": "212321",
+        "FacLat": "35.570415",
+        "FacLong": "-89.719287",
+        "PermitName": "Van Bringle dba Bringle Road Sand & Gravel",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V_SS_____V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070327",
+        "echo_display_name": "BRINGLE ROAD SAND & GRAVEL",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070216829",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.719287,
+          35.570415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BUTLER PROPERTIES, LLC",
+        "SourceID": "TN0056863",
+        "RegistryID": "110010947832",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.40605",
+        "FacLong": "-89.84767",
+        "PermitName": "Butler Properties, LLC",
+        "CWPSNCStatus": "Effluent - Monthly Average Limit",
+        "CWPVioStatus": "Effluent - Monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "12",
+        "CWPSNCEventDesc": "SNC Effluent Violation Monthly Average",
+        "CWP13qtrsComplHistory": "SSSSSSSSSSSSV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "174",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0056863",
+        "echo_display_name": "BUTLER PROPERTIES, LLC",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010947832",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.84767,
+          35.40605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "COVINGTON STP",
+        "SourceID": "TN0020982",
+        "RegistryID": "110000531247",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.620129",
+        "FacLong": "-89.614572",
+        "PermitName": "City of Covington",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__VV____V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020982",
+        "echo_display_name": "COVINGTON STP",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000531247",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.614572,
+          35.620129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "DRUMMONDS ELEMENTARY SCHOOL",
+        "SourceID": "TN0058092",
+        "RegistryID": "110009787864",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.464444",
+        "FacLong": "-89.900001",
+        "PermitName": "Tipton County Board of Education",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "5",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "UUUUUVSSSS_SV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "21",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0058092",
+        "echo_display_name": "DRUMMONDS ELEMENTARY SCHOOL",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787864",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.900001,
+          35.464444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MASON STP",
+        "SourceID": "TN0026620",
+        "RegistryID": "110006690447",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.4048",
+        "FacLong": "-89.539",
+        "PermitName": "Town of Mason",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___VVV_______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "13",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0026620",
+        "echo_display_name": "MASON STP",
+        "echo_violation_count": 3.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 7 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690447",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.539,
+          35.4048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MCCOMMON/TURNER PIT",
+        "SourceID": "TN0079367",
+        "RegistryID": "110021030409",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.54328",
+        "FacLong": "-89.75612",
+        "PermitName": "Mr. Van Bringle",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "2",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_V_SS_____VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0079367",
+        "echo_display_name": "MCCOMMON/TURNER PIT",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110021030409",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75612,
+          35.54328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MUNFORD SEWER DEPARTMENT LAGOON",
+        "SourceID": "TN0062499",
+        "RegistryID": "110006689814",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.45838",
+        "FacLong": "-89.811534",
+        "PermitName": "City of Munford",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__VVV___V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "11",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0062499",
+        "echo_display_name": "MUNFORD SEWER DEPARTMENT LAGOON",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006689814",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.811534,
+          35.45838
+        ]
+      }
+    }
+  ]
+}

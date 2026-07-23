@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BALAGIRDHAR HOSPITALITY LLC, OLE SOUTH INN",
+        "SourceID": "TN0023230",
+        "RegistryID": "110006690679",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.59872",
+        "FacLong": "-89.05465",
+        "PermitName": "Balgirdhar Hospitality LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "11",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "V__VVVVVVVVVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "190",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0023230",
+        "echo_display_name": "BALAGIRDHAR HOSPITALITY LLC, OLE SOUTH INN",
+        "echo_violation_count": 11.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690679",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05465,
+          35.59872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BIO-SOLIDS REMEDIATION CORPJACKSON ENERGY AUTHORITY- MILLER AVENUE STP",
+        "SourceID": "TN0024813",
+        "RegistryID": "110009706121",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.640383",
+        "FacLong": "-88.860886",
+        "PermitName": "Jackson Energy Authority (JEA)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V_V_______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0024813",
+        "echo_display_name": "BIO-SOLIDS REMEDIATION CORPJACKSON ENERGY AUTHORITY- MILLER AVENUE STP",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 7 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706121",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.860886,
+          35.640383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "BUBBA JOHNSON SAND AND GRAVEL, L.L.C. - BUBBA JOHNSON CONTRACTORS SAND PLANT",
+        "SourceID": "TNRM24021",
+        "RegistryID": "110030769666",
+        "CWPNAICSCodes": "212321",
+        "FacLat": "35.581667",
+        "FacLong": "-88.862222",
+        "PermitName": "Bubba Johnson Sand and Gravel, L.L.C.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________V__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNRM24021",
+        "echo_display_name": "BUBBA JOHNSON SAND AND GRAVEL, L.L.C. - BUBBA JOHNSON CONTRACTORS SAND PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110030769666",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.862222,
+          35.581667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "EAST ELEMENTARY SCHOOL",
+        "SourceID": "TN0056481",
+        "RegistryID": "110010947805",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.72396",
+        "FacLong": "-88.75632",
+        "PermitName": "Jackson-Madison County School System",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___________V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0056481",
+        "echo_display_name": "EAST ELEMENTARY SCHOOL",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010947805",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.75632,
+          35.72396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "JACKSON ENERGY AUTHORITY - MIDDLE FORK STP",
+        "SourceID": "TN0075876",
+        "RegistryID": "110006688833",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.747188",
+        "FacLong": "-88.871156",
+        "PermitName": "Jackson Energy Authority (JEA)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VV_V____V__V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "8",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0075876",
+        "echo_display_name": "JACKSON ENERGY AUTHORITY - MIDDLE FORK STP",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006688833",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.871156,
+          35.747188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "JACKSON SAND MINE 1",
+        "SourceID": "TN0070777",
+        "RegistryID": "110006689360",
+        "CWPNAICSCodes": "212321",
+        "FacLat": "35.658462",
+        "FacLong": "-88.887582",
+        "PermitName": "Pope Concrete Products, Inc. dba Jackson Sand, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Undetermined",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__________VU_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070777",
+        "echo_display_name": "JACKSON SAND MINE 1",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006689360",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.887582,
+          35.658462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "JEA - PINSON LAGOON",
+        "SourceID": "TN0067083",
+        "RegistryID": "110009706808",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "35.496464",
+        "FacLong": "-88.710332",
+        "PermitName": "Jackson Energy Authority (JEA)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "__V_V_VV__V_V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "10",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0067083",
+        "echo_display_name": "JEA - PINSON LAGOON",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706808",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.710332,
+          35.496464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "JOHNNY BOLD'S GARAGE",
+        "SourceID": "TNG830261",
+        "RegistryID": "110070688373",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.6257",
+        "FacLong": "-88.79896",
+        "PermitName": "ATC Group Services, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____V__V_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "5",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG830261",
+        "echo_display_name": "JOHNNY BOLD'S GARAGE",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070688373",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.79896,
+          35.6257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SEMO OPERATING COMPANY, LLC DBA BT REDI-MIX-JACKSON",
+        "SourceID": "TNG110248",
+        "RegistryID": "110010951871",
+        "CWPNAICSCodes": null,
+        "FacLat": "35.65991",
+        "FacLong": "-88.88538",
+        "PermitName": "SEMO Operating Company, LLC dba BT Redi-Mix-Jackson",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "8",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "SSSS_VV__V_V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "14",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110248",
+        "echo_display_name": "SEMO OPERATING COMPANY, LLC DBA BT REDI-MIX-JACKSON",
+        "echo_violation_count": 8.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010951871",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.88538,
+          35.65991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SOUTHERN CONCRETE PRODUCTS, INC - JACKSON PLANT",
+        "SourceID": "TNG110111",
+        "RegistryID": "110006663486",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.6161",
+        "FacLong": "-88.85564",
+        "PermitName": "Southern Concrete Products, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVV___V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "10",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110111",
+        "echo_display_name": "SOUTHERN CONCRETE PRODUCTS, INC - JACKSON PLANT",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006663486",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.85564,
+          35.6161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SOUTHERN CONCRETE PRODUCTS, INC. UNITED DRIVE",
+        "SourceID": "TNG110149",
+        "RegistryID": "110012295408",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "35.66067",
+        "FacLong": "-88.88667",
+        "PermitName": "Southern Concrete Products, Inc.",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "10",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV_VSSSS_VV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "3",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110149",
+        "echo_display_name": "SOUTHERN CONCRETE PRODUCTS, INC. UNITED DRIVE",
+        "echo_violation_count": 10.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110012295408",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.88667,
+          35.66067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "TRAVELCENTERS OF AMERICA D/B/A DENMARK TRAVELCENTER",
+        "SourceID": "TN0022519",
+        "RegistryID": "110009706005",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "35.59501",
+        "FacLong": "-89.0548",
+        "PermitName": "TA Operating LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VV_VV______V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "10",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0022519",
+        "echo_display_name": "TRAVELCENTERS OF AMERICA D/B/A DENMARK TRAVELCENTER",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706005",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0548,
+          35.59501
+        ]
+      }
+    }
+  ]
+}

@@ -1060,7 +1060,7 @@ def write_metadata(*, build_date: str) -> None:
             "sourceUrl": "https://echodata.epa.gov/echo/cwa_rest_services.get_facilities",
             "refreshFrequency": "Weekly cache",
             "lastUpdated": build_date,
-            "notes": "County maps use a static weekly cache generated from EPA ECHO CWA REST Services. Records include recent or current noncompliance signals and links to ECHO reports.",
+            "notes": "County maps load committed ECHO CWA violation cache files first. Weekly refreshes update those files when ECHO responds and leave the last good cache in place when the service is unavailable.",
         },
         {
             "dataset": "Active permitted features",

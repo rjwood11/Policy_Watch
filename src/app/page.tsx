@@ -1,7 +1,14 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { TennesseeMap } from "@/components/TennesseeMap";
 import type { CountyRecord, DataSourceRecord } from "@/lib/data";
 import { getCounty, getCountyIndex, getDataSources, getLastUpdated } from "@/lib/data";
+
+export const metadata: Metadata = {
+  title: "Harpeth Conservancy's Water Policy Watch",
+  description:
+    "County-level Tennessee water quality, permitting, monitoring, and policy context from Harpeth Conservancy."
+};
 
 const numberFormatter = new Intl.NumberFormat("en-US", {
   maximumFractionDigits: 0
@@ -44,10 +51,10 @@ function MetricCard({
   detail: string;
 }) {
   return (
-    <article className="rounded-lg border border-ink/10 bg-mist/65 p-3">
-      <p className="text-xs font-semibold uppercase tracking-normal text-river">{label}</p>
-      <p className="mt-1 text-2xl font-semibold text-ink">{value}</p>
-      <p className="mt-1 text-sm text-ink/60">{detail}</p>
+    <article className="rounded-lg border border-white/15 bg-white/10 p-3">
+      <p className="text-xs font-semibold uppercase tracking-normal text-sunlight">{label}</p>
+      <p className="mt-1 text-2xl font-semibold text-white">{value}</p>
+      <p className="mt-1 text-sm leading-5 text-white/70">{detail}</p>
     </article>
   );
 }
@@ -78,23 +85,31 @@ function SourceTile({ source }: { source: DataSourceRecord }) {
   );
 }
 
-function FeaturedCountyCard({ county }: { county: CountyRecord }) {
+function CompactFeaturedCountyCard({ county }: { county: CountyRecord }) {
   return (
-    <Link href={`/counties/${county.slug}`} className="card p-4 no-underline">
-      <p className="text-xs font-semibold uppercase tracking-normal text-river">{county.region}</p>
-      <h3 className="mt-2 text-xl font-semibold text-ink">{county.name} County</h3>
-      <dl className="mt-3 grid gap-2 text-sm">
-        <div className="flex items-center justify-between border-t border-ink/10 pt-3">
-          <dt className="text-ink/60">Impaired miles</dt>
-          <dd className="font-semibold text-ink">{county.streamMiles.impaired.toFixed(1)}</dd>
+    <Link
+      href={`/counties/${county.slug}`}
+      className="block rounded-md border border-ink/10 bg-sand/75 px-3 py-2 no-underline transition hover:border-gold/45 hover:bg-white"
+    >
+      <div className="flex items-start justify-between gap-3">
+        <div>
+          <p className="text-sm font-semibold text-ink">{county.name} County</p>
+          <p className="mt-0.5 text-xs text-ink/60">{county.region}</p>
         </div>
-        <div className="flex items-center justify-between border-t border-ink/10 pt-3">
-          <dt className="text-ink/60">Active permits</dt>
-          <dd className="font-semibold text-ink">{county.permittingSummary.activePermits}</dd>
+        <span className="shrink-0 text-xs font-semibold text-river">
+          {county.streamMiles.impaired.toFixed(1)} mi
+        </span>
+      </div>
+      <dl className="mt-2 grid grid-cols-2 gap-2 text-xs text-ink/65">
+        <div className="flex items-center justify-between gap-2">
+          <dt className="text-ink/60">Impaired</dt>
+          <dd className="font-semibold text-ink">{county.streamMiles.impaired.toFixed(1)} mi</dd>
         </div>
-        <div className="flex items-center justify-between border-t border-ink/10 pt-3">
-          <dt className="text-ink/60">Monitoring stations</dt>
-          <dd className="font-semibold text-ink">{county.monitoringSummary.stations}</dd>
+        <div className="flex items-center justify-between gap-2">
+          <dt className="text-ink/60">Permits</dt>
+          <dd className="font-semibold text-ink">
+            {county.permittingSummary.activePermits.toLocaleString()}
+          </dd>
         </div>
       </dl>
     </Link>
@@ -128,121 +143,120 @@ export default function HomePage() {
 
   return (
     <div className="shell space-y-6 py-6">
-      <section className="grid items-start gap-4 lg:grid-cols-[minmax(0,1fr)_22rem]">
-        <div className="card bg-gradient-to-br from-white to-mist p-5 md:p-6">
-          <div className="flex flex-wrap gap-2 text-xs font-semibold uppercase tracking-normal">
-            <span className="rounded-md bg-river px-3 py-2 text-white">Updated {latestRefresh}</span>
-            <span className="rounded-md border border-ink/10 px-3 py-2 text-ink/65">
-              {statewideCount} counties
-            </span>
-            <span className="rounded-md border border-ink/10 px-3 py-2 text-ink/65">
-              {sources.length} source records
-            </span>
-          </div>
-          <h1 className="mt-4 max-w-4xl text-3xl font-semibold tracking-normal text-ink sm:text-4xl">
-            Tennessee river health and policy watch
-          </h1>
-          <div className="mt-5 flex flex-wrap gap-3 text-sm font-semibold">
-            <Link
-              href="#map"
-              className="rounded-md bg-river px-4 py-3 text-white no-underline hover:bg-ink"
-            >
-              Open map
-            </Link>
-            <Link
-              href="/counties"
-              className="rounded-md border border-gold/35 bg-white/55 px-4 py-3 text-ink no-underline hover:border-gold hover:bg-gold/10"
-            >
-              Browse counties
-            </Link>
-            <Link
-              href="/sources"
-              className="rounded-md border border-gold/35 bg-white/55 px-4 py-3 text-ink no-underline hover:border-gold hover:bg-gold/10"
-            >
-              Verify sources
-            </Link>
-          </div>
-          <div className="mt-5 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
-            <MetricCard
-              label="Coverage"
-              value={formatNumber(statewideCount)}
-              detail="county pages"
-            />
-            <MetricCard
-              label="Impairment"
-              value={formatNumber(totalImpairedMiles)}
-              detail="county-summed stream miles"
-            />
-            <MetricCard
-              label="Permits"
-              value={formatNumber(totalActivePermits)}
-              detail="active water features"
-            />
-            <MetricCard
-              label="Monitoring"
-              value={formatNumber(totalMonitoringStations)}
-              detail="station records"
-            />
-          </div>
+      <section className="card border-river/30 bg-ink p-5 text-white md:p-6">
+        <div className="flex flex-wrap gap-2 text-xs font-semibold uppercase tracking-normal">
+          <span className="rounded-md bg-river px-3 py-2 text-white">Updated {latestRefresh}</span>
+          <span className="rounded-md border border-white/15 bg-white/10 px-3 py-2 text-white/75">
+            {statewideCount} counties
+          </span>
+          <span className="rounded-md border border-white/15 bg-white/10 px-3 py-2 text-white/75">
+            {sources.length} source records
+          </span>
+        </div>
+        <h1 className="mt-4 max-w-4xl text-3xl font-bold tracking-normal text-white sm:text-4xl">
+          Harpeth Conservancy&apos;s Water Policy Watch
+        </h1>
+        <p className="mt-3 max-w-3xl text-sm leading-7 text-white/70">
+          County-level water quality, permitting, monitoring, and policy context from public
+          Tennessee and federal datasets.
+        </p>
+        <div className="mt-5 flex flex-wrap gap-3 text-sm font-semibold">
+          <Link
+            href="/counties"
+            className="rounded-md bg-sunlight px-4 py-3 text-ink no-underline hover:bg-white"
+          >
+            Browse counties
+          </Link>
+          <Link
+            href="/sources"
+            className="rounded-md border border-white/20 bg-white/10 px-4 py-3 text-white no-underline hover:border-white/45 hover:bg-white/15"
+          >
+            Verify sources
+          </Link>
+        </div>
+        <div className="mt-5 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+          <MetricCard
+            label="County coverage"
+            value={formatNumber(statewideCount)}
+            detail="County profiles generated from the same statewide data contracts."
+          />
+          <MetricCard
+            label="Impaired streams"
+            value={formatNumber(totalImpairedMiles)}
+            detail="County-summed 2026 impaired river and stream miles; shared waters may repeat."
+          />
+          <MetricCard
+            label="Water permits"
+            value={formatNumber(totalActivePermits)}
+            detail="Active permitted water features summarized from the local TDEC layer."
+          />
+          <MetricCard
+            label="Monitoring records"
+            value={formatNumber(totalMonitoringStations)}
+            detail="Water monitoring stations associated with county-level DWR map layers."
+          />
+        </div>
+      </section>
+
+      <section className="grid items-start gap-4 lg:grid-cols-[20rem_minmax(0,1fr)]">
+        <div className="order-1 min-w-0 lg:order-2">
+          <TennesseeMap counties={counties} countyDetails={countyDetails} />
         </div>
 
-        <aside className="card p-4">
-          <div className="flex items-center justify-between gap-4">
-            <div>
-              <p className="text-xs font-semibold uppercase tracking-normal text-river">
-                Source stack
-              </p>
-              <h2 className="mt-1 text-xl font-semibold">Primary feeds</h2>
-            </div>
-            <Link href="/sources" className="text-sm font-medium">
-              Full registry
-            </Link>
+        <aside className="order-2 space-y-4 lg:order-1">
+          <div className="card p-4">
+            <p className="text-xs font-semibold uppercase tracking-normal text-river">Snapshot</p>
+            <h2 className="mt-1 text-lg font-semibold">Highest impaired-mile counties</h2>
+            <ol className="mt-4 space-y-3 text-sm">
+              {highestImpairmentCounties.map((county, index) => (
+                <li key={county.slug} className="flex items-center justify-between gap-4">
+                  <Link href={`/counties/${county.slug}`} className="font-medium text-ink no-underline">
+                    {index + 1}. {county.name}
+                  </Link>
+                  <span className="text-ink/65">{county.streamMiles.impaired.toFixed(1)} mi</span>
+                </li>
+              ))}
+            </ol>
           </div>
-          <div className="mt-3 max-h-[22rem] overflow-auto pr-1">
-            {primarySources.map((source) => (
-              <SourceTile key={source.dataset} source={source} />
-            ))}
+
+          <div className="card p-4">
+            <div className="flex items-center justify-between gap-4">
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-normal text-river">
+                  Featured counties
+                </p>
+                <h2 className="mt-1 text-lg font-semibold">Fast county reads</h2>
+              </div>
+              <Link href="/counties" className="text-sm font-medium">
+                All counties
+              </Link>
+            </div>
+            <div className="mt-3 space-y-2">
+              {featuredCountyDetails.map((county) => (
+                <CompactFeaturedCountyCard key={county.slug} county={county} />
+              ))}
+            </div>
           </div>
         </aside>
       </section>
 
-      <TennesseeMap counties={counties} countyDetails={countyDetails} />
-
-      <section className="grid items-start gap-5 lg:grid-cols-[minmax(0,1fr)_22rem]">
-        <div className="space-y-3">
-          <div className="flex items-end justify-between gap-4">
-            <div>
-              <p className="text-xs font-semibold uppercase tracking-normal text-river">
-                Featured counties
-              </p>
-              <h2 className="mt-1 text-2xl font-semibold">Fast county reads</h2>
-            </div>
-            <Link href="/counties" className="text-sm font-medium">
-              All counties
-            </Link>
+      <section className="card p-4">
+        <div className="flex flex-wrap items-center justify-between gap-4">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-normal text-river">
+              Source stack
+            </p>
+            <h2 className="mt-1 text-xl font-semibold">Primary feeds</h2>
           </div>
-          <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-4">
-            {featuredCountyDetails.map((county) => (
-              <FeaturedCountyCard key={county.slug} county={county} />
-            ))}
-          </div>
+          <Link href="/sources" className="text-sm font-medium">
+            Full registry
+          </Link>
         </div>
-
-        <aside className="card p-4">
-          <p className="text-xs font-semibold uppercase tracking-normal text-river">
-            Highest impaired-mile snapshots
-          </p>
-          <ol className="mt-4 space-y-3 text-sm">
-            {highestImpairmentCounties.map((county, index) => (
-              <li key={county.slug} className="flex items-center justify-between gap-4">
-                <Link href={`/counties/${county.slug}`} className="font-medium text-ink no-underline">
-                  {index + 1}. {county.name}
-                </Link>
-                <span className="text-ink/65">{county.streamMiles.impaired.toFixed(1)} mi</span>
-              </li>
-            ))}
-          </ol>
-        </aside>
+        <div className="mt-3 grid gap-x-6 md:grid-cols-2 xl:grid-cols-4">
+          {primarySources.map((source) => (
+            <SourceTile key={source.dataset} source={source} />
+          ))}
+        </div>
       </section>
     </div>
   );

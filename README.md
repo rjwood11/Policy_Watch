@@ -160,24 +160,31 @@ The project uses `output: "export"` in `next.config.mjs`, so `next build` emits 
 
 - `.github/workflows/ci.yml` runs `npm run lint` and `npm run build` for pull requests and manual checks.
 - `.github/workflows/deploy.yml` runs on pushes to `main`, manual dispatch, and every Monday at `10:17 UTC`.
-- The deploy workflow runs `npm run data:refresh-weekly` before `npm run build`, so the published static artifact includes the latest generated ECHO/TDEC cache.
+- The deploy workflow runs `npm run data:refresh-weekly` before `npm run build`, so the published static artifact includes the latest generated TDEC cache and any updated ECHO cache.
 - Manual deploys include a `refresh_live_layers` toggle. Leave it on for production deploys; turn it off only when testing build/deploy behavior without external data calls.
+- `.github/workflows/refresh-echo-cache.yml` runs every Tuesday at `11:42 UTC` and can be run manually. It refreshes only ECHO, then commits the ECHO cache files when their contents actually change.
 
 ## Weekly Dynamic Data Cache
 
-Most datasets remain committed static JSON and GeoJSON under `public/data`. The volatile county-map layers are generated during deployment:
+Most datasets remain committed static JSON and GeoJSON under `public/data`. ECHO violation files are also committed because they are small, change infrequently, and keep county maps useful when the EPA ECHO service is unavailable. TDEC permit files remain generated during deployment because they are larger and change more often:
 
 - `public/data/weekly/{county}/tdec-permits.geojson`
 - `public/data/weekly/{county}/echo-violations.geojson`
 - `public/data/weekly/manifest.json`
 
-Those generated files are ignored by git. County maps load them first and fall back to the live public services when a cache file is missing.
+County maps load cached files first and fall back to the live public services when a cache file is missing. A failed ECHO refresh leaves the last committed ECHO cache in place.
 
 To test one county locally:
 
 ```bash
 npm run data:refresh-weekly -- --county davidson --strict
 npm run dev
+```
+
+To refresh only the committed ECHO cache:
+
+```bash
+npm run data:refresh-echo -- --strict
 ```
 
 ## Current Prototype Scope
@@ -200,7 +207,7 @@ npm run dev
 - `public/data/metadata/last-updated.json`
 - `public/data/search/search-index.json`
 - `public/data/weekly/{slug}/tdec-permits.geojson` generated during deployment
-- `public/data/weekly/{slug}/echo-violations.geojson` generated during deployment
+- `public/data/weekly/{slug}/echo-violations.geojson` committed as the stale-safe ECHO cache
 
 These contracts are intentionally production-portable. A later pipeline can generate the same outputs from PostGIS and scheduled ETL without forcing major frontend changes.
 

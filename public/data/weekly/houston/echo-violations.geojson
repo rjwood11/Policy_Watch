@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ERIN STP / WWTP",
+        "SourceID": "TN0064882",
+        "RegistryID": "110009706684",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.367251",
+        "FacLong": "-87.654095",
+        "PermitName": "City of Erin",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "7",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VV___VVVV___V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "5",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0064882",
+        "echo_display_name": "ERIN STP / WWTP",
+        "echo_violation_count": 7.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706684",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.654095,
+          36.367251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "IMI TENNESSEE, LLC DBA IMI TN, LLC - CUMBERLAND CITY",
+        "SourceID": "TNG110238",
+        "RegistryID": "110009789719",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.372671",
+        "FacLong": "-87.645836",
+        "PermitName": "IMI Tennessee, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______VS_____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "4",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110238",
+        "echo_display_name": "IMI TENNESSEE, LLC DBA IMI TN, LLC - CUMBERLAND CITY",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789719",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.645836,
+          36.372671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "YELLOW CREEK STONE QUARRY",
+        "SourceID": "TN0070661",
+        "RegistryID": "110071074442",
+        "CWPNAICSCodes": null,
+        "FacLat": "36.29241",
+        "FacLong": "-87.56064",
+        "PermitName": "Nate Pulley dba Yellow Creek Stone",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "3",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "SSS_______VVV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0070661",
+        "echo_display_name": "YELLOW CREEK STONE QUARRY",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071074442",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56064,
+          36.29241
+        ]
+      }
+    }
+  ]
+}

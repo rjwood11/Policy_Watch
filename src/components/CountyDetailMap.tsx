@@ -964,8 +964,8 @@ function addCountyMapLayers(map: MapLibreMap) {
       "line-width": [
         "case",
         ["==", ["get", "isimpaired"], "Y"],
-        4.1,
-        3
+        2.6,
+        1.8
       ]
     }
   });
@@ -1380,7 +1380,13 @@ function LayerToggle({
   );
 }
 
-function CountyDetailMapView({ map }: { map: CountyMapRecord }) {
+function CountyDetailMapView({
+  echoUpdatedAt,
+  map
+}: {
+  echoUpdatedAt?: string;
+  map: CountyMapRecord;
+}) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<MapLibreMap | null>(null);
   const popupRef = useRef<maplibregl.Popup | null>(null);
@@ -1527,15 +1533,18 @@ function CountyDetailMapView({ map }: { map: CountyMapRecord }) {
       try {
         const cachedEchoViolations = await loadCachedWeeklyLayer(map.slug, "echo-violations.geojson");
         const echoCollection = cachedEchoViolations ?? (await loadEchoViolations(map.name));
+        const storedCacheLabel = echoUpdatedAt
+          ? ` from stored ECHO cache updated ${echoUpdatedAt}`
+          : " from stored ECHO cache";
         if (!cancelled) {
           setEchoViolations(echoCollection);
           setEchoStatusLabel(
             echoCollection.features.length === 0
               ? `No active ECHO CWA permits with recent noncompliance returned${
-                  cachedEchoViolations ? " from weekly cache" : " from live ECHO service"
+                  cachedEchoViolations ? storedCacheLabel : " from live ECHO service"
                 }`
               : `${echoCollection.features.length.toLocaleString()} ECHO CWA permits with recent noncompliance` +
-                  (cachedEchoViolations ? " from weekly cache" : " from live ECHO service")
+                  (cachedEchoViolations ? storedCacheLabel : " from live ECHO service")
           );
         }
       } catch {
@@ -1550,7 +1559,7 @@ function CountyDetailMapView({ map }: { map: CountyMapRecord }) {
     return () => {
       cancelled = true;
     };
-  }, [countyBounds, map]);
+  }, [countyBounds, echoUpdatedAt, map]);
 
   useEffect(() => {
     const mapInstance = mapRef.current;
@@ -1935,15 +1944,15 @@ function CountyDetailMapView({ map }: { map: CountyMapRecord }) {
             <p className="text-xs uppercase tracking-normal text-white/70">Legend</p>
             <ul className="mt-4 space-y-3 text-sm">
               <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[4px] border-[#c6283e]" /> Polluted</span>
+                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#c6283e]" /> Polluted</span>
                 <span>{epaStats.polluted}</span>
               </li>
               <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[4px] border-[#2e7d4f]" /> Good</span>
+                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#2e7d4f]" /> Good</span>
                 <span>{epaStats.good}</span>
               </li>
               <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[4px] border-[#7554a1]" /> Unassessed</span>
+                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#7554a1]" /> Unassessed</span>
                 <span>{epaStats.unassessed}</span>
               </li>
               <li className="flex items-center justify-between gap-3">
@@ -1973,7 +1982,15 @@ function CountyDetailMapView({ map }: { map: CountyMapRecord }) {
   );
 }
 
-export function CountyDetailMap({ slug, name }: { slug: string; name: string }) {
+export function CountyDetailMap({
+  echoUpdatedAt,
+  slug,
+  name
+}: {
+  echoUpdatedAt?: string;
+  slug: string;
+  name: string;
+}) {
   const [map, setMap] = useState<CountyMapRecord | null>(null);
   const [loadFailed, setLoadFailed] = useState(false);
 
@@ -2008,7 +2025,7 @@ export function CountyDetailMap({ slug, name }: { slug: string; name: string }) 
   }, [slug]);
 
   if (map) {
-    return <CountyDetailMapView map={map} />;
+    return <CountyDetailMapView echoUpdatedAt={echoUpdatedAt} map={map} />;
   }
 
   return (

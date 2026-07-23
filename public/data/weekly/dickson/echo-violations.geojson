@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CHEATHAM HYDRO POWER PLANT",
+        "SourceID": "TN0068144",
+        "RegistryID": "110009706791",
+        "CWPNAICSCodes": "221111",
+        "FacLat": "36.319168",
+        "FacLong": "-87.225605",
+        "PermitName": "U.S. Army Corps of Engineers (USACE)",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUUU_______V_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0068144",
+        "echo_display_name": "CHEATHAM HYDRO POWER PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009706791",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.225605,
+          36.319168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "LOVE'S TRAVEL STOPS AND COUNTRY STORES, INC. DBA LOVE'S TRAVEL STOP #369",
+        "SourceID": "TN0080178",
+        "RegistryID": "110056163574",
+        "CWPNAICSCodes": "447110",
+        "FacLat": "36.149872",
+        "FacLong": "-87.35596",
+        "PermitName": "Love's Travel Stops and Country Stores, Inc.",
+        "CWPSNCStatus": "Effluent - Monthly Average Limit",
+        "CWPVioStatus": "Effluent - Monthly Average Limit",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "9",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": "SNC Effluent Violation Monthly Average",
+        "CWP13qtrsComplHistory": "VS_V_V_VS_SSV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "15",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0080178",
+        "echo_display_name": "LOVE'S TRAVEL STOPS AND COUNTRY STORES, INC. DBA LOVE'S TRAVEL STOP #369",
+        "echo_violation_count": 9.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "SNC Effluent Violation Monthly Average (03/31/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110056163574",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.35596,
+          36.149872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE READY MIX - DICKSON PLANT",
+        "SourceID": "TNG110205",
+        "RegistryID": "110006691384",
+        "CWPNAICSCodes": "327320",
+        "FacLat": "36.04595",
+        "FacLong": "-87.34177",
+        "PermitName": "Nashville Ready Mix of Dickson, LLC",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "5",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVV________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TNG110205",
+        "echo_display_name": "NASHVILLE READY MIX - DICKSON PLANT",
+        "echo_violation_count": 5.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 8 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006691384",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34177,
+          36.04595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WATER AUTHORITY OF DICKSON COUNTY -JONES CREEK STP",
+        "SourceID": "TN0066958",
+        "RegistryID": "110006518385",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.103463",
+        "FacLong": "-87.317135",
+        "PermitName": "Water Authority of Dickson County",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "12",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVVVVVVVVVV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "24",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0066958",
+        "echo_display_name": "WATER AUTHORITY OF DICKSON COUNTY -JONES CREEK STP",
+        "echo_violation_count": 12.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006518385",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.317135,
+          36.103463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "WHITE BLUFF WWTP (AKA WATER AUTHORITY OF DICKSON COUNTY)",
+        "SourceID": "TN0020460",
+        "RegistryID": "110022874772",
+        "CWPNAICSCodes": "221320",
+        "FacLat": "36.106448",
+        "FacLong": "-87.216675",
+        "PermitName": "Water Authority of Dickson County",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "03/31/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_______VVV__V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "EffExceeds": "5",
+        "VioLastYear": "1",
+        "ElectrRptWaiverEffDate": null,
+        "echo_source_id": "TN0020460",
+        "echo_display_name": "WHITE BLUFF WWTP (AKA WATER AUTHORITY OF DICKSON COUNTY)",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Yes",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110022874772",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.216675,
+          36.106448
+        ]
+      }
+    }
+  ]
+}

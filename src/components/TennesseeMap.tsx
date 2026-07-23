@@ -18,6 +18,8 @@ type GeoJsonCollection = {
   features: GeoJsonFeature[];
 };
 
+type WatershedMode = "huc4" | "huc6" | "huc8";
+
 type ViewBox = {
   minLon: number;
   maxLon: number;
@@ -25,9 +27,14 @@ type ViewBox = {
   maxLat: number;
 };
 
-const WIDTH = 820;
-const HEIGHT = 220;
-const PADDING = 14;
+const WIDTH = 960;
+const HEIGHT = 315;
+const PADDING = 18;
+const WATERSHED_MODES: Array<{ key: WatershedMode; label: string; detail: string }> = [
+  { key: "huc4", label: "HUC4", detail: "regional basins" },
+  { key: "huc6", label: "HUC6", detail: "subbasins" },
+  { key: "huc8", label: "HUC8", detail: "catalog units" }
+];
 
 function flattenCoordinates(feature: GeoJsonFeature): number[][] {
   if (feature.geometry.type === "Polygon") {
@@ -86,6 +93,83 @@ function featurePath(feature: GeoJsonFeature, viewBox: ViewBox) {
     .join(" ");
 }
 
+function watershedCode(feature: GeoJsonFeature, mode: WatershedMode) {
+  const huc8 = String(feature.properties.huc8 ?? "");
+  const length = mode === "huc4" ? 4 : mode === "huc6" ? 6 : 8;
+  return huc8.slice(0, length) || "unknown";
+}
+
+function watershedName(feature: GeoJsonFeature) {
+  return String(feature.properties.name ?? "Watershed").trim() || "Watershed";
+}
+
+function watershedArea(feature: GeoJsonFeature) {
+  const parsed = Number(feature.properties.areasqkm ?? 0);
+  return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function representativeWatershedName(names: Map<string, number>) {
+  const sorted = Array.from(names.entries()).sort((a, b) => b[1] - a[1]);
+  return sorted[0]?.[0] ?? "Watershed";
+}
+
+function splitWatershedLabel(label: string, maxLength: number) {
+  const words = label.replaceAll("-", " - ").split(/\s+/).filter(Boolean);
+  const lines: string[] = [];
+
+  words.forEach((word) => {
+    const current = lines[lines.length - 1] ?? "";
+    const next = current ? `${current} ${word}` : word;
+
+    if (next.length <= maxLength || current.length === 0) {
+      lines[lines.length - 1] = next;
+      return;
+    }
+
+    lines.push(word);
+  });
+
+  return lines.slice(0, 3);
+}
+
+function watershedLabelPositions(
+  collection: GeoJsonCollection | null,
+  mode: WatershedMode,
+  viewBox: ViewBox | null
+) {
+  if (!collection || !viewBox) {
+    return [];
+  }
+
+  const groups = new Map<string, { points: number[][]; names: Map<string, number> }>();
+  collection.features.forEach((feature) => {
+    const code = watershedCode(feature, mode);
+    const current = groups.get(code) ?? { points: [], names: new Map<string, number>() };
+    const name = watershedName(feature);
+
+    current.points.push(...flattenCoordinates(feature));
+    current.names.set(name, (current.names.get(name) ?? 0) + watershedArea(feature));
+    groups.set(code, current);
+  });
+
+  return Array.from(groups.entries())
+    .map(([code, group]) => {
+      const points = group.points;
+      const usablePoints = points.filter((point) => Number.isFinite(point[0]) && Number.isFinite(point[1]));
+      const lon = usablePoints.reduce((total, point) => total + point[0], 0) / usablePoints.length;
+      const lat = usablePoints.reduce((total, point) => total + point[1], 0) / usablePoints.length;
+      const projected = projectPoint(lon, lat, viewBox);
+      return {
+        code,
+        label: representativeWatershedName(group.names),
+        x: projected.x,
+        y: projected.y
+      };
+    })
+    .filter((label) => Number.isFinite(label.x) && Number.isFinite(label.y))
+    .sort((a, b) => a.code.localeCompare(b.code));
+}
+
 export function TennesseeMap({
   counties,
   countyDetails
@@ -99,6 +183,7 @@ export function TennesseeMap({
   const [hoveredCounty, setHoveredCounty] = useState<string | null>(null);
   const [selectedCounty, setSelectedCounty] = useState<string | null>(null);
   const [searchTerm, setSearchTerm] = useState("");
+  const [watershedMode, setWatershedMode] = useState<WatershedMode>("huc6");
 
   useEffect(() => {
     let cancelled = false;
@@ -144,37 +229,66 @@ export function TennesseeMap({
     }
     return computeViewBox(countyLayer);
   }, [countyLayer]);
-
-  const featuredCounties = useMemo(() => counties.filter((county) => county.isFeatured), [counties]);
+  const watershedLabels = useMemo(
+    () => watershedLabelPositions(huc8Layer, watershedMode, viewBox),
+    [huc8Layer, viewBox, watershedMode]
+  );
 
   return (
     <section id="map" className="card scroll-mt-6 overflow-hidden">
-      <div className="flex flex-col gap-3 border-b border-ink/10 p-5 sm:flex-row sm:items-center sm:justify-between">
+      <div className="border-b border-ink/10 p-5">
         <div>
           <p className="text-xs font-semibold uppercase tracking-normal text-river">Statewide map</p>
-          <h2 className="mt-1 text-2xl font-semibold">Counties and HUC8 watersheds</h2>
-        </div>
-        <div className="flex flex-wrap gap-2 text-xs font-medium text-ink/65">
-          <span className="rounded-md border border-ink/10 px-3 py-2">County boundaries</span>
-          <span className="rounded-md border border-ink/10 px-3 py-2">Watershed layer</span>
+          <h2 className="mt-1 text-2xl font-semibold">County water-health view</h2>
         </div>
       </div>
-      <div className="grid gap-5 p-5 lg:grid-cols-[minmax(0,1.45fr)_20rem]">
-        <div className="relative rounded-lg border border-ink/10 bg-foam p-2">
+      <div className="grid gap-4 p-4 lg:grid-cols-[minmax(0,1fr)_18rem]">
+        <div className="relative rounded-lg border border-ink/15 bg-[#dbe7de] p-2">
           {countyLayer && huc8Layer && viewBox ? (
             <>
-              <svg viewBox={`0 0 ${WIDTH} ${HEIGHT}`} className="h-auto w-full rounded-md bg-[#fbfaf5]">
+              <svg viewBox={`0 0 ${WIDTH} ${HEIGHT}`} className="h-auto w-full rounded-md bg-[#eef2e4]">
                 {huc8Layer.features.map((feature, index) => (
                   <path
                     key={`huc8-${index}`}
                     d={featurePath(feature, viewBox)}
-                    fill="#e6ede8"
-                    fillOpacity="0.58"
-                    stroke="#6f8f5f"
-                    strokeOpacity="0.5"
-                    strokeWidth="1"
+                    fill="#d5e4d8"
+                    fillOpacity={watershedMode === "huc8" ? "0.78" : "0.6"}
+                    stroke="#547a5b"
+                    strokeOpacity={watershedMode === "huc8" ? "0.82" : "0.58"}
+                    strokeWidth={watershedMode === "huc8" ? "1.45" : "1.1"}
                   />
                 ))}
+                {watershedLabels.map((label) => {
+                  const lines = splitWatershedLabel(label.label, watershedMode === "huc8" ? 15 : 20);
+
+                  return (
+                    <text
+                      key={label.code}
+                      x={label.x}
+                      y={label.y}
+                      textAnchor="middle"
+                      dominantBaseline="middle"
+                      fill="#28443c"
+                      fillOpacity="0.58"
+                      stroke="#eef2e4"
+                      strokeWidth="3"
+                      paintOrder="stroke"
+                      fontSize={watershedMode === "huc4" ? "14" : watershedMode === "huc6" ? "11" : "7.5"}
+                      fontWeight="700"
+                      style={{ pointerEvents: "none" }}
+                    >
+                      {lines.map((line, index) => (
+                        <tspan
+                          key={`${label.code}-${line}-${index}`}
+                          x={label.x}
+                          dy={index === 0 ? `${(1 - lines.length) * 0.55}em` : "1.08em"}
+                        >
+                          {line}
+                        </tspan>
+                      ))}
+                    </text>
+                  );
+                })}
                 {countyLayer.features.map((feature) => {
                   const countyName = String(feature.properties.NAME);
                   const county = countyLookup[countyName];
@@ -184,10 +298,10 @@ export function TennesseeMap({
                     <g key={`county-${String(feature.properties.GEOID)}`}>
                       <path
                         d={featurePath(feature, viewBox)}
-                        fill={isActive ? "#3b6e63" : "rgba(255,255,255,0.14)"}
-                        stroke="#2f3834"
-                        strokeOpacity={isActive ? "0.92" : "0.82"}
-                        strokeWidth={isActive ? "2.15" : "1.4"}
+                        fill={isActive ? "#244f45" : "rgba(255,255,255,0.3)"}
+                        stroke="#25312d"
+                        strokeOpacity={isActive ? "0.96" : "0.78"}
+                        strokeWidth={isActive ? "2.3" : "1.25"}
                         className="cursor-pointer transition-all"
                         onMouseEnter={() => setHoveredCounty(countyName)}
                         onMouseLeave={() => setHoveredCounty((current) => (current === countyName ? null : current))}
@@ -204,13 +318,37 @@ export function TennesseeMap({
               </svg>
             </>
           ) : (
-            <div className="flex min-h-[220px] items-center justify-center rounded-md bg-white text-sm text-ink/60">
+            <div className="flex min-h-[260px] items-center justify-center rounded-md bg-white text-sm text-ink/60">
               Loading Tennessee layers...
             </div>
           )}
         </div>
 
         <aside className="space-y-3">
+          <div className="rounded-lg border border-ink/10 bg-white p-4">
+            <p className="text-xs font-semibold uppercase tracking-normal text-river">Watershed view</p>
+            <div className="mt-3 grid grid-cols-3 gap-1 rounded-md bg-sand p-1">
+              {WATERSHED_MODES.map((mode) => {
+                const isActive = watershedMode === mode.key;
+                return (
+                  <button
+                    key={mode.key}
+                    type="button"
+                    className={`rounded px-2 py-2 text-center text-xs font-semibold transition ${
+                      isActive ? "bg-river text-white" : "text-ink/70 hover:bg-white"
+                    }`}
+                    onClick={() => setWatershedMode(mode.key)}
+                  >
+                    {mode.label}
+                  </button>
+                );
+              })}
+            </div>
+            <p className="mt-2 text-xs leading-5 text-ink/60">
+              Showing {WATERSHED_MODES.find((mode) => mode.key === watershedMode)?.detail}.
+            </p>
+          </div>
+
           <div className="rounded-lg border border-ink/10 bg-white p-4">
             <p className="text-xs font-semibold uppercase tracking-normal text-river">Selected county</p>
             <h3 className="mt-2 text-lg font-semibold text-ink">
@@ -277,30 +415,18 @@ export function TennesseeMap({
             ) : null}
           </div>
 
-          <div className="rounded-lg bg-ink p-4 text-white">
-            <p className="text-xs font-semibold uppercase tracking-normal text-white/70">Legend</p>
-            <ul className="mt-3 space-y-2 text-sm">
-              <li className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm bg-mist" /> Watershed background</li>
-              <li className="flex items-center gap-3"><span className="h-0 w-6 border-t-2 border-ink" /> County boundary</li>
-              <li className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm bg-river" /> Active county highlight</li>
-            </ul>
-          </div>
-
           <div className="rounded-lg border border-ink/10 bg-white p-4">
-            <p className="text-xs font-semibold uppercase tracking-normal text-river">Featured counties</p>
+            <p className="text-xs font-semibold uppercase tracking-normal text-river">Legend</p>
             <ul className="mt-3 space-y-2 text-sm">
-              {featuredCounties.map((county) => (
-                <li key={county.slug}>
-                  <button
-                    type="button"
-                    className="w-full rounded-md border border-ink/10 bg-sand px-4 py-3 text-left transition hover:border-gold/45"
-                    onClick={() => router.push(`/counties/${county.slug}`)}
-                  >
-                    <span className="block font-medium text-ink">{county.name} County</span>
-                    <span className="block text-xs text-ink/60">{county.region}</span>
-                  </button>
-                </li>
-              ))}
+              <li className="flex items-center gap-3">
+                <span className="h-4 w-4 rounded-sm border border-[#547a5b] bg-[#d5e4d8]" /> Watershed background
+              </li>
+              <li className="flex items-center gap-3">
+                <span className="h-0 w-6 border-t-2 border-[#25312d]" /> County boundary
+              </li>
+              <li className="flex items-center gap-3">
+                <span className="h-4 w-4 rounded-sm bg-[#244f45]" /> Active county highlight
+              </li>
             </ul>
           </div>
         </aside>

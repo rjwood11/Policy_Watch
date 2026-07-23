@@ -12,3 +12,6 @@ data/raw/*
 !data/raw/.gitkeep
 public/data/weekly/*
 !public/data/weekly/README.md
+!public/data/weekly/*/
+public/data/weekly/*/*
+!public/data/weekly/*/echo-violations.geojson
