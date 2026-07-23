@@ -231,9 +231,9 @@ export default async function CountyPage({
       </div>
 
       <section className="grid gap-6 lg:grid-cols-[1.15fr_0.85fr]">
-        <div className="card border-river/30 bg-ink p-7 text-white">
-          <h1 className="text-4xl font-bold tracking-normal">{county.name} County</h1>
-          <p className="mt-3 text-base font-semibold text-sunlight">
+        <div className="card border-river/30 bg-ink p-7 text-white md:p-8">
+          <h1 className="text-5xl font-bold leading-tight tracking-normal sm:text-6xl">{county.name} County</h1>
+          <p className="mt-3 text-lg font-semibold text-sunlight">
             {countyRegionSubtitle(county)}
           </p>
           <p className="mt-4 max-w-3xl text-sm leading-7 text-white/70">{county.overview}</p>

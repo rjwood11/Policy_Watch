@@ -143,8 +143,15 @@ export default function HomePage() {
 
   return (
     <div className="shell space-y-6 py-6">
-      <section className="card border-river/30 bg-ink p-5 text-white md:p-6">
-        <div className="flex flex-wrap gap-2 text-xs font-semibold uppercase tracking-normal">
+      <section className="card border-river/30 bg-ink p-6 text-white md:p-8">
+        <h1 className="max-w-5xl text-4xl font-bold leading-tight tracking-normal text-white sm:text-5xl lg:text-6xl">
+          Harpeth Conservancy&apos;s Water Policy Watch
+        </h1>
+        <p className="mt-4 max-w-3xl text-base leading-7 text-white/75">
+          County-level water quality, permitting, monitoring, and policy context from public
+          Tennessee and federal datasets.
+        </p>
+        <div className="mt-6 flex flex-wrap gap-2 text-xs font-semibold uppercase tracking-normal">
           <span className="rounded-md bg-river px-3 py-2 text-white">Updated {latestRefresh}</span>
           <span className="rounded-md border border-white/15 bg-white/10 px-3 py-2 text-white/75">
             {statewideCount} counties
@@ -153,13 +160,6 @@ export default function HomePage() {
             {sources.length} source records
           </span>
         </div>
-        <h1 className="mt-4 max-w-4xl text-3xl font-bold tracking-normal text-white sm:text-4xl">
-          Harpeth Conservancy&apos;s Water Policy Watch
-        </h1>
-        <p className="mt-3 max-w-3xl text-sm leading-7 text-white/70">
-          County-level water quality, permitting, monitoring, and policy context from public
-          Tennessee and federal datasets.
-        </p>
         <div className="mt-5 flex flex-wrap gap-3 text-sm font-semibold">
           <Link
             href="/counties"
