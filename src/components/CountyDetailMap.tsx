@@ -15,7 +15,9 @@ import type {
   Position
 } from "geojson";
 import type { CountyMapRecord } from "@/lib/data";
+import { loadCountyLandUse, sampleLandUse, type LoadedLandUse } from "@/lib/landuse";
 import { TENNESSEE_LEGISLATORS, tennesseeLegislatorUrl } from "@/lib/tennesseeLegislators";
+import { assetPath } from "@/lib/assetPath";
 
 type Bounds = {
   minLon: number;
@@ -24,7 +26,7 @@ type Bounds = {
   maxLat: number;
 };
 
-type LayerKey = "watershed" | "districts" | "impaired" | "permits" | "echo";
+type LayerKey = "watershed" | "utilities" | "protected" | "landfills" | "superfund" | "landuse" | "districts" | "impaired" | "permits" | "echo";
 type MapFilter = Parameters<MapLibreMap["setFilter"]>[1];
 
 type AddressCandidate = {
@@ -114,8 +116,28 @@ const TNMAP_LOCATOR_URL =
   "https://tnmap.tn.gov/arcgis/rest/services/LOCATORS/TN_COMPOSITE/GeocodeServer/findAddressCandidates";
 
 const LAYER_GROUPS: Record<LayerKey, string[]> = {
+  landuse: ["landuse-raster"],
+  superfund: ["superfund-sites"],
   watershed: ["watershed-fill", "watershed-line", "watershed-hover-fill", "watershed-hover-line"],
+  utilities: [
+    "utility-fill",
+    "utility-line",
+    "utility-hit-fill",
+    "utility-hover-fill",
+    "utility-hover-line"
+  ],
+  protected: [
+    "protected-area-fill",
+    "protected-area-line",
+    "protected-area-hit-fill",
+    "protected-area-hover-fill",
+    "protected-area-hover-line"
+  ],
+  landfills: ["landfill-inactive", "landfill-pending", "landfill-active", "landfill-hover"],
   districts: [
+    "congressional-fill",
+    "senate-fill",
+    "house-fill",
     "congressional-line",
     "senate-line",
     "house-line",
@@ -132,11 +154,17 @@ const LAYER_GROUPS: Record<LayerKey, string[]> = {
 };
 
 const INTERACTIVE_LAYERS = [
+  "superfund-sites",
   "echo-current-violation",
   "echo-recent-violation",
+  "landfill-active",
+  "landfill-pending",
+  "landfill-inactive",
   "permit-active",
   "permit-pending",
   "epa-impairment-line",
+  "protected-area-hit-fill",
+  "utility-hit-fill",
   "house-hit-fill",
   "senate-hit-fill",
   "congressional-hit-fill",
@@ -151,6 +179,11 @@ const DISTRICT_HOVER_LAYERS = [
 
 const HOVER_LAYERS = [
   ...DISTRICT_HOVER_LAYERS,
+  "landfill-active",
+  "landfill-pending",
+  "landfill-inactive",
+  "protected-area-hit-fill",
+  "utility-hit-fill",
   "watershed-fill"
 ];
 
@@ -322,6 +355,23 @@ function propertyNumber(properties: GeoJsonProperties | null | undefined, key: s
 
   const parsed = Number.parseFloat(String(value ?? "").replaceAll(",", ""));
   return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function propertyOptionalNumber(properties: GeoJsonProperties | null | undefined, key: string) {
+  const value = properties?.[key];
+  if (value === null || value === undefined || value === "") {
+    return null;
+  }
+  if (typeof value === "number" && Number.isFinite(value)) {
+    return value;
+  }
+
+  const parsed = Number.parseFloat(String(value).replaceAll(",", ""));
+  return Number.isFinite(parsed) ? parsed : null;
+}
+
+function formatLineCount(value: number | null) {
+  return value === null ? "Not listed" : Math.round(value).toLocaleString();
 }
 
 function flagIsYes(value: unknown) {
@@ -637,7 +687,7 @@ async function fetchGeoJson(url: string, params: URLSearchParams) {
 }
 
 async function loadCachedWeeklyLayer(slug: string, filename: string) {
-  const response = await fetch(`/data/weekly/${slug}/${filename}`);
+  const response = await fetch(assetPath(`/data/weekly/${slug}/${filename}`));
   if (!response.ok) {
     return null;
   }
@@ -825,6 +875,106 @@ function addCountyMapLayers(map: MapLibreMap) {
     }
   });
   ensureLayer(map, {
+    id: "utility-fill",
+    type: "fill",
+    source: "water-utilities",
+    paint: {
+      "fill-color": [
+        "match",
+        ["get", "source_group"],
+        "surface",
+        "#2e7d9a",
+        "groundwater",
+        "#6f8f5f",
+        "mixed",
+        "#af8401",
+        "#8a9890"
+      ],
+      "fill-opacity": 0.26
+    }
+  });
+  ensureLayer(map, {
+    id: "utility-line",
+    type: "line",
+    source: "water-utilities",
+    paint: {
+      "line-color": [
+        "match",
+        ["get", "source_group"],
+        "surface",
+        "#1f5f78",
+        "groundwater",
+        "#547a5b",
+        "mixed",
+        "#8b742f",
+        "#66746c"
+      ],
+      "line-opacity": 0.88,
+      "line-width": 1.6
+    }
+  });
+  ensureLayer(map, {
+    id: "utility-hit-fill",
+    type: "fill",
+    source: "water-utilities",
+    paint: {
+      "fill-color": "#2f3834",
+      "fill-opacity": 0.01
+    }
+  });
+  ensureLayer(map, {
+    id: "protected-area-fill",
+    type: "fill",
+    source: "protected-areas",
+    paint: {
+      "fill-color": [
+        "match",
+        ["get", "category_group"],
+        "fee",
+        "#2e7d4f",
+        "easement",
+        "#9f4f2a",
+        "designation",
+        "#7554a1",
+        "planning",
+        "#66746c",
+        "#8a9890"
+      ],
+      "fill-opacity": 0.26
+    }
+  });
+  ensureLayer(map, {
+    id: "protected-area-line",
+    type: "line",
+    source: "protected-areas",
+    paint: {
+      "line-color": [
+        "match",
+        ["get", "category_group"],
+        "fee",
+        "#1f6b42",
+        "easement",
+        "#7f3e24",
+        "designation",
+        "#5f4385",
+        "planning",
+        "#4f5f56",
+        "#66746c"
+      ],
+      "line-opacity": 0.84,
+      "line-width": 1.35
+    }
+  });
+  ensureLayer(map, {
+    id: "protected-area-hit-fill",
+    type: "fill",
+    source: "protected-areas",
+    paint: {
+      "fill-color": "#2f3834",
+      "fill-opacity": 0.01
+    }
+  });
+  ensureLayer(map, {
     id: "county-fill",
     type: "fill",
     source: "county",
@@ -852,6 +1002,75 @@ function addCountyMapLayers(map: MapLibreMap) {
       "line-color": "#2f3834",
       "line-opacity": 0.95,
       "line-width": 4.2
+    }
+  });
+  ensureLayer(map, {
+    id: "utility-hover-fill",
+    type: "fill",
+    source: "water-utilities",
+    filter: ["==", ["get", "pwsid"], "__none__"],
+    paint: {
+      "fill-color": "#f5bf54",
+      "fill-opacity": 0.34
+    }
+  });
+  ensureLayer(map, {
+    id: "utility-hover-line",
+    type: "line",
+    source: "water-utilities",
+    filter: ["==", ["get", "pwsid"], "__none__"],
+    paint: {
+      "line-color": "#2f3834",
+      "line-opacity": 0.98,
+      "line-width": 3.8
+    }
+  });
+  ensureLayer(map, {
+    id: "protected-area-hover-fill",
+    type: "fill",
+    source: "protected-areas",
+    filter: ["==", ["get", "padus_id"], -1],
+    paint: {
+      "fill-color": "#f5bf54",
+      "fill-opacity": 0.34
+    }
+  });
+  ensureLayer(map, {
+    id: "protected-area-hover-line",
+    type: "line",
+    source: "protected-areas",
+    filter: ["==", ["get", "padus_id"], -1],
+    paint: {
+      "line-color": "#2f3834",
+      "line-opacity": 0.98,
+      "line-width": 3.8
+    }
+  });
+  ensureLayer(map, {
+    id: "congressional-fill",
+    type: "fill",
+    source: "congressional",
+    paint: {
+      "fill-color": "#547a76",
+      "fill-opacity": 0.08
+    }
+  });
+  ensureLayer(map, {
+    id: "senate-fill",
+    type: "fill",
+    source: "senate",
+    paint: {
+      "fill-color": "#af8401",
+      "fill-opacity": 0.06
+    }
+  });
+  ensureLayer(map, {
+    id: "house-fill",
+    type: "fill",
+    source: "house",
+    paint: {
+      "fill-color": "#8b742f",
+      "fill-opacity": 0.045
     }
   });
   ensureLayer(map, {
@@ -980,6 +1199,58 @@ function addCountyMapLayers(map: MapLibreMap) {
     }
   });
   ensureLayer(map, {
+    id: "landfill-inactive",
+    type: "circle",
+    source: "landfills",
+    filter: ["==", ["get", "status_group"], "inactive"],
+    paint: {
+      "circle-color": "#665f56",
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 5.2, 12, 8.2],
+      "circle-stroke-color": "#ffffff",
+      "circle-stroke-width": 1.5,
+      "circle-opacity": 0.9
+    }
+  });
+  ensureLayer(map, {
+    id: "landfill-pending",
+    type: "circle",
+    source: "landfills",
+    filter: ["==", ["get", "status_group"], "pending"],
+    paint: {
+      "circle-color": "#af8401",
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 6, 12, 9.5],
+      "circle-stroke-color": "#ffffff",
+      "circle-stroke-width": 1.8,
+      "circle-opacity": 0.94
+    }
+  });
+  ensureLayer(map, {
+    id: "landfill-active",
+    type: "circle",
+    source: "landfills",
+    filter: ["==", ["get", "status_group"], "active"],
+    paint: {
+      "circle-color": "#9f4f2a",
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 6.4, 12, 10.2],
+      "circle-stroke-color": "#ffffff",
+      "circle-stroke-width": 2,
+      "circle-opacity": 0.95
+    }
+  });
+  ensureLayer(map, {
+    id: "landfill-hover",
+    type: "circle",
+    source: "landfills",
+    filter: ["==", ["get", "landfill_id"], "__none__"],
+    paint: {
+      "circle-color": "#f5bf54",
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 9, 12, 14],
+      "circle-stroke-color": "#2f3834",
+      "circle-stroke-width": 2.6,
+      "circle-opacity": 0.36
+    }
+  });
+  ensureLayer(map, {
     id: "permit-active",
     type: "circle",
     source: "permits",
@@ -1033,6 +1304,19 @@ function addCountyMapLayers(map: MapLibreMap) {
       "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 7, 12, 12.5],
       "circle-stroke-color": "#ffffff",
       "circle-stroke-width": 2.4,
+      "circle-opacity": 0.95
+    }
+  });
+  ensureLayer(map, {
+    id: "superfund-sites",
+    type: "circle",
+    source: "superfund",
+    paint: {
+      "circle-color": ["match", ["get", "Status"],
+        "NPL Site", "#b91c1c", "Deleted NPL Site", "#64748b", "#d97706"],
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 7, 12, 11],
+      "circle-stroke-color": "#ffffff",
+      "circle-stroke-width": 2.5,
       "circle-opacity": 0.95
     }
   });
@@ -1204,7 +1488,144 @@ function watershedPopupHtml(properties: GeoJsonProperties | null | undefined) {
   `;
 }
 
+function waterUtilityPopupHtml(properties: GeoJsonProperties | null | undefined) {
+  const name = propertyText(properties, "system_name") || "Drinking water utility";
+  const pwsid = propertyText(properties, "pwsid");
+  const sourceType = propertyText(properties, "source_type") || "Source type not listed";
+  const sourceCode = propertyText(properties, "source_code");
+  const sourceLabel = sourceCode ? `${sourceType} (${sourceCode})` : sourceType;
+  const population = propertyNumber(properties, "population_served");
+  const ownership = propertyText(properties, "ownership");
+  const dwwLink = propertyText(properties, "dww_link");
+  const sourceLink = dwwLink.startsWith("http")
+    ? `<a href="${escapeHtml(dwwLink)}" target="_blank" rel="noreferrer">TDEC Drinking Water Watch record</a>`
+    : "";
+  const hasServiceLineInventory = propertyText(properties, "service_line_inventory_status") === "available";
+  const serviceLineRows = [
+    ["Total Lines", "total_lines"],
+    ["Lead Lines", "lead_lines"],
+    ["Non-Lead Lines", "non_lead_lines"],
+    ["GRR", "grr_lines"],
+    ["Unknown Lines", "unknown_lines"]
+  ]
+    .map(([label, key]) => {
+      const value = hasServiceLineInventory ? propertyOptionalNumber(properties, key) : null;
+      return `<p>${escapeHtml(label)}: ${escapeHtml(formatLineCount(value))}</p>`;
+    })
+    .join("");
+
+  return `
+    <div class="space-y-1 text-sm">
+      <p class="font-semibold">${escapeHtml(name)}</p>
+      ${pwsid ? `<p>${escapeHtml(pwsid)}</p>` : ""}
+      <p>Primary source type: ${escapeHtml(sourceLabel)}</p>
+      ${population > 0 ? `<p>Population served: ${escapeHtml(population.toLocaleString())}</p>` : ""}
+      ${ownership ? `<p>Ownership: ${escapeHtml(ownership)}</p>` : ""}
+      <div class="mt-2 border-t border-ink/10 pt-2">
+        <p class="font-medium">Service line inventory</p>
+        ${serviceLineRows}
+      </div>
+      ${sourceLink}
+    </div>
+  `;
+}
+
+function protectedAreaPopupHtml(properties: GeoJsonProperties | null | undefined) {
+  const name =
+    propertyText(properties, "unit_name") ||
+    propertyText(properties, "local_name") ||
+    "Protected area";
+  const category = propertyText(properties, "category") || "Protected area";
+  const designation = propertyText(properties, "designation_type");
+  const ownerName = propertyText(properties, "owner_name");
+  const ownerType = propertyText(properties, "owner_type_label");
+  const managerName = propertyText(properties, "manager_name");
+  const managerType = propertyText(properties, "manager_type_label");
+  const acres = propertyNumber(properties, "acres");
+  const easementHolder = propertyText(properties, "easement_holder");
+  const easementHolderType = propertyText(properties, "easement_holder_type_label");
+  const access = propertyText(properties, "public_access_label");
+  const gapStatus = propertyText(properties, "gap_status_label");
+  const sourceName = propertyText(properties, "source_name");
+  const sourceDate = propertyText(properties, "source_date");
+
+  return `
+    <div class="space-y-1 text-sm">
+      <p class="font-semibold">${escapeHtml(name)}</p>
+      <p>${escapeHtml(category)}${designation ? ` - ${escapeHtml(designation)}` : ""}</p>
+      ${ownerName || ownerType ? `<p>Owner: ${escapeHtml(ownerName || ownerType)}${ownerName && ownerType ? ` (${escapeHtml(ownerType)})` : ""}</p>` : ""}
+      ${managerName || managerType ? `<p>Manager: ${escapeHtml(managerName || managerType)}${managerName && managerType ? ` (${escapeHtml(managerType)})` : ""}</p>` : ""}
+      ${easementHolder ? `<p>Easement holder: ${escapeHtml(easementHolder)}${easementHolderType ? ` (${escapeHtml(easementHolderType)})` : ""}</p>` : ""}
+      ${acres > 0 ? `<p>${escapeHtml(acres.toLocaleString(undefined, { maximumFractionDigits: 1 }))} acres</p>` : ""}
+      ${access ? `<p>${escapeHtml(access)}</p>` : ""}
+      ${gapStatus ? `<p>${escapeHtml(gapStatus)}</p>` : ""}
+      ${sourceName ? `<p>Source: ${escapeHtml(sourceName)}${sourceDate ? ` (${escapeHtml(sourceDate)})` : ""}</p>` : ""}
+    </div>
+  `;
+}
+
+function landfillPopupHtml(properties: GeoJsonProperties | null | undefined) {
+  const name = propertyText(properties, "landfill_name") || "Landfill";
+  const status = propertyText(properties, "status_label") || "Landfill permit record";
+  const permitTypes = propertyText(properties, "permit_types");
+  const permitTypeCounts = propertyText(properties, "permit_type_counts");
+  const permitActions = propertyText(properties, "permit_actions");
+  const permitNumbers = propertyText(properties, "permit_numbers");
+  const additionalPermitCount = propertyNumber(properties, "additional_permit_count");
+  const permitCount = propertyNumber(properties, "unique_permit_count") || propertyNumber(properties, "permit_count");
+  const activePermits = propertyNumber(properties, "active_permits");
+  const pendingPermits = propertyNumber(properties, "pending_permits");
+  const siteId = propertyText(properties, "site_id");
+  const siteLocation = propertyText(properties, "site_location");
+  const city = propertyText(properties, "site_city");
+  const county = propertyText(properties, "county");
+  const zip = propertyText(properties, "site_zip");
+  const latestIssued = propertyText(properties, "latest_issuance_date");
+  const latestEffective = propertyText(properties, "latest_effective_date");
+  const latestExpires = propertyText(properties, "latest_expiration_date");
+  const latestTerminated = propertyText(properties, "latest_termination_date");
+  const recordUrl = propertyText(properties, "record_url");
+  const sourceLink = recordUrl.startsWith("http")
+    ? `<a href="${escapeHtml(recordUrl)}" target="_blank" rel="noreferrer">TDEC solid waste permit record</a>`
+    : "";
+  const permitSummary =
+    permitCount > 0
+      ? `${permitCount.toLocaleString()} permit record${permitCount === 1 ? "" : "s"}${
+          activePermits > 0 ? `; ${activePermits.toLocaleString()} active` : ""
+        }${pendingPermits > 0 ? `; ${pendingPermits.toLocaleString()} pending` : ""}`
+      : "";
+  const locationLabel = [siteLocation, city, county ? `${county} County` : "", zip].filter(Boolean).join(", ");
+
+  return `
+    <div class="space-y-1 text-sm">
+      <p class="font-semibold">${escapeHtml(name)}</p>
+      <p>${escapeHtml(status)}</p>
+      ${permitTypes ? `<p>Landfill class: ${escapeHtml(permitTypes)}</p>` : ""}
+      ${permitTypeCounts && permitTypeCounts !== permitTypes ? `<p>Class records: ${escapeHtml(permitTypeCounts)}</p>` : ""}
+      ${permitSummary ? `<p>${escapeHtml(permitSummary)}</p>` : ""}
+      ${permitActions ? `<p>Permit actions: ${escapeHtml(permitActions)}</p>` : ""}
+      ${permitNumbers ? `<p>Permit numbers: ${escapeHtml(permitNumbers)}${additionalPermitCount > 0 ? `; +${escapeHtml(additionalPermitCount.toLocaleString())} more` : ""}</p>` : ""}
+      ${locationLabel ? `<p>${escapeHtml(locationLabel)}</p>` : ""}
+      ${siteId ? `<p>Site ID: ${escapeHtml(siteId)}</p>` : ""}
+      ${latestIssued ? `<p>Latest issued: ${escapeHtml(latestIssued)}</p>` : ""}
+      ${latestEffective ? `<p>Latest effective: ${escapeHtml(latestEffective)}</p>` : ""}
+      ${latestExpires ? `<p>Latest expires: ${escapeHtml(latestExpires)}</p>` : ""}
+      ${latestTerminated ? `<p>Latest termination: ${escapeHtml(latestTerminated)}</p>` : ""}
+      ${sourceLink}
+    </div>
+  `;
+}
+
 function hoverPopupHtml(feature: maplibregl.MapGeoJSONFeature) {
+  if (feature.layer.id.startsWith("landfill")) {
+    return landfillPopupHtml(feature.properties);
+  }
+  if (feature.layer.id.startsWith("protected-area")) {
+    return protectedAreaPopupHtml(feature.properties);
+  }
+  if (feature.layer.id.startsWith("utility")) {
+    return waterUtilityPopupHtml(feature.properties);
+  }
   if (feature.layer.id.startsWith("watershed")) {
     return watershedPopupHtml(feature.properties);
   }
@@ -1220,6 +1641,24 @@ function hoverPopupHtml(feature: maplibregl.MapGeoJSONFeature) {
 
 function popupHtml(feature: maplibregl.MapGeoJSONFeature) {
   const properties = feature.properties ?? {};
+
+  if (feature.layer.id === "superfund-sites") {
+    const url = String(properties.profile_url ?? "");
+    const link = url.startsWith("https://cumulis.epa.gov/")
+      ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">EPA site profile</a>`
+      : "";
+    return `<div class="space-y-1 text-sm">
+      <p class="font-semibold">${escapeHtml(properties.Site_Name ?? "Superfund site")}</p>
+      <p>${escapeHtml(properties.Status)}</p>
+      <p>EPA ID: ${escapeHtml(properties.Site_EPA_ID)}</p>
+      <p>${escapeHtml(properties.City)}, ${escapeHtml(properties.State)}</p>
+      <p>EPA county: ${escapeHtml(properties.County)}</p>
+      ${properties.Listing_Date ? `<p>Listed: ${escapeHtml(properties.Listing_Date)}</p>` : ""}
+      ${properties.Deletion_Date ? `<p>Deleted: ${escapeHtml(properties.Deletion_Date)}</p>` : ""}
+      <p>Reference location; not a contamination boundary.</p>
+      ${link}
+    </div>`;
+  }
 
   if (feature.layer.id.startsWith("echo-")) {
     return echoPopupHtml(properties);
@@ -1244,6 +1683,18 @@ function popupHtml(feature: maplibregl.MapGeoJSONFeature) {
         ${link}
       </div>
     `;
+  }
+
+  if (feature.layer.id.startsWith("landfill")) {
+    return landfillPopupHtml(properties);
+  }
+
+  if (feature.layer.id.startsWith("utility")) {
+    return waterUtilityPopupHtml(properties);
+  }
+
+  if (feature.layer.id.startsWith("protected-area")) {
+    return protectedAreaPopupHtml(properties);
   }
 
   if (
@@ -1284,12 +1735,32 @@ function setLayerFilter(map: MapLibreMap, layerId: string, filter: MapFilter) {
 function clearHoverHighlight(map: MapLibreMap) {
   setLayerFilter(map, "watershed-hover-fill", ["==", ["get", "huc8"], "__none__"]);
   setLayerFilter(map, "watershed-hover-line", ["==", ["get", "huc8"], "__none__"]);
+  setLayerFilter(map, "utility-hover-fill", ["==", ["get", "pwsid"], "__none__"]);
+  setLayerFilter(map, "utility-hover-line", ["==", ["get", "pwsid"], "__none__"]);
+  setLayerFilter(map, "protected-area-hover-fill", ["==", ["get", "padus_id"], -1]);
+  setLayerFilter(map, "protected-area-hover-line", ["==", ["get", "padus_id"], -1]);
+  setLayerFilter(map, "landfill-hover", ["==", ["get", "landfill_id"], "__none__"]);
   setLayerFilter(map, "house-hover-line", ["==", ["get", "district"], "__none__"]);
   setLayerFilter(map, "senate-hover-line", ["==", ["get", "district"], "__none__"]);
   setLayerFilter(map, "congressional-hover-line", ["==", ["get", "district"], "__none__"]);
 }
 
 function hoverFeatureKey(feature: maplibregl.MapGeoJSONFeature) {
+  if (feature.layer.id.startsWith("landfill")) {
+    const landfillId = propertyText(feature.properties, "landfill_id");
+    return landfillId ? `landfill:${landfillId}` : "";
+  }
+
+  if (feature.layer.id.startsWith("protected-area")) {
+    const padusId = propertyText(feature.properties, "padus_id");
+    return padusId ? `protected:${padusId}` : "";
+  }
+
+  if (feature.layer.id.startsWith("utility")) {
+    const pwsid = propertyText(feature.properties, "pwsid");
+    return pwsid ? `utility:${pwsid}` : "";
+  }
+
   if (feature.layer.id.startsWith("watershed")) {
     const huc8 = propertyText(feature.properties, "huc8");
     return huc8 ? `watershed:${huc8}` : "";
@@ -1315,6 +1786,32 @@ function hoverFeatureKey(feature: maplibregl.MapGeoJSONFeature) {
 
 function setHoverHighlight(map: MapLibreMap, feature: maplibregl.MapGeoJSONFeature) {
   clearHoverHighlight(map);
+
+  if (feature.layer.id.startsWith("landfill")) {
+    const landfillId = propertyText(feature.properties, "landfill_id");
+    if (landfillId) {
+      setLayerFilter(map, "landfill-hover", ["==", ["get", "landfill_id"], landfillId]);
+    }
+    return;
+  }
+
+  if (feature.layer.id.startsWith("protected-area")) {
+    const padusId = propertyNumber(feature.properties, "padus_id");
+    if (padusId > 0) {
+      setLayerFilter(map, "protected-area-hover-fill", ["==", ["get", "padus_id"], padusId]);
+      setLayerFilter(map, "protected-area-hover-line", ["==", ["get", "padus_id"], padusId]);
+    }
+    return;
+  }
+
+  if (feature.layer.id.startsWith("utility")) {
+    const pwsid = propertyText(feature.properties, "pwsid");
+    if (pwsid) {
+      setLayerFilter(map, "utility-hover-fill", ["==", ["get", "pwsid"], pwsid]);
+      setLayerFilter(map, "utility-hover-line", ["==", ["get", "pwsid"], pwsid]);
+    }
+    return;
+  }
 
   if (feature.layer.id.startsWith("watershed")) {
     const huc8 = propertyText(feature.properties, "huc8");
@@ -1392,6 +1889,10 @@ function CountyDetailMapView({
   const popupRef = useRef<maplibregl.Popup | null>(null);
   const hoverPopupRef = useRef<maplibregl.Popup | null>(null);
   const hoveredFeatureKeyRef = useRef("");
+  const landUseRef = useRef<LoadedLandUse | null>(null);
+  const landUseVisibleRef = useRef(false);
+  const landUsePopupRef = useRef<maplibregl.Popup | null>(null);
+  const landUseHoveredClassRef = useRef<number | null>(null);
   const markerRef = useRef<maplibregl.Marker | null>(null);
 
   const [mapReady, setMapReady] = useState(false);
@@ -1404,8 +1905,14 @@ function CountyDetailMapView({
   const [addressQuery, setAddressQuery] = useState("");
   const [addressStatus, setAddressStatus] = useState("");
   const [addressResults, setAddressResults] = useState<AddressCandidate[]>([]);
+  const [landUseStatus, setLandUseStatus] = useState("");
   const [visibleLayers, setVisibleLayers] = useState<Record<LayerKey, boolean>>({
     watershed: false,
+    utilities: false,
+    protected: false,
+    landfills: false,
+    superfund: false,
+    landuse: false,
     districts: false,
     impaired: true,
     permits: false,
@@ -1437,6 +1944,69 @@ function CountyDetailMapView({
       recent: echoViolations.features.length - current
     };
   }, [echoViolations]);
+
+  const utilityStats = useMemo(() => {
+    const features = featureCollection(map.waterUtilities as FeatureCollection).features;
+    return {
+      total: features.length,
+      surface: features.filter((feature) => feature.properties?.source_group === "surface").length,
+      groundwater: features.filter((feature) => feature.properties?.source_group === "groundwater").length,
+      mixed: features.filter((feature) => feature.properties?.source_group === "mixed").length,
+      unknown: features.filter((feature) => feature.properties?.source_group === "unknown").length
+    };
+  }, [map.waterUtilities]);
+
+  const utilityStatusLabel =
+    utilityStats.total === 0
+      ? "No TDEC public water system service areas intersect the map viewport."
+      : `${utilityStats.total.toLocaleString()} TDEC public water system service area${
+          utilityStats.total === 1 ? "" : "s"
+        } intersect the map viewport; source-water type is shown where TDEC lists PL_PSRC.`;
+
+  const protectedAreaStats = useMemo(() => {
+    const byId = new Map<string, GeoJsonProperties | null | undefined>();
+    featureCollection(map.protectedAreas as FeatureCollection).features.forEach((feature) => {
+      const id = propertyText(feature.properties, "padus_id");
+      if (id && !byId.has(id)) {
+        byId.set(id, feature.properties);
+      }
+    });
+    const records = [...byId.values()];
+    return {
+      total: records.length,
+      fee: records.filter((properties) => propertyText(properties, "category_group") === "fee").length,
+      easement: records.filter((properties) => propertyText(properties, "category_group") === "easement").length,
+      designation: records.filter((properties) => propertyText(properties, "category_group") === "designation").length,
+      planning: records.filter((properties) => propertyText(properties, "category_group") === "planning").length,
+      other: records.filter((properties) => propertyText(properties, "category_group") === "other").length
+    };
+  }, [map.protectedAreas]);
+
+  const protectedAreaStatusLabel =
+    protectedAreaStats.total === 0
+      ? "No USGS PAD-US protected-area records intersect the map viewport."
+      : `${protectedAreaStats.total.toLocaleString()} USGS PAD-US protected-area record${
+          protectedAreaStats.total === 1 ? "" : "s"
+        } intersect the map viewport, including ${protectedAreaStats.easement.toLocaleString()} easement${
+          protectedAreaStats.easement === 1 ? "" : "s"
+        }.`;
+
+  const landfillStats = useMemo(() => {
+    const features = featureCollection(map.landfills as FeatureCollection).features;
+    return {
+      total: features.length,
+      active: features.filter((feature) => feature.properties?.status_group === "active").length,
+      pending: features.filter((feature) => feature.properties?.status_group === "pending").length,
+      inactive: features.filter((feature) => feature.properties?.status_group === "inactive").length
+    };
+  }, [map.landfills]);
+
+  const landfillStatusLabel =
+    landfillStats.total === 0
+      ? "No TDEC solid waste landfill permit locations intersect the map viewport."
+      : `${landfillStats.total.toLocaleString()} TDEC solid waste landfill location${
+          landfillStats.total === 1 ? "" : "s"
+        } intersect the map viewport; convenience centers and recycling records are excluded.`;
 
   const echoViolationRecords = useMemo(() => {
     return [...echoViolations.features].sort((a, b) => {
@@ -1472,7 +2042,10 @@ function CountyDetailMapView({
     });
 
     mapInstance.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-right");
-    mapInstance.addControl(new maplibregl.AttributionControl({ compact: true }), "bottom-right");
+    mapInstance.addControl(new maplibregl.AttributionControl({
+      compact: true,
+      customAttribution: '<a href="https://www.usgs.gov/centers/eros/science/annual-nlcd-data-access" target="_blank" rel="noopener noreferrer">USGS Annual NLCD</a>'
+    }), "bottom-right");
     mapRef.current = mapInstance;
 
     mapInstance.on("load", () => setMapReady(true));
@@ -1480,11 +2053,55 @@ function CountyDetailMapView({
     return () => {
       popupRef.current?.remove();
       hoverPopupRef.current?.remove();
+      landUsePopupRef.current?.remove();
       markerRef.current?.remove();
       mapInstance.remove();
       mapRef.current = null;
     };
   }, []);
+
+  useEffect(() => {
+    const mapInstance = mapRef.current;
+    landUseVisibleRef.current = visibleLayers.landuse;
+    if (!visibleLayers.landuse) {
+      landUsePopupRef.current?.remove();
+      landUseHoveredClassRef.current = null;
+    }
+    if (!mapReady || !mapInstance || !visibleLayers.landuse) {
+      return;
+    }
+    if (landUseRef.current) {
+      mapInstance.setLayoutProperty("landuse-raster", "visibility", "visible");
+      return;
+    }
+    const controller = new AbortController();
+    setLandUseStatus("Loading land cover...");
+    loadCountyLandUse(map.slug, controller.signal).then((data) => {
+      if (controller.signal.aborted) {
+        return;
+      }
+      mapInstance.addSource("landuse", {
+        type: "image",
+        url: data.county.imageUrl,
+        coordinates: data.county.coordinates
+      });
+      const beforeId = mapInstance.getStyle().layers?.find((layer) => layer.id !== "osm")?.id;
+      mapInstance.addLayer({
+        id: "landuse-raster",
+        type: "raster",
+        source: "landuse",
+        layout: { visibility: "visible" },
+        paint: { "raster-opacity": 0.65, "raster-resampling": "nearest", "raster-fade-duration": 0 }
+      }, beforeId);
+      landUseRef.current = data;
+      setLandUseStatus(`${data.year} NLCD · Hover over the map for land-cover details.`);
+    }).catch(() => {
+      if (!controller.signal.aborted) {
+        setLandUseStatus("Land cover unavailable. Turn the layer off and on to retry.");
+      }
+    });
+    return () => controller.abort();
+  }, [map.slug, mapReady, visibleLayers.landuse]);
 
   useEffect(() => {
     if (!countyBounds) {
@@ -1572,6 +2189,10 @@ function CountyDetailMapView({
     setGeoJsonSource(mapInstance, "senate", map.districts.senate as FeatureCollection);
     setGeoJsonSource(mapInstance, "house", map.districts.house as FeatureCollection);
     setGeoJsonSource(mapInstance, "congressional", map.districts.congressional as FeatureCollection);
+    setGeoJsonSource(mapInstance, "water-utilities", featureCollection(map.waterUtilities as FeatureCollection));
+    setGeoJsonSource(mapInstance, "protected-areas", featureCollection(map.protectedAreas as FeatureCollection));
+    setGeoJsonSource(mapInstance, "landfills", featureCollection(map.landfills as FeatureCollection));
+    setGeoJsonSource(mapInstance, "superfund", featureCollection(map.superfundSites as FeatureCollection));
     setGeoJsonSource(mapInstance, "epa-impairment", epaImpairment);
     setGeoJsonSource(mapInstance, "permits", permits);
     setGeoJsonSource(mapInstance, "echo-violations", echoViolations);
@@ -1614,12 +2235,22 @@ function CountyDetailMapView({
       hoverPopupRef.current = null;
       hoveredFeatureKeyRef.current = "";
       mapInstance.getCanvas().style.cursor = "";
+      landUsePopupRef.current?.remove();
+      landUseHoveredClassRef.current = null;
     };
 
     const handleClick = (event: maplibregl.MapMouseEvent) => {
+      landUsePopupRef.current?.remove();
       const layers = INTERACTIVE_LAYERS.filter((layerId) => mapInstance.getLayer(layerId));
       const features = mapInstance.queryRenderedFeatures(event.point, { layers });
       const districtFeatures = uniqueDistrictFeatures(features);
+      const pointFeature = features.find(
+        (feature) =>
+          feature.layer.id.startsWith("landfill") ||
+          feature.layer.id === "superfund-sites" ||
+          feature.layer.id.startsWith("permit") ||
+          feature.layer.id.startsWith("echo-")
+      );
       const feature = features[0];
 
       if (!feature) {
@@ -1629,6 +2260,14 @@ function CountyDetailMapView({
 
       popupRef.current?.remove();
       hoverPopupRef.current?.remove();
+
+      if (pointFeature) {
+        popupRef.current = new maplibregl.Popup({ maxWidth: "340px" })
+          .setLngLat(event.lngLat)
+          .setHTML(popupHtml(pointFeature))
+          .addTo(mapInstance);
+        return;
+      }
 
       if (districtFeatures.length > 0) {
         setDistrictHoverHighlights(mapInstance, districtFeatures);
@@ -1646,9 +2285,41 @@ function CountyDetailMapView({
     };
 
     const handleMove = (event: maplibregl.MapMouseEvent) => {
+      landUsePopupRef.current?.remove();
       const hoverLayers = HOVER_LAYERS.filter((layerId) => mapInstance.getLayer(layerId));
       const hoverFeatures = mapInstance.queryRenderedFeatures(event.point, { layers: hoverLayers });
       const districtFeatures = uniqueDistrictFeatures(hoverFeatures);
+
+      const landfillFeature = hoverFeatures.find((feature) => feature.layer.id.startsWith("landfill"));
+
+      if (landfillFeature) {
+        const key = hoverFeatureKey(landfillFeature);
+        const html = hoverPopupHtml(landfillFeature);
+
+        if (key && key !== hoveredFeatureKeyRef.current) {
+          setHoverHighlight(mapInstance, landfillFeature);
+          hoveredFeatureKeyRef.current = key;
+        }
+
+        if (html) {
+          if (!hoverPopupRef.current) {
+            hoverPopupRef.current = new maplibregl.Popup({
+              closeButton: false,
+              closeOnClick: false,
+              maxWidth: "340px",
+              offset: 12
+            });
+          }
+
+          hoverPopupRef.current
+            .setLngLat(event.lngLat)
+            .setHTML(html)
+            .addTo(mapInstance);
+        }
+
+        mapInstance.getCanvas().style.cursor = "pointer";
+        return;
+      }
 
       if (districtFeatures.length > 0) {
         const key = `districts:${districtStackKey(districtFeatures)}`;
@@ -1665,6 +2336,68 @@ function CountyDetailMapView({
               closeButton: false,
               closeOnClick: false,
               maxWidth: "340px",
+              offset: 12
+            });
+          }
+
+          hoverPopupRef.current
+            .setLngLat(event.lngLat)
+            .setHTML(html)
+            .addTo(mapInstance);
+        }
+
+        mapInstance.getCanvas().style.cursor = "pointer";
+        return;
+      }
+
+      const protectedAreaFeature = hoverFeatures.find((feature) => feature.layer.id.startsWith("protected-area"));
+
+      if (protectedAreaFeature) {
+        const key = hoverFeatureKey(protectedAreaFeature);
+        const html = hoverPopupHtml(protectedAreaFeature);
+
+        if (key && key !== hoveredFeatureKeyRef.current) {
+          setHoverHighlight(mapInstance, protectedAreaFeature);
+          hoveredFeatureKeyRef.current = key;
+        }
+
+        if (html) {
+          if (!hoverPopupRef.current) {
+            hoverPopupRef.current = new maplibregl.Popup({
+              closeButton: false,
+              closeOnClick: false,
+              maxWidth: "340px",
+              offset: 12
+            });
+          }
+
+          hoverPopupRef.current
+            .setLngLat(event.lngLat)
+            .setHTML(html)
+            .addTo(mapInstance);
+        }
+
+        mapInstance.getCanvas().style.cursor = "pointer";
+        return;
+      }
+
+      const utilityFeature = hoverFeatures.find((feature) => feature.layer.id.startsWith("utility"));
+
+      if (utilityFeature) {
+        const key = hoverFeatureKey(utilityFeature);
+        const html = hoverPopupHtml(utilityFeature);
+
+        if (key && key !== hoveredFeatureKeyRef.current) {
+          setHoverHighlight(mapInstance, utilityFeature);
+          hoveredFeatureKeyRef.current = key;
+        }
+
+        if (html) {
+          if (!hoverPopupRef.current) {
+            hoverPopupRef.current = new maplibregl.Popup({
+              closeButton: false,
+              closeOnClick: false,
+              maxWidth: "320px",
               offset: 12
             });
           }
@@ -1711,6 +2444,27 @@ function CountyDetailMapView({
       }
 
       clearHover();
+
+      const landUse = landUseVisibleRef.current ? landUseRef.current : null;
+      const category = landUse ? sampleLandUse(landUse, event.lngLat.lng, event.lngLat.lat) : undefined;
+      if (landUse && category) {
+        if (!landUsePopupRef.current) {
+          landUsePopupRef.current = new maplibregl.Popup({
+            closeButton: false, closeOnClick: false, maxWidth: "320px", offset: 12,
+            className: "landuse-popup"
+          });
+        }
+        if (landUseHoveredClassRef.current !== category.id) {
+          landUsePopupRef.current.setHTML(`<div class="space-y-2 text-sm">
+            <p class="font-semibold"><span style="display:inline-block;width:12px;height:12px;border-radius:2px;background:${category.color}" aria-hidden="true"></span> ${escapeHtml(category.label)}</p>
+            <p>${escapeHtml(category.description)}</p>
+            <p class="text-xs">USGS Annual NLCD ${landUse.year} · Approx. ${landUse.resolution} m sampled cells.</p>
+            <p class="text-xs">NLCD classes: ${category.codes.join(", ")}. General land-cover context; small features may be omitted. Not zoning or a parcel designation.</p>
+          </div>`);
+          landUseHoveredClassRef.current = category.id;
+        }
+        landUsePopupRef.current.setLngLat(event.lngLat).addTo(mapInstance);
+      }
 
       const layers = INTERACTIVE_LAYERS.filter((layerId) => mapInstance.getLayer(layerId));
       const features = mapInstance.queryRenderedFeatures(event.point, { layers });
@@ -1816,7 +2570,7 @@ function CountyDetailMapView({
         <p className="text-xs uppercase tracking-normal text-river">County map</p>
         <h2 className="mt-2 text-2xl font-semibold">{map.name} County interactive map</h2>
         <p className="mt-3 max-w-3xl text-sm leading-6 text-ink/75">
-          Address search, EPA assessment status, legislative districts, TDEC permit records, EPA ECHO compliance signals, and HUC8 watershed areas are now layered on an interactive map.
+          Address search, EPA assessment status, legislative districts, protected areas, drinking water utility areas, landfill locations, TDEC permit records, EPA ECHO compliance signals, and HUC8 watershed areas are now layered on an interactive map.
         </p>
       </div>
 
@@ -1826,6 +2580,7 @@ function CountyDetailMapView({
             <label htmlFor={`address-search-${map.slug}`} className="text-xs uppercase tracking-normal text-river">
               Address search
             </label>
+            <p className="mt-2 text-sm text-ink/65">Include street address and city in your search prompt</p>
             <div className="mt-4 flex gap-2">
               <input
                 id={`address-search-${map.slug}`}
@@ -1864,6 +2619,63 @@ function CountyDetailMapView({
           <div className="overflow-hidden rounded-lg border border-ink/10 bg-mist">
             <div ref={containerRef} className="h-[560px] min-h-[420px] w-full" />
           </div>
+
+          <div className="grid gap-4 md:grid-cols-2">
+            <div className="rounded-lg border border-ink/10 bg-white/90 p-5">
+              <p className="text-xs uppercase tracking-normal text-river">ECHO permit violations</p>
+              {echoViolationRecords.length > 0 ? (
+                <>
+                  <div className="mt-4 max-h-72 space-y-2 overflow-auto pr-1">
+                    {echoViolationRecords.slice(0, 8).map((feature, index) => {
+                      const properties = feature.properties;
+                      const permitId = propertyText(properties, "echo_source_id") || propertyText(properties, "SourceID");
+                      const count = propertyNumber(properties, "echo_violation_count");
+
+                      return (
+                        <button
+                          type="button"
+                          key={`${permitId}-${propertyText(properties, "RegistryID")}-${index}`}
+                          onClick={() => zoomToEchoFeature(feature)}
+                          className="w-full rounded-lg border border-ink/10 bg-sand px-3 py-2 text-left text-sm text-ink transition hover:border-gold/45"
+                        >
+                          <span className="block truncate font-medium">
+                            {permitId || propertyText(properties, "echo_display_name")}
+                          </span>
+                          <span className="mt-1 block text-xs leading-5 text-ink/65">
+                            {count} NC quarter{count === 1 ? "" : "s"} - {propertyText(properties, "echo_latest_violation")}
+                          </span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                  {echoViolationRecords.length > 8 ? (
+                    <p className="mt-3 text-xs leading-5 text-ink/60">
+                      Showing 8 of {echoViolationRecords.length.toLocaleString()} ECHO records. Use the map markers for
+                      the full county layer.
+                    </p>
+                  ) : null}
+                </>
+              ) : (
+                <p className="mt-4 text-sm leading-6 text-ink/65">
+                  No current or recent ECHO CWA permit violations are listed for this county.
+                </p>
+              )}
+            </div>
+
+            <div className="rounded-lg border border-ink/10 bg-white/90 p-5 text-sm leading-6 text-ink/70">
+              <p className="text-xs uppercase tracking-normal text-river">Map inclusions</p>
+              <p className="mt-4">{epaStatusLabel}</p>
+              <p className="mt-2">{utilityStatusLabel}</p>
+              <p className="mt-2">{protectedAreaStatusLabel}</p>
+              <p className="mt-2">{landfillStatusLabel}</p>
+              <p className="mt-2">
+                {map.superfundSites?.features.length ?? 0} EPA Superfund sites associated with {map.name} County
+                {map.superfundUpdatedAt ? `; retrieved ${map.superfundUpdatedAt}` : ""}.
+              </p>
+              <p className="mt-2">{permitStatusLabel}</p>
+              <p className="mt-2">{echoStatusLabel}</p>
+            </div>
+          </div>
         </div>
 
         <aside className="space-y-4">
@@ -1882,6 +2694,28 @@ function CountyDetailMapView({
                 onChange={(checked) => setVisibleLayers((current) => ({ ...current, districts: checked }))}
               />
               <LayerToggle
+                checked={visibleLayers.utilities}
+                label="Drinking water utilities"
+                onChange={(checked) => setVisibleLayers((current) => ({ ...current, utilities: checked }))}
+              />
+              <LayerToggle
+                checked={visibleLayers.protected}
+                label="Protected areas"
+                onChange={(checked) => setVisibleLayers((current) => ({ ...current, protected: checked }))}
+              />
+              <LayerToggle
+                checked={visibleLayers.landfills}
+                label="Landfills"
+                onChange={(checked) => setVisibleLayers((current) => ({ ...current, landfills: checked }))}
+              />
+              {(map.superfundSites?.features.length ?? 0) > 0 ? (
+                <LayerToggle
+                  checked={visibleLayers.superfund}
+                  label="Superfund sites"
+                  onChange={(checked) => setVisibleLayers((current) => ({ ...current, superfund: checked }))}
+                />
+              ) : null}
+              <LayerToggle
                 checked={visibleLayers.permits}
                 label="TDEC permits"
                 onChange={(checked) => setVisibleLayers((current) => ({ ...current, permits: checked }))}
@@ -1896,6 +2730,14 @@ function CountyDetailMapView({
                 label="Watershed area"
                 onChange={(checked) => setVisibleLayers((current) => ({ ...current, watershed: checked }))}
               />
+              <LayerToggle
+                checked={visibleLayers.landuse}
+                label="Land use / land cover"
+                onChange={(checked) => setVisibleLayers((current) => ({ ...current, landuse: checked }))}
+              />
+              {visibleLayers.landuse && landUseStatus ? (
+                <p className="text-xs leading-5 text-ink/65" role="status">{landUseStatus}</p>
+              ) : null}
             </div>
           </div>
 
@@ -1930,51 +2772,73 @@ function CountyDetailMapView({
                 <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#6b4bb1] ring-2 ring-white" /> Recent ECHO violation</span>
                 <span>{echoStats.recent}</span>
               </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#9f4f2a] ring-2 ring-white" /> Active landfill</span>
+                <span>{landfillStats.active}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#af8401] ring-2 ring-white" /> Pending landfill</span>
+                <span>{landfillStats.pending}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#665f56] ring-2 ring-white" /> Inactive / historic landfill</span>
+                <span>{landfillStats.inactive}</span>
+              </li>
+              {(map.superfundSites?.features.length ?? 0) > 0 ? (
+                <>
+                  <li className="flex items-center justify-between gap-3">
+                    <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#b91c1c] ring-2 ring-white" /> Current NPL Superfund site</span>
+                    <span>{map.superfundSites.features.filter((feature) => feature.properties.Status === "NPL Site").length}</span>
+                  </li>
+                  <li className="flex items-center justify-between gap-3">
+                    <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#64748b] ring-2 ring-white" /> Deleted NPL Superfund site</span>
+                    <span>{map.superfundSites.features.filter((feature) => feature.properties.Status === "Deleted NPL Site").length}</span>
+                  </li>
+                  <li className="flex items-center justify-between gap-3">
+                    <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#d97706] ring-2 ring-white" /> Other Superfund status</span>
+                    <span>{map.superfundSites.features.filter((feature) => feature.properties.Status !== "NPL Site" && feature.properties.Status !== "Deleted NPL Site").length}</span>
+                  </li>
+                </>
+              ) : null}
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#1f5f78] bg-[#2e7d9a]/70" /> Surface-water utility</span>
+                <span>{utilityStats.surface}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#547a5b] bg-moss/70" /> Groundwater utility</span>
+                <span>{utilityStats.groundwater}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#8b742f] bg-gold/70" /> GWUDI / mixed utility</span>
+                <span>{utilityStats.mixed}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#1f6b42] bg-[#2e7d4f]/70" /> PAD-US fee area</span>
+                <span>{protectedAreaStats.fee}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#7f3e24] bg-rust/70" /> Conservation easement</span>
+                <span>{protectedAreaStats.easement}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#5f4385] bg-[#7554a1]/70" /> Protected designation</span>
+                <span>{protectedAreaStats.designation}</span>
+              </li>
+              <li className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#4f5f56] bg-[#66746c]/70" /> Planning boundary</span>
+                <span>{protectedAreaStats.planning + protectedAreaStats.other}</span>
+              </li>
               <li className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm bg-moss/70" /> HUC8 watershed area</li>
+              <li className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm bg-[#af8401]/30" /> Legislative district shading</li>
               <li className="flex items-center gap-3"><span className="h-0 w-7 border-t-2 border-dashed border-[#547a76]" /> Congressional boundary</li>
               <li className="flex items-center gap-3"><span className="h-0 w-7 border-t-2 border-dashed border-gold" /> State legislative boundary</li>
             </ul>
-          </div>
-
-          {echoViolationRecords.length > 0 ? (
-            <div className="rounded-lg border border-ink/10 bg-white/90 p-5">
-              <p className="text-xs uppercase tracking-normal text-river">ECHO permit violations</p>
-              <div className="mt-4 max-h-72 space-y-2 overflow-auto pr-1">
-                {echoViolationRecords.slice(0, 8).map((feature, index) => {
-                  const properties = feature.properties;
-                  const permitId = propertyText(properties, "echo_source_id") || propertyText(properties, "SourceID");
-                  const count = propertyNumber(properties, "echo_violation_count");
-
-                  return (
-                    <button
-                      type="button"
-                      key={`${permitId}-${propertyText(properties, "RegistryID")}-${index}`}
-                      onClick={() => zoomToEchoFeature(feature)}
-                      className="w-full rounded-lg border border-ink/10 bg-sand px-3 py-2 text-left text-sm text-ink transition hover:border-gold/45"
-                    >
-                      <span className="block truncate font-medium">
-                        {permitId || propertyText(properties, "echo_display_name")}
-                      </span>
-                      <span className="mt-1 block text-xs leading-5 text-ink/65">
-                        {count} NC quarter{count === 1 ? "" : "s"} - {propertyText(properties, "echo_latest_violation")}
-                      </span>
-                    </button>
-                  );
-                })}
-              </div>
-              {echoViolationRecords.length > 8 ? (
-                <p className="mt-3 text-xs leading-5 text-ink/60">
-                  Showing 8 of {echoViolationRecords.length.toLocaleString()} ECHO records. Use the map markers for
-                  the full county layer.
-                </p>
-              ) : null}
-            </div>
-          ) : null}
-
-          <div className="rounded-lg border border-ink/10 bg-white/90 p-5 text-sm leading-6 text-ink/70">
-            <p>{epaStatusLabel}</p>
-            <p className="mt-2">{permitStatusLabel}</p>
-            <p className="mt-2">{echoStatusLabel}</p>
+            {(map.superfundSites?.features.length ?? 0) > 0 ? (
+              <p className="mt-4 text-xs leading-5 text-white/70">
+                Click a Superfund marker for status and the EPA profile. Locations are reference points, not
+                contamination boundaries. EPA lists some sites in multiple counties.
+              </p>
+            ) : null}
           </div>
         </aside>
       </div>
@@ -2001,7 +2865,7 @@ export function CountyDetailMap({
       setLoadFailed(false);
 
       try {
-        const response = await fetch(`/data/county-maps/${slug}.json`);
+        const response = await fetch(assetPath(`/data/county-maps/${slug}.json`));
         if (!response.ok) {
           throw new Error(`Map request failed with ${response.status}`);
         }

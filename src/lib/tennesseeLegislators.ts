@@ -138,6 +138,18 @@ export const TENNESSEE_LEGISLATORS: Record<string, TennesseeLegislator> = {
   S33: { name: "London Lamar", party: "D" }
 };
 
+export const TENNESSEE_CONGRESSIONAL_REPRESENTATIVES: Record<string, TennesseeLegislator> = {
+  "TN-01": { name: "Diana Harshbarger", party: "R" },
+  "TN-02": { name: "Tim Burchett", party: "R" },
+  "TN-03": { name: "Chuck Fleischmann", party: "R" },
+  "TN-04": { name: "Scott DesJarlais", party: "R" },
+  "TN-05": { name: "Andy Ogles", party: "R" },
+  "TN-06": { name: "John Rose", party: "R" },
+  "TN-07": { name: "Matt Van Epps", party: "R" },
+  "TN-08": { name: "David Kustoff", party: "R" },
+  "TN-09": { name: "Steve Cohen", party: "D" }
+};
+
 export function tennesseeLegislatorUrl(code: string) {
   return `https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=${code}`;
 }

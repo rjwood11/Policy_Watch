@@ -151,6 +151,11 @@ export type CountyMapRecord = {
   roads: CountyMapCollection;
   places: CountyMapCollection;
   watersheds: CountyMapCollection;
+  waterUtilities: CountyMapCollection;
+  protectedAreas: CountyMapCollection;
+  landfills: CountyMapCollection;
+  superfundSites: CountyMapCollection;
+  superfundUpdatedAt: string;
   districts: {
     senate: CountyMapCollection;
     house: CountyMapCollection;

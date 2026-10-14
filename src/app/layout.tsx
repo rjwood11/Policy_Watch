@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import { assetPath } from "@/lib/assetPath";
 import "maplibre-gl/dist/maplibre-gl.css";
 import "./globals.css";
 
@@ -18,7 +19,7 @@ function HarpethCredit({ compact = false }: { compact?: boolean }) {
       }`}
     >
       <Image
-        src="/brand/HC-Logo.png"
+        src={assetPath("/brand/HC-Logo.png")}
         alt=""
         width={523}
         height={771}
@@ -67,6 +68,9 @@ export default function RootLayout({
                 </Link>
                 <Link className="text-ink/75 no-underline hover:text-gold" href="/counties">
                   Counties
+                </Link>
+                <Link className="text-ink/75 no-underline hover:text-gold" href="/rankings">
+                  Rankings
                 </Link>
                 <Link className="text-ink/75 no-underline hover:text-gold" href="/methodology">
                   Methodology

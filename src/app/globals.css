@@ -12,7 +12,7 @@ html {
 
 body {
   @apply bg-foam text-ink antialiased;
-  background-image: linear-gradient(180deg, #fbfaf5 0%, #f4f6ef 48%, #e6ede8 100%);
+  background-image: linear-gradient(180deg, #edf3ee 0%, #dfe9e2 48%, #cbd9d0 100%);
   min-height: 100vh;
 }
 
@@ -31,4 +31,10 @@ a {
 
 .card {
   @apply rounded-lg border border-ink/10 bg-white/95 shadow-card;
+}
+
+.rank-row:target {
+  background-color: rgba(245, 191, 84, 0.22);
+  outline: 2px solid rgba(175, 132, 1, 0.35);
+  outline-offset: -2px;
 }

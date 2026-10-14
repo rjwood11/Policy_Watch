@@ -4,6 +4,10 @@ import { notFound } from "next/navigation";
 import { CountyDetailMap } from "@/components/CountyDetailMap";
 import type { CountyRecord, StateRank } from "@/lib/data";
 import { getCounty, getCountyIndex, getDataSources } from "@/lib/data";
+import {
+  TENNESSEE_CONGRESSIONAL_REPRESENTATIVES,
+  TENNESSEE_LEGISLATORS
+} from "@/lib/tennesseeLegislators";
 
 const TN_WATER_WATCH_COUNTIES = new Set(["davidson", "williamson"]);
 const TN_WATER_WATCH_URL = "https://tnwaterwatch.org/";
@@ -44,18 +48,37 @@ function findIndicator(county: CountyRecord, key: string) {
 
 function RankNote({
   rank,
-  label = "State rank"
+  label = "State rank",
+  metricSlug,
+  countySlug
 }: {
   rank: StateRank | undefined;
   label?: string;
+  metricSlug?: string;
+  countySlug?: string;
 }) {
   if (!rank) {
     return null;
   }
 
+  const content = (
+    <>
+      {label}: {rank.display}
+    </>
+  );
+
   return (
     <p className="mt-2 text-xs leading-5 text-river">
-      {label}: {rank.display}
+      {metricSlug && countySlug ? (
+        <Link
+          href={`/rankings/${metricSlug}#${countySlug}`}
+          className="font-semibold text-river no-underline hover:text-gold hover:underline"
+        >
+          {content}
+        </Link>
+      ) : (
+        content
+      )}
     </p>
   );
 }
@@ -64,18 +87,22 @@ function StatBlock({
   label,
   value,
   detail,
-  rank
+  rank,
+  metricSlug,
+  countySlug
 }: {
   label: string;
   value: string;
   detail?: string;
   rank?: StateRank;
+  metricSlug?: string;
+  countySlug?: string;
 }) {
   return (
     <div className="rounded-md bg-sand px-4 py-3">
       <dt className="text-sm text-ink/60">{label}</dt>
       <dd className="mt-1 text-xl font-semibold text-ink">{value}</dd>
-      <RankNote rank={rank} />
+      <RankNote rank={rank} metricSlug={metricSlug} countySlug={countySlug} />
       {detail ? <p className="mt-2 text-xs leading-5 text-ink/60">{detail}</p> : null}
     </div>
   );
@@ -94,9 +121,13 @@ function IndicatorDefinition({ indicator }: { indicator: IndicatorRecord | undef
 }
 
 function StressMetric({
-  metric
+  metric,
+  metricSlug,
+  countySlug
 }: {
   metric: CountyRecord["stressSummary"]["water"] | CountyRecord["stressSummary"]["climate"];
+  metricSlug: string;
+  countySlug: string;
 }) {
   return (
     <div className="border-t border-ink/10 pt-4 first:border-t-0 first:pt-0">
@@ -109,7 +140,7 @@ function StressMetric({
         </div>
         <p className="text-2xl font-semibold text-ink">{metric.percent.toFixed(1)}%</p>
       </div>
-      <RankNote rank={metric.stateRank} />
+      <RankNote rank={metric.stateRank} metricSlug={metricSlug} countySlug={countySlug} />
       <p className="mt-2 text-sm leading-6 text-ink/75">{metric.description}</p>
     </div>
   );
@@ -121,14 +152,83 @@ function StressSummaryTile({ county }: { county: CountyRecord }) {
       <p className="text-xs uppercase tracking-normal text-river">Climate and water stress</p>
       <h3 className="mt-2 text-xl font-semibold">Justice40 / CEJST tract screening</h3>
       <div className="mt-4 space-y-4">
-        <StressMetric metric={county.stressSummary.water} />
-        <StressMetric metric={county.stressSummary.climate} />
+        <StressMetric
+          metric={county.stressSummary.water}
+          metricSlug="water-stress-tract-share"
+          countySlug={county.slug}
+        />
+        <StressMetric
+          metric={county.stressSummary.climate}
+          metricSlug="climate-stress-tract-share"
+          countySlug={county.slug}
+        />
       </div>
       <p className="mt-4 text-xs uppercase tracking-normal text-river">
         {county.stressSummary.sourceDataset} - updated {county.stressSummary.updatedAt}
       </p>
       <p className="mt-4 text-xs leading-5 text-ink/60">Caveat: {county.stressSummary.caveat}</p>
     </article>
+  );
+}
+
+function stateLegislatorDisplay(districtLabel: string) {
+  const match = /^(House|Senate) (\d+)$/.exec(districtLabel);
+  if (!match) {
+    return districtLabel;
+  }
+
+  const [, chamber, district] = match;
+  const code = `${chamber === "House" ? "H" : "S"}${district}`;
+  const legislator = TENNESSEE_LEGISLATORS[code];
+
+  if (!legislator) {
+    return districtLabel;
+  }
+
+  return `${districtLabel} - ${chamber === "House" ? "Rep." : "Sen."} ${legislator.name}`;
+}
+
+function congressionalRepresentativeDisplay(districtLabel: string) {
+  const legislator = TENNESSEE_CONGRESSIONAL_REPRESENTATIVES[districtLabel];
+
+  if (!legislator) {
+    return districtLabel;
+  }
+
+  return `${districtLabel} - Rep. ${legislator.name}`;
+}
+
+function DistrictSummaryList({
+  districts,
+  formatter,
+  collapsedNoun,
+  expandedLabel
+}: {
+  districts: string[];
+  formatter: (district: string) => string;
+  collapsedNoun: string;
+  expandedLabel: string;
+}) {
+  const labels = districts.map(formatter);
+
+  if (labels.length <= 2) {
+    return <p>{labels.join("; ")}</p>;
+  }
+
+  return (
+    <details className="rounded-md border border-ink/10 bg-sand/70 px-3 py-2">
+      <summary className="cursor-pointer text-ink/75 marker:text-river">
+        <span className="font-medium text-ink">
+          {labels.length} {collapsedNoun}
+        </span>
+        <span className="text-ink/60"> - expand to view {expandedLabel}</span>
+      </summary>
+      <ul className="mt-3 space-y-1 border-t border-ink/10 pt-3">
+        {labels.map((label) => (
+          <li key={label}>{label}</li>
+        ))}
+      </ul>
+    </details>
   );
 }
 
@@ -143,11 +243,25 @@ function CountyContextTile({ county }: { county: CountyRecord }) {
         </div>
         <div className="border-b border-ink/10 pb-3">
           <dt className="font-medium text-ink">Legislative districts</dt>
-          <dd className="mt-1 text-ink/70">{county.legislativeDistricts.join(", ")}</dd>
+          <dd className="mt-1 text-ink/70">
+            <DistrictSummaryList
+              districts={county.legislativeDistricts}
+              formatter={stateLegislatorDisplay}
+              collapsedNoun="state legislative districts"
+              expandedLabel="legislators"
+            />
+          </dd>
         </div>
         <div>
           <dt className="font-medium text-ink">Congressional districts</dt>
-          <dd className="mt-1 text-ink/70">{county.congressionalDistricts.join(", ")}</dd>
+          <dd className="mt-1 text-ink/70">
+            <DistrictSummaryList
+              districts={county.congressionalDistricts}
+              formatter={congressionalRepresentativeDisplay}
+              collapsedNoun="congressional districts"
+              expandedLabel="representatives"
+            />
+          </dd>
         </div>
       </dl>
       <p className="mt-4 text-xs uppercase tracking-normal text-river">Last rebuilt {county.buildDate}</p>
@@ -195,6 +309,56 @@ function TennesseeWaterWatchCard({ county }: { county: CountyRecord }) {
         Open TN Water Watch
       </a>
     </div>
+  );
+}
+
+function LocalActionCard({ county }: { county: CountyRecord }) {
+  return (
+    <article className="card p-6">
+      <p className="text-xs uppercase tracking-normal text-river">Get involved locally</p>
+      <h3 className="mt-2 text-xl font-semibold">Take actions locally</h3>
+      <ul className="mt-4 space-y-3 text-sm leading-7 text-ink/75">
+        {county.getInvolved.map((item) => (
+          <li key={item} className="rounded-md bg-sand px-4 py-3">
+            {item}
+          </li>
+        ))}
+      </ul>
+      <div className="mt-4">
+        <TennesseeWaterWatchCard county={county} />
+      </div>
+    </article>
+  );
+}
+
+function LocalWaterbodyContextCard({ county }: { county: CountyRecord }) {
+  return (
+    <article className="card p-6">
+      <p className="text-xs uppercase tracking-normal text-river">Example streams</p>
+      <h3 className="mt-2 text-xl font-semibold">Local waterbody context</h3>
+      {county.sampleImpairments?.length > 0 ? (
+        <ul className="mt-4 space-y-2 text-sm leading-7 text-ink/75">
+          {county.sampleImpairments.map((entry) => (
+            <li key={`${entry.waterbody}-${entry.status}`} className="rounded-md bg-sand px-4 py-3">
+              <span className="block font-medium text-ink">{entry.waterbody}</span>
+              <span className="mt-1 block text-xs leading-5 text-ink/65">
+                {entry.causes.length > 0 ? entry.causes.join(", ") : "Cause not specified"}
+              </span>
+            </li>
+          ))}
+        </ul>
+      ) : county.sampleWaterbodies.length > 0 ? (
+        <ul className="mt-4 space-y-2 text-sm leading-7 text-ink/75">
+          {county.sampleWaterbodies.map((waterbody) => (
+            <li key={waterbody} className="rounded-md bg-sand px-4 py-3">
+              {waterbody}
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p className="mt-4 text-sm leading-6 text-ink/70">No local example streams are listed in this snapshot.</p>
+      )}
+    </article>
   );
 }
 
@@ -258,24 +422,32 @@ export default async function CountyPage({
               value={`${county.streamMiles.impaired.toFixed(1)} mi`}
               detail={impairedIndicator?.definition}
               rank={county.rankings.impairedRiverMiles}
+              metricSlug="impaired-river-miles"
+              countySlug={county.slug}
             />
             <StatBlock
               label="Monitoring stations"
               value={county.monitoringSummary.stations.toLocaleString()}
               detail={`${county.monitoringSummary.riverStations.toLocaleString()} are river or stream stations in the local DWR layer. ${monitoringIndicator?.definition ?? ""}`}
               rank={county.rankings.monitoringStations}
+              metricSlug="monitoring-stations"
+              countySlug={county.slug}
             />
             <StatBlock
               label="Full attainment river miles"
               value={`${county.streamMiles.fullAttainment.toFixed(1)} mi`}
               detail="Assessed local stream miles currently summarized as full attainment."
               rank={county.rankings.fullAttainmentRiverMiles}
+              metricSlug="full-attainment-river-miles"
+              countySlug={county.slug}
             />
             <StatBlock
               label="Not currently assessed"
               value={`${county.streamMiles.notAssessed.toFixed(1)} mi`}
               detail="Mapped stream miles in this county that do not currently carry an assessment status."
               rank={county.rankings.notAssessedRiverMiles}
+              metricSlug="not-assessed-river-miles"
+              countySlug={county.slug}
             />
             <StatBlock
               label="Scenic river miles"
@@ -288,6 +460,8 @@ export default async function CountyPage({
                   : scenicIndicator?.definition
               }
               rank={county.rankings.scenicRiverMiles}
+              metricSlug="scenic-river-miles"
+              countySlug={county.slug}
             />
           </dl>
 
@@ -329,32 +503,8 @@ export default async function CountyPage({
         </article>
 
         <aside className="space-y-6">
-          <article className="card p-6">
-            <p className="text-xs uppercase tracking-normal text-river">Example streams</p>
-            <h3 className="mt-2 text-xl font-semibold">Local waterbody context</h3>
-            {county.sampleImpairments?.length > 0 ? (
-              <ul className="mt-4 space-y-2 text-sm leading-7 text-ink/75">
-                {county.sampleImpairments.map((entry) => (
-                  <li key={`${entry.waterbody}-${entry.status}`} className="rounded-md bg-sand px-4 py-3">
-                    <span className="block font-medium text-ink">{entry.waterbody}</span>
-                    <span className="mt-1 block text-xs leading-5 text-ink/65">
-                      {entry.causes.length > 0 ? entry.causes.join(", ") : "Cause not specified"}
-                    </span>
-                  </li>
-                ))}
-              </ul>
-            ) : county.sampleWaterbodies.length > 0 ? (
-              <ul className="mt-4 space-y-2 text-sm leading-7 text-ink/75">
-                {county.sampleWaterbodies.map((waterbody) => (
-                  <li key={waterbody} className="rounded-md bg-sand px-4 py-3">
-                    {waterbody}
-                  </li>
-                ))}
-              </ul>
-            ) : (
-              <p className="mt-4 text-sm leading-6 text-ink/70">No local example streams are listed in this snapshot.</p>
-            )}
-          </article>
+          <LocalActionCard county={county} />
+          <LocalWaterbodyContextCard county={county} />
         </aside>
       </section>
 
@@ -369,12 +519,12 @@ export default async function CountyPage({
                 <dd className="mt-1 text-2xl font-semibold text-ink">
                   {populationIndicator?.value ?? county.population.toLocaleString()}
                 </dd>
-                <RankNote rank={county.rankings.population} />
+                <RankNote rank={county.rankings.population} metricSlug="population" countySlug={county.slug} />
               </div>
               <div>
                 <dt className="text-sm text-ink/60">Poverty rate</dt>
                 <dd className="mt-1 text-2xl font-semibold text-ink">{povertyIndicator?.value ?? "n/a"}</dd>
-                <RankNote rank={povertyIndicator?.stateRank} />
+                <RankNote rank={povertyIndicator?.stateRank} metricSlug="poverty-rate" countySlug={county.slug} />
               </div>
             </dl>
             <IndicatorDefinition indicator={populationIndicator} />
@@ -384,6 +534,11 @@ export default async function CountyPage({
           <div className="mt-4 rounded-md border border-ink/10 px-4 py-3">
             <p className="text-sm font-semibold text-ink">Disadvantaged tracts</p>
             <p className="mt-1 text-2xl font-semibold text-ink">{disadvantagedIndicator?.value ?? "n/a"}</p>
+            <RankNote
+              rank={disadvantagedIndicator?.stateRank}
+              metricSlug="disadvantaged-tract-share"
+              countySlug={county.slug}
+            />
             <IndicatorDefinition indicator={disadvantagedIndicator} />
           </div>
         </article>
@@ -399,7 +554,7 @@ export default async function CountyPage({
         </article>
       </section>
 
-      <section id="permits" className="grid scroll-mt-6 gap-6 lg:grid-cols-[1fr_0.9fr]">
+      <section id="permits" className="scroll-mt-6">
         <article className="card p-7">
           <p className="text-xs uppercase tracking-normal text-river">Permits</p>
           <h2 className="mt-2 text-2xl font-semibold">Water permit and service-area context</h2>
@@ -414,6 +569,8 @@ export default async function CountyPage({
               value={county.permittingSummary.activePermits.toLocaleString()}
               detail={activePermitsIndicator?.definition}
               rank={county.rankings.activePermits}
+              metricSlug="active-water-permits"
+              countySlug={county.slug}
             />
             <StatBlock
               label="Unique permittees"
@@ -429,23 +586,10 @@ export default async function CountyPage({
                   : "No service-area names are listed in this snapshot."
               }
               rank={county.rankings.waterServiceAreas}
+              metricSlug="water-service-areas"
+              countySlug={county.slug}
             />
           </dl>
-        </article>
-
-        <article className="card p-7">
-          <p className="text-xs uppercase tracking-normal text-river">Get involved locally</p>
-          <h2 className="mt-2 text-2xl font-semibold">Local action prompts</h2>
-          <ul className="mt-4 space-y-3 text-sm leading-7 text-ink/75">
-            {county.getInvolved.map((item) => (
-              <li key={item} className="rounded-md bg-sand px-4 py-3">
-                {item}
-              </li>
-            ))}
-          </ul>
-          <div className="mt-4">
-            <TennesseeWaterWatchCard county={county} />
-          </div>
         </article>
       </section>
 

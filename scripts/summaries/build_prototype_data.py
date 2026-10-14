@@ -13,17 +13,23 @@ from scripts.download.data_fetchers import (
     load_county_map_major_roads,
     load_county_map_rivers,
     load_county_map_towns,
+    load_huc6,
     load_huc8,
     load_impairment_2026,
     load_justice40,
     load_legislative_layer,
     load_monitoring_stations,
+    load_protected_areas,
     load_region_counties,
     load_scenic_rivers,
+    load_service_line_inventory,
+    load_solid_waste_landfills,
     load_tennessee_counties,
     load_water_service_areas,
 )
 from scripts.normalize.spatial_processing import simplify_for_web, spatial_labels, write_geojson
+from scripts.refresh.superfund import apply_cached_superfund
+from scripts.refresh.landuse import apply_cached_landuse_metadata
 from scripts.summaries.county_contracts import write_county_map_payloads, write_metadata, write_processed_summary
 from scripts.validate.validate_prototype_outputs import validate_outputs
 
@@ -33,6 +39,7 @@ def main() -> None:
     context = get_build_context()
 
     counties = load_tennessee_counties()
+    huc6 = load_huc6()
     huc8 = load_huc8()
     senate = load_legislative_layer(0)
     house = load_legislative_layer(1)
@@ -44,6 +51,9 @@ def main() -> None:
     active_permits = load_active_permits()
     scenic_rivers = load_scenic_rivers()
     water_service_areas = load_water_service_areas()
+    service_line_inventory = load_service_line_inventory()
+    solid_waste_landfills = load_solid_waste_landfills()
+    protected_areas = load_protected_areas()
     region_counties = load_region_counties()
     county_map_rivers = load_county_map_rivers()
     county_map_roads = load_county_map_major_roads()
@@ -57,6 +67,7 @@ def main() -> None:
     region_lookup = region_counties.set_index("GEOID")["Region"].to_dict()
 
     write_geojson(simplify_for_web(counties.copy(), 300), LAYERS_DIR / "counties.geojson")
+    write_geojson(simplify_for_web(huc6.copy(), 300), LAYERS_DIR / "huc6.geojson")
     write_geojson(simplify_for_web(huc8.copy(), 250), LAYERS_DIR / "huc8.geojson")
     write_geojson(simplify_for_web(senate.copy(), 250), LAYERS_DIR / "senate-districts.geojson")
     write_geojson(simplify_for_web(house.copy(), 250), LAYERS_DIR / "house-districts.geojson")
@@ -122,8 +133,14 @@ def main() -> None:
         county_map_cities,
         county_map_towns,
         impairment,
+        water_service_areas,
+        service_line_inventory,
+        solid_waste_landfills,
+        protected_areas,
     )
     write_metadata(build_date=context.build_date)
+    apply_cached_superfund()
+    apply_cached_landuse_metadata()
 
     errors = validate_outputs()
     if errors:

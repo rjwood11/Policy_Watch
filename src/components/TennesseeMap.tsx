@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
+import { assetPath } from "@/lib/assetPath";
 import type { CountyIndexRecord, CountyRecord } from "@/lib/data";
 
 type GeoJsonFeature = {
@@ -18,8 +19,6 @@ type GeoJsonCollection = {
   features: GeoJsonFeature[];
 };
 
-type WatershedMode = "huc4" | "huc6" | "huc8";
-
 type ViewBox = {
   minLon: number;
   maxLon: number;
@@ -27,14 +26,11 @@ type ViewBox = {
   maxLat: number;
 };
 
+type Point = [number, number];
+
 const WIDTH = 960;
 const HEIGHT = 315;
 const PADDING = 18;
-const WATERSHED_MODES: Array<{ key: WatershedMode; label: string; detail: string }> = [
-  { key: "huc4", label: "HUC4", detail: "regional basins" },
-  { key: "huc6", label: "HUC6", detail: "subbasins" },
-  { key: "huc8", label: "HUC8", detail: "catalog units" }
-];
 
 function flattenCoordinates(feature: GeoJsonFeature): number[][] {
   if (feature.geometry.type === "Polygon") {
@@ -45,6 +41,10 @@ function flattenCoordinates(feature: GeoJsonFeature): number[][] {
 
 function computeViewBox(collection: GeoJsonCollection): ViewBox {
   const points = collection.features.flatMap(flattenCoordinates);
+  return coordinateBounds(points);
+}
+
+function coordinateBounds(points: number[][]): ViewBox {
   const lons = points.map((point) => point[0]);
   const lats = points.map((point) => point[1]);
 
@@ -54,6 +54,79 @@ function computeViewBox(collection: GeoJsonCollection): ViewBox {
     minLat: Math.min(...lats),
     maxLat: Math.max(...lats)
   };
+}
+
+function featureBounds(feature: GeoJsonFeature) {
+  return coordinateBounds(flattenCoordinates(feature));
+}
+
+function boundsOverlap(a: ViewBox, b: ViewBox) {
+  return a.minLon <= b.maxLon && a.maxLon >= b.minLon && a.minLat <= b.maxLat && a.maxLat >= b.minLat;
+}
+
+function pointInRing(point: Point, ring: number[][]) {
+  const [x, y] = point;
+  let inside = false;
+
+  for (let index = 0, previous = ring.length - 1; index < ring.length; previous = index, index += 1) {
+    const [xi, yi] = ring[index];
+    const [xj, yj] = ring[previous];
+    const intersects = yi > y !== yj > y && x < ((xj - xi) * (y - yi)) / (yj - yi) + xi;
+
+    if (intersects) {
+      inside = !inside;
+    }
+  }
+
+  return inside;
+}
+
+function pointInPolygon(point: Point, rings: number[][][]) {
+  if (!pointInRing(point, rings[0])) {
+    return false;
+  }
+
+  return rings.slice(1).every((ring) => !pointInRing(point, ring));
+}
+
+function featureContainsPoint(feature: GeoJsonFeature, point: Point) {
+  if (feature.geometry.type === "Polygon") {
+    return pointInPolygon(point, feature.geometry.coordinates as number[][][]);
+  }
+
+  return (feature.geometry.coordinates as number[][][][]).some((polygon) => pointInPolygon(point, polygon));
+}
+
+function huc6Name(feature: GeoJsonFeature) {
+  return String(feature.properties.name ?? "HUC6 basin").trim() || "HUC6 basin";
+}
+
+function sampleFeaturePoints(feature: GeoJsonFeature, maxSamples = 72) {
+  const points = flattenCoordinates(feature).filter(
+    (point): point is Point => Number.isFinite(point[0]) && Number.isFinite(point[1])
+  );
+
+  if (points.length <= maxSamples) {
+    return points;
+  }
+
+  const step = Math.max(1, Math.floor(points.length / maxSamples));
+  return points.filter((_, index) => index % step === 0).slice(0, maxSamples);
+}
+
+function huc6NamesForCounty(countyFeature: GeoJsonFeature | undefined, huc6Layer: GeoJsonCollection | null) {
+  if (!countyFeature || !huc6Layer) {
+    return [];
+  }
+
+  const countyBounds = featureBounds(countyFeature);
+  const countyPoints = sampleFeaturePoints(countyFeature);
+  const names = huc6Layer.features
+    .filter((huc6Feature) => boundsOverlap(countyBounds, featureBounds(huc6Feature)))
+    .filter((huc6Feature) => countyPoints.some((point) => featureContainsPoint(huc6Feature, point)))
+    .map(huc6Name);
+
+  return [...new Set(names)].sort();
 }
 
 function projectPoint(lon: number, lat: number, viewBox: ViewBox) {
@@ -93,81 +166,57 @@ function featurePath(feature: GeoJsonFeature, viewBox: ViewBox) {
     .join(" ");
 }
 
-function watershedCode(feature: GeoJsonFeature, mode: WatershedMode) {
-  const huc8 = String(feature.properties.huc8 ?? "");
-  const length = mode === "huc4" ? 4 : mode === "huc6" ? 6 : 8;
-  return huc8.slice(0, length) || "unknown";
-}
-
-function watershedName(feature: GeoJsonFeature) {
-  return String(feature.properties.name ?? "Watershed").trim() || "Watershed";
-}
-
-function watershedArea(feature: GeoJsonFeature) {
-  const parsed = Number(feature.properties.areasqkm ?? 0);
-  return Number.isFinite(parsed) ? parsed : 0;
-}
-
-function representativeWatershedName(names: Map<string, number>) {
-  const sorted = Array.from(names.entries()).sort((a, b) => b[1] - a[1]);
-  return sorted[0]?.[0] ?? "Watershed";
-}
-
-function splitWatershedLabel(label: string, maxLength: number) {
-  const words = label.replaceAll("-", " - ").split(/\s+/).filter(Boolean);
-  const lines: string[] = [];
-
-  words.forEach((word) => {
-    const current = lines[lines.length - 1] ?? "";
-    const next = current ? `${current} ${word}` : word;
-
-    if (next.length <= maxLength || current.length === 0) {
-      lines[lines.length - 1] = next;
-      return;
-    }
-
-    lines.push(word);
-  });
-
-  return lines.slice(0, 3);
-}
-
-function watershedLabelPositions(
-  collection: GeoJsonCollection | null,
-  mode: WatershedMode,
-  viewBox: ViewBox | null
-) {
-  if (!collection || !viewBox) {
-    return [];
+function ActiveCountyPanel({
+  county,
+  huc6Basins
+}: {
+  county: CountyRecord | undefined;
+  huc6Basins: string[];
+}) {
+  if (!county) {
+    return (
+      <div className="mt-2 rounded-md border border-ink/10 bg-white/90 px-4 py-3 text-sm">
+        <p className="font-semibold text-ink">Hover or search for a county</p>
+        <p className="mt-1 text-xs leading-5 text-ink/60">
+          The selected county&apos;s HUC6 basin and local map context will appear here.
+        </p>
+      </div>
+    );
   }
 
-  const groups = new Map<string, { points: number[][]; names: Map<string, number> }>();
-  collection.features.forEach((feature) => {
-    const code = watershedCode(feature, mode);
-    const current = groups.get(code) ?? { points: [], names: new Map<string, number>() };
-    const name = watershedName(feature);
-
-    current.points.push(...flattenCoordinates(feature));
-    current.names.set(name, (current.names.get(name) ?? 0) + watershedArea(feature));
-    groups.set(code, current);
-  });
-
-  return Array.from(groups.entries())
-    .map(([code, group]) => {
-      const points = group.points;
-      const usablePoints = points.filter((point) => Number.isFinite(point[0]) && Number.isFinite(point[1]));
-      const lon = usablePoints.reduce((total, point) => total + point[0], 0) / usablePoints.length;
-      const lat = usablePoints.reduce((total, point) => total + point[1], 0) / usablePoints.length;
-      const projected = projectPoint(lon, lat, viewBox);
-      return {
-        code,
-        label: representativeWatershedName(group.names),
-        x: projected.x,
-        y: projected.y
-      };
-    })
-    .filter((label) => Number.isFinite(label.x) && Number.isFinite(label.y))
-    .sort((a, b) => a.code.localeCompare(b.code));
+  return (
+    <div className="mt-2 grid gap-3 rounded-md border border-ink/10 bg-white/90 px-4 py-3 text-sm md:grid-cols-[1fr_1.15fr]">
+      <div>
+        <p className="text-xs font-semibold uppercase tracking-normal text-river">Selected county</p>
+        <h3 className="mt-1 text-lg font-semibold text-ink">{county.name} County</h3>
+        <p className="mt-1 text-xs text-ink/60">{county.region}</p>
+      </div>
+      <div className="grid gap-3 sm:grid-cols-[1fr_0.9fr]">
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-normal text-river">
+            HUC6 basin{huc6Basins.length === 1 ? "" : "s"}
+          </p>
+          <p className="mt-1 text-xs leading-5 text-ink/70">
+            {huc6Basins.length > 0 ? huc6Basins.join(", ") : "HUC6 basin not resolved"}
+          </p>
+        </div>
+        <dl className="grid grid-cols-3 gap-2 text-xs">
+          <div>
+            <dt className="text-ink/55">Impaired</dt>
+            <dd className="font-semibold text-ink">{county.streamMiles.impaired.toFixed(1)} mi</dd>
+          </div>
+          <div>
+            <dt className="text-ink/55">Monitoring</dt>
+            <dd className="font-semibold text-ink">{county.monitoringSummary.stations}</dd>
+          </div>
+          <div>
+            <dt className="text-ink/55">Permits</dt>
+            <dd className="font-semibold text-ink">{county.permittingSummary.activePermits}</dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+  );
 }
 
 export function TennesseeMap({
@@ -179,24 +228,23 @@ export function TennesseeMap({
 }) {
   const router = useRouter();
   const [countyLayer, setCountyLayer] = useState<GeoJsonCollection | null>(null);
-  const [huc8Layer, setHuc8Layer] = useState<GeoJsonCollection | null>(null);
+  const [huc6Layer, setHuc6Layer] = useState<GeoJsonCollection | null>(null);
   const [hoveredCounty, setHoveredCounty] = useState<string | null>(null);
   const [selectedCounty, setSelectedCounty] = useState<string | null>(null);
   const [searchTerm, setSearchTerm] = useState("");
-  const [watershedMode, setWatershedMode] = useState<WatershedMode>("huc6");
 
   useEffect(() => {
     let cancelled = false;
 
     async function loadLayers() {
-      const [countiesData, huc8Data] = await Promise.all([
-        fetch("/data/layers/counties.geojson").then((response) => response.json()),
-        fetch("/data/layers/huc8.geojson").then((response) => response.json())
+      const [countiesData, huc6Data] = await Promise.all([
+        fetch(assetPath("/data/layers/counties.geojson")).then((response) => response.json()),
+        fetch(assetPath("/data/layers/huc6.geojson")).then((response) => response.json())
       ]);
 
       if (!cancelled) {
         setCountyLayer(countiesData);
-        setHuc8Layer(huc8Data);
+        setHuc6Layer(huc6Data);
       }
     }
 
@@ -222,6 +270,14 @@ export function TennesseeMap({
 
   const activeCountyName = hoveredCounty ?? selectedCounty;
   const activeCountyDetail = activeCountyName ? countyDetailLookup[activeCountyName] : undefined;
+  const activeCountyFeature = useMemo(
+    () => countyLayer?.features.find((feature) => String(feature.properties.NAME) === activeCountyName),
+    [activeCountyName, countyLayer]
+  );
+  const activeHuc6Basins = useMemo(
+    () => huc6NamesForCounty(activeCountyFeature, huc6Layer),
+    [activeCountyFeature, huc6Layer]
+  );
 
   const viewBox = useMemo(() => {
     if (!countyLayer) {
@@ -229,10 +285,6 @@ export function TennesseeMap({
     }
     return computeViewBox(countyLayer);
   }, [countyLayer]);
-  const watershedLabels = useMemo(
-    () => watershedLabelPositions(huc8Layer, watershedMode, viewBox),
-    [huc8Layer, viewBox, watershedMode]
-  );
 
   return (
     <section id="map" className="card scroll-mt-6 overflow-hidden">
@@ -244,51 +296,9 @@ export function TennesseeMap({
       </div>
       <div className="grid gap-4 p-4 lg:grid-cols-[minmax(0,1fr)_18rem]">
         <div className="relative rounded-lg border border-ink/15 bg-[#dbe7de] p-2">
-          {countyLayer && huc8Layer && viewBox ? (
+          {countyLayer && huc6Layer && viewBox ? (
             <>
               <svg viewBox={`0 0 ${WIDTH} ${HEIGHT}`} className="h-auto w-full rounded-md bg-[#eef2e4]">
-                {huc8Layer.features.map((feature, index) => (
-                  <path
-                    key={`huc8-${index}`}
-                    d={featurePath(feature, viewBox)}
-                    fill="#d5e4d8"
-                    fillOpacity={watershedMode === "huc8" ? "0.78" : "0.6"}
-                    stroke="#547a5b"
-                    strokeOpacity={watershedMode === "huc8" ? "0.82" : "0.58"}
-                    strokeWidth={watershedMode === "huc8" ? "1.45" : "1.1"}
-                  />
-                ))}
-                {watershedLabels.map((label) => {
-                  const lines = splitWatershedLabel(label.label, watershedMode === "huc8" ? 15 : 20);
-
-                  return (
-                    <text
-                      key={label.code}
-                      x={label.x}
-                      y={label.y}
-                      textAnchor="middle"
-                      dominantBaseline="middle"
-                      fill="#28443c"
-                      fillOpacity="0.58"
-                      stroke="#eef2e4"
-                      strokeWidth="3"
-                      paintOrder="stroke"
-                      fontSize={watershedMode === "huc4" ? "14" : watershedMode === "huc6" ? "11" : "7.5"}
-                      fontWeight="700"
-                      style={{ pointerEvents: "none" }}
-                    >
-                      {lines.map((line, index) => (
-                        <tspan
-                          key={`${label.code}-${line}-${index}`}
-                          x={label.x}
-                          dy={index === 0 ? `${(1 - lines.length) * 0.55}em` : "1.08em"}
-                        >
-                          {line}
-                        </tspan>
-                      ))}
-                    </text>
-                  );
-                })}
                 {countyLayer.features.map((feature) => {
                   const countyName = String(feature.properties.NAME);
                   const county = countyLookup[countyName];
@@ -300,8 +310,8 @@ export function TennesseeMap({
                         d={featurePath(feature, viewBox)}
                         fill={isActive ? "#244f45" : "rgba(255,255,255,0.3)"}
                         stroke="#25312d"
-                        strokeOpacity={isActive ? "0.96" : "0.78"}
-                        strokeWidth={isActive ? "2.3" : "1.25"}
+                        strokeOpacity={isActive ? "0.98" : "0.9"}
+                        strokeWidth={isActive ? "2.8" : "1.65"}
                         className="cursor-pointer transition-all"
                         onMouseEnter={() => setHoveredCounty(countyName)}
                         onMouseLeave={() => setHoveredCounty((current) => (current === countyName ? null : current))}
@@ -315,7 +325,21 @@ export function TennesseeMap({
                     </g>
                   );
                 })}
+                <g aria-hidden="true">
+                  {huc6Layer.features.map((feature, index) => (
+                    <path
+                      key={`huc6-outline-${String(feature.properties.huc6 ?? index)}`}
+                      d={featurePath(feature, viewBox)}
+                      fill="none"
+                      stroke="#547a5b"
+                      strokeOpacity="0.42"
+                      strokeWidth="1.05"
+                      style={{ pointerEvents: "none" }}
+                    />
+                  ))}
+                </g>
               </svg>
+              <ActiveCountyPanel county={activeCountyDetail} huc6Basins={activeHuc6Basins} />
             </>
           ) : (
             <div className="flex min-h-[260px] items-center justify-center rounded-md bg-white text-sm text-ink/60">
@@ -327,53 +351,10 @@ export function TennesseeMap({
         <aside className="space-y-3">
           <div className="rounded-lg border border-ink/10 bg-white p-4">
             <p className="text-xs font-semibold uppercase tracking-normal text-river">Watershed view</p>
-            <div className="mt-3 grid grid-cols-3 gap-1 rounded-md bg-sand p-1">
-              {WATERSHED_MODES.map((mode) => {
-                const isActive = watershedMode === mode.key;
-                return (
-                  <button
-                    key={mode.key}
-                    type="button"
-                    className={`rounded px-2 py-2 text-center text-xs font-semibold transition ${
-                      isActive ? "bg-river text-white" : "text-ink/70 hover:bg-white"
-                    }`}
-                    onClick={() => setWatershedMode(mode.key)}
-                  >
-                    {mode.label}
-                  </button>
-                );
-              })}
-            </div>
             <p className="mt-2 text-xs leading-5 text-ink/60">
-              Showing {WATERSHED_MODES.find((mode) => mode.key === watershedMode)?.detail}.
+              Showing USGS WBD HUC6 basin boundaries. Hover or select a county to see its local HUC6 context
+              below the map.
             </p>
-          </div>
-
-          <div className="rounded-lg border border-ink/10 bg-white p-4">
-            <p className="text-xs font-semibold uppercase tracking-normal text-river">Selected county</p>
-            <h3 className="mt-2 text-lg font-semibold text-ink">
-              {activeCountyName ?? "Statewide view"}
-            </h3>
-            {activeCountyDetail ? (
-              <dl className="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
-                <div>
-                  <dt className="text-ink/55">Region</dt>
-                  <dd className="font-medium text-ink">{activeCountyDetail.region}</dd>
-                </div>
-                <div>
-                  <dt className="text-ink/55">Impaired miles</dt>
-                  <dd className="font-medium text-ink">{activeCountyDetail.streamMiles.impaired.toFixed(1)}</dd>
-                </div>
-                <div>
-                  <dt className="text-ink/55">Monitoring</dt>
-                  <dd className="font-medium text-ink">{activeCountyDetail.monitoringSummary.stations}</dd>
-                </div>
-                <div>
-                  <dt className="text-ink/55">Active permits</dt>
-                  <dd className="font-medium text-ink">{activeCountyDetail.permittingSummary.activePermits}</dd>
-                </div>
-              </dl>
-            ) : null}
           </div>
 
           <div className="rounded-lg border border-ink/10 bg-white p-4">
@@ -419,7 +400,7 @@ export function TennesseeMap({
             <p className="text-xs font-semibold uppercase tracking-normal text-river">Legend</p>
             <ul className="mt-3 space-y-2 text-sm">
               <li className="flex items-center gap-3">
-                <span className="h-4 w-4 rounded-sm border border-[#547a5b] bg-[#d5e4d8]" /> Watershed background
+                <span className="h-0 w-6 border-t-2 border-[#547a5b]" /> HUC6 basin boundary
               </li>
               <li className="flex items-center gap-3">
                 <span className="h-0 w-6 border-t-2 border-[#25312d]" /> County boundary

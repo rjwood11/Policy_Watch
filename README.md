@@ -149,20 +149,72 @@ npm run build
 
 The project uses `output: "export"` in `next.config.mjs`, so `next build` emits a static site in `out/`.
 
-## GitHub Pages Deployment
+## Publish to GitHub and GitHub Pages
 
-- Push this repo to GitHub.
-- Set the default branch to `main`.
-- In the repository settings, enable `GitHub Pages` with `GitHub Actions` as the source.
-- The workflow at `.github/workflows/deploy.yml` refreshes the weekly EPA ECHO and TDEC permit cache, builds the static site, and publishes the contents of `out/`.
+PolicyWatch is a static Next.js application: GitHub stores the source, GitHub Actions builds it, and GitHub Pages serves the exported HTML, JavaScript, images, and map data. Your computer can be off after deployment. No Python or Node server runs on GitHub Pages. External map services still require an internet connection and remain subject to their availability.
 
-## GitHub Workflows
+Repository: [rjwood11/Policy_Watch](https://github.com/rjwood11/Policy_Watch)  
+Live application: [PolicyWatch on GitHub Pages](https://rjwood11.github.io/Policy_Watch/)
 
-- `.github/workflows/ci.yml` runs `npm run lint` and `npm run build` for pull requests and manual checks.
-- `.github/workflows/deploy.yml` runs on pushes to `main`, manual dispatch, and every Monday at `10:17 UTC`.
-- The deploy workflow runs `npm run data:refresh-weekly` before `npm run build`, so the published static artifact includes the latest generated TDEC cache and any updated ECHO cache.
-- Manual deploys include a `refresh_live_layers` toggle. Leave it on for production deploys; turn it off only when testing build/deploy behavior without external data calls.
-- `.github/workflows/refresh-echo-cache.yml` runs every Tuesday at `11:42 UTC` and can be run manually. It refreshes only ECHO, then commits the ECHO cache files when their contents actually change.
+### Everyday workflow on Windows
+
+1. Use Codex to edit and improve this local folder.
+2. Preview locally with `launch-local.bat`. Set `POLICYWATCH_REBUILD_STATIC=1` when you want that launcher to rebuild edited source, or use dev mode.
+3. When ready to publish, double-click **`PUBLISH-TO-GITHUB.bat`** in the project root.
+4. The launcher runs lint and a production build. It then stages all non-ignored new, modified, and deleted files, asks for an optional commit description (Enter uses a dated message), commits, and pushes `main`.
+5. Wait for the deployment in the repository's **Actions** tab to turn green. The Pages URL displays the new version after a successful deployment.
+
+The window stays open so you can read success or error messages. No source changes are uploaded until you launch the publisher. A failed lint/build stops publishing; a failed push preserves the local commit for retry. The publisher never force-pushes or automatically merges remote changes. If GitHub has newer commits, ask Codex to integrate them, then retry. Save editor files before publishing.
+
+Optional console usage:
+
+```powershell
+.\PUBLISH-TO-GITHUB.bat -Message "Improve county maps"
+.\PUBLISH-TO-GITHUB.bat -CheckOnly
+```
+
+`-CheckOnly` validates without staging, committing, or pushing. The script requires Git for Windows and Node.js (22 LTS or newer supported LTS recommended). It uses Git's stored sign-in; no password or access token belongs in the batch file or repository. GitHub CLI is useful for setup, but is not required for everyday publishing.
+
+### One-time repository setup
+
+Create an empty repository (no generated README, license, or .gitignore) in your GitHub account. A public repository supports free GitHub Pages; private repositories require an eligible paid GitHub plan. This repository includes source GIS files in `data/external`, which are uploaded along with the application source. `.env` files, dependencies, generated builds, raw/processed caches, and local Codex caches are ignored. Already tracked files remain tracked regardless of ignore rules.
+
+From this folder, connect the repository and publish:
+
+```powershell
+git remote add origin https://github.com/rjwood11/Policy_Watch.git
+.\PUBLISH-TO-GITHUB.bat
+```
+
+In GitHub, open **Settings > Pages > Build and deployment > Source** and choose **GitHub Actions**. If the first workflow ran before enabling Pages, rerun it from Actions. Keep the default branch as `main`. The usual site URL is `https://rjwood11.github.io/Policy_Watch/` (repository name casing matters).
+
+The deployment workflow reads the Pages base path automatically, so routes, map JSON, cached layers, logos, and land-cover images work under the repository URL. `trailingSlash: true` exports route directories with `index.html` so county/ranking URLs also work when opened directly or refreshed. Local builds use the domain root as before. A future custom domain is supported through the Pages configuration and workflow-provided base path.
+
+### Deployment and data refreshes
+
+- `.github/workflows/deploy.yml` deploys on pushes to `main` and manual runs. It installs locked npm dependencies, lints, builds the static export, and publishes `out/` as a Pages artifact. There are no scheduled deployments.
+- `.github/workflows/ci.yml` checks pull requests and manual runs, including a build with a repository URL prefix.
+- Normal deployments use committed data. The optional manual `refresh_live_layers` input refreshes EPA ECHO and TDEC caches in the deployment artifact. It defaults off to keep publishing independent of refresh-service availability.
+- `.github/workflows/refresh-echo-cache.yml` is manual only. Running it commits updated ECHO cache data to GitHub; integrate those commits locally before publishing again. Bot commits do not trigger another workflow automatically, so manually run Deploy Static Site afterward if you want them deployed immediately.
+- TDEC permit cache files remain ignored. Without an optional refresh, maps use live public services for those permits. Existing committed ECHO caches remain available. Rebuild other datasets locally with the existing data commands before publishing when needed.
+
+References: [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages), [Pages availability and limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits), [Next.js static exports](https://nextjs.org/docs/app/guides/static-exports).
+
+## Land use / land cover map layer
+
+County maps offer an off-by-default **Land use / land cover** overlay from [USGS Annual NLCD](https://www.usgs.gov/centers/eros/science/annual-nlcd-data-access), observation year 2025 (Collection 1.2). Hover over the map for the category name, color, explanation and source year. Category explanations appear in the popup instead of the sidebar legend.
+
+The broad groups distinguish built-up land, developed open space, agriculture, forest, grass/shrubland, wetlands, water and barren land. NLCD measures land cover; it does not define zoning or an official urban/rural designation. Cells are nearest-neighbor samples at 300 Web Mercator meters (approximately 240–250 ground meters in Tennessee), so small features may be omitted. County boundaries mask the images, and existing map overlays render above them.
+
+`npm run data:build-landuse` downloads only a Tennessee subset through the [official USGS/MRLC WCS service](https://dmsdata.cr.usgs.gov/geoserver/mrlc_Land-Cover-Native_conus_year_data/wcs) and stores the compressed source raster in ignored `data/raw/`. Later runs reuse that cache; `npm run data:build-landuse -- --download` requests a fresh copy. Dependencies are in `requirements.txt`. The committed, palette-compressed county PNGs and manifest live in `public/data/landuse/` and work on static hosting without a GIS backend. Only the current county image loads when the layer is enabled. Run `npm run build` after regeneration.
+
+## Superfund map layer
+
+County maps include the point layer used by EPA's [Superfund Where You Live map](https://www.epa.gov/superfund/search-superfund-sites-where-you-live): [Superfund NPL Sites with Status Information](https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/Superfund_National_Priorities_List_(NPL)_Sites_with_Status_Information/FeatureServer/0).
+
+The committed Tennessee snapshot is `public/data/layers/superfund-sites.geojson`. County assignment follows EPA's County field, including sites associated with multiple counties. Relevant county maps offer the layer with its toggle off by default, with red current-NPL markers and gray deleted-NPL markers when enabled. Click a marker for its status, EPA ID, dates, and EPA site profile. These are reference locations, not contamination boundaries; an empty county does not establish that it has no contaminated properties.
+
+Refresh the snapshot and county map payloads with `npm run data:refresh-superfund`, then run `npm run build`. The full `npm run data:build` pipeline reapplies the committed snapshot without requiring a live EPA request. Source attribution and retrieval date appear on the Sources page.
 
 ## Weekly Dynamic Data Cache
 
@@ -206,8 +258,11 @@ npm run data:refresh-echo -- --strict
 - `public/data/metadata/data-sources.json`
 - `public/data/metadata/last-updated.json`
 - `public/data/search/search-index.json`
+- `public/data/county-maps/{slug}.json`
 - `public/data/weekly/{slug}/tdec-permits.geojson` generated during deployment
 - `public/data/weekly/{slug}/echo-violations.geojson` committed as the stale-safe ECHO cache
+
+County map utility features include TDEC service-line inventory counts as `total_lines`, `lead_lines`, `non_lead_lines`, `grr_lines`, and `unknown_lines` where TDEC publishes those values for the PWSID.
 
 These contracts are intentionally production-portable. A later pipeline can generate the same outputs from PostGIS and scheduled ETL without forcing major frontend changes.
 

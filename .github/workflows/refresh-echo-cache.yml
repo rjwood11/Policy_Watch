@@ -1,8 +1,6 @@
 name: Refresh ECHO Cache
 
 on:
-  schedule:
-    - cron: "42 11 * * 2"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +16,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - name: Setup Python

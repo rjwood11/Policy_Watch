@@ -6,6 +6,11 @@ __pycache__/
 npm-debug.log*
 .DS_Store
 .eslintcache
+.codex-local/
+.wrangler/
+.env*
+!.env.example
+*.tsbuildinfo
 data/processed/*
 !data/processed/.gitkeep
 data/raw/*

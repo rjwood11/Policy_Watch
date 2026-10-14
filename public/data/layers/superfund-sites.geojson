@@ -1,0 +1,553 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.276389,
+          35.0625
+        ]
+      },
+      "properties": {
+        "Site_Name": "Amnicola Dump",
+        "Site_EPA_ID": "TND980729172",
+        "State": "Tennessee",
+        "City": "Chattanooga",
+        "County": "Hamilton",
+        "Status": "Deleted NPL Site",
+        "Listing_Date": "09/08/1983",
+        "Deletion_Date": "04/30/1996",
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0404007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.601939,
+          35.359719
+        ]
+      },
+      "properties": {
+        "Site_Name": "Gallaway Pits",
+        "Site_EPA_ID": "TND980728992",
+        "State": "Tennessee",
+        "City": "Gallaway",
+        "County": "Fayette",
+        "Status": "Deleted NPL Site",
+        "Listing_Date": "09/08/1983",
+        "Deletion_Date": "04/29/1996",
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0404005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.784161,
+          35.481389
+        ]
+      },
+      "properties": {
+        "Site_Name": "Lewisburg Dump",
+        "Site_EPA_ID": "TND980729115",
+        "State": "Tennessee",
+        "City": "Lewisburg",
+        "County": "Marshall",
+        "Status": "Deleted NPL Site",
+        "Listing_Date": "09/08/1983",
+        "Deletion_Date": "02/21/1996",
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0404006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.361111,
+          35.2275
+        ]
+      },
+      "properties": {
+        "Site_Name": "Murray-Ohio Dump",
+        "Site_EPA_ID": "TND980728836",
+        "State": "Tennessee",
+        "City": "Lawrenceburg",
+        "County": "Lawrence",
+        "Status": "NPL Site",
+        "Listing_Date": "09/08/1983",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0404004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.979161,
+          35.18555
+        ]
+      },
+      "properties": {
+        "Site_Name": "North Hollywood Dump",
+        "Site_EPA_ID": "TND980558894",
+        "State": "Tennessee",
+        "City": "Memphis",
+        "County": "Shelby",
+        "Status": "Deleted NPL Site",
+        "Listing_Date": "09/08/1983",
+        "Deletion_Date": "12/31/1997",
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0403873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.926389,
+          35.381939
+        ]
+      },
+      "properties": {
+        "Site_Name": "Velsicol Chemical Corp. (Hardeman County)",
+        "Site_EPA_ID": "TND980559033",
+        "State": "Tennessee",
+        "City": "Toone",
+        "County": "Hardeman",
+        "Status": "NPL Site",
+        "Listing_Date": "09/08/1983",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0403886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.696111,
+          35.867781
+        ]
+      },
+      "properties": {
+        "Site_Name": "Milan Army Ammunition Plant",
+        "Site_EPA_ID": "TN0210020582",
+        "State": "Tennessee",
+        "City": "Milan",
+        "County": "Carroll, Gibson",
+        "Status": "NPL Site",
+        "Listing_Date": "07/22/1987",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0404147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8355,
+          35.61
+        ]
+      },
+      "properties": {
+        "Site_Name": "American Creosote Works, Inc. (Jackson Plant)",
+        "Site_EPA_ID": "TND007018799",
+        "State": "Tennessee",
+        "City": "Jackson",
+        "County": "Madison",
+        "Status": "NPL Site",
+        "Listing_Date": "06/10/1986",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0403623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.758611,
+          35.317638
+        ]
+      },
+      "properties": {
+        "Site_Name": "Mallory Capacitor Co.",
+        "Site_EPA_ID": "TND075453688",
+        "State": "Tennessee",
+        "City": "Waynesboro",
+        "County": "Wayne",
+        "Status": "NPL Site",
+        "Listing_Date": "10/04/1989",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0403783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6577,
+          35.2996
+        ]
+      },
+      "properties": {
+        "Site_Name": "Arlington Blending & Packaging",
+        "Site_EPA_ID": "TND980468557",
+        "State": "Tennessee",
+        "City": "Arlington",
+        "County": "Shelby",
+        "Status": "NPL Site",
+        "Listing_Date": "07/22/1987",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0403838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.353194,
+          35.9025
+        ]
+      },
+      "properties": {
+        "Site_Name": "Wrigley Charcoal Plant",
+        "Site_EPA_ID": "TND980844781",
+        "State": "Tennessee",
+        "City": "Wrigley",
+        "County": "Hickman",
+        "Status": "NPL Site",
+        "Listing_Date": "03/31/1989",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0404043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.690411,
+          35.043331
+        ]
+      },
+      "properties": {
+        "Site_Name": "Carrier Air Conditioning Co.",
+        "Site_EPA_ID": "TND044062222",
+        "State": "Tennessee",
+        "City": "Collierville",
+        "County": "Shelby",
+        "Status": "NPL Site",
+        "Listing_Date": "02/21/1990",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0403684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.390139,
+          35.924719
+        ]
+      },
+      "properties": {
+        "Site_Name": "Oak Ridge Reservation (USDOE)",
+        "Site_EPA_ID": "TN1890090003",
+        "State": "Tennessee",
+        "City": "Oak Ridge",
+        "County": "Anderson, Roane",
+        "Status": "NPL Site",
+        "Listing_Date": "11/21/1989",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0404152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.003333,
+          35.093333
+        ]
+      },
+      "properties": {
+        "Site_Name": "Memphis Defense Depot (DLA)",
+        "Site_EPA_ID": "TN4210020570",
+        "State": "Tennessee",
+        "City": "Memphis",
+        "County": "Shelby",
+        "Status": "NPL Site",
+        "Listing_Date": "10/14/1992",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0404159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.797689,
+          35.6025
+        ]
+      },
+      "properties": {
+        "Site_Name": "ICG Iselin Railroad Yard",
+        "Site_EPA_ID": "TND987767795",
+        "State": "Tennessee",
+        "City": "Jackson",
+        "County": "Madison",
+        "Status": "Deleted NPL Site",
+        "Listing_Date": "12/16/1994",
+        "Deletion_Date": "01/07/2002",
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0405179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.314444,
+          34.998889
+        ]
+      },
+      "properties": {
+        "Site_Name": "Tennessee Products",
+        "Site_EPA_ID": "TND071516959",
+        "State": "Tennessee",
+        "City": "Chattanooga",
+        "County": "Hamilton",
+        "Status": "Deleted NPL Site",
+        "Listing_Date": "09/29/1995",
+        "Deletion_Date": "08/16/2019",
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0403765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.372499,
+          35.08361
+        ]
+      },
+      "properties": {
+        "Site_Name": "Chemet Co.",
+        "Site_EPA_ID": "TND987768546",
+        "State": "Tennessee",
+        "City": "Moscow",
+        "County": "Fayette",
+        "Status": "Deleted NPL Site",
+        "Listing_Date": "05/31/1994",
+        "Deletion_Date": "10/09/1996",
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0405468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.548611,
+          35.049167
+        ]
+      },
+      "properties": {
+        "Site_Name": "Ross Metals Inc.",
+        "Site_EPA_ID": "TND096070396",
+        "State": "Tennessee",
+        "City": "Rossville",
+        "County": "Fayette",
+        "Status": "NPL Site",
+        "Listing_Date": "04/01/1997",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0403822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.685833,
+          35.044444
+        ]
+      },
+      "properties": {
+        "Site_Name": "Smalley-Piper",
+        "Site_EPA_ID": "TNN000407378",
+        "State": "Tennessee",
+        "City": "Collierville",
+        "County": "Shelby",
+        "Status": "NPL Site",
+        "Listing_Date": "04/27/2005",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0407378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.925833,
+          35.919444
+        ]
+      },
+      "properties": {
+        "Site_Name": "Smokey Mountain Smelters",
+        "Site_EPA_ID": "TND098071061",
+        "State": "Tennessee",
+        "City": "Knoxville",
+        "County": "Knox",
+        "Status": "NPL Site",
+        "Listing_Date": "09/29/2010",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0406753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.118022,
+          35.784153
+        ]
+      },
+      "properties": {
+        "Site_Name": "Alamo Contaminated Ground Water",
+        "Site_EPA_ID": "TNN000410203",
+        "State": "Tennessee",
+        "City": "Alamo",
+        "County": "Crockett",
+        "Status": "NPL Site",
+        "Listing_Date": "09/16/2011",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0410203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.539381,
+          35.93195
+        ]
+      },
+      "properties": {
+        "Site_Name": "Clinch River Corporation",
+        "Site_EPA_ID": "TND987768587",
+        "State": "Tennessee",
+        "City": "Harriman",
+        "County": "Roane",
+        "Status": "NPL Site",
+        "Listing_Date": "05/24/2013",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0405465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.653469,
+          35.041589
+        ]
+      },
+      "properties": {
+        "Site_Name": "Walker Machine Products, Inc.",
+        "Site_EPA_ID": "TNN000410124",
+        "State": "Tennessee",
+        "City": "Collierville",
+        "County": "Shelby",
+        "Status": "NPL Site",
+        "Listing_Date": "05/12/2014",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0410124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.945,
+          35.115114
+        ]
+      },
+      "properties": {
+        "Site_Name": "Former Custom Cleaners",
+        "Site_EPA_ID": "TNN000402275",
+        "State": "Tennessee",
+        "City": "Memphis",
+        "County": "Shelby",
+        "Status": "NPL Site",
+        "Listing_Date": "08/03/2017",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0402275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.300559,
+          35.032552
+        ]
+      },
+      "properties": {
+        "Site_Name": "Southside Chattanooga Lead",
+        "Site_EPA_ID": "TNN000410686",
+        "State": "Tennessee",
+        "City": "Chattanooga",
+        "County": "Hamilton",
+        "Status": "NPL Site",
+        "Listing_Date": "09/13/2018",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0410686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.751544,
+          35.160111
+        ]
+      },
+      "properties": {
+        "Site_Name": "National Fireworks",
+        "Site_EPA_ID": "TNSFN0407047",
+        "State": "Tennessee",
+        "City": "Cordova",
+        "County": "Shelby",
+        "Status": "NPL Site",
+        "Listing_Date": "03/16/2022",
+        "Deletion_Date": null,
+        "profile_url": "https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0407047"
+      }
+    }
+  ],
+  "sourceUrl": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/Superfund_National_Priorities_List_(NPL)_Sites_with_Status_Information/FeatureServer/0",
+  "retrievedAt": "2026-10-05"
+}

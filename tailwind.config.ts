@@ -12,9 +12,9 @@ const config: Config = {
         ink: "#2f3834",
         river: "#3b6e63",
         moss: "#6f8f5f",
-        sand: "#f3f0e7",
-        foam: "#fbfaf5",
-        mist: "#e6ede8",
+        sand: "#e7ece4",
+        foam: "#edf3ee",
+        mist: "#cbd9d0",
         gold: "#af8401",
         sunlight: "#f5bf54",
         rust: "#9f4f2a"

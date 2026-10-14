@@ -3,7 +3,7 @@
   "name": "Carroll",
   "region": "West Tennessee",
   "population": 28641,
-  "buildDate": "2026-06-25",
+  "buildDate": "2026-08-27",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -14,7 +14,9 @@
       "Water and climate stress rollups",
       "2026 impairment summary",
       "Justice40 screening summary",
-      "Monitoring, permits, and scenic river context"
+      "Monitoring, permits, and scenic river context",
+      "Drinking water utility service-area overlay",
+      "Protected-area and conservation easement overlay"
     ]
   },
   "isFeatured": false,
@@ -248,7 +250,7 @@
   "cejstSummary": "Using the local Justice40 / CEJST tract snapshot, 6 of 8 census tracts in Carroll County are flagged as disadvantaged (75.0%). 0 tracts carry the water and wastewater stress flag, and 6 tracts carry the climate stress flag.",
   "stressSummary": {
     "sourceDataset": "Justice40 / CEJST local snapshot",
-    "updatedAt": "2026-06-25",
+    "updatedAt": "2026-08-27",
     "caveat": "Water stressed and climate stressed are local labels for CEJST category flags. They are screening indicators, not direct measurements or regulatory determinations.",
     "water": {
       "label": "Water stressed tracts",
@@ -293,7 +295,7 @@
       "definition": "ACS 5-year total county population.",
       "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
       "sourceDataset": "ACS indicators",
-      "updatedAt": "2026-06-25",
+      "updatedAt": "2026-08-27",
       "stateRank": {
         "rank": 52,
         "total": 95,
@@ -309,7 +311,7 @@
       "definition": "Share of people below the poverty level based on ACS table B17001.",
       "caveat": "County-wide rates can hide tract-level variation.",
       "sourceDataset": "ACS indicators",
-      "updatedAt": "2026-06-25",
+      "updatedAt": "2026-08-27",
       "stateRank": {
         "rank": 36,
         "total": 95,
@@ -325,7 +327,7 @@
       "definition": "Share of county tracts flagged as disadvantaged in the local Justice40 / CEJST tract snapshot.",
       "caveat": "Justice40 is a screening context, not a final judgment about community need.",
       "sourceDataset": "Justice40 / CEJST local snapshot",
-      "updatedAt": "2026-06-25",
+      "updatedAt": "2026-08-27",
       "stateRank": {
         "rank": 40,
         "total": 95,
@@ -341,7 +343,7 @@
       "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
       "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
       "sourceDataset": "2026 303(d) impairment layer",
-      "updatedAt": "2026-06-25",
+      "updatedAt": "2026-08-27",
       "stateRank": {
         "rank": 29,
         "total": 95,
@@ -357,7 +359,7 @@
       "definition": "Distinct DWR water-quality monitoring stations associated with the county.",
       "caveat": "Station presence does not by itself indicate adequate monitoring coverage or condition.",
       "sourceDataset": "DWR monitoring stations",
-      "updatedAt": "2026-06-25",
+      "updatedAt": "2026-08-27",
       "stateRank": {
         "rank": 45,
         "total": 95,
@@ -373,7 +375,7 @@
       "definition": "Count of active permitted features associated with the county in the local permit layer.",
       "caveat": "Permit counts mix facility types and do not directly measure pollutant load or compliance status.",
       "sourceDataset": "Active permitted features",
-      "updatedAt": "2026-06-25",
+      "updatedAt": "2026-08-27",
       "stateRank": {
         "rank": 48,
         "total": 95,
@@ -389,7 +391,7 @@
       "definition": "Approximate miles of designated Tennessee scenic river segments intersecting the county.",
       "caveat": "This captures designated segments only, not broader watershed influence.",
       "sourceDataset": "Tennessee scenic rivers",
-      "updatedAt": "2026-06-25",
+      "updatedAt": "2026-08-27",
       "stateRank": {
         "rank": 29,
         "total": 95,

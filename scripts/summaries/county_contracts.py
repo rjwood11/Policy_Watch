@@ -4,7 +4,7 @@ import json
 
 import geopandas as gpd
 import pandas as pd
-from shapely.geometry import box
+from shapely.geometry import Point, box
 
 from scripts.common.prototype_config import (
     ACS_URL,
@@ -18,9 +18,15 @@ from scripts.common.prototype_config import (
     JUSTICE40_PATH,
     METADATA_DIR,
     MONITORING_STATIONS_PATH,
+    PADUS_PROTECTION_MECHANISM_URL,
     SCENIC_RIVERS_PATH,
     SEARCH_DIR,
+    TDEC_SERVICE_LINE_INVENTORY_URL,
+    TDEC_SOLID_WASTE_PERMITS_URL,
+    TDEC_WATER_SERVICE_AREAS_URL,
     TN_LEG_URL,
+    WBD_HUC6_URL,
+    WBD_HUC8_URL,
     WATER_SERVICE_AREAS_PATH,
 )
 
@@ -101,6 +107,82 @@ ROAD_STYLES = {
     "trunk_link": "trunk",
     "primary": "primary",
     "primary_link": "primary",
+}
+
+WATER_SOURCE_TYPE_LABELS = {
+    "GW": "Groundwater",
+    "GWP": "Purchased groundwater",
+    "GU": "Groundwater under direct influence of surface water",
+    "GUP": "Purchased groundwater under direct influence of surface water",
+    "SW": "Surface water",
+    "SWP": "Purchased surface water",
+}
+
+WATER_SOURCE_GROUPS = {
+    "GW": "groundwater",
+    "GWP": "groundwater",
+    "GU": "mixed",
+    "GUP": "mixed",
+    "SW": "surface",
+    "SWP": "surface",
+}
+
+SERVICE_LINE_COUNT_COLUMNS = {
+    "Inventory_": "total_lines",
+    "Lead": "lead_lines",
+    "NonLead": "non_lead_lines",
+    "GRR": "grr_lines",
+    "Unknown": "unknown_lines",
+}
+
+WATER_OWNERSHIP_LABELS = {
+    "F": "Federal",
+    "L": "Local government",
+    "P": "Private",
+    "S": "State government",
+}
+
+PADUS_CATEGORY_GROUPS = {
+    "Fee": "fee",
+    "Easement": "easement",
+    "Designation": "designation",
+    "Proclamation": "planning",
+    "Other": "other",
+}
+
+PADUS_OWNER_TYPE_LABELS = {
+    "DESG": "Designation",
+    "DIST": "Regional or special district",
+    "FED": "Federal",
+    "JNT": "Joint",
+    "LOC": "Local government",
+    "NGO": "Nonprofit",
+    "PVT": "Private",
+    "STAT": "State",
+    "TRIB": "Tribal",
+    "UNK": "Unknown",
+}
+
+PADUS_ACCESS_LABELS = {
+    "OA": "Open access",
+    "RA": "Restricted access",
+    "XA": "Closed to public access",
+    "UK": "Unknown public access",
+}
+
+PADUS_GAP_STATUS_LABELS = {
+    "1": "GAP 1: biodiversity protection; natural disturbance maintained",
+    "2": "GAP 2: biodiversity protection; natural disturbance may be suppressed",
+    "3": "GAP 3: multiple-use conservation; extraction may occur",
+    "4": "GAP 4: no known biodiversity protection mandate",
+}
+
+LANDFILL_TYPE_ORDER = {
+    "CLASS I": 0,
+    "CLASS II": 1,
+    "CLASS III": 2,
+    "CLASS IV": 3,
+    "COAL ASH": 4,
 }
 
 RANKING_BASIS = {
@@ -453,6 +535,207 @@ def _feature_collection(frame: gpd.GeoDataFrame) -> dict[str, object]:
     return json.loads(frame.to_json())
 
 
+def _unique_text(values: pd.Series, *, limit: int | None = None) -> list[str]:
+    seen: set[str] = set()
+    items: list[str] = []
+
+    for value in values:
+        text = str(value).strip() if pd.notna(value) else ""
+        if not text or text.lower() == "nan" or text in seen:
+            continue
+        seen.add(text)
+        items.append(text)
+        if limit is not None and len(items) >= limit:
+            break
+
+    return items
+
+
+def _first_text(values: pd.Series, default: str = "") -> str:
+    items = _unique_text(values, limit=1)
+    return items[0] if items else default
+
+
+def _joined_text(values: pd.Series, *, limit: int | None = None) -> str:
+    return "; ".join(_unique_text(values, limit=limit))
+
+
+def _counted_text(values: pd.Series, *, type_order: dict[str, int] | None = None) -> str:
+    counts = values.dropna().astype(str).str.strip()
+    counts = counts[counts != ""].value_counts()
+    if counts.empty:
+        return ""
+
+    labels = list(counts.index)
+    if type_order is not None:
+        labels.sort(key=lambda value: (type_order.get(value, 99), value))
+    else:
+        labels.sort()
+
+    return "; ".join(f"{label} ({int(counts[label])})" for label in labels)
+
+
+def _arcgis_latest_date(values: pd.Series) -> str:
+    numeric_values = pd.to_numeric(values, errors="coerce")
+    dates = pd.to_datetime(numeric_values, unit="ms", errors="coerce").dropna()
+    if dates.empty:
+        return ""
+    return str(dates.max().date())
+
+
+def _prepare_service_line_inventory(inventory: gpd.GeoDataFrame) -> pd.DataFrame:
+    columns = ["pwsid", *SERVICE_LINE_COUNT_COLUMNS.values(), "service_line_inventory_status"]
+    if inventory.empty or "PWSID" not in inventory.columns:
+        return pd.DataFrame(columns=columns)
+
+    frame = inventory.copy()
+    frame["pwsid"] = frame["PWSID"].fillna("").astype(str).str.strip().str.upper()
+    frame = frame[frame["pwsid"] != ""].copy()
+    if frame.empty:
+        return pd.DataFrame(columns=columns)
+
+    source_count_columns: list[str] = []
+    for source_column, output_column in SERVICE_LINE_COUNT_COLUMNS.items():
+        if source_column in frame.columns:
+            frame[output_column] = pd.to_numeric(frame[source_column], errors="coerce").round()
+            source_count_columns.append(output_column)
+        else:
+            frame[output_column] = pd.NA
+
+    if source_count_columns:
+        frame = frame[frame[source_count_columns].notna().any(axis=1)].copy()
+    else:
+        frame = frame.iloc[0:0].copy()
+    if frame.empty:
+        return pd.DataFrame(columns=columns)
+
+    component_columns = ["lead_lines", "non_lead_lines", "grr_lines", "unknown_lines"]
+    calculated_total = frame[component_columns].fillna(0).sum(axis=1).round()
+    frame["total_lines"] = frame["total_lines"].fillna(calculated_total)
+    for output_column in SERVICE_LINE_COUNT_COLUMNS.values():
+        frame[output_column] = frame[output_column].fillna(0).astype(int)
+    frame["service_line_inventory_status"] = "available"
+
+    return frame[columns].groupby("pwsid", as_index=False).agg(
+        {
+            "total_lines": "max",
+            "lead_lines": "max",
+            "non_lead_lines": "max",
+            "grr_lines": "max",
+            "unknown_lines": "max",
+            "service_line_inventory_status": "first",
+        }
+    )
+
+
+def _landfill_status_group(action: object) -> str:
+    text = str(action or "").strip().lower()
+    if text == "active" or text.endswith("-active") or text.endswith(" -active"):
+        return "active"
+    if text in {"pending", "incomplete"}:
+        return "pending"
+    return "inactive"
+
+
+def _prepare_landfill_locations(landfills: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
+    if landfills.empty:
+        return gpd.GeoDataFrame(geometry=[], crs="EPSG:4326")
+
+    source = landfills.copy()
+    source = source[source.geometry.notnull()].copy()
+    if source.empty:
+        return gpd.GeoDataFrame(geometry=[], crs="EPSG:4326")
+
+    if source.crs is None:
+        source = source.set_crs("EPSG:4326")
+    source = source.to_crs("EPSG:4326")
+    source["longitude"] = pd.to_numeric(source["LONGITUDE"], errors="coerce")
+    source["latitude"] = pd.to_numeric(source["LATITUDE"], errors="coerce")
+    point_mask = source.geometry.geom_type == "Point"
+    source.loc[source["longitude"].isna() & point_mask, "longitude"] = source.loc[
+        source["longitude"].isna() & point_mask
+    ].geometry.x
+    source.loc[source["latitude"].isna() & point_mask, "latitude"] = source.loc[
+        source["latitude"].isna() & point_mask
+    ].geometry.y
+    source = source[source["longitude"].notna() & source["latitude"].notna()].copy()
+    if source.empty:
+        return gpd.GeoDataFrame(geometry=[], crs="EPSG:4326")
+
+    source["site_id_text"] = pd.to_numeric(source["SITE_ID"], errors="coerce").apply(
+        lambda value: str(int(value)) if pd.notna(value) else ""
+    )
+    source["site_key"] = source["site_id_text"]
+    missing_key = source["site_key"] == ""
+    source.loc[missing_key, "site_key"] = source.loc[missing_key].apply(
+        lambda row: "|".join(
+            [
+                f"{float(row['longitude']):.6f}",
+                f"{float(row['latitude']):.6f}",
+                str(row.get("PERMITTEE_NAME") or "").strip(),
+                str(row.get("SITE_LOCATION") or "").strip(),
+            ]
+        ),
+        axis=1,
+    )
+    source["status_group"] = source["PERMITTING_ACTION"].map(_landfill_status_group)
+    source["status_priority"] = source["status_group"].map({"active": 0, "pending": 1, "inactive": 2}).fillna(3)
+    source["issuance_sort"] = pd.to_numeric(source["ISSUANCE_DATE"], errors="coerce").fillna(0)
+    source = source.sort_values(["site_key", "status_priority", "issuance_sort"], ascending=[True, True, False])
+
+    records: list[dict[str, object]] = []
+    for index, (site_key, group) in enumerate(source.groupby("site_key", sort=False), start=1):
+        representative = group.iloc[0]
+        statuses = set(group["status_group"].astype(str))
+        status_group = "active" if "active" in statuses else "pending" if "pending" in statuses else "inactive"
+        status_label = {
+            "active": "Active landfill permit record",
+            "pending": "Pending landfill permit record",
+            "inactive": "Inactive or historic landfill permit record",
+        }[status_group]
+        permit_numbers = _unique_text(group["PERMIT_NUMBER"], limit=10)
+        unique_permit_count = len(_unique_text(group["PERMIT_NUMBER"]))
+        permit_types = _unique_text(group["PERMIT_TYPE"])
+        permit_types.sort(key=lambda value: (LANDFILL_TYPE_ORDER.get(value, 99), value))
+        permittee_names = _unique_text(group["PERMITTEE_NAME"], limit=5)
+        longitude = float(representative["longitude"])
+        latitude = float(representative["latitude"])
+
+        records.append(
+            {
+                "landfill_id": str(site_key) if site_key else f"landfill-{index}",
+                "site_id": _first_text(group["site_id_text"]),
+                "landfill_name": permittee_names[0] if permittee_names else "Landfill",
+                "permittee_names": "; ".join(permittee_names),
+                "permit_types": ", ".join(permit_types),
+                "permit_type_counts": _counted_text(group["PERMIT_TYPE"], type_order=LANDFILL_TYPE_ORDER),
+                "permit_actions": _counted_text(group["PERMITTING_ACTION"]),
+                "status_group": status_group,
+                "status_label": status_label,
+                "permit_count": int(len(group)),
+                "unique_permit_count": int(unique_permit_count),
+                "active_permits": int((group["status_group"] == "active").sum()),
+                "pending_permits": int((group["status_group"] == "pending").sum()),
+                "permit_numbers": "; ".join(permit_numbers),
+                "additional_permit_count": max(unique_permit_count - len(permit_numbers), 0),
+                "site_location": _first_text(group["SITE_LOCATION"]),
+                "site_city": _first_text(group["SITE_CITY"]),
+                "site_zip": _first_text(group["SITE_ZIP"]),
+                "county": _first_text(group["COUNTY"]),
+                "latitude": round(latitude, 6),
+                "longitude": round(longitude, 6),
+                "latest_issuance_date": _arcgis_latest_date(group["ISSUANCE_DATE"]),
+                "latest_effective_date": _arcgis_latest_date(group["EFFECTIVE_DATE"]),
+                "latest_expiration_date": _arcgis_latest_date(group["EXPIRATION_DATE"]),
+                "latest_termination_date": _arcgis_latest_date(group["TERMINATION_DATE"]),
+                "record_url": _first_text(group["URL"]),
+                "geometry": Point(longitude, latitude),
+            }
+        )
+
+    return gpd.GeoDataFrame(records, geometry="geometry", crs="EPSG:4326")
+
+
 def _county_viewport_frame(county_frame: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
     county_wgs84 = county_frame.to_crs("EPSG:4326")
     minx, miny, maxx, maxy = county_wgs84.total_bounds
@@ -475,6 +758,22 @@ def _county_viewport_frame(county_frame: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
 
     lon_padding = max((target_width - width) / 2, POLYGON_VIEWPORT_MIN_PADDING_DEGREES)
     lat_padding = max((target_height - height) / 2, POLYGON_VIEWPORT_MIN_PADDING_DEGREES)
+    return gpd.GeoDataFrame(
+        geometry=[box(minx - lon_padding, miny - lat_padding, maxx + lon_padding, maxy + lat_padding)],
+        crs="EPSG:4326",
+    )
+
+
+def _county_context_frame(
+    county_frame: gpd.GeoDataFrame,
+    *,
+    padding_ratio: float = 0.12,
+    min_padding_degrees: float = 0.015,
+) -> gpd.GeoDataFrame:
+    county_wgs84 = county_frame.to_crs("EPSG:4326")
+    minx, miny, maxx, maxy = county_wgs84.total_bounds
+    lon_padding = max((maxx - minx) * padding_ratio, min_padding_degrees)
+    lat_padding = max((maxy - miny) * padding_ratio, min_padding_degrees)
     return gpd.GeoDataFrame(
         geometry=[box(minx - lon_padding, miny - lat_padding, maxx + lon_padding, maxy + lat_padding)],
         crs="EPSG:4326",
@@ -535,6 +834,21 @@ def _clip_to_county_viewport(
     )
 
 
+def _clip_to_county_context(
+    source: gpd.GeoDataFrame,
+    county_frame: gpd.GeoDataFrame,
+    *,
+    simplify_meters: float,
+    keep_columns: list[str],
+) -> gpd.GeoDataFrame:
+    return _clip_to_frame(
+        source,
+        _county_context_frame(county_frame),
+        simplify_meters=simplify_meters,
+        keep_columns=keep_columns,
+    )
+
+
 def write_county_map_payloads(
     counties: gpd.GeoDataFrame,
     huc8: gpd.GeoDataFrame,
@@ -546,6 +860,10 @@ def write_county_map_payloads(
     cities: gpd.GeoDataFrame,
     towns: gpd.GeoDataFrame,
     impairment: gpd.GeoDataFrame,
+    water_service_areas: gpd.GeoDataFrame,
+    service_line_inventory: gpd.GeoDataFrame,
+    solid_waste_landfills: gpd.GeoDataFrame,
+    protected_areas: gpd.GeoDataFrame,
 ) -> None:
     roads = roads.copy()
     roads["style"] = roads["fclass"].map(ROAD_STYLES)
@@ -572,6 +890,130 @@ def write_county_map_payloads(
         place_frames.append(item[["name", "kind", "geometry"]])
     places = pd.concat(place_frames, ignore_index=True)
     places = gpd.GeoDataFrame(places, geometry="geometry", crs="EPSG:4326")
+
+    utility_areas = water_service_areas.copy()
+    service_line_lookup = _prepare_service_line_inventory(service_line_inventory)
+    utility_areas["PWSID"] = utility_areas["PWSID"].fillna("").astype(str).str.strip().str.upper()
+    if not service_line_lookup.empty:
+        utility_areas = utility_areas.merge(
+            service_line_lookup.rename(columns={"pwsid": "PWSID"}),
+            on="PWSID",
+            how="left",
+        )
+    else:
+        for output_column in SERVICE_LINE_COUNT_COLUMNS.values():
+            utility_areas[output_column] = 0
+        utility_areas["service_line_inventory_status"] = "unavailable"
+    for output_column in SERVICE_LINE_COUNT_COLUMNS.values():
+        utility_areas[output_column] = pd.to_numeric(utility_areas[output_column], errors="coerce").fillna(0).astype(int)
+    utility_areas["service_line_inventory_status"] = (
+        utility_areas["service_line_inventory_status"].fillna("unavailable").astype(str)
+    )
+    utility_areas["source_code"] = utility_areas["PL_PSRC"].fillna("").astype(str).str.strip().str.upper()
+    utility_areas["source_type"] = utility_areas["source_code"].map(WATER_SOURCE_TYPE_LABELS).fillna("Source type not listed")
+    utility_areas["source_group"] = utility_areas["source_code"].map(WATER_SOURCE_GROUPS).fillna("unknown")
+    utility_areas["system_name"] = utility_areas["MA_NAME"].fillna("Public water system").astype(str)
+    utility_areas["population_served"] = pd.to_numeric(utility_areas["PL_POPL"], errors="coerce").fillna(0).round().astype(int)
+    utility_areas["ownership"] = (
+        utility_areas["OW_TYPE"].fillna("").astype(str).str.strip().str.upper().map(WATER_OWNERSHIP_LABELS).fillna("")
+    )
+    utility_areas["dww_link"] = utility_areas["DWW_Link"].fillna("").astype(str)
+    utility_areas["geometry"] = utility_areas.geometry.make_valid()
+    utility_areas = utility_areas.explode(index_parts=False)
+    utility_areas = utility_areas[utility_areas.geometry.geom_type.isin(["Polygon", "MultiPolygon"])].copy()
+    utility_areas = utility_areas.dissolve(
+        by=[
+            "PWSID",
+            "system_name",
+            "source_code",
+            "source_type",
+            "source_group",
+            "population_served",
+            "ownership",
+            "dww_link",
+            "total_lines",
+            "lead_lines",
+            "non_lead_lines",
+            "grr_lines",
+            "unknown_lines",
+            "service_line_inventory_status",
+        ],
+        as_index=False,
+    )
+    utility_areas = utility_areas[
+        [
+            "PWSID",
+            "system_name",
+            "source_code",
+            "source_type",
+            "source_group",
+            "population_served",
+            "ownership",
+            "dww_link",
+            "total_lines",
+            "lead_lines",
+            "non_lead_lines",
+            "grr_lines",
+            "unknown_lines",
+            "service_line_inventory_status",
+            "geometry",
+        ]
+    ].rename(columns={"PWSID": "pwsid"})
+
+    protected = protected_areas.copy()
+    protected["category"] = protected["Category"].fillna("Unknown").astype(str).str.strip()
+    protected["category_group"] = protected["category"].map(PADUS_CATEGORY_GROUPS).fillna("other")
+    protected["feature_class"] = protected["FeatClass"].fillna("").astype(str).str.strip()
+    protected["unit_name"] = protected["Unit_Nm"].fillna("").astype(str).str.strip()
+    protected["local_name"] = protected["Loc_Nm"].fillna("").astype(str).str.strip()
+    protected["designation_type"] = protected["Des_Tp"].fillna(protected["Loc_Ds"]).fillna("").astype(str).str.strip()
+    protected["owner_type"] = protected["Own_Type"].fillna("").astype(str).str.strip().str.upper()
+    protected["owner_type_label"] = protected["owner_type"].map(PADUS_OWNER_TYPE_LABELS).fillna("Unknown")
+    protected["owner_name"] = protected["Own_Name"].fillna(protected["Loc_Own"]).fillna("").astype(str).str.strip()
+    protected["manager_type"] = protected["Mang_Type"].fillna("").astype(str).str.strip().str.upper()
+    protected["manager_type_label"] = protected["manager_type"].map(PADUS_OWNER_TYPE_LABELS).fillna("Unknown")
+    protected["manager_name"] = protected["Mang_Name"].fillna(protected["Loc_Mang"]).fillna("").astype(str).str.strip()
+    protected["public_access"] = protected["Pub_Access"].fillna("").astype(str).str.strip().str.upper()
+    protected["public_access_label"] = protected["public_access"].map(PADUS_ACCESS_LABELS).fillna("Unknown public access")
+    protected["gap_status"] = protected["GAP_Sts"].fillna("").astype(str).str.strip()
+    protected["gap_status_label"] = protected["gap_status"].map(PADUS_GAP_STATUS_LABELS).fillna("GAP status not assigned")
+    protected["acres"] = pd.to_numeric(protected["GIS_Acres"], errors="coerce").fillna(0).round(1)
+    protected["easement_holder"] = protected["EsmtHldr"].fillna("").astype(str).str.strip()
+    protected["easement_holder_type"] = protected["EHoldTyp"].fillna("").astype(str).str.strip().str.upper()
+    protected["easement_holder_type_label"] = (
+        protected["easement_holder_type"].map(PADUS_OWNER_TYPE_LABELS).fillna("")
+    )
+    protected["source_name"] = protected["GIS_Src"].fillna(protected["Agg_Src"]).fillna("").astype(str).str.strip()
+    protected["source_date"] = protected["Src_Date"].fillna("").astype(str).str.strip()
+    protected["geometry"] = protected.geometry.make_valid()
+    protected = protected.explode(index_parts=False)
+    protected = protected[protected.geometry.geom_type.isin(["Polygon", "MultiPolygon"])].copy()
+    protected = protected[
+        [
+            "OBJECTID",
+            "feature_class",
+            "category",
+            "category_group",
+            "unit_name",
+            "local_name",
+            "designation_type",
+            "owner_type_label",
+            "owner_name",
+            "manager_type_label",
+            "manager_name",
+            "public_access_label",
+            "gap_status",
+            "gap_status_label",
+            "acres",
+            "easement_holder",
+            "easement_holder_type_label",
+            "source_name",
+            "source_date",
+            "geometry",
+        ]
+    ].rename(columns={"OBJECTID": "padus_id"})
+
+    landfill_locations = _prepare_landfill_locations(solid_waste_landfills)
 
     for county in counties.itertuples():
         county_frame = counties[counties["GEOID"] == county.GEOID][["GEOID", "NAME", "geometry"]].copy()
@@ -611,6 +1053,86 @@ def write_county_map_payloads(
             simplify_meters=140,
             keep_columns=["district"],
         )
+        utility_layer = _clip_to_county_viewport(
+            utility_areas,
+            county_frame,
+            simplify_meters=180,
+            keep_columns=[
+                "pwsid",
+                "system_name",
+                "source_code",
+                "source_type",
+                "source_group",
+                "population_served",
+                "ownership",
+                "dww_link",
+                "total_lines",
+                "lead_lines",
+                "non_lead_lines",
+                "grr_lines",
+                "unknown_lines",
+                "service_line_inventory_status",
+            ],
+        )
+        protected_layer = _clip_to_county_context(
+            protected,
+            county_frame,
+            simplify_meters=130,
+            keep_columns=[
+                "padus_id",
+                "feature_class",
+                "category",
+                "category_group",
+                "unit_name",
+                "local_name",
+                "designation_type",
+                "owner_type_label",
+                "owner_name",
+                "manager_type_label",
+                "manager_name",
+                "public_access_label",
+                "gap_status",
+                "gap_status_label",
+                "acres",
+                "easement_holder",
+                "easement_holder_type_label",
+                "source_name",
+                "source_date",
+            ],
+        )
+        landfill_layer = _clip_to_county_context(
+            landfill_locations,
+            county_frame,
+            simplify_meters=0,
+            keep_columns=[
+                "landfill_id",
+                "site_id",
+                "landfill_name",
+                "permittee_names",
+                "permit_types",
+                "permit_type_counts",
+                "permit_actions",
+                "status_group",
+                "status_label",
+                "permit_count",
+                "unique_permit_count",
+                "active_permits",
+                "pending_permits",
+                "permit_numbers",
+                "additional_permit_count",
+                "site_location",
+                "site_city",
+                "site_zip",
+                "county",
+                "latitude",
+                "longitude",
+                "latest_issuance_date",
+                "latest_effective_date",
+                "latest_expiration_date",
+                "latest_termination_date",
+                "record_url",
+            ],
+        )
 
         place_ids = places.sindex.query(county_frame.to_crs("EPSG:4326").geometry.iloc[0], predicate="intersects")
         places_layer = places.iloc[place_ids].copy()
@@ -629,6 +1151,9 @@ def write_county_map_payloads(
             "roads": _feature_collection(roads_layer),
             "places": _feature_collection(places_layer),
             "watersheds": _feature_collection(watershed_layer),
+            "waterUtilities": _feature_collection(utility_layer),
+            "protectedAreas": _feature_collection(protected_layer),
+            "landfills": _feature_collection(landfill_layer),
             "districts": {
                 "senate": _feature_collection(senate_layer),
                 "house": _feature_collection(house_layer),
@@ -693,6 +1218,8 @@ def build_county_payload(
                 "2026 impairment summary",
                 "Justice40 screening summary",
                 "Monitoring, permits, and scenic river context",
+                "Drinking water utility service-area overlay",
+                "Protected-area and conservation easement overlay",
             ],
         },
         "isFeatured": is_featured,
@@ -982,10 +1509,19 @@ def write_metadata(*, build_date: str) -> None:
             "notes": "Prototype exports a simplified Tennessee-only county layer from the national TIGER/Line shapefile.",
         },
         {
+            "dataset": "HUC6 basins",
+            "purpose": "Basin-scale watershed background and name labels on the statewide home-page map.",
+            "sourceName": "USGS WBD MapServer layer 3",
+            "sourceUrl": WBD_HUC6_URL.removesuffix("/query"),
+            "refreshFrequency": "Periodic",
+            "lastUpdated": build_date,
+            "notes": "Prototype filters the official WBD basin layer to hydrologic units whose state list includes Tennessee and labels statewide map polygons by the WBD name field.",
+        },
+        {
             "dataset": "HUC8 watersheds",
             "purpose": "Watershed context for county pages and overlay controls.",
             "sourceName": "USGS WBD MapServer layer 4",
-            "sourceUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/wbd/MapServer/4",
+            "sourceUrl": WBD_HUC8_URL.removesuffix("/query"),
             "refreshFrequency": "Periodic",
             "lastUpdated": build_date,
             "notes": "Prototype filters the official WBD subbasin layer to hydrologic units whose state list includes Tennessee.",
@@ -1054,6 +1590,15 @@ def write_metadata(*, build_date: str) -> None:
             "notes": "County maps use a static weekly cache generated from the public TDEC DWR MapServer. The browser falls back to the live service when a cache file is unavailable.",
         },
         {
+            "dataset": "Solid waste landfill permit locations",
+            "purpose": "Show TDEC solid waste landfill locations on county maps with permit class, status, site address, and permit record links.",
+            "sourceName": "TDEC SWM Permits MapServer layer 0",
+            "sourceUrl": TDEC_SOLID_WASTE_PERMITS_URL,
+            "refreshFrequency": "Periodic",
+            "lastUpdated": build_date,
+            "notes": "County maps include only solid waste permit records whose PERMIT_TYPE is CLASS I, CLASS II, CLASS III, CLASS IV, or COAL ASH. Convenience centers, recycling centers, transfer stations, tire storage, processing, land application, and special waste records are excluded. Multiple permit records at the same site are aggregated into one landfill point and clipped to a padded county context viewport.",
+        },
+        {
             "dataset": "EPA ECHO CWA permit compliance",
             "purpose": "Interactive county-map overlay identifying CWA/NPDES permits with recent or current violation records.",
             "sourceName": "EPA ECHO CWA REST Services get_facilities and get_qid",
@@ -1091,12 +1636,30 @@ def write_metadata(*, build_date: str) -> None:
         },
         {
             "dataset": "Public water system service areas",
-            "purpose": "Show how many public water service areas intersect each county.",
-            "sourceName": "Harpeth Conservancy copy of Tennessee public water system service areas",
-            "sourceUrl": str(WATER_SERVICE_AREAS_PATH),
+            "purpose": "Show overlapping public drinking water utility service areas, system names, and primary source-water type on county maps.",
+            "sourceName": "TDEC TN Public Water System Service Area Boundaries",
+            "sourceUrl": TDEC_WATER_SERVICE_AREAS_URL,
             "refreshFrequency": "Periodic",
             "lastUpdated": build_date,
-            "notes": "Polygon intersections are used to count overlapping service areas and identify the largest named systems by county.",
+            "notes": f"County summaries and map overlays use the local Harpeth Conservancy snapshot at {WATER_SERVICE_AREAS_PATH}. Polygons are clipped to a padded county viewport for map context and include PWSID, system name, population served, Drinking Water Watch link, and the PL_PSRC primary source-water type code.",
+        },
+        {
+            "dataset": "Lead service line inventory",
+            "purpose": "Add service-line inventory counts to drinking water utility map popups.",
+            "sourceName": "TDEC Service_Line_Inventory_PWS_Service_Area",
+            "sourceUrl": TDEC_SERVICE_LINE_INVENTORY_URL,
+            "refreshFrequency": "Periodic",
+            "lastUpdated": build_date,
+            "notes": "County map overlays join TDEC service-line inventory values to public water system service area polygons by PWSID. Popups include Total Lines, Lead Lines, Non-Lead Lines, GRR, and Unknown Lines.",
+        },
+        {
+            "dataset": "Protected areas and conservation easements",
+            "purpose": "Show public protected lands, private and public conservation easements, designations, and related protected-area boundaries on county maps.",
+            "sourceName": "USGS PAD-US Protection Mechanism Category",
+            "sourceUrl": PADUS_PROTECTION_MECHANISM_URL,
+            "refreshFrequency": "PAD-US release cycle",
+            "lastUpdated": build_date,
+            "notes": "County map overlays use the Tennessee subset of the USGS PAD-US combined inventory, cached as raw GeoJSON during the local data build and clipped to the padded county viewport. Features include the PAD-US protection mechanism category, owner and manager labels, public access, GAP status, acres, easement holder, source name, and source date where available.",
         },
     ]
     (METADATA_DIR / "data-sources.json").write_text(json.dumps(sources, indent=2), encoding="utf8")
@@ -1107,14 +1670,18 @@ def write_metadata(*, build_date: str) -> None:
         "justice40": build_date,
         "impairment-2026": build_date,
         "epa-attains": build_date,
+        "huc6-basins": build_date,
         "watersheds": build_date,
         "districts": build_date,
         "monitoring": build_date,
         "tdec-dwr-public-permits": build_date,
+        "tdec-solid-waste-landfills": build_date,
         "epa-echo-cwa": build_date,
         "permits": build_date,
         "tnmap-locator": build_date,
         "scenic-rivers": build_date,
         "water-service-areas": build_date,
+        "service-line-inventory": build_date,
+        "protected-areas": build_date,
     }
     (METADATA_DIR / "last-updated.json").write_text(json.dumps(last_updated, indent=2), encoding="utf8")
