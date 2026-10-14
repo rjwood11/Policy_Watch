@@ -79,8 +79,13 @@ try {
     & git diff --cached --quiet
     $diffResult = $LASTEXITCODE
     if ($diffResult -eq 1) {
+        Write-Host ''
+        Write-Host 'Changes ready for this commit:'
+        Invoke-Git diff --cached --stat
         if (-not $Message) {
-            $Message = Read-Host 'Describe your changes (Enter for a dated message)'
+            Write-Host ''
+            Write-Host 'Enter a short description, for example: Add adaptive legends to county maps'
+            $Message = Read-Host 'Commit description (Enter for an automatic dated message)'
         }
         if ([string]::IsNullOrWhiteSpace($Message)) {
             $Message = 'Update PolicyWatch ' + (Get-Date -Format 'yyyy-MM-dd HH:mm:ss')

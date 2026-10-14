@@ -15,7 +15,8 @@ import type {
   Position
 } from "geojson";
 import type { CountyMapRecord } from "@/lib/data";
-import { loadCountyLandUse, sampleLandUse, type LoadedLandUse } from "@/lib/landuse";
+import { loadCountyLandUse, sampleLandUse, type LoadedLandUse, type LandUseClass } from "@/lib/landuse";
+import { CountyMapLegend, type LayerKey, type LegendGroup } from "@/components/CountyMapLegend";
 import { TENNESSEE_LEGISLATORS, tennesseeLegislatorUrl } from "@/lib/tennesseeLegislators";
 import { assetPath } from "@/lib/assetPath";
 
@@ -26,7 +27,6 @@ type Bounds = {
   maxLat: number;
 };
 
-type LayerKey = "watershed" | "utilities" | "protected" | "landfills" | "superfund" | "landuse" | "districts" | "impaired" | "permits" | "echo";
 type MapFilter = Parameters<MapLibreMap["setFilter"]>[1];
 
 type AddressCandidate = {
@@ -1906,6 +1906,7 @@ function CountyDetailMapView({
   const [addressStatus, setAddressStatus] = useState("");
   const [addressResults, setAddressResults] = useState<AddressCandidate[]>([]);
   const [landUseStatus, setLandUseStatus] = useState("");
+  const [landUseLegend, setLandUseLegend] = useState<{ year: number; classes: LandUseClass[] } | null>(null);
   const [visibleLayers, setVisibleLayers] = useState<Record<LayerKey, boolean>>({
     watershed: false,
     utilities: false,
@@ -2008,6 +2009,95 @@ function CountyDetailMapView({
           landfillStats.total === 1 ? "" : "s"
         } intersect the map viewport; convenience centers and recycling records are excluded.`;
 
+  function remoteLegendStatus(status: string): string | undefined {
+    return /loading|unavailable/i.test(status) ? status : undefined;
+  }
+
+  const significantEchoCount = echoViolations.features.filter((feature) =>
+    feature.properties?.echo_current_violation === true && feature.properties?.echo_significant_violation === true
+  ).length;
+  const superfundFeatures = map.superfundSites?.features ?? [];
+  const legendGroups: LegendGroup[] = [
+    {
+      key: "impaired", label: "EPA impaired status", status: remoteLegendStatus(epaStatusLabel),
+      entries: [
+        { label: "Polluted", color: "#c6283e", symbol: "line", count: epaStats.polluted },
+        { label: "Good", color: "#2e7d4f", symbol: "line", count: epaStats.good },
+        { label: "Unassessed", color: "#7554a1", symbol: "line", count: epaStats.unassessed }
+      ]
+    },
+    {
+      key: "districts", label: "Legislative districts",
+      entries: [
+        { label: "Congressional boundary", color: "#547a76", symbol: "dashed" },
+        { label: "State Senate boundary", color: "#af8401", symbol: "dashed" },
+        { label: "State House boundary", color: "#8b742f", symbol: "dashed" }
+      ],
+      note: "Faint shading shows district areas. Hover for district and representative details."
+    },
+    {
+      key: "utilities", label: "Drinking water utilities",
+      entries: [
+        { label: "Surface water", color: "#2e7d9a", borderColor: "#1f5f78", symbol: "area", count: utilityStats.surface },
+        { label: "Groundwater", color: "#6f8f5f", borderColor: "#547a5b", symbol: "area", count: utilityStats.groundwater },
+        { label: "GWUDI / mixed", color: "#af8401", borderColor: "#8b742f", symbol: "area", count: utilityStats.mixed },
+        { label: "Unknown source", color: "#8a9890", borderColor: "#66746c", symbol: "area", count: utilityStats.unknown }
+      ]
+    },
+    {
+      key: "protected", label: "Protected areas",
+      entries: [
+        { label: "PAD-US fee area", color: "#2e7d4f", borderColor: "#1f6b42", symbol: "area", count: protectedAreaStats.fee },
+        { label: "Conservation easement", color: "#9f4f2a", borderColor: "#7f3e24", symbol: "area", count: protectedAreaStats.easement },
+        { label: "Protected designation", color: "#7554a1", borderColor: "#5f4385", symbol: "area", count: protectedAreaStats.designation },
+        { label: "Planning boundary", color: "#66746c", borderColor: "#4f5f56", symbol: "area", count: protectedAreaStats.planning },
+        { label: "Other protected area", color: "#8a9890", borderColor: "#66746c", symbol: "area", count: protectedAreaStats.other }
+      ]
+    },
+    {
+      key: "landfills", label: "Landfills",
+      entries: [
+        { label: "Active landfill", color: "#9f4f2a", symbol: "point", count: landfillStats.active },
+        { label: "Pending landfill", color: "#af8401", symbol: "point", count: landfillStats.pending },
+        { label: "Inactive / historic landfill", color: "#665f56", symbol: "point", count: landfillStats.inactive }
+      ]
+    },
+    {
+      key: "superfund", label: "Superfund sites",
+      entries: [
+        { label: "Current NPL site", color: "#b91c1c", symbol: "point", count: superfundFeatures.filter((feature) => feature.properties.Status === "NPL Site").length },
+        { label: "Deleted NPL site", color: "#64748b", symbol: "point", count: superfundFeatures.filter((feature) => feature.properties.Status === "Deleted NPL Site").length },
+        { label: "Other Superfund status", color: "#d97706", symbol: "point", count: superfundFeatures.filter((feature) => feature.properties.Status !== "NPL Site" && feature.properties.Status !== "Deleted NPL Site").length }
+      ],
+      note: "Click a marker for EPA details. These are reference locations, not contamination boundaries; sites may span multiple counties."
+    },
+    {
+      key: "permits", label: "TDEC permits", status: remoteLegendStatus(permitStatusLabel),
+      entries: [
+        { label: "Active permit", color: "#3b6e63", symbol: "point", count: permitStats.active },
+        { label: "Pending permit", color: "#f5bf54", symbol: "point", count: permitStats.pending }
+      ]
+    },
+    {
+      key: "echo", label: "ECHO violations", status: remoteLegendStatus(echoStatusLabel),
+      entries: [
+        { label: "Current significant violation", color: "#b91c1c", symbol: "point", count: significantEchoCount },
+        { label: "Other current violation", color: "#df5b2f", symbol: "point", count: echoStats.current - significantEchoCount },
+        { label: "Recent violation", color: "#6b4bb1", symbol: "point", count: echoStats.recent }
+      ]
+    },
+    {
+      key: "watershed", label: "Watershed area",
+      entries: [{ label: "HUC8 watershed area", color: "#6f8f5f", borderColor: "#3b6e63", symbol: "area" }]
+    },
+    {
+      key: "landuse", label: "Land use / land cover",
+      entries: landUseLegend?.classes.map((category) => ({ label: category.label, color: category.color, symbol: "area" })) ?? [],
+      status: landUseLegend ? undefined : landUseStatus || "Loading land cover...",
+      note: landUseLegend ? `${landUseLegend.year} USGS Annual NLCD. Categories present in this county; hover over the map for details.` : undefined
+    }
+  ];
+
   const echoViolationRecords = useMemo(() => {
     return [...echoViolations.features].sort((a, b) => {
       const aCurrent = a.properties?.echo_current_violation === true ? 1 : 0;
@@ -2094,6 +2184,12 @@ function CountyDetailMapView({
         paint: { "raster-opacity": 0.65, "raster-resampling": "nearest", "raster-fade-duration": 0 }
       }, beforeId);
       landUseRef.current = data;
+      setLandUseLegend({
+        year: data.year,
+        classes: [...data.classesByColor.values()].filter((category) =>
+          !data.county.classCounts || (data.county.classCounts[category.id] ?? 0) > 0
+        )
+      });
       setLandUseStatus(`${data.year} NLCD · Hover over the map for land-cover details.`);
     }).catch(() => {
       if (!controller.signal.aborted) {
@@ -2741,105 +2837,7 @@ function CountyDetailMapView({
             </div>
           </div>
 
-          <div className="rounded-lg bg-ink p-5 text-white">
-            <p className="text-xs uppercase tracking-normal text-white/70">Legend</p>
-            <ul className="mt-4 space-y-3 text-sm">
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#c6283e]" /> Polluted</span>
-                <span>{epaStats.polluted}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#2e7d4f]" /> Good</span>
-                <span>{epaStats.good}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-0 w-7 border-t-[3px] border-[#7554a1]" /> Unassessed</span>
-                <span>{epaStats.unassessed}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-river ring-2 ring-white" /> Active permit</span>
-                <span>{permitStats.active}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-sunlight ring-2 ring-white" /> Pending permit</span>
-                <span>{permitStats.pending}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#df5b2f] ring-2 ring-white" /> Current ECHO violation</span>
-                <span>{echoStats.current}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#6b4bb1] ring-2 ring-white" /> Recent ECHO violation</span>
-                <span>{echoStats.recent}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#9f4f2a] ring-2 ring-white" /> Active landfill</span>
-                <span>{landfillStats.active}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#af8401] ring-2 ring-white" /> Pending landfill</span>
-                <span>{landfillStats.pending}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#665f56] ring-2 ring-white" /> Inactive / historic landfill</span>
-                <span>{landfillStats.inactive}</span>
-              </li>
-              {(map.superfundSites?.features.length ?? 0) > 0 ? (
-                <>
-                  <li className="flex items-center justify-between gap-3">
-                    <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#b91c1c] ring-2 ring-white" /> Current NPL Superfund site</span>
-                    <span>{map.superfundSites.features.filter((feature) => feature.properties.Status === "NPL Site").length}</span>
-                  </li>
-                  <li className="flex items-center justify-between gap-3">
-                    <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#64748b] ring-2 ring-white" /> Deleted NPL Superfund site</span>
-                    <span>{map.superfundSites.features.filter((feature) => feature.properties.Status === "Deleted NPL Site").length}</span>
-                  </li>
-                  <li className="flex items-center justify-between gap-3">
-                    <span className="flex items-center gap-3"><span className="h-3 w-3 rounded-full bg-[#d97706] ring-2 ring-white" /> Other Superfund status</span>
-                    <span>{map.superfundSites.features.filter((feature) => feature.properties.Status !== "NPL Site" && feature.properties.Status !== "Deleted NPL Site").length}</span>
-                  </li>
-                </>
-              ) : null}
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#1f5f78] bg-[#2e7d9a]/70" /> Surface-water utility</span>
-                <span>{utilityStats.surface}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#547a5b] bg-moss/70" /> Groundwater utility</span>
-                <span>{utilityStats.groundwater}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#8b742f] bg-gold/70" /> GWUDI / mixed utility</span>
-                <span>{utilityStats.mixed}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#1f6b42] bg-[#2e7d4f]/70" /> PAD-US fee area</span>
-                <span>{protectedAreaStats.fee}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#7f3e24] bg-rust/70" /> Conservation easement</span>
-                <span>{protectedAreaStats.easement}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#5f4385] bg-[#7554a1]/70" /> Protected designation</span>
-                <span>{protectedAreaStats.designation}</span>
-              </li>
-              <li className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm border border-[#4f5f56] bg-[#66746c]/70" /> Planning boundary</span>
-                <span>{protectedAreaStats.planning + protectedAreaStats.other}</span>
-              </li>
-              <li className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm bg-moss/70" /> HUC8 watershed area</li>
-              <li className="flex items-center gap-3"><span className="h-4 w-4 rounded-sm bg-[#af8401]/30" /> Legislative district shading</li>
-              <li className="flex items-center gap-3"><span className="h-0 w-7 border-t-2 border-dashed border-[#547a76]" /> Congressional boundary</li>
-              <li className="flex items-center gap-3"><span className="h-0 w-7 border-t-2 border-dashed border-gold" /> State legislative boundary</li>
-            </ul>
-            {(map.superfundSites?.features.length ?? 0) > 0 ? (
-              <p className="mt-4 text-xs leading-5 text-white/70">
-                Click a Superfund marker for status and the EPA profile. Locations are reference points, not
-                contamination boundaries. EPA lists some sites in multiple counties.
-              </p>
-            ) : null}
-          </div>
+          <CountyMapLegend groups={legendGroups.filter((group) => visibleLayers[group.key])} />
         </aside>
       </div>
     </section>

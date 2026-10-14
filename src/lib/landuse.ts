@@ -9,6 +9,7 @@ export type LandUseClass = {
 };
 
 export type CountyLandUse = {
+  classCounts?: Record<string, number>;
   imageUrl: string;
   width: number;
   height: number;
