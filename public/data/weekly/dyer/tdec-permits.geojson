@@ -1,0 +1,2475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37176999999997,
+          36.129440000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.022",
+        "PERMITTEE_NAME": "William K Ozment",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747612800000,
+        "EXPIRATION_DATE": 1778803200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "405 Moody Ozment Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.022",
+        "LATITUDE": 36.129439999999995,
+        "LONGITUDE": -89.37177,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40889999999996,
+          36.04710000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123012",
+        "PERMITTEE_NAME": "Collective Efforts, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Fairway Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123012",
+        "LATITUDE": 36.0471,
+        "LONGITUDE": -89.4089,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.30799999999994,
+          36.20506000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123207",
+        "PERMITTEE_NAME": "Dalton Lewis",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Long Lane Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123207",
+        "LATITUDE": 36.205059999999996,
+        "LONGITUDE": -89.308,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66338299999995,
+          36.05743700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.206",
+        "PERMITTEE_NAME": "Choctaw Transportation Co, Inc",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "16020 HWY 104 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.206",
+        "LATITUDE": 36.057437,
+        "LONGITUDE": -89.663383,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34206399999994,
+          36.060104000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123177",
+        "PERMITTEE_NAME": "ERMCO - ELECTRIC RESEARCH AND MANUFACTURING COOPERATIVE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2030 Sylvan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123177",
+        "LATITUDE": 36.060103999999995,
+        "LONGITUDE": -89.342064,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54403999999994,
+          36.11531000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.008",
+        "PERMITTEE_NAME": "TWRA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773014400000,
+        "EFFECTIVE_DATE": 1773014400000,
+        "EXPIRATION_DATE": 1804464000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Dyersburg",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.008",
+        "LATITUDE": 36.11531,
+        "LONGITUDE": -89.54404,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39599999999996,
+          36.03150000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055962",
+        "PERMITTEE_NAME": "Geon Performance Solutions, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": 1764720000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "107 Jackson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055962",
+        "LATITUDE": 36.0315,
+        "LONGITUDE": -89.396,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34609199999994,
+          36.057458000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058941",
+        "PERMITTEE_NAME": "Northdown Industries, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768262400000,
+        "EFFECTIVE_DATE": 1768262400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2005 Sylvan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058941",
+        "LATITUDE": 36.057458,
+        "LONGITUDE": -89.346092,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.42115999999999,
+          36.09954000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192410",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "SR-78 Intersection at SR-182, LM 4.9",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192410",
+        "LATITUDE": 36.09954,
+        "LONGITUDE": -89.42116,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38839999999999,
+          36.025600000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192416",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "SR-211 Bridge over Overflow and Bridge over N. Fork Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192416",
+        "LATITUDE": 36.025600000000004,
+        "LONGITUDE": -89.3884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.30799999999994,
+          36.20506000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.048",
+        "PERMITTEE_NAME": "Dalton Lewis",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Long Lane Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.048",
+        "LATITUDE": 36.205059999999996,
+        "LONGITUDE": -89.308,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23857699999996,
+          36.02986400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670724",
+        "PERMITTEE_NAME": "Texas Gas Transmission, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1777852800000,
+        "EFFECTIVE_DATE": 1777852800000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "8405 Hwy 104 E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670724",
+        "LATITUDE": 36.029863999999996,
+        "LONGITUDE": -89.23857699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39315599999998,
+          36.01615700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.247",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761004800000,
+        "EFFECTIVE_DATE": 1761004800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "SR-211 From Samaria Bend Road to Horner Road in Dyersburg",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.247",
+        "LATITUDE": 36.016157,
+        "LONGITUDE": -89.39315599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37019999999995,
+          36.056620000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110472",
+        "PERMITTEE_NAME": "SEMO Operating Company, LLC DBA B.T. Redi-Mix",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1668556800000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2100 Pioneer Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110472",
+        "LATITUDE": 36.056619999999995,
+        "LONGITUDE": -89.37020000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39315599999998,
+          36.01615700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192393",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "SR-211 From Samaria Bend Road to Horner Road in Dyersburg",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192393",
+        "LATITUDE": 36.016157,
+        "LONGITUDE": -89.39315599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34626699999995,
+          36.05204900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051357",
+        "PERMITTEE_NAME": "ELECTRIC RESEARCH AND MANUFACTURING COOPERATIVE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "1445 INDUSTRIAL ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051357",
+        "LATITUDE": 36.052049,
+        "LONGITUDE": -89.346267,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34532199999995,
+          36.05168800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051376",
+        "PERMITTEE_NAME": "ELECTRIC RESEARCH AND MANUFACTURING COOPERATIVE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762387200000,
+        "EFFECTIVE_DATE": 1762387200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "1455 INDUSTRIAL RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051376",
+        "LATITUDE": 36.051688,
+        "LONGITUDE": -89.345322,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.42042999999995,
+          36.13024000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.041",
+        "PERMITTEE_NAME": "Dyer County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749772800000,
+        "EFFECTIVE_DATE": 1749772800000,
+        "EXPIRATION_DATE": 1781308800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Harness Rd Bridge over Lewis Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.041",
+        "LATITUDE": 36.13024,
+        "LONGITUDE": -89.42043,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37589099999997,
+          36.05953500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.167",
+        "PERMITTEE_NAME": "City of Dyersburg",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760572800000,
+        "EFFECTIVE_DATE": 1760659200000,
+        "EXPIRATION_DATE": 1918339200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Along Lewis Creek between Troy Road and Phillips Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.167",
+        "LATITUDE": 36.059535,
+        "LONGITUDE": -89.375891,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61193899999995,
+          36.110633000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123151",
+        "PERMITTEE_NAME": "Consolidated Grain and Barge Co.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "4344 Everett Lake Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123151",
+        "LATITUDE": 36.110633,
+        "LONGITUDE": -89.61193899999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38839999999999,
+          36.025600000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.005A",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768348800000,
+        "EFFECTIVE_DATE": 1768348800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "SR-211 Bridge over Overflow and Bridge over N. Fork Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.005A",
+        "LATITUDE": 36.025600000000004,
+        "LONGITUDE": -89.3884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38839999999999,
+          36.025600000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.005B",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768348800000,
+        "EFFECTIVE_DATE": 1768348800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "SR-211 Bridge over Overflow and Bridge over N. Fork Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.005B",
+        "LATITUDE": 36.025600000000004,
+        "LONGITUDE": -89.3884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38709999999998,
+          36.05830000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123150",
+        "PERMITTEE_NAME": "Buchanan Realty Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "416 Highway 51 Bypass",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123150",
+        "LATITUDE": 36.0583,
+        "LONGITUDE": -89.3871,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34215399999994,
+          36.05403400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051757",
+        "PERMITTEE_NAME": "ELECTRIC RESEARCH AND MANUFACTURING COOPERATIVE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "1625 Sylvan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051757",
+        "LATITUDE": 36.054034,
+        "LONGITUDE": -89.342154,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32721999999995,
+          36.07105700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059431",
+        "PERMITTEE_NAME": "Frazier Industrial Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1775606400000,
+        "EFFECTIVE_DATE": 1775606400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "3000 Burks Place",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059431",
+        "LATITUDE": 36.071056999999996,
+        "LONGITUDE": -89.32722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34872199999995,
+          36.05488600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051359",
+        "PERMITTEE_NAME": "ELECTRIC RESEARCH AND MANUFACTURING COOPERATIVE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762387200000,
+        "EFFECTIVE_DATE": 1762387200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2225 INDUSTRIAL Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051359",
+        "LATITUDE": 36.054885999999996,
+        "LONGITUDE": -89.348722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.36666599999995,
+          35.99388800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056430",
+        "PERMITTEE_NAME": "City of Dyersburg Municipal Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1783641600000,
+        "EFFECTIVE_DATE": 1783641600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2550 SORRELL CHAPEL ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056430",
+        "LATITUDE": 35.993888,
+        "LONGITUDE": -89.366666,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41249999999997,
+          36.056389000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237008",
+        "PERMITTEE_NAME": "West Tennessee Golf, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1788393600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1816646400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237008",
+        "LATITUDE": 36.056388999999996,
+        "LONGITUDE": -89.41250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43416699999995,
+          36.055556000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237025",
+        "PERMITTEE_NAME": "Lake Luanna H.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776297600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1806364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw North Fork Forked Deer R.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237025",
+        "LATITUDE": 36.055555999999996,
+        "LONGITUDE": -89.434167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40769999999998,
+          36.05890000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122828",
+        "PERMITTEE_NAME": "Pioneer Lakes at the Farms Subdivision - Section D",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Fairway Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122828",
+        "LATITUDE": 36.0589,
+        "LONGITUDE": -89.4077,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27839999999998,
+          36.115000000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122967",
+        "PERMITTEE_NAME": "City of Newbern",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "614 Oakview Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122967",
+        "LATITUDE": 36.115,
+        "LONGITUDE": -89.2784,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39599999999996,
+          36.06200000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122969",
+        "PERMITTEE_NAME": "CORTA Dyersburg, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2455 LAKE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122969",
+        "LATITUDE": 36.062000000000005,
+        "LONGITUDE": -89.396,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33668099999994,
+          36.08553900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122964",
+        "PERMITTEE_NAME": "Industrial Development Board of Dyer County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Fort Hudson Rd / Hwy 51",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122964",
+        "LATITUDE": 36.085539,
+        "LONGITUDE": -89.336681,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39701499999995,
+          36.06198000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122994",
+        "PERMITTEE_NAME": "Aldi",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "805 Pennell Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122994",
+        "LATITUDE": 36.06198,
+        "LONGITUDE": -89.397015,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.25700699999999,
+          36.119954000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123021",
+        "PERMITTEE_NAME": "State of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "340 WASHINGTON ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123021",
+        "LATITUDE": 36.119954,
+        "LONGITUDE": -89.257007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39899999999994,
+          36.065600000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122695",
+        "PERMITTEE_NAME": "DFH, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "835 Reelfoot Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122695",
+        "LATITUDE": 36.0656,
+        "LONGITUDE": -89.399,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35136399999999,
+          36.061289000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122857",
+        "PERMITTEE_NAME": "CD 1 LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2155 St/ John Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122857",
+        "LATITUDE": 36.061288999999995,
+        "LONGITUDE": -89.35136399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33474199999995,
+          35.896713000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670710",
+        "PERMITTEE_NAME": "Texas Gas Transmission, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1698105600000,
+        "EFFECTIVE_DATE": 1698796800000,
+        "EXPIRATION_DATE": 1777507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "accross the street from 4505 Bruceville Slab Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670710",
+        "LATITUDE": 35.896713,
+        "LONGITUDE": -89.33474199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40174999999994,
+          36.07052500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122884",
+        "PERMITTEE_NAME": "Shane King",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "1235 Radio Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122884",
+        "LATITUDE": 36.070524999999996,
+        "LONGITUDE": -89.40174999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32920299999995,
+          36.07362400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058976",
+        "PERMITTEE_NAME": "Dot Foods, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757030400000,
+        "EFFECTIVE_DATE": 1757030400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "3200 BURKS PL",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058976",
+        "LATITUDE": 36.073623999999995,
+        "LONGITUDE": -89.32920299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40739999999994,
+          36.08360000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.126",
+        "PERMITTEE_NAME": "Amy Humphrey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1684972800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Hwy 78",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.126",
+        "LATITUDE": 36.083600000000004,
+        "LONGITUDE": -89.40740000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.36919999999998,
+          36.01770000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.118",
+        "PERMITTEE_NAME": "Matt Fennel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1657584000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Lewis Creek south of Slaughter Pen Rd. just upstream of confluence with NFFD River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.118",
+        "LATITUDE": 36.017700000000005,
+        "LONGITUDE": -89.3692,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32576299999994,
+          36.04845900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.294",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1643241600000,
+        "EFFECTIVE_DATE": 1643241600000,
+        "EXPIRATION_DATE": 1800921600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Near Hogwallow Road and Highway 412",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.294",
+        "LATITUDE": 36.048459,
+        "LONGITUDE": -89.325763,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39759999999995,
+          36.119800000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122551",
+        "PERMITTEE_NAME": "Chad Bartlett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "63 Charlie Ennis Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122551",
+        "LATITUDE": 36.119800000000005,
+        "LONGITUDE": -89.39760000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27219999999994,
+          36.14040000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053411",
+        "PERMITTEE_NAME": "Hillshire Brands Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2000 Biffle Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053411",
+        "LATITUDE": 36.1404,
+        "LONGITUDE": -89.2722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34344299999998,
+          36.11046200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.020",
+        "PERMITTEE_NAME": "Rhett McIntosh",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1645574400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Light Creek south of Lexie Cobb midway between Hoss Everett Rd. and Hamer Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.020",
+        "LATITUDE": 36.110462,
+        "LONGITUDE": -89.343443,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37995499999994,
+          36.05826100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.016",
+        "PERMITTEE_NAME": "Bennett Ragan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1644537600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "UNT to Lewis Creek just downstream of Troy Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.016",
+        "LATITUDE": 36.058261,
+        "LONGITUDE": -89.379955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.42075399999999,
+          36.09120000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.324",
+        "PERMITTEE_NAME": "Tom Palmer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1643241600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Jenkinsville-Nauvoo Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.324",
+        "LATITUDE": 36.0912,
+        "LONGITUDE": -89.420754,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40796599999999,
+          36.03069500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110083",
+        "PERMITTEE_NAME": "Fowlkes Concrete & Construction Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1694044800000,
+        "EFFECTIVE_DATE": 1696118400000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "380 Bowen Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110083",
+        "LATITUDE": 36.030695,
+        "LONGITUDE": -89.407966,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66338299999995,
+          36.05743700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051065",
+        "PERMITTEE_NAME": "Choctaw Transportation Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1776211200000,
+        "EFFECTIVE_DATE": 1776211200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "16020 HWY 104 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051065",
+        "LATITUDE": 36.057437,
+        "LONGITUDE": -89.663383,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.25678999999997,
+          36.108348000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054394",
+        "PERMITTEE_NAME": "RESRG Automotive Coatings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764028800000,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "306 Jefferson Street\r\n100 Fabrite Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054394",
+        "LATITUDE": 36.108348,
+        "LONGITUDE": -89.25679,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.42744799999997,
+          36.034744000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051292",
+        "PERMITTEE_NAME": "Ford Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760918400000,
+        "EFFECTIVE_DATE": 1760918400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2353 HIGHWAY 104 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051292",
+        "LATITUDE": 36.034743999999996,
+        "LONGITUDE": -89.427448,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33404999999999,
+          36.07084000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056503",
+        "PERMITTEE_NAME": "Nortek DCC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2800 HOFF ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056503",
+        "LATITUDE": 36.07084,
+        "LONGITUDE": -89.33404999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34206399999994,
+          36.060104000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053896",
+        "PERMITTEE_NAME": "ELECTRIC RESEARCH AND MANUFACTURING COOPERATIVE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2030 Sylvan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053896",
+        "LATITUDE": 36.060103999999995,
+        "LONGITUDE": -89.342064,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41514899999999,
+          36.051596000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056397",
+        "PERMITTEE_NAME": "Barry Daniels d.b.a. Daniels Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751846400000,
+        "EFFECTIVE_DATE": 1751932800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "500 Jenkinsville - Jamestown Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056397",
+        "LATITUDE": 36.051595999999996,
+        "LONGITUDE": -89.415149,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39840399999997,
+          36.01186800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053100",
+        "PERMITTEE_NAME": "United Parcel Service, Inc. - Dyersburg",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758672000000,
+        "EFFECTIVE_DATE": 1758672000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "750 Samaria Bend Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053100",
+        "LATITUDE": 36.011868,
+        "LONGITUDE": -89.398404,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24509999999998,
+          36.12480000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053137",
+        "PERMITTEE_NAME": "Danfoss Power Solutions II, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "860 Blankenship Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053137",
+        "LATITUDE": 36.1248,
+        "LONGITUDE": -89.24510000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22987999999998,
+          36.16362600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051538",
+        "PERMITTEE_NAME": "DyCo Forest Products, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767571200000,
+        "EFFECTIVE_DATE": 1767571200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "13231 HIGHWAY 211",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051538",
+        "LATITUDE": 36.163626,
+        "LONGITUDE": -89.22988,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39012499999995,
+          36.032976000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075264",
+        "PERMITTEE_NAME": "City of Dyersburg",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1678924800000,
+        "EFFECTIVE_DATE": 1680307200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "425 West Court Street ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075264",
+        "LATITUDE": 36.032976,
+        "LONGITUDE": -89.390125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41805499999998,
+          36.02916600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB023477",
+        "PERMITTEE_NAME": "Dyersburg STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2000 Honeydew Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB023477",
+        "LATITUDE": 36.029166,
+        "LONGITUDE": -89.418055,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40769999999998,
+          36.05890000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120267",
+        "PERMITTEE_NAME": "Valley Land Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Fairway Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120267",
+        "LATITUDE": 36.0589,
+        "LONGITUDE": -89.4077,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26439999999997,
+          36.13060000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120307",
+        "PERMITTEE_NAME": "Bill Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Sharps Ferry RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120307",
+        "LATITUDE": 36.1306,
+        "LONGITUDE": -89.26440000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33259999999996,
+          36.013900000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120754",
+        "PERMITTEE_NAME": "Duckland Ventures, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "East side of Anderson Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120754",
+        "LATITUDE": 36.0139,
+        "LONGITUDE": -89.3326,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26439999999997,
+          36.13060000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121026",
+        "PERMITTEE_NAME": "Bill Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Sharps Ferry RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121026",
+        "LATITUDE": 36.1306,
+        "LONGITUDE": -89.26440000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.20000999999996,
+          36.06777000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00186",
+        "PERMITTEE_NAME": "Weatherly Farms LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785369600000,
+        "EFFECTIVE_DATE": 1785369600000,
+        "EXPIRATION_DATE": 1866931200000,
+        "TERMINATION_DATE": 1530748800000,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "1633 Dr. Hall Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00186",
+        "LATITUDE": 36.067769999999996,
+        "LONGITUDE": -89.20000999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40833299999997,
+          36.05472200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237002",
+        "PERMITTEE_NAME": "Pioneer West Lake #2 Association, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1763596800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1795478400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420SW Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237002",
+        "LATITUDE": 36.054722,
+        "LONGITUDE": -89.408333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40611099999995,
+          36.054444000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237003",
+        "PERMITTEE_NAME": "Pioneer West Lake #1 Association, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1763596800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1795478400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420SW Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237003",
+        "LATITUDE": 36.054444,
+        "LONGITUDE": -89.406111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48027799999994,
+          36.09333300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237004",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1763942400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794873600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Coon Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237004",
+        "LATITUDE": 36.093333,
+        "LONGITUDE": -89.480278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43999999999994,
+          36.10083300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237005",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776038400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1806364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Lewis Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237005",
+        "LATITUDE": 36.100833,
+        "LONGITUDE": -89.44,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41222199999999,
+          36.06000000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237009",
+        "PERMITTEE_NAME": "West TN Golf, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1788393600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1816646400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237009",
+        "LATITUDE": 36.06,
+        "LONGITUDE": -89.412222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.30138899999997,
+          36.002500000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237010",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1732147200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1825113600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420se North Fork Forked Deer R.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237010",
+        "LATITUDE": 36.002500000000005,
+        "LONGITUDE": -89.301389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48333299999996,
+          36.04777800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237014",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776643200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1837814400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Finley Ditch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237014",
+        "LATITUDE": 36.047778,
+        "LONGITUDE": -89.483333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48555599999997,
+          36.063889000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237015",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1742256000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1806364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Crockett Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237015",
+        "LATITUDE": 36.063888999999996,
+        "LONGITUDE": -89.485556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.45361099999997,
+          36.095278000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237016",
+        "PERMITTEE_NAME": "Lakewood P.O.A., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1858377600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Trib-lewis Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237016",
+        "LATITUDE": 36.095278,
+        "LONGITUDE": -89.453611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.45166699999999,
+          36.09388900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237017",
+        "PERMITTEE_NAME": "Lakewood P.O.A., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1733097600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1825113600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Trib-lewis Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237017",
+        "LATITUDE": 36.093889,
+        "LONGITUDE": -89.451667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.44111099999998,
+          36.10222200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237018",
+        "PERMITTEE_NAME": "Lakewood P.O.A., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1795478400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237018",
+        "LATITUDE": 36.102222,
+        "LONGITUDE": -89.44111099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.44944399999997,
+          36.10000000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237019",
+        "PERMITTEE_NAME": "Lakewood P.O.A., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1700006400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794700800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420SW Lewis Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237019",
+        "LATITUDE": 36.1,
+        "LONGITUDE": -89.449444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47222199999999,
+          36.06250000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237023",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1742256000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1804550400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Crockett Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237023",
+        "LATITUDE": 36.0625,
+        "LONGITUDE": -89.472222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.44305599999996,
+          36.107222000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237024",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776038400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1806364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Trib-lewis Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237024",
+        "LATITUDE": 36.107222,
+        "LONGITUDE": -89.443056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.49731799999995,
+          36.07765600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121803",
+        "PERMITTEE_NAME": "Helena Chemical Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Southwest corner of Cow Ln and Lenox-Nauvoo Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121803",
+        "LATITUDE": 36.077656,
+        "LONGITUDE": -89.49731799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37969999999996,
+          36.07380000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121975",
+        "PERMITTEE_NAME": "Hunter Newbill/Bob Newbill-Duckland Ventures",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "east side of Millsfield Highway approximately 1,900 ft north of Interstate I-155",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121975",
+        "LATITUDE": 36.0738,
+        "LONGITUDE": -89.3797,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.36678699999999,
+          36.02589800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110440",
+        "PERMITTEE_NAME": "Southern Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1672876800000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "170 South Tennyson Exd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110440",
+        "LATITUDE": 36.025898,
+        "LONGITUDE": -89.366787,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48472199999998,
+          36.04833300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237020",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776643200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1837814400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Finley Ditch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237020",
+        "LATITUDE": 36.048333,
+        "LONGITUDE": -89.48472199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63248299999998,
+          36.08446800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.010",
+        "PERMITTEE_NAME": "USACE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1548633600000,
+        "EFFECTIVE_DATE": 1548633600000,
+        "EXPIRATION_DATE": 1705881600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Mississippi River mile 837",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.010",
+        "LATITUDE": 36.084468,
+        "LONGITUDE": -89.632483,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56859399999996,
+          36.12465300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.117",
+        "PERMITTEE_NAME": "US Army Corps of Engineers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1532563200000,
+        "EFFECTIVE_DATE": 1532563200000,
+        "EXPIRATION_DATE": 1690243200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Dyer and Lake Counties",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.117",
+        "LATITUDE": 36.124652999999995,
+        "LONGITUDE": -89.56859399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39136399999995,
+          36.15227300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059594",
+        "PERMITTEE_NAME": "Dirt Works of Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "675 Moody Ozment Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059594",
+        "LATITUDE": 36.152273,
+        "LONGITUDE": -89.391364,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41389999999996,
+          36.04300000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122370",
+        "PERMITTEE_NAME": "Brian Hatch",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "north side of Upper Finley Rd, just east of Jenkinsville-Jamestown Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122370",
+        "LATITUDE": 36.043,
+        "LONGITUDE": -89.4139,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40223799999995,
+          36.01240100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058141",
+        "PERMITTEE_NAME": "GERDAU AMERISTEEL US INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "840 SAMARIA BEND RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058141",
+        "LATITUDE": 36.012401,
+        "LONGITUDE": -89.402238,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.42001799999997,
+          36.035690000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050914",
+        "PERMITTEE_NAME": "COLONIAL RUBBER COMPANY, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753747200000,
+        "EFFECTIVE_DATE": 1753747200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2055 FORREST ST Extended",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050914",
+        "LATITUDE": 36.035689999999995,
+        "LONGITUDE": -89.420018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27339999999998,
+          36.12240000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122321",
+        "PERMITTEE_NAME": "Town of Newbern",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "Newbern",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122321",
+        "LATITUDE": 36.1224,
+        "LONGITUDE": -89.27340000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38101099999994,
+          36.05450300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122454",
+        "PERMITTEE_NAME": "Salsabeel TN Commercial, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2255 Parr Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122454",
+        "LATITUDE": 36.054503,
+        "LONGITUDE": -89.381011,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34036999999995,
+          36.049776000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053234",
+        "PERMITTEE_NAME": "FIRESTONE INDUSTRIAL PRODUCTS COMPANY, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1778716800000,
+        "EFFECTIVE_DATE": 1778716800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "1901 Sylvan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053234",
+        "LATITUDE": 36.049776,
+        "LONGITUDE": -89.34037,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37969999999996,
+          36.07380000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122295",
+        "PERMITTEE_NAME": "Hunter Newbill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "East of 1250 Millsfield Highway (east side of Millsfield Highway)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122295",
+        "LATITUDE": 36.0738,
+        "LONGITUDE": -89.3797,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41055599999999,
+          36.05861100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "237007",
+        "PERMITTEE_NAME": "Pioneer West Lake #3 Assoc. Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1787616000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1816646400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "420sw Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:237007",
+        "LATITUDE": 36.058611,
+        "LONGITUDE": -89.410556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33043599999996,
+          36.06540800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059881",
+        "PERMITTEE_NAME": "ELECTRIC RESEARCH AND MANUFACTURING COOPERATIVE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Dyer",
+        "SITE_LOCATION": "2000 HOFF ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059881",
+        "LATITUDE": 36.065408,
+        "LONGITUDE": -89.33043599999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

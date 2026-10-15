@@ -3,7 +3,7 @@
   "name": "Madison",
   "region": "West Tennessee",
   "population": 99295,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -77,10 +77,10 @@
       "basis": "Ranked by full-attainment river miles, high to low."
     },
     "notAssessedRiverMiles": {
-      "rank": 34,
+      "rank": 33,
       "total": 95,
       "tieCount": 1,
-      "display": "34th of 95 Tennessee counties",
+      "display": "33rd of 95 Tennessee counties",
       "basis": "Ranked by not-assessed river miles, high to low."
     },
     "otherAssessedRiverMiles": {

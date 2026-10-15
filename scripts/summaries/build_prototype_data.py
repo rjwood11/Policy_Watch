@@ -34,26 +34,29 @@ from scripts.summaries.county_contracts import write_county_map_payloads, write_
 from scripts.validate.validate_prototype_outputs import validate_outputs
 
 
-def main() -> None:
+def main(inputs: dict | None = None) -> None:
     ensure_dirs()
     context = get_build_context()
 
-    counties = load_tennessee_counties()
-    huc6 = load_huc6()
-    huc8 = load_huc8()
-    senate = load_legislative_layer(0)
-    house = load_legislative_layer(1)
-    congress = load_legislative_layer(2)
-    acs = load_acs(counties)
+    def load(name, loader, *args):
+        return inputs[name] if inputs and name in inputs else loader(*args)
+
+    counties = load("counties", load_tennessee_counties)
+    huc6 = load("huc6", load_huc6)
+    huc8 = load("huc8", load_huc8)
+    senate = load("senate", load_legislative_layer, 0)
+    house = load("house", load_legislative_layer, 1)
+    congress = load("congress", load_legislative_layer, 2)
+    acs = load("acs", load_acs, counties)
     justice40 = load_justice40()
     impairment = load_impairment_2026()
     monitoring_stations = load_monitoring_stations()
     active_permits = load_active_permits()
     scenic_rivers = load_scenic_rivers()
-    water_service_areas = load_water_service_areas()
-    service_line_inventory = load_service_line_inventory()
-    solid_waste_landfills = load_solid_waste_landfills()
-    protected_areas = load_protected_areas()
+    water_service_areas = load("water_service_areas", load_water_service_areas)
+    service_line_inventory = load("service_line_inventory", load_service_line_inventory)
+    solid_waste_landfills = load("solid_waste_landfills", load_solid_waste_landfills)
+    protected_areas = load("protected_areas", load_protected_areas)
     region_counties = load_region_counties()
     county_map_rivers = load_county_map_rivers()
     county_map_roads = load_county_map_major_roads()

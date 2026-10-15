@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51709199999993,
+          36.498736000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137867",
+        "PERMITTEE_NAME": "CASEY'S GENERAL STORE INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "18375 Alberta Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137867",
+        "LATITUDE": 36.498736,
+        "LONGITUDE": -84.51709199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50396599999993,
+          36.51733900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137922",
+        "PERMITTEE_NAME": "Pave Grade & Aggregate Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "20018 Alberta Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137922",
+        "LATITUDE": 36.517339,
+        "LONGITUDE": -84.50396599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53259099999997,
+          36.41295400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138460",
+        "PERMITTEE_NAME": "Casey's General Store",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "367 Baker Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138460",
+        "LATITUDE": 36.412954,
+        "LONGITUDE": -84.532591,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50678599999998,
+          36.51569400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830303",
+        "PERMITTEE_NAME": "Wingfield Environmental, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1782691200000,
+        "EFFECTIVE_DATE": 1782691200000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "19803 Alberta St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830303",
+        "LATITUDE": 36.515693999999996,
+        "LONGITUDE": -84.50678599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33259999999996,
+          36.307300000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.125",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785888000000,
+        "EFFECTIVE_DATE": 1785888000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "Cumberland State Trail State Scenic Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.125",
+        "LATITUDE": 36.307300000000005,
+        "LONGITUDE": -84.3326,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56824799999998,
+          36.50014600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138171",
+        "PERMITTEE_NAME": "JMB INVESTMENT COMPANY LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "Coopertown Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138171",
+        "LATITUDE": 36.500146,
+        "LONGITUDE": -84.568248,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52664299999998,
+          36.49089200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051315",
+        "PERMITTEE_NAME": "Premier Ag Co-Op, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760918400000,
+        "EFFECTIVE_DATE": 1760918400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "17563 ALBERTA STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051315",
+        "LATITUDE": 36.490891999999995,
+        "LONGITUDE": -84.52664299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65637699999996,
+          36.35011600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138025",
+        "PERMITTEE_NAME": "Pemberton Timber Partners, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "3710 Rugby Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138025",
+        "LATITUDE": 36.350116,
+        "LONGITUDE": -84.65637699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53460499999994,
+          36.48288100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110417",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1745452800000,
+        "EFFECTIVE_DATE": 1745452800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "16906 Alberta Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110417",
+        "LATITUDE": 36.482881,
+        "LONGITUDE": -84.534605,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43213599999996,
+          36.47948100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.118",
+        "PERMITTEE_NAME": "Joshua Mantooth",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1724630400000,
+        "EFFECTIVE_DATE": 1724630400000,
+        "EXPIRATION_DATE": 1756166400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "Buffalo Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.118",
+        "LATITUDE": 36.479481,
+        "LONGITUDE": -84.432136,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52995399999998,
+          36.50431700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137645",
+        "PERMITTEE_NAME": "Tennessee College of Applied Technology of Oneida",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "180 ELI LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137645",
+        "LATITUDE": 36.504317,
+        "LONGITUDE": -84.52995399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49076899999994,
+          36.41024600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137930",
+        "PERMITTEE_NAME": "Huntsville Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "2860 Baker Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137930",
+        "LATITUDE": 36.410246,
+        "LONGITUDE": -84.490769,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52995399999998,
+          36.50431700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137369",
+        "PERMITTEE_NAME": "Tennessee College of Applied Technology Oneida/Huntsville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "180 ELI LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137369",
+        "LATITUDE": 36.504317,
+        "LONGITUDE": -84.52995399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49701599999997,
+          36.41152400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136872",
+        "PERMITTEE_NAME": "White Rock Baptist Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "2716 Baker Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136872",
+        "LATITUDE": 36.411524,
+        "LONGITUDE": -84.497016,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43979999999993,
+          36.400000000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.110",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1670457600000,
+        "EFFECTIVE_DATE": 1670457600000,
+        "EXPIRATION_DATE": 1828137600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "SR-63 From West of SR-456 to East of Norma Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.110",
+        "LATITUDE": 36.4,
+        "LONGITUDE": -84.4398,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52179099999995,
+          36.41690600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056744",
+        "PERMITTEE_NAME": "Great Dane LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "470 Huntsville Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056744",
+        "LATITUDE": 36.416906,
+        "LONGITUDE": -84.521791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53666699999997,
+          36.427778000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110232",
+        "PERMITTEE_NAME": "West Ready Mix, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1685491200000,
+        "EFFECTIVE_DATE": 1685577600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "13064 Scott Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110232",
+        "LATITUDE": 36.427777999999996,
+        "LONGITUDE": -84.536667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54399999999998,
+          36.43300000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054426",
+        "PERMITTEE_NAME": "Cumberland Wood Products Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "275 Helenwood Detour Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054426",
+        "LATITUDE": 36.433,
+        "LONGITUDE": -84.54400000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58605099999994,
+          36.45543100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053665",
+        "PERMITTEE_NAME": "Scott County Municipal Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766016000000,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "2263 AIRPORT ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053665",
+        "LATITUDE": 36.455431,
+        "LONGITUDE": -84.586051,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48842499999995,
+          36.54553600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053924",
+        "PERMITTEE_NAME": "Volunteer Regional Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "300 Roberta Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053924",
+        "LATITUDE": 36.545536,
+        "LONGITUDE": -84.48842499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49777799999998,
+          36.40527800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB020753",
+        "PERMITTEE_NAME": "Huntsville STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1756771200000,
+        "EFFECTIVE_DATE": 1756771200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "200 Town Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB020753",
+        "LATITUDE": 36.405277999999996,
+        "LONGITUDE": -84.497778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53999999999996,
+          36.50777800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "767003",
+        "PERMITTEE_NAME": "Oneida Water & Sewer Works",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1773273600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "336se Cotton Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:767003",
+        "LATITUDE": 36.507778,
+        "LONGITUDE": -84.54,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57083299999994,
+          36.521667000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "767006",
+        "PERMITTEE_NAME": "Conservation League",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1734566400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1828224000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "336se Williams Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:767006",
+        "LATITUDE": 36.521667,
+        "LONGITUDE": -84.570833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50499999999994,
+          36.49722200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "767009",
+        "PERMITTEE_NAME": "Oneida Water & Sewer Works",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1773273600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "128ANE Pine Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:767009",
+        "LATITUDE": 36.497222,
+        "LONGITUDE": -84.50500000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50805599999995,
+          36.42333300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "767014",
+        "PERMITTEE_NAME": "City of Huntsville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1774483200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "128ane Flat Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:767014",
+        "LATITUDE": 36.423333,
+        "LONGITUDE": -84.508056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40673399999997,
+          36.56635200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.279",
+        "PERMITTEE_NAME": "MRW Environmental, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1550707200000,
+        "EFFECTIVE_DATE": 1550707200000,
+        "EXPIRATION_DATE": 1708560000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "Roaring Paunch Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.279",
+        "LATITUDE": 36.566351999999995,
+        "LONGITUDE": -84.406734,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51629999999994,
+          36.49870000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.246",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1543363200000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "SR-29 from near Industrial Ln to near Second Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.246",
+        "LATITUDE": 36.4987,
+        "LONGITUDE": -84.5163,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51629999999994,
+          36.49870000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.136",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1526428800000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "SR-29 from near Industrial Ln to near Second Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.136",
+        "LATITUDE": 36.4987,
+        "LONGITUDE": -84.5163,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51629999999994,
+          36.49870000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.136b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1526428800000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "SR-29 from near Industrial Ln to near Second Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.136b",
+        "LATITUDE": 36.4987,
+        "LONGITUDE": -84.5163,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36289999999997,
+          36.37500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059624",
+        "PERMITTEE_NAME": "Stephens Hardwood, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "146 Straight Fork Church Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059624",
+        "LATITUDE": 36.375,
+        "LONGITUDE": -84.36290000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48842499999995,
+          36.54553600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "767017",
+        "PERMITTEE_NAME": "Scott Solid Waste Disposal Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1710201600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "300 Roberta Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:767017",
+        "LATITUDE": 36.545536,
+        "LONGITUDE": -84.48842499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34086099999996,
+          36.58060000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.298",
+        "PERMITTEE_NAME": "AT&T Mobility, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1608768000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "7807 Gum Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.298",
+        "LATITUDE": 36.580600000000004,
+        "LONGITUDE": -84.34086099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48242099999999,
+          36.53672800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136390",
+        "PERMITTEE_NAME": "Teresa Willoughby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Scott",
+        "SITE_LOCATION": "21839 Alberta St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136390",
+        "LATITUDE": 36.536728,
+        "LONGITUDE": -84.482421,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

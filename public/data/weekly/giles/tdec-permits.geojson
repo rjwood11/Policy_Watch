@@ -1,0 +1,1461 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.84021699999994,
+          35.09201000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182796",
+        "PERMITTEE_NAME": "Owen Lewter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "500 Wheelerton Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182796",
+        "LATITUDE": 35.09201,
+        "LONGITUDE": -86.840217,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.18919099999994,
+          35.098704000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TND0002202",
+        "PERMITTEE_NAME": "Jeff Glover DBA Glover's Towing & Excavation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1655683200000,
+        "EFFECTIVE_DATE": 1655683200000,
+        "EXPIRATION_DATE": 1813363200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Shannon Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TND0002202",
+        "LATITUDE": 35.098704,
+        "LONGITUDE": -87.189191,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04283199999998,
+          35.181711000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183445",
+        "PERMITTEE_NAME": "Hill Construction, LLC.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1324 Paulk Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183445",
+        "LATITUDE": 35.181711,
+        "LONGITUDE": -87.04283199999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04891799999996,
+          35.20050900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183400",
+        "PERMITTEE_NAME": "Extra Storage LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Highway 64 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183400",
+        "LATITUDE": 35.200509,
+        "LONGITUDE": -87.048918,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.98603099999997,
+          35.01070600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.076",
+        "PERMITTEE_NAME": "Curry Farms LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Veto Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.076",
+        "LATITUDE": 35.010706,
+        "LONGITUDE": -86.986031,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04859999999996,
+          35.201100000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182777",
+        "PERMITTEE_NAME": "Jay Brownlow",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1251 West College Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182777",
+        "LATITUDE": 35.201100000000004,
+        "LONGITUDE": -87.04860000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.98759999999999,
+          35.308700000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.145",
+        "PERMITTEE_NAME": "Bates Wolf LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1784160000000,
+        "EFFECTIVE_DATE": 1784160000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "2641 Clear Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.145",
+        "LATITUDE": 35.3087,
+        "LONGITUDE": -86.9876,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.99396299999995,
+          35.14119000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.257a",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Tarpley Shop Road, from near SR-7 to near Wallace Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.257a",
+        "LATITUDE": 35.14119,
+        "LONGITUDE": -86.993963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.99396299999995,
+          35.14119000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.257b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Tarpley Shop Road, from near SR-7 to near Wallace Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.257b",
+        "LATITUDE": 35.14119,
+        "LONGITUDE": -86.993963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.86916299999996,
+          35.19264500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830299",
+        "PERMITTEE_NAME": "PM Environmental",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1772409600000,
+        "EFFECTIVE_DATE": 1772409600000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "2471 Highway 64 East",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830299",
+        "LATITUDE": 35.192645,
+        "LONGITUDE": -86.869163,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00197799999995,
+          35.373208000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4125",
+        "PERMITTEE_NAME": "Town of Lynnville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778544000000,
+        "EFFECTIVE_DATE": 1778544000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Happy Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4125",
+        "LATITUDE": 35.373208,
+        "LONGITUDE": -87.001978,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01207599999998,
+          35.16335900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183438",
+        "PERMITTEE_NAME": "Kathryn McDaniel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1936 Elkton Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183438",
+        "LATITUDE": 35.163359,
+        "LONGITUDE": -87.012076,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.86130899999995,
+          35.19508300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4098",
+        "PERMITTEE_NAME": "William Peck",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770076800000,
+        "EFFECTIVE_DATE": 1770076800000,
+        "EXPIRATION_DATE": 1801526400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "181 Old Hwy 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4098",
+        "LATITUDE": 35.195083,
+        "LONGITUDE": -86.86130899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06550999999996,
+          35.20826000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183451",
+        "PERMITTEE_NAME": "Cameron J. Coble, II",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Braly Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183451",
+        "LATITUDE": 35.208259999999996,
+        "LONGITUDE": -87.06550999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05372199999994,
+          35.21044000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051414",
+        "PERMITTEE_NAME": "Luxit Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "102 MAGNETI MARELLI DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051414",
+        "LATITUDE": 35.21044,
+        "LONGITUDE": -87.053722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21513699999997,
+          35.32996600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4118",
+        "PERMITTEE_NAME": "Texas Eastern Transmission, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774828800000,
+        "EFFECTIVE_DATE": 1774828800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Sugarland Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4118",
+        "LATITUDE": 35.329966,
+        "LONGITUDE": -87.215137,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05824899999999,
+          35.202800000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192384",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1641 W College St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192384",
+        "LATITUDE": 35.2028,
+        "LONGITUDE": -87.05824899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06874199999999,
+          35.227062000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051245",
+        "PERMITTEE_NAME": "Volunteer Paving, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758672000000,
+        "EFFECTIVE_DATE": 1758672000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "999 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051245",
+        "LATITUDE": 35.227062,
+        "LONGITUDE": -87.068742,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01105299999995,
+          35.07837500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183363",
+        "PERMITTEE_NAME": "Cody Wood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "706 Petty Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183363",
+        "LATITUDE": 35.078375,
+        "LONGITUDE": -87.01105299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07055599999995,
+          35.22944400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051622",
+        "PERMITTEE_NAME": "Adient US LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751328000000,
+        "EFFECTIVE_DATE": 1751328000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1890 Mines Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051622",
+        "LATITUDE": 35.229444,
+        "LONGITUDE": -87.070556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.97061399999996,
+          35.24154500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.318",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1678233600000,
+        "EFFECTIVE_DATE": 1718928000000,
+        "EXPIRATION_DATE": 1836000000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "SR-11 (US-31A) (Lewisburg Highway) , Bridge Over Pigeon Roost Creek, LM 23.38",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.318",
+        "LATITUDE": 35.241544999999995,
+        "LONGITUDE": -86.970614,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00791199999998,
+          35.19227200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183189",
+        "PERMITTEE_NAME": "Tennessee College of Applied Technology - Pulaski",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1233 E COLLEGE ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183189",
+        "LATITUDE": 35.192271999999996,
+        "LONGITUDE": -87.00791199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13531999999998,
+          35.00295600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183262",
+        "PERMITTEE_NAME": "Loan Vo",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "901 Jackson Clinic Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183262",
+        "LATITUDE": 35.002956,
+        "LONGITUDE": -87.13532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04166699999996,
+          35.18333000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB021687",
+        "PERMITTEE_NAME": "Pulaski STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1764547200000,
+        "EFFECTIVE_DATE": 1764547200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1149 Paulk Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB021687",
+        "LATITUDE": 35.18333,
+        "LONGITUDE": -87.04166699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88137099999994,
+          35.082078000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183067",
+        "PERMITTEE_NAME": "The Kent Companies",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1376 Bryson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183067",
+        "LATITUDE": 35.082077999999996,
+        "LONGITUDE": -86.881371,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06021299999998,
+          35.215752000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182814",
+        "PERMITTEE_NAME": "Frito-Lay, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "298 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182814",
+        "LATITUDE": 35.215752,
+        "LONGITUDE": -87.06021299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06379199999998,
+          35.20701400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182882",
+        "PERMITTEE_NAME": "Wright Paving Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1701 Braly Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182882",
+        "LATITUDE": 35.207014,
+        "LONGITUDE": -87.06379199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88385199999999,
+          35.10834100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182941",
+        "PERMITTEE_NAME": "AT&T Corp",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "I-65, Bryson Rd., Baugh Rd., Dixon Town Rd., Gardner Rd., Gowan Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182941",
+        "LATITUDE": 35.108340999999996,
+        "LONGITUDE": -86.88385199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00399899999996,
+          35.152757000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050276",
+        "PERMITTEE_NAME": "Integrity Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761239446000,
+        "EFFECTIVE_DATE": 1761239446000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "2071 ELKTON PIKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050276",
+        "LATITUDE": 35.152757,
+        "LONGITUDE": -87.003999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.99396299999995,
+          35.14119000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.116a",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1683504000000,
+        "EFFECTIVE_DATE": 1683504000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Tarpley Shop Road, from near SR-7 to near Wallace Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.116a",
+        "LATITUDE": 35.14119,
+        "LONGITUDE": -86.993963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21704399999999,
+          35.06867900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TND0002203",
+        "PERMITTEE_NAME": "Brandon Ervin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1683504000000,
+        "EFFECTIVE_DATE": 1683504000000,
+        "EXPIRATION_DATE": 1841270400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "6872 Shannon Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TND0002203",
+        "LATITUDE": 35.068678999999996,
+        "LONGITUDE": -87.217044,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.85555599999998,
+          35.065833000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "287004",
+        "PERMITTEE_NAME": "Lake Logan Association, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1737417600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1831334400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "66SE Trib-Elk River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:287004",
+        "LATITUDE": 35.065833,
+        "LONGITUDE": -86.85555599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88799999999998,
+          35.047000000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.281",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1675641600000,
+        "EFFECTIVE_DATE": 1675641600000,
+        "EXPIRATION_DATE": 1833321600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "SR-11/US-31 Bridge over the Elk River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.281",
+        "LATITUDE": 35.047000000000004,
+        "LONGITUDE": -86.888,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.99396299999995,
+          35.14119000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.116B",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1683504000000,
+        "EFFECTIVE_DATE": 1683504000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Tarpley Shop Road, from near SR-7 to near Wallace Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.116B",
+        "LATITUDE": 35.14119,
+        "LONGITUDE": -86.993963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00399899999996,
+          35.152757000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182841",
+        "PERMITTEE_NAME": "Integrity Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "2071 ELKTON PIKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182841",
+        "LATITUDE": 35.152757,
+        "LONGITUDE": -87.003999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06021299999998,
+          35.215752000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050139",
+        "PERMITTEE_NAME": "FritoLay",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "298 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050139",
+        "LATITUDE": 35.215752,
+        "LONGITUDE": -87.06021299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.84499999999997,
+          34.99833300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050174",
+        "PERMITTEE_NAME": "Wolverine Tube, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755561600000,
+        "EFFECTIVE_DATE": 1755561600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "30500 Railroad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050174",
+        "LATITUDE": 34.998332999999995,
+        "LONGITUDE": -86.845,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05893099999997,
+          35.21003500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050354",
+        "PERMITTEE_NAME": "Magneti Marelli of Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761224571000,
+        "EFFECTIVE_DATE": 1761224571000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "181 BENNETT DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050354",
+        "LATITUDE": 35.210035,
+        "LONGITUDE": -87.058931,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05881299999999,
+          35.21650100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051463",
+        "PERMITTEE_NAME": "Magotteaux, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "2360 Industrial Loop Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051463",
+        "LATITUDE": 35.216501,
+        "LONGITUDE": -87.058813,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00156699999997,
+          35.15183300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056479",
+        "PERMITTEE_NAME": "Saargummi Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "200 Commerce Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056479",
+        "LATITUDE": 35.151832999999996,
+        "LONGITUDE": -87.001567,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03529999999995,
+          35.19130000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110118",
+        "PERMITTEE_NAME": "Abernathy Concrete Co., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1709769600000,
+        "EFFECTIVE_DATE": 1709769600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "734 South First Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110118",
+        "LATITUDE": 35.1913,
+        "LONGITUDE": -87.0353,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06377499999996,
+          35.20933300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110119",
+        "PERMITTEE_NAME": "Mid South Concrete, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1670976000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1750 Braly Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110119",
+        "LATITUDE": 35.209333,
+        "LONGITUDE": -87.06377499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00429999999994,
+          35.225100000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056791",
+        "PERMITTEE_NAME": "City of Pulaski",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "264 MAXWELL HILL ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056791",
+        "LATITUDE": 35.225100000000005,
+        "LONGITUDE": -87.0043,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.86666699999995,
+          35.03611100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00071",
+        "PERMITTEE_NAME": "Newton Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoDE",
+        "ISSUANCE_DATE": 1439942400000,
+        "EFFECTIVE_DATE": 1439942400000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": 1529971200000,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "33501 Ardmore Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00071",
+        "LATITUDE": 35.036111,
+        "LONGITUDE": -86.86666699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00009599999998,
+          35.15226000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058619",
+        "PERMITTEE_NAME": "Twin City Clarage llc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "202 Commerce Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058619",
+        "LATITUDE": 35.15226,
+        "LONGITUDE": -87.000096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.99752899999999,
+          35.15249200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058944",
+        "PERMITTEE_NAME": "ABC TECHNOLOGIES WMG USA, INC.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "300 Executive Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058944",
+        "LATITUDE": 35.152491999999995,
+        "LONGITUDE": -86.997529,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05944399999998,
+          35.222222000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "287001",
+        "PERMITTEE_NAME": "Echo Lake Lot Owners",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1789344000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1849910400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "59ne Trib-richland Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:287001",
+        "LATITUDE": 35.222221999999995,
+        "LONGITUDE": -87.059444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.98861099999993,
+          35.31361100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "287002",
+        "PERMITTEE_NAME": "Clear Creek Lake Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1752710400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1847232000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "65sw Clear Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:287002",
+        "LATITUDE": 35.313611,
+        "LONGITUDE": -86.98861099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.10811399999994,
+          35.21140200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-16021",
+        "PERMITTEE_NAME": "Gibbs Lawn Care",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "19255 Hwy 64 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-16021",
+        "LATITUDE": 35.211402,
+        "LONGITUDE": -87.108114,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04286499999995,
+          35.20009100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059349",
+        "PERMITTEE_NAME": "SA Recycling, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "821 West College Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059349",
+        "LATITUDE": 35.200091,
+        "LONGITUDE": -87.04286499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.10049999999995,
+          35.21560000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.117",
+        "PERMITTEE_NAME": "Wales Station Farms, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1499817600000,
+        "EFFECTIVE_DATE": 1499817600000,
+        "EXPIRATION_DATE": 1657584000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "159 Cardin Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.117",
+        "LATITUDE": 35.2156,
+        "LONGITUDE": -87.10050000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.93569999999994,
+          35.18070000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059435",
+        "PERMITTEE_NAME": "Amsteel LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "6767 Highway 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059435",
+        "LATITUDE": 35.1807,
+        "LONGITUDE": -86.9357,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.98603099999997,
+          35.01070600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TND0020206",
+        "PERMITTEE_NAME": "Betsy Tucker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1620086400000,
+        "EFFECTIVE_DATE": 1620086400000,
+        "EXPIRATION_DATE": 1777766400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "Veto Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TND0020206",
+        "LATITUDE": 35.010706,
+        "LONGITUDE": -86.986031,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05880399999995,
+          35.256215000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050084",
+        "PERMITTEE_NAME": "Magotteaux, Inc. dba Hyatt Industrial Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "1211 Annie Wade Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050084",
+        "LATITUDE": 35.256215,
+        "LONGITUDE": -87.058804,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.89579999999995,
+          35.05950000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.314",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1611273600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "SR-7, LM 6.4",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.314",
+        "LATITUDE": 35.0595,
+        "LONGITUDE": -86.89580000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.98679999999996,
+          35.143200000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182670",
+        "PERMITTEE_NAME": "A&D Enterprises, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Giles",
+        "SITE_LOCATION": "350 Commerce Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182670",
+        "LATITUDE": 35.1432,
+        "LONGITUDE": -86.9868,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

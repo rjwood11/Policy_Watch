@@ -3,7 +3,7 @@
   "name": "Davidson",
   "region": "Middle Tennessee",
   "population": 715388,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Featured county page",
     "coverageNote": "This county is part of the featured prototype cohort and includes more intentional narrative framing.",
@@ -47,11 +47,11 @@
     "TN-06"
   ],
   "streamMiles": {
-    "impaired": 280.1,
+    "impaired": 280.2,
     "fullAttainment": 88.4,
     "notAssessed": 162.4,
     "otherAssessed": 0.0,
-    "total": 530.9
+    "total": 531.0
   },
   "rankings": {
     "population": {
@@ -160,7 +160,7 @@
     {
       "category": "Not Supporting",
       "label": "Not supporting",
-      "miles": 273.6
+      "miles": 273.7
     },
     {
       "category": "Not Supporting (Evaluated)",
@@ -168,30 +168,30 @@
       "miles": 6.5
     }
   ],
-  "impairmentSummary": "The local 2026 303(d) county summary shows about 280.1 river miles in not supporting categories, 88.4 fully supporting miles, and 162.4 not assessed miles in Davidson County.",
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 280.2 river miles in not supporting categories, 88.4 fully supporting miles, and 162.4 not assessed miles in Davidson County.",
   "impairmentCauses": [
     {
       "cause": "impaired_biota",
       "label": "Impaired biological community",
-      "miles": 280.1,
+      "miles": 280.2,
       "assessmentUnits": 65
     },
     {
       "cause": "habitat_alterations",
       "label": "Habitat alteration",
-      "miles": 206.8,
+      "miles": 206.9,
       "assessmentUnits": 51
     },
     {
       "cause": "sediment",
       "label": "Sediment / siltation",
-      "miles": 108.6,
+      "miles": 108.7,
       "assessmentUnits": 26
     },
     {
       "cause": "pathogens",
       "label": "Pathogens / bacteria",
-      "miles": 98.9,
+      "miles": 99.0,
       "assessmentUnits": 27
     },
     {
@@ -356,7 +356,7 @@
     {
       "key": "impaired-river-miles",
       "label": "Impaired river miles",
-      "value": "280.1",
+      "value": "280.2",
       "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
       "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
       "sourceDataset": "2026 303(d) impairment layer",

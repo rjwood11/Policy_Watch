@@ -1,0 +1,3827 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63307999999995,
+          36.54715600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162186",
+        "PERMITTEE_NAME": "BAE Systems/ Ordnance Systems Incorporated",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "4509 West Stone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162186",
+        "LATITUDE": 36.547156,
+        "LONGITUDE": -82.63307999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01999299999994,
+          36.36973100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.055",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759190400000,
+        "EFFECTIVE_DATE": 1759190400000,
+        "EXPIRATION_DATE": 1916870400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Hugh B. Day Bridge Parcel - Holston River Mile 103R",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.055",
+        "LATITUDE": 36.369731,
+        "LONGITUDE": -83.019993,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98143699999997,
+          36.39220100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162456",
+        "PERMITTEE_NAME": "Town of Rogersville, TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "111 GOLF VIEW DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162456",
+        "LATITUDE": 36.392201,
+        "LONGITUDE": -82.981437,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78075199999995,
+          36.42753600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.087",
+        "PERMITTEE_NAME": "Bill Bristol",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1784678400000,
+        "EFFECTIVE_DATE": 1784678400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Grassy Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.087",
+        "LATITUDE": 36.427535999999996,
+        "LONGITUDE": -82.78075199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94914199999994,
+          36.49971900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.073",
+        "PERMITTEE_NAME": "NRCS Project NRCS-Designed Repair of Eroding Streambanks and Shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "CAVE SPRINGS RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.073",
+        "LATITUDE": 36.499719,
+        "LONGITUDE": -82.949142,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78916399999997,
+          36.47727000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.092",
+        "PERMITTEE_NAME": "Bettina Tierney",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788220800000,
+        "EFFECTIVE_DATE": 1788220800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "1436 Christian Bend Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.092",
+        "LATITUDE": 36.47727,
+        "LONGITUDE": -82.789164,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72374399999995,
+          36.559161000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.060",
+        "PERMITTEE_NAME": "Claude McMellan NRCS Project Stream Bank Stabilization",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "4122 Carters Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.060",
+        "LATITUDE": 36.559160999999996,
+        "LONGITUDE": -82.723744,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.90488899999997,
+          36.41537800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.061",
+        "PERMITTEE_NAME": "Clayton Babbitt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "1527 Burem Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.061",
+        "LATITUDE": 36.415378,
+        "LONGITUDE": -82.904889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83111999999994,
+          36.54905700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.072",
+        "PERMITTEE_NAME": "William Hewicker property NRCS Project",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Stanley Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.072",
+        "LATITUDE": 36.549057,
+        "LONGITUDE": -82.83112,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94308899999999,
+          36.45957100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162533",
+        "PERMITTEE_NAME": "DG Holdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "4998 US-11W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162533",
+        "LATITUDE": 36.459571,
+        "LONGITUDE": -82.943089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00084099999998,
+          36.29863100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.102",
+        "PERMITTEE_NAME": "Robert Key",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1791244800000,
+        "EFFECTIVE_DATE": 1791244800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "696 Beech Grove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.102",
+        "LATITUDE": 36.298631,
+        "LONGITUDE": -83.000841,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74927399999996,
+          36.505554000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.103",
+        "PERMITTEE_NAME": "Mark Kincheloe Jr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1790640000000,
+        "EFFECTIVE_DATE": 1790640000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Gray Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.103",
+        "LATITUDE": 36.505554,
+        "LONGITUDE": -82.749274,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.62891199999996,
+          36.56731400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.104",
+        "PERMITTEE_NAME": "Randy Thomas",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "519 Tranbarger Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.104",
+        "LATITUDE": 36.567313999999996,
+        "LONGITUDE": -82.628912,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03621599999997,
+          36.35573000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.074",
+        "PERMITTEE_NAME": "Wayne Herron NRCS Project",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780012800000,
+        "EFFECTIVE_DATE": 1780012800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Thorpes Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.074",
+        "LATITUDE": 36.35573,
+        "LONGITUDE": -83.036216,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87253999999996,
+          36.551833000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.069",
+        "PERMITTEE_NAME": "Timothy Byington NRCS Designed Streambank Stabilization",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "GENE DERRICK ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.069",
+        "LATITUDE": 36.551832999999995,
+        "LONGITUDE": -82.87254,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96692399999995,
+          36.38171100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.319",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1767744000000,
+        "EFFECTIVE_DATE": 1767744000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "McKinney Chapel RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.319",
+        "LATITUDE": 36.381710999999996,
+        "LONGITUDE": -82.96692399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.84935299999995,
+          36.464694000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.309",
+        "PERMITTEE_NAME": "Johnny Greer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780272000000,
+        "EFFECTIVE_DATE": 1780272000000,
+        "EXPIRATION_DATE": 1937952000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Fiddler Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.309",
+        "LATITUDE": 36.464694,
+        "LONGITUDE": -82.849353,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.75274699999994,
+          36.55284100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.026",
+        "PERMITTEE_NAME": "Anna Harris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1771891200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "353 Carters Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.026",
+        "LATITUDE": 36.552841,
+        "LONGITUDE": -82.752747,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.82043399999998,
+          36.45958800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.029",
+        "PERMITTEE_NAME": "Tracy Reedy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1772496000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "691 MILLERS BLUFF RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.029",
+        "LATITUDE": 36.459588,
+        "LONGITUDE": -82.82043399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78175099999999,
+          36.508185000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.016",
+        "PERMITTEE_NAME": "First U.D. of Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1769644800000,
+        "EFFECTIVE_DATE": 1769644800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "102 Sturbridge Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.016",
+        "LATITUDE": 36.508185,
+        "LONGITUDE": -82.781751,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67637099999996,
+          36.50398300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.007",
+        "PERMITTEE_NAME": "Cory Leamon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Church Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.007",
+        "LATITUDE": 36.503983,
+        "LONGITUDE": -82.676371,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67896099999996,
+          36.504328000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.033",
+        "PERMITTEE_NAME": "Brian Frink",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773187200000,
+        "EFFECTIVE_DATE": 1773187200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "605 Church Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.033",
+        "LATITUDE": 36.504328,
+        "LONGITUDE": -82.678961,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68044599999996,
+          36.506841000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.006",
+        "PERMITTEE_NAME": "Charles McLain",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768867200000,
+        "EFFECTIVE_DATE": 1768867200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "553 Church Hill Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.006",
+        "LATITUDE": 36.506841,
+        "LONGITUDE": -82.68044599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.89268499999997,
+          36.429970000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.020",
+        "PERMITTEE_NAME": "Mitchell Hiniker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771545600000,
+        "EFFECTIVE_DATE": 1771545600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "HONEYCUTT RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.020",
+        "LATITUDE": 36.42997,
+        "LONGITUDE": -82.892685,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67868399999998,
+          36.502928000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.018",
+        "PERMITTEE_NAME": "Joseph Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771545600000,
+        "EFFECTIVE_DATE": 1771545600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "629 Church Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.018",
+        "LATITUDE": 36.502928,
+        "LONGITUDE": -82.67868399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79373599999997,
+          36.489494000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.096",
+        "PERMITTEE_NAME": "Jacob Perry",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787875200000,
+        "EFFECTIVE_DATE": 1787875200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "180 Ridge Haven Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.096",
+        "LATITUDE": 36.489494,
+        "LONGITUDE": -82.793736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23867199999995,
+          36.31088500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.307",
+        "PERMITTEE_NAME": "Cedar Cove RV Lots, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "1501 Slate Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.307",
+        "LATITUDE": 36.310885,
+        "LONGITUDE": -83.238672,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74299999999994,
+          36.51900000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162368",
+        "PERMITTEE_NAME": "First Utility District of Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Highway 11W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162368",
+        "LATITUDE": 36.519,
+        "LONGITUDE": -82.74300000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78918799999997,
+          36.505378000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.015",
+        "PERMITTEE_NAME": "First U. D.  of Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1769644800000,
+        "EFFECTIVE_DATE": 1769644800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "1256 Burlington Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.015",
+        "LATITUDE": 36.505378,
+        "LONGITUDE": -82.789188,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70897599999995,
+          36.523933000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162362",
+        "PERMITTEE_NAME": "First Utility District of Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Grandview St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162362",
+        "LATITUDE": 36.523933,
+        "LONGITUDE": -82.70897599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77744299999995,
+          36.56616200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2406.038",
+        "PERMITTEE_NAME": "First Utility District Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1714089600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Mount Zion Rd and Tipton Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2406.038",
+        "LATITUDE": 36.566162,
+        "LONGITUDE": -82.77744299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22126899999995,
+          36.37012800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.158b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-31, Mooresburg to Adams Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.158b",
+        "LATITUDE": 36.370128,
+        "LONGITUDE": -83.22126899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96692399999995,
+          36.38171100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192403",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "McKinney Chapel RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192403",
+        "LATITUDE": 36.381710999999996,
+        "LONGITUDE": -82.96692399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22126899999995,
+          36.37012800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192408",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-31, Mooresburg to Adams Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192408",
+        "LATITUDE": 36.370128,
+        "LONGITUDE": -83.22126899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63311199999998,
+          36.54717000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.184",
+        "PERMITTEE_NAME": "BAE Systems, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786665600000,
+        "EFFECTIVE_DATE": 1786665600000,
+        "EXPIRATION_DATE": 1944345600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "4509 W. Stone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.184",
+        "LATITUDE": 36.54717,
+        "LONGITUDE": -82.633112,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.86677199999997,
+          36.43937600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.002",
+        "PERMITTEE_NAME": "Patricia Stout",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768521600000,
+        "EFFECTIVE_DATE": 1768521600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "293 Williams Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.002",
+        "LATITUDE": 36.439375999999996,
+        "LONGITUDE": -82.866772,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96532799999994,
+          36.375848000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051449",
+        "PERMITTEE_NAME": "BARNARD CONSTRUCTION COMPANY, INCORPORATED",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "299 TVA Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051449",
+        "LATITUDE": 36.375848,
+        "LONGITUDE": -82.965328,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.84935299999995,
+          36.464694000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.302",
+        "PERMITTEE_NAME": "Johnny Greer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765497600000,
+        "EFFECTIVE_DATE": 1765497600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Fiddler Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.302",
+        "LATITUDE": 36.464694,
+        "LONGITUDE": -82.849353,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70505399999996,
+          36.497138000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.301",
+        "PERMITTEE_NAME": "Jonathan Jennings",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765411200000,
+        "EFFECTIVE_DATE": 1765411200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "143 Holston Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.301",
+        "LATITUDE": 36.497138,
+        "LONGITUDE": -82.70505399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04639599999996,
+          36.33125000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.066",
+        "PERMITTEE_NAME": "Michael Dewey NRCS Designed Repair of Eroding Streambanks and Shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "LONG TOWN RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.066",
+        "LATITUDE": 36.33125,
+        "LONGITUDE": -83.046396,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68017499999996,
+          36.50635500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.005",
+        "PERMITTEE_NAME": "Jesse Jennings",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768176000000,
+        "EFFECTIVE_DATE": 1768176000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "563 Church Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.005",
+        "LATITUDE": 36.506355,
+        "LONGITUDE": -82.68017499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.89268499999997,
+          36.429970000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.054",
+        "PERMITTEE_NAME": "Mitchell Hiniker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779148800000,
+        "EFFECTIVE_DATE": 1779148800000,
+        "EXPIRATION_DATE": 1936828800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "HONEYCUTT RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.054",
+        "LATITUDE": 36.42997,
+        "LONGITUDE": -82.892685,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.89933899999994,
+          36.42125200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.012",
+        "PERMITTEE_NAME": "Robert Kuhn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1769558400000,
+        "EFFECTIVE_DATE": 1769558400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Ball Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.012",
+        "LATITUDE": 36.421251999999996,
+        "LONGITUDE": -82.899339,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22126899999995,
+          36.37012800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.158c",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-31, Mooresburg to Adams Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.158c",
+        "LATITUDE": 36.370128,
+        "LONGITUDE": -83.22126899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71101699999997,
+          36.45714400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.057",
+        "PERMITTEE_NAME": "Nathan Thornton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1740096000000,
+        "EFFECTIVE_DATE": 1740096000000,
+        "EXPIRATION_DATE": 1775433600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "1474 Grassy Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.057",
+        "LATITUDE": 36.457144,
+        "LONGITUDE": -82.711017,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68378299999995,
+          36.49917500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.280",
+        "PERMITTEE_NAME": "Jeff Lukens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1760572800000,
+        "EXPIRATION_DATE": 1792022400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "197 River Bend Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.280",
+        "LATITUDE": 36.499175,
+        "LONGITUDE": -82.68378299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87089499999996,
+          36.437302000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.058",
+        "PERMITTEE_NAME": "Brian Price",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1685059200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "305 Payne Bridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.058",
+        "LATITUDE": 36.437301999999995,
+        "LONGITUDE": -82.87089499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16487899999998,
+          36.362765000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.329",
+        "PERMITTEE_NAME": "TWRA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749168000000,
+        "EFFECTIVE_DATE": 1749168000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Boat Ramps",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.329",
+        "LATITUDE": 36.362764999999996,
+        "LONGITUDE": -83.164879,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72705999999994,
+          36.52092000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162265",
+        "PERMITTEE_NAME": "Onyx Self Storage of Church Hill Holdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "NE Corner of Hwy 11-W and Old Union Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162265",
+        "LATITUDE": 36.52092,
+        "LONGITUDE": -82.72706,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.84661399999999,
+          36.448960000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.310",
+        "PERMITTEE_NAME": "Tammy Radenbaugh",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1765843200000,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "1148 Red Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.310",
+        "LATITUDE": 36.44896,
+        "LONGITUDE": -82.846614,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.89271199999996,
+          36.42747200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.043",
+        "PERMITTEE_NAME": "Greg Barrett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1746144000000,
+        "EFFECTIVE_DATE": 1746144000000,
+        "EXPIRATION_DATE": 1903824000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Honeycutt Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.043",
+        "LATITUDE": 36.427472,
+        "LONGITUDE": -82.892712,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77299399999998,
+          36.49117700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.260",
+        "PERMITTEE_NAME": "Brian Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Cardinal Way Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.260",
+        "LATITUDE": 36.491177,
+        "LONGITUDE": -82.772994,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63307999999995,
+          36.54715600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053962",
+        "PERMITTEE_NAME": "BAE Systems Ordnance Systems Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1786406400000,
+        "EFFECTIVE_DATE": 1786406400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "4509 West Stone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053962",
+        "LATITUDE": 36.547156,
+        "LONGITUDE": -82.63307999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79083399999996,
+          36.49049400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.195",
+        "PERMITTEE_NAME": "Guy Drinnon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747699200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "RIDGE HAVEN DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.195",
+        "LATITUDE": 36.490494,
+        "LONGITUDE": -82.79083399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22126899999995,
+          36.37012800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.158",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-31, Mooresburg to Adams Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.158",
+        "LATITUDE": 36.370128,
+        "LONGITUDE": -83.22126899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08339799999999,
+          36.39613000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162423",
+        "PERMITTEE_NAME": "Clayton Homes, INC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Race Track Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162423",
+        "LATITUDE": 36.39613,
+        "LONGITUDE": -83.083398,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97902699999997,
+          36.369998000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.022",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1715731200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "611 Old Highway 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.022",
+        "LATITUDE": 36.369997999999995,
+        "LONGITUDE": -82.979027,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99680499999994,
+          36.43579500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.150",
+        "PERMITTEE_NAME": "Chris Lipe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1690502400000,
+        "EFFECTIVE_DATE": 1690761600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "681 Caney Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.150",
+        "LATITUDE": 36.435795,
+        "LONGITUDE": -82.996805,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78797599999996,
+          36.50957200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050949",
+        "PERMITTEE_NAME": "West Stone Industries, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1721001600000,
+        "EFFECTIVE_DATE": 1721001600000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "127 Bradley Creek Road, NW Corner of Hwy 11-W and Landfill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050949",
+        "LATITUDE": 36.509572,
+        "LONGITUDE": -82.787976,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77639999999997,
+          36.58630000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.054",
+        "PERMITTEE_NAME": "Debra Harris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1683590400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "199 Lisenby Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.054",
+        "LATITUDE": 36.5863,
+        "LONGITUDE": -82.77640000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06903899999998,
+          36.441314000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.224",
+        "PERMITTEE_NAME": "Davey Resource Group, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1700611200000,
+        "EFFECTIVE_DATE": 1700611200000,
+        "EXPIRATION_DATE": 1858377600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Pressmen Home Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.224",
+        "LATITUDE": 36.441314,
+        "LONGITUDE": -83.06903899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01080099999996,
+          36.35170100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192254",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-70, Bridge over Norfolk Southern Railroad, L.M. 6.19",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192254",
+        "LATITUDE": 36.351701,
+        "LONGITUDE": -83.010801,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02199999999993,
+          36.35060000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162325",
+        "PERMITTEE_NAME": "Rogersville LLC a series LLC of Delta T Properties LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "2890 Hwy 66 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162325",
+        "LATITUDE": 36.3506,
+        "LONGITUDE": -83.022,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78612399999997,
+          36.50589800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162433",
+        "PERMITTEE_NAME": "FUD of Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Burlington Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162433",
+        "LATITUDE": 36.505897999999995,
+        "LONGITUDE": -82.786124,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74299999999994,
+          36.51900000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2406.039",
+        "PERMITTEE_NAME": "Hawkins County First Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1715040000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Highway 11W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2406.039",
+        "LATITUDE": 36.519,
+        "LONGITUDE": -82.74300000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15308999999996,
+          36.37584500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.017",
+        "PERMITTEE_NAME": "Steve Tomko",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1769644800000,
+        "EXPIRATION_DATE": 1801094400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Lovin Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.017",
+        "LATITUDE": 36.375845,
+        "LONGITUDE": -83.15308999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77744299999995,
+          36.56616200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162363",
+        "PERMITTEE_NAME": "First U.D. of Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Mount Zion Rd and Tipton Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162363",
+        "LATITUDE": 36.566162,
+        "LONGITUDE": -82.77744299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68245199999996,
+          36.498789000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.211",
+        "PERMITTEE_NAME": "Johnny E. Day Jr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1695600000000,
+        "EFFECTIVE_DATE": 1695340800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "671 Church Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.211",
+        "LATITUDE": 36.498788999999995,
+        "LONGITUDE": -82.682452,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78790399999997,
+          36.50167400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192249",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "AFG Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192249",
+        "LATITUDE": 36.501674,
+        "LONGITUDE": -82.787904,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01080099999996,
+          36.35170100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.293",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1707436800000,
+        "EFFECTIVE_DATE": 1707436800000,
+        "EXPIRATION_DATE": 1865203200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-70, Bridge over Norfolk Southern Railroad, L.M. 6.19",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.293",
+        "LATITUDE": 36.351701,
+        "LONGITUDE": -83.010801,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94943699999999,
+          36.36188400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.058",
+        "PERMITTEE_NAME": "Andrew Price Bank Stabilization",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "WEBSTER VALLEY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.058",
+        "LATITUDE": 36.361883999999996,
+        "LONGITUDE": -82.949437,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77023599999995,
+          36.50726600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050656",
+        "PERMITTEE_NAME": "UFP STRUCTURAL PACKAGING, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759968000000,
+        "EFFECTIVE_DATE": 1759968000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "121 PRESS RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050656",
+        "LATITUDE": 36.507266,
+        "LONGITUDE": -82.770236,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70623799999998,
+          36.500691000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.213",
+        "PERMITTEE_NAME": "Stacey Marsh",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1695772800000,
+        "EFFECTIVE_DATE": 1695686400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Church HIll",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.213",
+        "LATITUDE": 36.500690999999996,
+        "LONGITUDE": -82.706238,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96692399999995,
+          36.38171100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.154",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1704672000000,
+        "EFFECTIVE_DATE": 1704672000000,
+        "EXPIRATION_DATE": 1862438400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "McKinney Chapel RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.154",
+        "LATITUDE": 36.381710999999996,
+        "LONGITUDE": -82.96692399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67616899999996,
+          36.50416300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.214",
+        "PERMITTEE_NAME": "Michael Thomason",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1695686400000,
+        "EFFECTIVE_DATE": 1695600000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "617 CHURCH LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.214",
+        "LATITUDE": 36.504163,
+        "LONGITUDE": -82.676169,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78984199999996,
+          36.48007800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.051",
+        "PERMITTEE_NAME": "Jeff Cantrell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1681430400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "116 Morrison Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.051",
+        "LATITUDE": 36.480078,
+        "LONGITUDE": -82.789842,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05721699999998,
+          36.28771900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.049",
+        "PERMITTEE_NAME": "Travis Arnott",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1681430400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "421 Wolfe Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.049",
+        "LATITUDE": 36.287718999999996,
+        "LONGITUDE": -83.057217,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.88438899999994,
+          36.401203000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.055",
+        "PERMITTEE_NAME": "Greg Fugate",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1690761600000,
+        "EFFECTIVE_DATE": 1690848000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "111 Jones Cemetery Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.055",
+        "LATITUDE": 36.401202999999995,
+        "LONGITUDE": -82.884389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67828099999997,
+          36.49984800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.056",
+        "PERMITTEE_NAME": "Anthony McPeek",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1681430400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "651 Church Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.056",
+        "LATITUDE": 36.499848,
+        "LONGITUDE": -82.678281,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74722499999996,
+          36.51198100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.053",
+        "PERMITTEE_NAME": "Christy L Lyons",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1681430400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "111 Lyons Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.053",
+        "LATITUDE": 36.511981,
+        "LONGITUDE": -82.747225,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87089499999996,
+          36.437302000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.058b",
+        "PERMITTEE_NAME": "Brian Price",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1685059200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "305 Payne Bridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.058b",
+        "LATITUDE": 36.437301999999995,
+        "LONGITUDE": -82.87089499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63307999999995,
+          36.54715600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162154",
+        "PERMITTEE_NAME": "BAE Systems/'Ordinance Systems Incorporated",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "4509 West Stone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162154",
+        "LATITUDE": 36.547156,
+        "LONGITUDE": -82.63307999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.62510999999995,
+          36.55099000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161801",
+        "PERMITTEE_NAME": "G. Todd East, WSD Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "West Stone Drive (Hwy 11W)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161801",
+        "LATITUDE": 36.55099,
+        "LONGITUDE": -82.62510999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.88999999999999,
+          36.426667000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.122",
+        "PERMITTEE_NAME": "Harold Keller III",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1631232000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Honeycutt Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.122",
+        "LATITUDE": 36.426666999999995,
+        "LONGITUDE": -82.89,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.62052699999998,
+          36.586644000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050119",
+        "PERMITTEE_NAME": "Carter's Valley Used Auto Parts",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "131 CAMPBELL STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050119",
+        "LATITUDE": 36.586644,
+        "LONGITUDE": -82.620527,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03648099999998,
+          36.38691600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050262",
+        "PERMITTEE_NAME": "Sam Dong, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755129600000,
+        "EFFECTIVE_DATE": 1755129600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "300 Industrial Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050262",
+        "LATITUDE": 36.386916,
+        "LONGITUDE": -83.036481,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65736799999996,
+          36.58319300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110284",
+        "PERMITTEE_NAME": "Frost Concrete LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1667865600000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "5759 West Carters Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110284",
+        "LATITUDE": 36.583193,
+        "LONGITUDE": -82.65736799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78787599999998,
+          36.54344800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053251",
+        "PERMITTEE_NAME": "BFI Waste Systems of Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "2825 Carters Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053251",
+        "LATITUDE": 36.543448,
+        "LONGITUDE": -82.787876,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99744499999997,
+          36.40412800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110139",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1710201600000,
+        "EFFECTIVE_DATE": 1710201600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "339 Colonial Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110139",
+        "LATITUDE": 36.404128,
+        "LONGITUDE": -82.997445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.89045499999997,
+          36.45342700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053449",
+        "PERMITTEE_NAME": "Hawkins County Airport",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "675 Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053449",
+        "LATITUDE": 36.453427,
+        "LONGITUDE": -82.890455,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26403599999998,
+          36.35059400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110200",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1701907200000,
+        "EFFECTIVE_DATE": 1701993600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "135 Moreland Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110200",
+        "LATITUDE": 36.350594,
+        "LONGITUDE": -83.26403599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96532799999994,
+          36.375848000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053187",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1775520000000,
+        "EFFECTIVE_DATE": 1775520000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "299 TVA Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053187",
+        "LATITUDE": 36.375848,
+        "LONGITUDE": -82.965328,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06982799999997,
+          36.39254500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053461",
+        "PERMITTEE_NAME": "Harrison Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "415 Shepards Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053461",
+        "LATITUDE": 36.392545,
+        "LONGITUDE": -83.069828,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04758199999998,
+          36.28378300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050648",
+        "PERMITTEE_NAME": "Oldcastle APG",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "740 North Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050648",
+        "LATITUDE": 36.283783,
+        "LONGITUDE": -83.04758199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81082099999998,
+          36.473340000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053744",
+        "PERMITTEE_NAME": "Cooper-Standard Automotive Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753315200000,
+        "EFFECTIVE_DATE": 1753315200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "377 Phipps Bend Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053744",
+        "LATITUDE": 36.47334,
+        "LONGITUDE": -82.81082099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81661099999997,
+          36.478233000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051722",
+        "PERMITTEE_NAME": "Homeland Vinyl Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757980800000,
+        "EFFECTIVE_DATE": 1757980800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "140 Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051722",
+        "LATITUDE": 36.478232999999996,
+        "LONGITUDE": -82.816611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81751299999996,
+          36.47345900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052095",
+        "PERMITTEE_NAME": "Mundet Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757376000000,
+        "EFFECTIVE_DATE": 1757376000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "170 Geiger Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052095",
+        "LATITUDE": 36.473459,
+        "LONGITUDE": -82.81751299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02083299999998,
+          36.31250000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052011",
+        "PERMITTEE_NAME": "East TN Iron & Metal",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1757289600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "1925 Highway 66 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052011",
+        "LATITUDE": 36.3125,
+        "LONGITUDE": -83.020833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.80777399999994,
+          36.473997000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053864",
+        "PERMITTEE_NAME": "Bharat Forge-PMT Technologies",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1773100800000,
+        "EFFECTIVE_DATE": 1773100800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "2105 SCHMIEDE ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053864",
+        "LATITUDE": 36.473997,
+        "LONGITUDE": -82.807774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77741099999997,
+          36.49382600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051221",
+        "PERMITTEE_NAME": "Cardinal Glass Industries Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "600 Cardinal Way Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051221",
+        "LATITUDE": 36.493826,
+        "LONGITUDE": -82.777411,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70634499999994,
+          36.52288600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075701",
+        "PERMITTEE_NAME": "City of Church Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1673308800000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "300 E. Main Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075701",
+        "LATITUDE": 36.522886,
+        "LONGITUDE": -82.706345,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65463699999998,
+          36.54590100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075744",
+        "PERMITTEE_NAME": "Town of Mount Carmel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1673568000000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "100 East Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075744",
+        "LATITUDE": 36.545901,
+        "LONGITUDE": -82.654637,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00545799999998,
+          36.406218000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075574",
+        "PERMITTEE_NAME": "Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1674777600000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "150 E Washington St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075574",
+        "LATITUDE": 36.406217999999996,
+        "LONGITUDE": -83.00545799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65416999999997,
+          36.55000000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160363",
+        "PERMITTEE_NAME": "Frank Hall",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Landon Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160363",
+        "LATITUDE": 36.550000000000004,
+        "LONGITUDE": -82.65417,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68305999999995,
+          36.50583000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160397",
+        "PERMITTEE_NAME": "Morgan Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Church Lane, River Bend Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160397",
+        "LATITUDE": 36.505829999999996,
+        "LONGITUDE": -82.68306,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71592499999997,
+          36.51576400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.084",
+        "PERMITTEE_NAME": "Tony Huff",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1485388800000,
+        "EFFECTIVE_DATE": 1485388800000,
+        "EXPIRATION_DATE": 1643068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "474 Lakeside Dock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.084",
+        "LATITUDE": 36.515764,
+        "LONGITUDE": -82.715925,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04597499999994,
+          36.38046300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB020672",
+        "PERMITTEE_NAME": "Rogersville STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757462400000,
+        "EFFECTIVE_DATE": 1757462400000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "620 Flora Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB020672",
+        "LATITUDE": 36.380463,
+        "LONGITUDE": -83.045975,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65895799999998,
+          36.55508100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB062057",
+        "PERMITTEE_NAME": "Mount Carmel STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1616457600000,
+        "EFFECTIVE_DATE": 1616457600000,
+        "EXPIRATION_DATE": 1723680000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "116 Seminole Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB062057",
+        "LATITUDE": 36.555081,
+        "LONGITUDE": -82.658958,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71666699999997,
+          36.53888900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160726",
+        "PERMITTEE_NAME": "Randi Laferney",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "N. Central Ave/Old Union Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160726",
+        "LATITUDE": 36.538889,
+        "LONGITUDE": -82.716667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67222199999998,
+          36.583056000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160695",
+        "PERMITTEE_NAME": "Fox Run Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Carters Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160695",
+        "LATITUDE": 36.583056,
+        "LONGITUDE": -82.67222199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73555599999997,
+          36.521389000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160944",
+        "PERMITTEE_NAME": "Charles Housewright",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Old Highway 11-W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160944",
+        "LATITUDE": 36.521389,
+        "LONGITUDE": -82.735556,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66277799999995,
+          36.555000000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161006",
+        "PERMITTEE_NAME": "Kenneth H. Gilreath",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Hunters Run Lane & Hammond Ave.  Mt. Carmel",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161006",
+        "LATITUDE": 36.555,
+        "LONGITUDE": -82.662778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81032199999999,
+          36.46629500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058061",
+        "PERMITTEE_NAME": "Tabco, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "950 Phipps Bend Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058061",
+        "LATITUDE": 36.466294999999995,
+        "LONGITUDE": -82.810322,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97169999999994,
+          36.43560000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161107",
+        "PERMITTEE_NAME": "Rogersville Church of God",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "5752 Hwy 11W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161107",
+        "LATITUDE": 36.4356,
+        "LONGITUDE": -82.9717,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96085599999998,
+          36.37030600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110377",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1701820800000,
+        "EFFECTIVE_DATE": 1701820800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "216 Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110377",
+        "LATITUDE": 36.370306,
+        "LONGITUDE": -82.96085599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96085599999998,
+          36.37030600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161343",
+        "PERMITTEE_NAME": "Cloud #9 Enterprises Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "216 Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161343",
+        "LATITUDE": 36.370306,
+        "LONGITUDE": -82.96085599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12499999999994,
+          36.39000000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161403",
+        "PERMITTEE_NAME": "Johnathan Lawson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "3815 Highway 66 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161403",
+        "LATITUDE": 36.39,
+        "LONGITUDE": -83.125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.84458999999998,
+          36.46031000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161536",
+        "PERMITTEE_NAME": "Roger Golden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "149 Golden Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161536",
+        "LATITUDE": 36.46031,
+        "LONGITUDE": -82.84459,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94618299999996,
+          36.456200000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161563",
+        "PERMITTEE_NAME": "The Bridge Baptist Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "2243 East Main Street (Old Highway 11-W)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161563",
+        "LATITUDE": 36.4562,
+        "LONGITUDE": -82.94618299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66641999999996,
+          36.539810000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161700",
+        "PERMITTEE_NAME": "Jim Griffith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161700",
+        "LATITUDE": 36.539809999999996,
+        "LONGITUDE": -82.66642,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67796499999997,
+          36.49411300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.185",
+        "PERMITTEE_NAME": "Hawkins County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1513123200000,
+        "EFFECTIVE_DATE": 1513123200000,
+        "EXPIRATION_DATE": 1670803200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "LAUREL RUN PARK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.185",
+        "LATITUDE": 36.494113,
+        "LONGITUDE": -82.677965,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68544199999997,
+          36.52378300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB021253",
+        "PERMITTEE_NAME": "Church Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "VFW Road (STP) 300 East Main Blvd(City Hall)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB021253",
+        "LATITUDE": 36.523783,
+        "LONGITUDE": -82.685442,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05388899999997,
+          36.449722000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "377003",
+        "PERMITTEE_NAME": "OMEGA NUGAE, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1670198400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1700006400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "171ne Little Poor Valley Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:377003",
+        "LATITUDE": 36.449722,
+        "LONGITUDE": -83.053889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.18555599999996,
+          36.36000000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "377005",
+        "PERMITTEE_NAME": "Short Mountain Silica Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1712102400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "171sw Trib-red Horse Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:377005",
+        "LATITUDE": 36.36,
+        "LONGITUDE": -83.18555599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.18249999999995,
+          36.36222200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "377009",
+        "PERMITTEE_NAME": "Short Mountian Silica",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1781654400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1841961600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "171sw Trib-red House Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:377009",
+        "LATITUDE": 36.362221999999996,
+        "LONGITUDE": -83.1825,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22219999999999,
+          36.401400000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.166",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1498176000000,
+        "EFFECTIVE_DATE": 1498176000000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "LM 4.96 at Tributary to Poor Valley Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.166",
+        "LATITUDE": 36.4014,
+        "LONGITUDE": -83.2222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69546799999995,
+          36.590793000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.179",
+        "PERMITTEE_NAME": "Appalachian Power Company dba America Electric power",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1505088000000,
+        "EFFECTIVE_DATE": 1505088000000,
+        "EXPIRATION_DATE": 1662768000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "5308 Stanley Valley Road, Church Hill, Hawkins County ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.179",
+        "LATITUDE": 36.590793,
+        "LONGITUDE": -82.69546799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74009999999998,
+          36.52084000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161837",
+        "PERMITTEE_NAME": "Mike Draine",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "northwest corner of Lee Hwy and W. Main Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161837",
+        "LATITUDE": 36.52084,
+        "LONGITUDE": -82.7401,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69539699999996,
+          36.49622500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.187",
+        "PERMITTEE_NAME": "Susan McCracken",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1547164800000,
+        "EFFECTIVE_DATE": 1547164800000,
+        "EXPIRATION_DATE": 1704844800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "147 Laurel Run Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.187",
+        "LATITUDE": 36.496224999999995,
+        "LONGITUDE": -82.695397,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02099999999996,
+          36.50240000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.033",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-70 (LM 15.5) Emergency",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.033",
+        "LATITUDE": 36.5024,
+        "LONGITUDE": -83.021,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01099999999997,
+          36.40050000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.052",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1585094400000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Bridge Over Crockett Creek, LM 0.27",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.052",
+        "LATITUDE": 36.4005,
+        "LONGITUDE": -83.01100000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15519999999998,
+          36.44980000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.287",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1606089600000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-347, LM 18.31",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.287",
+        "LATITUDE": 36.4498,
+        "LONGITUDE": -83.15520000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73969999999997,
+          36.522200000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162075",
+        "PERMITTEE_NAME": "American Environmental, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "W Main Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162075",
+        "LATITUDE": 36.522200000000005,
+        "LONGITUDE": -82.7397,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74223299999994,
+          36.51469000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.228",
+        "PERMITTEE_NAME": "David Mullins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1625529600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "605 Seven Oaks",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.228",
+        "LATITUDE": 36.51469,
+        "LONGITUDE": -82.742233,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73239999999998,
+          36.42370000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.278",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1606089600000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-347, LM 18.31",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.278",
+        "LATITUDE": 36.423700000000004,
+        "LONGITUDE": -82.7324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69679999999994,
+          36.441700000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.279",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1606089600000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-347, LM 20.70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.279",
+        "LATITUDE": 36.441700000000004,
+        "LONGITUDE": -82.69680000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77099999999996,
+          36.40650000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.280",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1606089600000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-347, LM 15.70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.280",
+        "LATITUDE": 36.4065,
+        "LONGITUDE": -82.771,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81349999999998,
+          36.38910000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.291",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1608163200000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-347, Culvert Replacement at LM 12.80",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.291",
+        "LATITUDE": 36.3891,
+        "LONGITUDE": -82.8135,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.88999999999999,
+          36.426667000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.123",
+        "PERMITTEE_NAME": "Jeff Jones",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1631232000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Honeycutt Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.123",
+        "LATITUDE": 36.426666999999995,
+        "LONGITUDE": -82.89,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01099999999997,
+          36.40050000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.052-21",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1615248000000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Bridge Over Crockett Creek, LM 0.27",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.052-21",
+        "LATITUDE": 36.4005,
+        "LONGITUDE": -83.01100000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73749999999995,
+          36.41850000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.286",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1606089600000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-347, LM  17.70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.286",
+        "LATITUDE": 36.4185,
+        "LONGITUDE": -82.7375,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02329999999995,
+          36.537600000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.240",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1603756800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-70, Culvert Replacement near LM 20.96",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.240",
+        "LATITUDE": 36.537600000000005,
+        "LONGITUDE": -83.0233,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06839999999994,
+          36.27660000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162135",
+        "PERMITTEE_NAME": "Town of Bulls Gap",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "North Main Street between Goan Dr. and Meadowview Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162135",
+        "LATITUDE": 36.2766,
+        "LONGITUDE": -83.0684,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11889999999994,
+          36.414100000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.293",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1608163200000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "SR-66, Culvert Replacement at LM 19.61",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.293",
+        "LATITUDE": 36.414100000000005,
+        "LONGITUDE": -83.11890000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22219999999999,
+          36.401400000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.166-21",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1616976000000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "LM 4.96 at Tributary to Poor Valley Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.166-21",
+        "LATITUDE": 36.4014,
+        "LONGITUDE": -83.2222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63307999999995,
+          36.54715600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162121",
+        "PERMITTEE_NAME": "BAE Systems Ordinance Systems, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "4509 West Stone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162121",
+        "LATITUDE": 36.547156,
+        "LONGITUDE": -82.63307999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74789999999996,
+          36.51640000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162116",
+        "PERMITTEE_NAME": "City of Church Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hawkins",
+        "SITE_LOCATION": "Holliston Mills Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162116",
+        "LATITUDE": 36.516400000000004,
+        "LONGITUDE": -82.7479,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

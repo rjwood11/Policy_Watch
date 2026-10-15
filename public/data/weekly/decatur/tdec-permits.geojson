@@ -1,0 +1,1383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18157499999995,
+          35.71305400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.025",
+        "PERMITTEE_NAME": "Chris Hayes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1654041600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "King Creek, tributary to Sulfur Fork Cub Creek NW of Parsons, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.025",
+        "LATITUDE": 35.713054,
+        "LONGITUDE": -88.181575,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12477399999995,
+          35.70659100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.326",
+        "PERMITTEE_NAME": "Bob Long",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1657584000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Russ Long Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.326",
+        "LATITUDE": 35.706590999999996,
+        "LONGITUDE": -88.124774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03261899999995,
+          35.59358600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670797",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1786320000000,
+        "EFFECTIVE_DATE": 1786320000000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Jr Vice Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670797",
+        "LATITUDE": 35.593585999999995,
+        "LONGITUDE": -88.032619,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03261899999995,
+          35.59358600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4141",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1783900800000,
+        "EFFECTIVE_DATE": 1783900800000,
+        "EXPIRATION_DATE": 1783900800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Jr Vice Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4141",
+        "LATITUDE": 35.593585999999995,
+        "LONGITUDE": -88.032619,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18577499999998,
+          35.44759700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.016",
+        "PERMITTEE_NAME": "Carolyn Harriss",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779148800000,
+        "EFFECTIVE_DATE": 1779148800000,
+        "EXPIRATION_DATE": 1810598400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "209 James Harriss Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.016",
+        "LATITUDE": 35.447597,
+        "LONGITUDE": -88.18577499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.14007999999995,
+          35.68382600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.023",
+        "PERMITTEE_NAME": "Janet Laster",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1777507200000,
+        "EFFECTIVE_DATE": 1777507200000,
+        "EXPIRATION_DATE": 1808956800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "2675 Bible Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.023",
+        "LATITUDE": 35.683825999999996,
+        "LONGITUDE": -88.14008,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02739999999994,
+          35.59720000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.130",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1722902400000,
+        "EFFECTIVE_DATE": 1722902400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Decatur",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.130",
+        "LATITUDE": 35.5972,
+        "LONGITUDE": -88.0274,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13883999999996,
+          35.68465000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.263",
+        "PERMITTEE_NAME": "Janet Laster",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1666224000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "2705 Bible Hill Rd, Parson",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.263",
+        "LATITUDE": 35.68465,
+        "LONGITUDE": -88.13884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13219999999995,
+          35.387200000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122648",
+        "PERMITTEE_NAME": "Jeff Wilkes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "TN Hwy 69 - Stewman's Creek and TN River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122648",
+        "LATITUDE": 35.3872,
+        "LONGITUDE": -88.1322,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11685699999998,
+          35.67956300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059821",
+        "PERMITTEE_NAME": "Kolpak, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "2915 Tennessee Avenue North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059821",
+        "LATITUDE": 35.679563,
+        "LONGITUDE": -88.116857,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04859299999998,
+          35.44514400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.076",
+        "PERMITTEE_NAME": "Keith Maddox",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762387200000,
+        "EFFECTIVE_DATE": 1762387200000,
+        "EXPIRATION_DATE": 1793923200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "177 Clearwater Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.076",
+        "LATITUDE": 35.445144,
+        "LONGITUDE": -88.048593,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07764999999995,
+          35.486680000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052038",
+        "PERMITTEE_NAME": "Waste Services of Decatur, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761004800000,
+        "EFFECTIVE_DATE": 1761004800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "324 LANDFILL LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052038",
+        "LATITUDE": 35.48668,
+        "LONGITUDE": -88.07764999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10456599999998,
+          35.44286200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.059",
+        "PERMITTEE_NAME": "Rebecca Webb",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754352000000,
+        "EFFECTIVE_DATE": 1757030400000,
+        "EXPIRATION_DATE": 1789084800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "9778 Three Way Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.059",
+        "LATITUDE": 35.442862,
+        "LONGITUDE": -88.10456599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97992999999997,
+          35.500330000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.067",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1757030400000,
+        "EFFECTIVE_DATE": 1757030400000,
+        "EXPIRATION_DATE": 1788566400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "630 Cypress Pond Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.067",
+        "LATITUDE": 35.50033,
+        "LONGITUDE": -87.97993,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12906399999997,
+          35.63875400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123116",
+        "PERMITTEE_NAME": "City of Parsons",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "W 9th St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123116",
+        "LATITUDE": 35.638754,
+        "LONGITUDE": -88.129064,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21241199999997,
+          35.471599000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.031",
+        "PERMITTEE_NAME": "Kathy Hulley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747612800000,
+        "EXPIRATION_DATE": 1778803200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Past the end of Jim Hays Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.031",
+        "LATITUDE": 35.471599,
+        "LONGITUDE": -88.212412,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08813899999996,
+          35.841759000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123033",
+        "PERMITTEE_NAME": "Delta Contracting Company, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Flatwoods Church Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123033",
+        "LATITUDE": 35.841758999999996,
+        "LONGITUDE": -88.088139,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.14169999999996,
+          35.544200000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122924",
+        "PERMITTEE_NAME": "City of Scotts Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Hwy 641 & Haney School Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122924",
+        "LATITUDE": 35.544200000000004,
+        "LONGITUDE": -88.1417,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23722599999996,
+          35.51198800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051067",
+        "PERMITTEE_NAME": "Gerdau Ameristeel US Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "9780 HIGHWAY 114 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051067",
+        "LATITUDE": 35.511987999999995,
+        "LONGITUDE": -88.23722599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09809999999999,
+          35.73820000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122889",
+        "PERMITTEE_NAME": "North Utility District of Benton and Decatur County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "6448 Highway 641 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122889",
+        "LATITUDE": 35.7382,
+        "LONGITUDE": -88.0981,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07422499999996,
+          35.50144300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.016",
+        "PERMITTEE_NAME": "Philip Senff",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747353600000,
+        "EFFECTIVE_DATE": 1747353600000,
+        "EXPIRATION_DATE": 1778889600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "14736 Mt. Carmel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.016",
+        "LATITUDE": 35.501443,
+        "LONGITUDE": -88.074225,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06519999999995,
+          35.436600000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122922",
+        "PERMITTEE_NAME": "City of Lexington",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Three Way Rd, Eagles Nest Landing, Hwy 69",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122922",
+        "LATITUDE": 35.4366,
+        "LONGITUDE": -88.0652,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02739999999994,
+          35.59720000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.130B",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1722902400000,
+        "EFFECTIVE_DATE": 1722902400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Decatur",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.130B",
+        "LATITUDE": 35.5972,
+        "LONGITUDE": -88.0274,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12379999999996,
+          35.59480000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.029",
+        "PERMITTEE_NAME": "Decatur County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1750204800000,
+        "EFFECTIVE_DATE": 1750204800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "4250 Hwy 641 South, Decaturville, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.029",
+        "LATITUDE": 35.5948,
+        "LONGITUDE": -88.1238,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11802399999993,
+          35.62361100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122821",
+        "PERMITTEE_NAME": "DECATUR COUNTY GOVERNMENT",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Fairgrounds Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122821",
+        "LATITUDE": 35.623611,
+        "LONGITUDE": -88.11802399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24037499999997,
+          35.52888000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050758",
+        "PERMITTEE_NAME": "THREE GAUGE INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759968000000,
+        "EFFECTIVE_DATE": 1759968000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "7945 Hwy 100 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050758",
+        "LATITUDE": 35.52888,
+        "LONGITUDE": -88.240375,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02602499999995,
+          35.56750100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122845",
+        "PERMITTEE_NAME": "Bob Crawley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Mt Carmel Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122845",
+        "LATITUDE": 35.567501,
+        "LONGITUDE": -88.02602499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12789999999995,
+          35.64049000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122897",
+        "PERMITTEE_NAME": "Tennessee Board of Regents",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "256 West 9th Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122897",
+        "LATITUDE": 35.64049,
+        "LONGITUDE": -88.12790000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12379999999996,
+          35.59480000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122696",
+        "PERMITTEE_NAME": "Decatur County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "4250 Hwy 641 South, Decaturville, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122696",
+        "LATITUDE": 35.5948,
+        "LONGITUDE": -88.1238,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16393599999998,
+          35.65090500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.319",
+        "PERMITTEE_NAME": "Jacky Chumney",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1678233600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "1354 Old Lexington Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.319",
+        "LATITUDE": 35.650905,
+        "LONGITUDE": -88.16393599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11905299999995,
+          35.41895500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122702",
+        "PERMITTEE_NAME": "Kevin Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "4209 Hwy 69 South, Bath Springs, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122702",
+        "LATITUDE": 35.418955,
+        "LONGITUDE": -88.119053,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03560899999997,
+          35.62855300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670669",
+        "PERMITTEE_NAME": "Ergon Asphalt and Emulsions, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1781136000000,
+        "EFFECTIVE_DATE": 1781136000000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "5445 Highway 412 East",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670669",
+        "LATITUDE": 35.628553,
+        "LONGITUDE": -88.035609,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15999999999997,
+          35.64400000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122556",
+        "PERMITTEE_NAME": "Decatur County Secure Storage, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "2018 Hwy 412W, Parsons",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122556",
+        "LATITUDE": 35.644,
+        "LONGITUDE": -88.16,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05449999999996,
+          35.71772200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120731",
+        "PERMITTEE_NAME": "Holmes, Jones & Merritt, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Brodies Landing Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120731",
+        "LATITUDE": 35.717721999999995,
+        "LONGITUDE": -88.0545,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12336999999997,
+          35.63255000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120423",
+        "PERMITTEE_NAME": "Richard Townsend",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Hwy 69 at Town's Edge Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120423",
+        "LATITUDE": 35.632549999999995,
+        "LONGITUDE": -88.12337,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05331599999994,
+          35.41749800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120012",
+        "PERMITTEE_NAME": "H. Rick Ray",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Highway 114",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120012",
+        "LATITUDE": 35.417498,
+        "LONGITUDE": -88.053316,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11731799999995,
+          35.683403000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110343",
+        "PERMITTEE_NAME": "Tri-County Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1706054400000,
+        "EFFECTIVE_DATE": 1706745600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "100 Eaton Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110343",
+        "LATITUDE": 35.683403,
+        "LONGITUDE": -88.117318,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08419499999997,
+          35.59846100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120845",
+        "PERMITTEE_NAME": "American Forestry, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Dr Fisher Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120845",
+        "LATITUDE": 35.598461,
+        "LONGITUDE": -88.084195,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11208699999997,
+          35.692401000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058026",
+        "PERMITTEE_NAME": "Delta Contracting Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "3101 Highway 69 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058026",
+        "LATITUDE": 35.692401,
+        "LONGITUDE": -88.112087,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19319999999999,
+          35.544800000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120920",
+        "PERMITTEE_NAME": "Jeff Woody",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "4999 Hwy 100W ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120920",
+        "LATITUDE": 35.5448,
+        "LONGITUDE": -88.1932,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04999999999995,
+          35.451111000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121002",
+        "PERMITTEE_NAME": "Jeff Wilkes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Smith Gravel Pit Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121002",
+        "LATITUDE": 35.451111,
+        "LONGITUDE": -88.05,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13509999999997,
+          35.64616700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121422",
+        "PERMITTEE_NAME": "City of Parsons",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Hwy 69",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121422",
+        "LATITUDE": 35.646167,
+        "LONGITUDE": -88.13510000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12048999999996,
+          35.657444000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058714",
+        "PERMITTEE_NAME": "Volner Sawmill, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763769600000,
+        "EFFECTIVE_DATE": 1763769600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "463 Camden Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058714",
+        "LATITUDE": 35.657444,
+        "LONGITUDE": -88.12048999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12906399999997,
+          35.63875400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121510",
+        "PERMITTEE_NAME": "City of Parsons",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "W 9th St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121510",
+        "LATITUDE": 35.638754,
+        "LONGITUDE": -88.129064,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12549999999999,
+          35.65670000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121643",
+        "PERMITTEE_NAME": "Green Crest Assisted Living Facility",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Herbert Volner Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121643",
+        "LATITUDE": 35.6567,
+        "LONGITUDE": -88.1255,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15856999999994,
+          35.64383000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121896",
+        "PERMITTEE_NAME": "Jeff Odle",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "South side of 412 east, about quarter mile east of Johnson Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121896",
+        "LATITUDE": 35.64383,
+        "LONGITUDE": -88.15857,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11028399999998,
+          35.689869000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110442",
+        "PERMITTEE_NAME": "Southern Concrete Products, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1681776000000,
+        "EFFECTIVE_DATE": 1682899200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "2998 Tennessee Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110442",
+        "LATITUDE": 35.689869,
+        "LONGITUDE": -88.110284,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12299999999999,
+          35.64110000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122215",
+        "PERMITTEE_NAME": "The Ayers Foundation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "643 Tennesse Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122215",
+        "LATITUDE": 35.6411,
+        "LONGITUDE": -88.123,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08554999999996,
+          35.822910000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122413",
+        "PERMITTEE_NAME": "Decatur County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "US Hwy 641 Holladay, TN 38341",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122413",
+        "LATITUDE": 35.82291,
+        "LONGITUDE": -88.08555,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04139999999995,
+          35.61880000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054191",
+        "PERMITTEE_NAME": "TINKER-WATKINS SAND & GRAVEL, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765756800000,
+        "EFFECTIVE_DATE": 1765756800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "1299 PERRYVILLE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054191",
+        "LATITUDE": 35.6188,
+        "LONGITUDE": -88.04140000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10445999999996,
+          35.44256000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.181",
+        "PERMITTEE_NAME": "Rebecca Webb",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1629331200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Turnbo Creek and Gans Branch off Three Way Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.181",
+        "LATITUDE": 35.44256,
+        "LONGITUDE": -88.10446,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17034999999998,
+          35.51466000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.196",
+        "PERMITTEE_NAME": "Gary Montgomery",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1629676800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "UNT to Rushing Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.196",
+        "LATITUDE": 35.51466,
+        "LONGITUDE": -88.17035,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.14820899999995,
+          35.625193000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.064",
+        "PERMITTEE_NAME": "Richard Bartholomew",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1622764800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Decatur",
+        "SITE_LOCATION": "Tomlin Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.064",
+        "LATITUDE": 35.625192999999996,
+        "LONGITUDE": -88.148209,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

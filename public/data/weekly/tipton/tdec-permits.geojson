@@ -1,0 +1,2423 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.82189999999997,
+          35.460600000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155210",
+        "PERMITTEE_NAME": "City of Munford",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Munford-Giltedge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155210",
+        "LATITUDE": 35.4606,
+        "LONGITUDE": -89.8219,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75899999999996,
+          35.43300000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155329.02",
+        "PERMITTEE_NAME": "Trinity Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Atoka, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155329.02",
+        "LATITUDE": 35.433,
+        "LONGITUDE": -89.759,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.94744899999995,
+          35.51413500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051124",
+        "PERMITTEE_NAME": "MID-SOUTH OPCO, LLC DBA Enstructure Drummonds",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1772064000000,
+        "EFFECTIVE_DATE": 1772064000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "719 COON VALLEY ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051124",
+        "LATITUDE": 35.514134999999996,
+        "LONGITUDE": -89.94744899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.57598999999999,
+          35.46957000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155972",
+        "PERMITTEE_NAME": "Helena Agri-Enterprises",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "7600 TN-59",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155972",
+        "LATITUDE": 35.46957,
+        "LONGITUDE": -89.57598999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55734299999995,
+          35.408998000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155949",
+        "PERMITTEE_NAME": "Eddie Noemen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Gainsville Road and Blackberry Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155949",
+        "LATITUDE": 35.408998,
+        "LONGITUDE": -89.557343,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.82940799999994,
+          35.412127000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155997",
+        "PERMITTEE_NAME": "Poplar Grove Utility District",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "14560 HIGHWAY 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155997",
+        "LATITUDE": 35.412127,
+        "LONGITUDE": -89.829408,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.70758999999998,
+          35.49717000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2605.044",
+        "PERMITTEE_NAME": "Zane Hill",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Zane Hill Private Road Bridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2605.044",
+        "LATITUDE": 35.49717,
+        "LONGITUDE": -89.70759,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69813599999998,
+          35.400276000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051592",
+        "PERMITTEE_NAME": "Ron Camp",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1782777600000,
+        "EFFECTIVE_DATE": 1782777600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "2620 DUNLAP ORPHANAGE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051592",
+        "LATITUDE": 35.400276,
+        "LONGITUDE": -89.69813599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64025999999996,
+          35.53310000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155534",
+        "PERMITTEE_NAME": "First Baptist Church, Covington, TN, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "2105 TN SR-59 ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155534",
+        "LATITUDE": 35.533100000000005,
+        "LONGITUDE": -89.64026,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81592199999994,
+          35.419242000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2605.018",
+        "PERMITTEE_NAME": "Aspac, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1776816000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "0 Cobb Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2605.018",
+        "LATITUDE": 35.419242,
+        "LONGITUDE": -89.815922,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.92761399999995,
+          35.49373000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.026",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788825600000,
+        "EFFECTIVE_DATE": 1788825600000,
+        "EXPIRATION_DATE": 1946505600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "209 E St Paul Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.026",
+        "LATITUDE": 35.49373,
+        "LONGITUDE": -89.92761399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75889999999998,
+          35.41190000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR154735",
+        "PERMITTEE_NAME": "Munford Development Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "0 North Chinkapin Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR154735",
+        "LATITUDE": 35.4119,
+        "LONGITUDE": -89.75890000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.76904799999994,
+          35.422649000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155918",
+        "PERMITTEE_NAME": "Walker Meadows, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "0 Rosemark Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155918",
+        "LATITUDE": 35.422649,
+        "LONGITUDE": -89.769048,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81542199999996,
+          35.413171000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.212",
+        "PERMITTEE_NAME": "Town of Atoka",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772409600000,
+        "EFFECTIVE_DATE": 1770076800000,
+        "EXPIRATION_DATE": 1897344000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Maple Dr over Big Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.212",
+        "LATITUDE": 35.413171,
+        "LONGITUDE": -89.815422,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75156199999998,
+          35.47099000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192426",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "SR-3 (US-51)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192426",
+        "LATITUDE": 35.47099,
+        "LONGITUDE": -89.75156199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61884899999995,
+          35.62520800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192438",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Intersection at Rialto / Leighs Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192438",
+        "LATITUDE": 35.625208,
+        "LONGITUDE": -89.618849,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47326399999997,
+          35.434589000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2605.019",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1776384000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Railroad Corridor",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2605.019",
+        "LATITUDE": 35.434588999999995,
+        "LONGITUDE": -89.473264,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71203799999995,
+          35.554539000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051489",
+        "PERMITTEE_NAME": "Van Bringle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770768000000,
+        "EFFECTIVE_DATE": 1770768000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "HIGH 59 AND PISGAH ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051489",
+        "LATITUDE": 35.554539,
+        "LONGITUDE": -89.71203799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75889999999998,
+          35.41190000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR154735.02",
+        "PERMITTEE_NAME": "Richard Wilson Scott II",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "0 North Chinkapin Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR154735.02",
+        "LATITUDE": 35.4119,
+        "LONGITUDE": -89.75890000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66999999999996,
+          35.471944000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155605",
+        "PERMITTEE_NAME": "Calvin Beasley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Sunnyside Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155605",
+        "LATITUDE": 35.471944,
+        "LONGITUDE": -89.67,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.96055599999994,
+          35.41527800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847012",
+        "PERMITTEE_NAME": "Jeremy Ruffin and Kenneth Williamson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1643760000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1709337600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "408nw Trib-bear Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847012",
+        "LATITUDE": 35.415278,
+        "LONGITUDE": -89.960556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.67469999999997,
+          35.44462000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2605.036",
+        "PERMITTEE_NAME": "Tipton County Public Works",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1789430400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Mclennan Road over Kelly Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2605.036",
+        "LATITUDE": 35.44462,
+        "LONGITUDE": -89.6747,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75156199999998,
+          35.47099000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.020",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770336000000,
+        "EFFECTIVE_DATE": 1770076800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "SR-3 (US-51)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.020",
+        "LATITUDE": 35.47099,
+        "LONGITUDE": -89.75156199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78443299999998,
+          35.44816400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155814",
+        "PERMITTEE_NAME": "Buchanan Realty Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "11129 Highway 51 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155814",
+        "LATITUDE": 35.448164,
+        "LONGITUDE": -89.78443299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78589999999997,
+          35.44690000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155823",
+        "PERMITTEE_NAME": "1796 CHICKEN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "US HWY 51",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155823",
+        "LATITUDE": 35.4469,
+        "LONGITUDE": -89.7859,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63077099999998,
+          35.58048100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155795",
+        "PERMITTEE_NAME": "Charms LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "900 HOPE ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155795",
+        "LATITUDE": 35.580481,
+        "LONGITUDE": -89.630771,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71138999999994,
+          35.57029200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051641",
+        "PERMITTEE_NAME": "Van Bringle dba Bucksnort Road Borrow Pit",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1788998400000,
+        "EFFECTIVE_DATE": 1788998400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "793 BUCKSNORT ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051641",
+        "LATITUDE": 35.570291999999995,
+        "LONGITUDE": -89.71139,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.92761399999995,
+          35.49373000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192420",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "209 E St Paul Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192420",
+        "LATITUDE": 35.49373,
+        "LONGITUDE": -89.92761399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.94474799999995,
+          35.50980800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155959",
+        "PERMITTEE_NAME": "United State Corps of Engineers, Memphis District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "10319 Richardson Landing Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155959",
+        "LATITUDE": 35.509808,
+        "LONGITUDE": -89.94474799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78716999999995,
+          35.44613000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155148",
+        "PERMITTEE_NAME": "WEN Tennessee LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "US Hwy 51, Munford, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155148",
+        "LATITUDE": 35.44613,
+        "LONGITUDE": -89.78716999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78196599999995,
+          35.44337500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155954",
+        "PERMITTEE_NAME": "David Kelly",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "374 Atoka-Munford Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155954",
+        "LATITUDE": 35.443374999999996,
+        "LONGITUDE": -89.781966,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62370199999998,
+          35.61374900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053807",
+        "PERMITTEE_NAME": "MAGNUM ICC US, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771545600000,
+        "EFFECTIVE_DATE": 1771545600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "2000 Highway 51 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053807",
+        "LATITUDE": 35.613749,
+        "LONGITUDE": -89.623702,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.49960999999996,
+          35.480270000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050583",
+        "PERMITTEE_NAME": "Scrapyard & Recycling Center, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "170 Hodge Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050583",
+        "LATITUDE": 35.48027,
+        "LONGITUDE": -89.49960999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.83549999999997,
+          35.418300000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155259.02",
+        "PERMITTEE_NAME": "Keith and David Grant Homes LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1125' west of Watson road and cullum road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155259.02",
+        "LATITUDE": 35.4183,
+        "LONGITUDE": -89.83550000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.85444399999994,
+          35.396667000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847001",
+        "PERMITTEE_NAME": "Pristine Lake 2000 HOA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1753833600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1844640000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "408ne Trib-north Fork Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847001",
+        "LATITUDE": 35.396667,
+        "LONGITUDE": -89.854444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.82940799999994,
+          35.412127000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155015",
+        "PERMITTEE_NAME": "Poplar Grove Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "14560 HIGHWAY 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155015",
+        "LATITUDE": 35.412127,
+        "LONGITUDE": -89.829408,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63702199999994,
+          35.57789400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155794",
+        "PERMITTEE_NAME": "Charms LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "235 Industrial Road North\r\n",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155794",
+        "LATITUDE": 35.577894,
+        "LONGITUDE": -89.637022,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63702199999994,
+          35.57789400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.083",
+        "PERMITTEE_NAME": "Charms LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1753056000000,
+        "EFFECTIVE_DATE": 1753056000000,
+        "EXPIRATION_DATE": 1910736000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "235 Industrial Road North\r\n",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.083",
+        "LATITUDE": 35.577894,
+        "LONGITUDE": -89.637022,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.83549999999997,
+          35.418300000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2505.033",
+        "PERMITTEE_NAME": "VGM Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1753056000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1125' west of Watson road and cullum road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2505.033",
+        "LATITUDE": 35.4183,
+        "LONGITUDE": -89.83550000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81592199999994,
+          35.419242000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155753",
+        "PERMITTEE_NAME": "Aspac, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "0 Cobb Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155753",
+        "LATITUDE": 35.419242,
+        "LONGITUDE": -89.815922,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78050199999996,
+          35.445074000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155749",
+        "PERMITTEE_NAME": "Tipton Partners, L.P.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Capital Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155749",
+        "LATITUDE": 35.445074,
+        "LONGITUDE": -89.780502,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54464999999999,
+          35.539750000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2505.037",
+        "PERMITTEE_NAME": "Tipton County Public Works Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Charleston Gift Road over Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2505.037",
+        "LATITUDE": 35.53975,
+        "LONGITUDE": -89.54464999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52608999999995,
+          35.526170000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2505.038",
+        "PERMITTEE_NAME": "Tipton County Public Works Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Charleston Gift Road over Cane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2505.038",
+        "LATITUDE": 35.52617,
+        "LONGITUDE": -89.52609,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.83549999999997,
+          35.418300000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155259.01",
+        "PERMITTEE_NAME": "Kim Grant Homes LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1125' west of Watson road and cullum road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155259.01",
+        "LATITUDE": 35.4183,
+        "LONGITUDE": -89.83550000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78449899999998,
+          35.44842700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155741",
+        "PERMITTEE_NAME": "BLC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "US 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155741",
+        "LATITUDE": 35.448426999999995,
+        "LONGITUDE": -89.784499,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81542199999996,
+          35.413171000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.201",
+        "PERMITTEE_NAME": "Town of Atoka",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772409600000,
+        "EFFECTIVE_DATE": 1770076800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Maple Dr over Big Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.201",
+        "LATITUDE": 35.413171,
+        "LONGITUDE": -89.815422,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64539999999994,
+          35.57180000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155543",
+        "PERMITTEE_NAME": "Nufish, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "SE of US Hwy 51",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155543",
+        "LATITUDE": 35.5718,
+        "LONGITUDE": -89.64540000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.77346099999994,
+          35.45744200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155732",
+        "PERMITTEE_NAME": "GBT Realty Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "US Hwy 51",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155732",
+        "LATITUDE": 35.457442,
+        "LONGITUDE": -89.773461,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66549999999995,
+          35.556700000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155386",
+        "PERMITTEE_NAME": "Blue Oval Land Development II, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "off Bert Johnston Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155386",
+        "LATITUDE": 35.5567,
+        "LONGITUDE": -89.66550000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.67051999999995,
+          35.538275000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052076",
+        "PERMITTEE_NAME": "Baskin Truck Parts, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1844 Highway 51 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052076",
+        "LATITUDE": 35.538275,
+        "LONGITUDE": -89.67052,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78050199999996,
+          35.445074000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155733",
+        "PERMITTEE_NAME": "Atoka Partners, L.P.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Capital Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155733",
+        "LATITUDE": 35.445074,
+        "LONGITUDE": -89.780502,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.74348699999996,
+          35.47692100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155718",
+        "PERMITTEE_NAME": "Tipton County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1631 Old Highway 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155718",
+        "LATITUDE": 35.476921,
+        "LONGITUDE": -89.743487,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.77023999999994,
+          35.43464000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155683",
+        "PERMITTEE_NAME": "Mohamed Hamoud",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1419 Atoka Idaville Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155683",
+        "LATITUDE": 35.43464,
+        "LONGITUDE": -89.77024,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65999999999997,
+          35.54460000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155756",
+        "PERMITTEE_NAME": "State of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1600 US Highway 51 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155756",
+        "LATITUDE": 35.5446,
+        "LONGITUDE": -89.66,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62394599999999,
+          35.46707500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155642",
+        "PERMITTEE_NAME": "Poplar Grove Utility District of Tipton County, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Highway 14",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155642",
+        "LATITUDE": 35.467075,
+        "LONGITUDE": -89.62394599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81330199999996,
+          35.456472000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155687",
+        "PERMITTEE_NAME": "City of Munford",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Munford Lagoon",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155687",
+        "LATITUDE": 35.456472,
+        "LONGITUDE": -89.813302,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75899999999996,
+          35.43300000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155329.01",
+        "PERMITTEE_NAME": "D&D Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Atoka, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155329.01",
+        "LATITUDE": 35.433,
+        "LONGITUDE": -89.759,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75899999999996,
+          35.43300000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155329.03",
+        "PERMITTEE_NAME": "Elite Home Builders, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Atoka, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155329.03",
+        "LATITUDE": 35.433,
+        "LONGITUDE": -89.759,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.60580499999998,
+          35.626546000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.034",
+        "PERMITTEE_NAME": "Illinois Central Railway Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1729814400000,
+        "EFFECTIVE_DATE": 1729814400000,
+        "EXPIRATION_DATE": 1887580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Rialto Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.034",
+        "LATITUDE": 35.626546,
+        "LONGITUDE": -89.60580499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47326399999997,
+          35.434589000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155609",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Railroad Corridor",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155609",
+        "LATITUDE": 35.434588999999995,
+        "LONGITUDE": -89.473264,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.82940799999994,
+          35.412127000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155721",
+        "PERMITTEE_NAME": "Poplar Grove Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "14560 HIGHWAY 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155721",
+        "LATITUDE": 35.412127,
+        "LONGITUDE": -89.829408,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39454099999995,
+          35.32419600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155725",
+        "PERMITTEE_NAME": "City of Covington",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1603 HIGHWAY 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155725",
+        "LATITUDE": 35.324196,
+        "LONGITUDE": -89.39454099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64997899999997,
+          35.53646700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155772",
+        "PERMITTEE_NAME": "Midway Grocery Inc. DBA Midway II",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "5000 MUELLER BRASS RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155772",
+        "LATITUDE": 35.536467,
+        "LONGITUDE": -89.649979,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48510899999997,
+          35.56831100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.217",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "N OF HWY 54",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.217",
+        "LATITUDE": 35.568311,
+        "LONGITUDE": -89.485109,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.89201499999996,
+          35.42561400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155599.01",
+        "PERMITTEE_NAME": "D&D Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "0 Armstrong Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155599.01",
+        "LATITUDE": 35.425613999999996,
+        "LONGITUDE": -89.892015,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.84024299999999,
+          35.425779000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155276.01",
+        "PERMITTEE_NAME": "Elite Home Builders, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "200' from McCormick Road and Stewart Road. Immediately north of Stewart Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155276.01",
+        "LATITUDE": 35.425779,
+        "LONGITUDE": -89.840243,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81919999999997,
+          35.451100000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155531",
+        "PERMITTEE_NAME": "Munford Development Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "0 West Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155531",
+        "LATITUDE": 35.451100000000004,
+        "LONGITUDE": -89.81920000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71305599999994,
+          35.41250000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847015",
+        "PERMITTEE_NAME": "Jon Paul Ballard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1712016000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805328000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "415nw Trib-hebron Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847015",
+        "LATITUDE": 35.4125,
+        "LONGITUDE": -89.713056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.84024299999999,
+          35.425779000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155276.02",
+        "PERMITTEE_NAME": "Trinity Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "200' from McCormick Road and Stewart Road. Immediately north of Stewart Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155276.02",
+        "LATITUDE": 35.425779,
+        "LONGITUDE": -89.840243,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.85636899999997,
+          35.42479600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155282",
+        "PERMITTEE_NAME": "McCormick Hills LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "McCormick Road and Campground Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155282",
+        "LATITUDE": 35.424796,
+        "LONGITUDE": -89.856369,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79279999999994,
+          35.444000000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155366",
+        "PERMITTEE_NAME": "Focal Point Investment, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "west side of Tabb Road west of Highway 51 and south of Munford Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155366",
+        "LATITUDE": 35.444,
+        "LONGITUDE": -89.7928,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78819999999996,
+          35.420600000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192176",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Meade Lake Road near Walker Park",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192176",
+        "LATITUDE": 35.4206,
+        "LONGITUDE": -89.7882,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.85269999999997,
+          35.39540000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155383",
+        "PERMITTEE_NAME": "John Wilkins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1500' South along US Hwy 51 from Simmons Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155383",
+        "LATITUDE": 35.3954,
+        "LONGITUDE": -89.8527,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64227399999999,
+          35.580891000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155352",
+        "PERMITTEE_NAME": "Landers North, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "965 Hwy 51 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155352",
+        "LATITUDE": 35.580891,
+        "LONGITUDE": -89.642274,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66113799999994,
+          35.54673100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155261",
+        "PERMITTEE_NAME": "Helen H. Burgess Revocable Living Trust",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Burgess Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155261",
+        "LATITUDE": 35.546731,
+        "LONGITUDE": -89.661138,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79819999999995,
+          35.45130000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR154832.02",
+        "PERMITTEE_NAME": "Richard Wilson Scott II",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "SW corner of McLaughlin Rd and Doctors Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR154832.02",
+        "LATITUDE": 35.4513,
+        "LONGITUDE": -89.79820000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79519999999997,
+          35.45270000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR155092",
+        "PERMITTEE_NAME": "Munford Development Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "0 Doctors Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR155092",
+        "LATITUDE": 35.4527,
+        "LONGITUDE": -89.79520000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79039999999998,
+          35.41810000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.163",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1647907200000,
+        "EFFECTIVE_DATE": 1647907200000,
+        "EXPIRATION_DATE": 1805587200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Unnamed Tributary to Big Branch in Atoka, Stream Mitigation",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.163",
+        "LATITUDE": 35.4181,
+        "LONGITUDE": -89.7904,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65788999999995,
+          35.537240000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050213",
+        "PERMITTEE_NAME": "Mueller Fittings Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763078400000,
+        "EFFECTIVE_DATE": 1763078400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "3400 MUELLER BRASS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050213",
+        "LATITUDE": 35.53724,
+        "LONGITUDE": -89.65789,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63702199999994,
+          35.57789400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050375",
+        "PERMITTEE_NAME": "Charms LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753401600000,
+        "EFFECTIVE_DATE": 1753401600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "235 Industrial Road North\r\n",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050375",
+        "LATITUDE": 35.577894,
+        "LONGITUDE": -89.637022,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.83499299999994,
+          35.409925000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058363",
+        "PERMITTEE_NAME": "Worley Brothers of Atoka LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759449600000,
+        "EFFECTIVE_DATE": 1759449600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "14895 HIGHWAY 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058363",
+        "LATITUDE": 35.409925,
+        "LONGITUDE": -89.834993,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71903899999995,
+          35.57167100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR153721",
+        "PERMITTEE_NAME": "Van Bringle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "1050 Bringle Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR153721",
+        "LATITUDE": 35.571670999999995,
+        "LONGITUDE": -89.719039,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.83999999999997,
+          35.47388900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847003",
+        "PERMITTEE_NAME": "Jerry M. Michie Revocable Living Trust",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1726790400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820534400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "408NE Groggins Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847003",
+        "LATITUDE": 35.473889,
+        "LONGITUDE": -89.84,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.86249999999995,
+          35.40694400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847006",
+        "PERMITTEE_NAME": "Reed Lake #1 Committee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1788393600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1815436800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "408ne Trib-north Fork Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847006",
+        "LATITUDE": 35.406943999999996,
+        "LONGITUDE": -89.86250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.85972199999998,
+          35.408889000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847007",
+        "PERMITTEE_NAME": "Reed Lake #2 Committee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1755043200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1817510400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "408ne Trib-north Fork Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847007",
+        "LATITUDE": 35.408888999999995,
+        "LONGITUDE": -89.85972199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61717899999996,
+          35.61752100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055032",
+        "PERMITTEE_NAME": "Two Rivers Premium Oils, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1787702400000,
+        "EFFECTIVE_DATE": 1787702400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "250 Witherington Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055032",
+        "LATITUDE": 35.617520999999996,
+        "LONGITUDE": -89.617179,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.92055599999998,
+          35.44638900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847017",
+        "PERMITTEE_NAME": "Cole Lumber Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1750032000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1842912000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "408NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847017",
+        "LATITUDE": 35.446388999999996,
+        "LONGITUDE": -89.92055599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.87388899999996,
+          35.480833000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847018",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1730246400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1789862400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "408ne East Fork Hurricane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847018",
+        "LATITUDE": 35.480833,
+        "LONGITUDE": -89.87388899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63886699999995,
+          35.565518000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110412",
+        "PERMITTEE_NAME": "West Tennessee Ready-Mix, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1672704000000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "598 E LIBERTY AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110412",
+        "LATITUDE": 35.565518,
+        "LONGITUDE": -89.63886699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.02629999999994,
+          35.41050000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.082",
+        "PERMITTEE_NAME": "Lower Mississippi River Conservation Committee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1524787200000,
+        "EFFECTIVE_DATE": 1524787200000,
+        "EXPIRATION_DATE": 1682467200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "Mississippi River ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.082",
+        "LATITUDE": 35.4105,
+        "LONGITUDE": -90.0263,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79819999999995,
+          35.45130000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.008",
+        "PERMITTEE_NAME": "Walker Meadows LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1594771200000,
+        "EFFECTIVE_DATE": 1594598400000,
+        "EXPIRATION_DATE": 1752278400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "SW corner of McLaughlin Rd and Doctors Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.008",
+        "LATITUDE": 35.4513,
+        "LONGITUDE": -89.79820000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.93099999999998,
+          35.50630000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.217",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1600387200000,
+        "EFFECTIVE_DATE": 1600387200000,
+        "EXPIRATION_DATE": 1758067200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "near LM 0.95 (slide repair)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.217",
+        "LATITUDE": 35.5063,
+        "LONGITUDE": -89.931,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.85416699999996,
+          35.45583300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "847019",
+        "PERMITTEE_NAME": "Twin Lakes Recreation Club, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1723680000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1816300800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Tipton",
+        "SITE_LOCATION": "408ne Trib-big Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:847019",
+        "LATITUDE": 35.455833,
+        "LONGITUDE": -89.85416699999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

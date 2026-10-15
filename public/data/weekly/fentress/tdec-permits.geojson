@@ -1,0 +1,1383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95527999999996,
+          36.187220000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058097",
+        "PERMITTEE_NAME": "Plateau Pallet, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1075 Deer Lodge Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058097",
+        "LATITUDE": 36.187219999999996,
+        "LONGITUDE": -84.95528,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.97849999999994,
+          36.54990000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.65",
+        "PERMITTEE_NAME": "Ryan reed- Fentress County Highway Department",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "SR-28 Bridge Repair over Wolf River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.65",
+        "LATITUDE": 36.5499,
+        "LONGITUDE": -84.97850000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.09233999999998,
+          36.38427000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.127",
+        "PERMITTEE_NAME": "Ryan Reed- Fentress County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764028800000,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": 1906329600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "N/A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.127",
+        "LATITUDE": 36.38427,
+        "LONGITUDE": -85.09234,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93550999999997,
+          36.41470000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172615",
+        "PERMITTEE_NAME": "Dr. Chris Whaley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "823 Old Highway 127 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172615",
+        "LATITUDE": 36.4147,
+        "LONGITUDE": -84.93551,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.01729999999998,
+          36.17010000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172420",
+        "PERMITTEE_NAME": "Jones Bros. Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Old Wright Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172420",
+        "LATITUDE": 36.170100000000005,
+        "LONGITUDE": -85.0173,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.01729999999998,
+          36.17010000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172373",
+        "PERMITTEE_NAME": "Jones Bros. Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Old Wright Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172373",
+        "LATITUDE": 36.170100000000005,
+        "LONGITUDE": -85.0173,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94019999999995,
+          36.54710000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.88",
+        "PERMITTEE_NAME": "Theresa Williams Prendergast",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "2334 Rotten Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.88",
+        "LATITUDE": 36.5471,
+        "LONGITUDE": -84.9402,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.09233999999998,
+          36.38427000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.126",
+        "PERMITTEE_NAME": "Ryan Reed- Fentress County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764028800000,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "N/A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.126",
+        "LATITUDE": 36.38427,
+        "LONGITUDE": -85.09234,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.09233999999998,
+          36.38427000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.128",
+        "PERMITTEE_NAME": "Ryan Reed- Fentress County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764028800000,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "N/A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.128",
+        "LATITUDE": 36.38427,
+        "LONGITUDE": -85.09234,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.00576899999999,
+          36.23329300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058913",
+        "PERMITTEE_NAME": "Pritchetts LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766448000000,
+        "EFFECTIVE_DATE": 1766448000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1017 FRANKLIN LOOP",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058913",
+        "LATITUDE": 36.233292999999996,
+        "LONGITUDE": -85.005769,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93241999999998,
+          36.406310000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.02",
+        "PERMITTEE_NAME": "Josh Neil- Amazing Grace Baptist Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1775606400000,
+        "EFFECTIVE_DATE": 1775606400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1570 McBroom Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.02",
+        "LATITUDE": 36.40631,
+        "LONGITUDE": -84.93242,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94879999999995,
+          36.53870000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.87",
+        "PERMITTEE_NAME": "Amanda Lang",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "3230 Wolf River Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.87",
+        "LATITUDE": 36.5387,
+        "LONGITUDE": -84.9488,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82934399999994,
+          36.439764000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172785",
+        "PERMITTEE_NAME": "Neil Coyle- Raven Homes -Welp Property Ventures",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "785 Bluebird Ridge Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172785",
+        "LATITUDE": 36.439764,
+        "LONGITUDE": -84.82934399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93833299999994,
+          36.39861100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054268",
+        "PERMITTEE_NAME": "ACME Block and Brick, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763596800000,
+        "EFFECTIVE_DATE": 1763596800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1252 Old Highway 127 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054268",
+        "LATITUDE": 36.398610999999995,
+        "LONGITUDE": -84.938333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79847599999994,
+          36.36288200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.72",
+        "PERMITTEE_NAME": "William Dickson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1724630400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1096 Shirley Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.72",
+        "LATITUDE": 36.362882,
+        "LONGITUDE": -84.798476,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91984899999994,
+          36.43561500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172647",
+        "PERMITTEE_NAME": "Fentress County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1020 Hensley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172647",
+        "LATITUDE": 36.435615,
+        "LONGITUDE": -84.919849,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94377599999996,
+          36.565937000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.22",
+        "PERMITTEE_NAME": "Rachelle Potter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1681084800000,
+        "EFFECTIVE_DATE": 1681084800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "2717 Rotten Fork Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.22",
+        "LATITUDE": 36.565937,
+        "LONGITUDE": -84.943776,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96249999999998,
+          36.48250000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "257004",
+        "PERMITTEE_NAME": "Whispering Winds Lake Association, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1745280000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1807747200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "115nw Big Dry Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:257004",
+        "LATITUDE": 36.4825,
+        "LONGITUDE": -84.9625,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.03599999999994,
+          36.273100000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.139",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1527552000000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "SR-85, Fentress County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.139",
+        "LATITUDE": 36.2731,
+        "LONGITUDE": -85.036,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90181699999994,
+          36.43057300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051051",
+        "PERMITTEE_NAME": "FCR Salvage, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753747200000,
+        "EFFECTIVE_DATE": 1753747200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1128 COMMERCE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051051",
+        "LATITUDE": 36.430572999999995,
+        "LONGITUDE": -84.901817,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93529999999998,
+          36.45420000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051420",
+        "PERMITTEE_NAME": "Beaty Lumber INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768435200000,
+        "EFFECTIVE_DATE": 1768435200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1016 PICKETT PARK HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051420",
+        "LATITUDE": 36.4542,
+        "LONGITUDE": -84.9353,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93619999999999,
+          36.42253000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172644",
+        "PERMITTEE_NAME": "Kristi Hall - Fentress Co. Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "218 School Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172644",
+        "LATITUDE": 36.42253,
+        "LONGITUDE": -84.9362,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.01858599999997,
+          36.18543900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172597",
+        "PERMITTEE_NAME": "Jones Bros",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "South York Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172597",
+        "LATITUDE": 36.185438999999995,
+        "LONGITUDE": -85.018586,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.02109999999999,
+          36.16910000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172444",
+        "PERMITTEE_NAME": "Jones Bros. Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "160 Old Wright Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172444",
+        "LATITUDE": 36.1691,
+        "LONGITUDE": -85.0211,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.22917999999999,
+          36.058530000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.19",
+        "PERMITTEE_NAME": "Dustin Wills",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1714089600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "570 Leistner Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.19",
+        "LATITUDE": 36.05853,
+        "LONGITUDE": -85.22918,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93179799999996,
+          36.38913800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050335",
+        "PERMITTEE_NAME": "Jamestown Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752710400000,
+        "EFFECTIVE_DATE": 1752710400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "299 Spring St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050335",
+        "LATITUDE": 36.389137999999996,
+        "LONGITUDE": -84.931798,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.01729999999998,
+          36.17010000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172406",
+        "PERMITTEE_NAME": "Jones Bros. Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Old Wright Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172406",
+        "LATITUDE": 36.170100000000005,
+        "LONGITUDE": -85.0173,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.02109999999999,
+          36.16910000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.29",
+        "PERMITTEE_NAME": "Jones Bros. Contractors, LLC ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1682380800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "160 Old Wright Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.29",
+        "LATITUDE": 36.1691,
+        "LONGITUDE": -85.0211,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.02555699999994,
+          36.550767000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.39",
+        "PERMITTEE_NAME": "Glenn Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1686787200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "5490 Buck Mt Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.39",
+        "LATITUDE": 36.550767,
+        "LONGITUDE": -85.02555699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94327699999997,
+          36.57548900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.258",
+        "PERMITTEE_NAME": "Brett Patton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1670457600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Near 3002 Rotten Fork Rd ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.258",
+        "LATITUDE": 36.575489,
+        "LONGITUDE": -84.943277,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.05389999999994,
+          36.26830000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059986",
+        "PERMITTEE_NAME": "Billy Joe Wilson dba Highway 85 Limestone",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769126400000,
+        "EFFECTIVE_DATE": 1769126400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "WILDER ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059986",
+        "LATITUDE": 36.2683,
+        "LONGITUDE": -85.0539,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82859099999996,
+          36.50847200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172318",
+        "PERMITTEE_NAME": "Benuel Fisher Smoker- BHK Investment Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Hwy 154 and Montgomery Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172318",
+        "LATITUDE": 36.508472,
+        "LONGITUDE": -84.828591,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86388899999997,
+          36.479167000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-04040",
+        "PERMITTEE_NAME": "Tennessee Wastewater Systems, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1565827200000,
+        "EFFECTIVE_DATE": 1577836800000,
+        "EXPIRATION_DATE": 1735603200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "near City of Allardt",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-04040",
+        "LATITUDE": 36.479167,
+        "LONGITUDE": -84.863889,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92626999999999,
+          36.39647000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110282",
+        "PERMITTEE_NAME": "imi Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1667952000000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "315 Alf Threet Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110282",
+        "LATITUDE": 36.39647,
+        "LONGITUDE": -84.92627,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93361099999998,
+          36.38694400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050582",
+        "PERMITTEE_NAME": "KOCH FOODS LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "1040 Taylor Place Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050582",
+        "LATITUDE": 36.386944,
+        "LONGITUDE": -84.933611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.05908899999997,
+          36.21947800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056690",
+        "PERMITTEE_NAME": "David Norris dba Norris Towing and Autosalvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "999 NORRIS ROAD.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056690",
+        "LATITUDE": 36.219477999999995,
+        "LONGITUDE": -85.059089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98022599999996,
+          36.282886000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056779",
+        "PERMITTEE_NAME": "DBA Lane Auto Parts & Salvage, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "4620 S YORK HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056779",
+        "LATITUDE": 36.282886,
+        "LONGITUDE": -84.980226,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94577299999997,
+          36.420705000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB062634",
+        "PERMITTEE_NAME": "Jamestown STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757376000000,
+        "EFFECTIVE_DATE": 1757376000000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "199 State Garage Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB062634",
+        "LATITUDE": 36.420705,
+        "LONGITUDE": -84.945773,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.01469999999995,
+          36.260500000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171153",
+        "PERMITTEE_NAME": "Allardt Land Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "6.0 miles north of Clarkrange on SR-85",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171153",
+        "LATITUDE": 36.2605,
+        "LONGITUDE": -85.0147,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85986599999995,
+          36.48298200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR170064",
+        "PERMITTEE_NAME": "Allardt Land Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Along the west side of Highway 154",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR170064",
+        "LATITUDE": 36.482982,
+        "LONGITUDE": -84.859866,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.99729999999994,
+          36.196000000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171643",
+        "PERMITTEE_NAME": "Fentress County Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Approx. 1.2 miles northeast of Clarkrange just off SR-62 on Earnest Hall Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171643",
+        "LATITUDE": 36.196000000000005,
+        "LONGITUDE": -84.99730000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84527799999995,
+          36.43277800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "257002",
+        "PERMITTEE_NAME": "City of Jamestown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1792022400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "115ne North White Oak Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:257002",
+        "LATITUDE": 36.432778,
+        "LONGITUDE": -84.845278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89583299999998,
+          36.336667000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "257010",
+        "PERMITTEE_NAME": "David Riggins and Roy Sharpe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1708905600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1799366400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "115sw Mill Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:257010",
+        "LATITUDE": 36.336667,
+        "LONGITUDE": -84.895833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91611099999994,
+          36.36722200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "257012",
+        "PERMITTEE_NAME": "Allardt Land Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1751241600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1844640000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "115sw Trib-crooked Crk",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:257012",
+        "LATITUDE": 36.367222,
+        "LONGITUDE": -84.916111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.01797199999999,
+          36.18277800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171872",
+        "PERMITTEE_NAME": "Randle Ledbetter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "127/SR-28 just south of SR-62",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171872",
+        "LATITUDE": 36.182778,
+        "LONGITUDE": -85.017972,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.09019999999998,
+          36.26640000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.158",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1496707200000,
+        "EFFECTIVE_DATE": 1496707200000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "36.2664, -85.0902",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.158",
+        "LATITUDE": 36.266400000000004,
+        "LONGITUDE": -85.09020000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76289999999995,
+          36.373500000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.161",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1496707200000,
+        "EFFECTIVE_DATE": 1496707200000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "SR-52, L.M. 25.34. 36.3735, -84.7629",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.161",
+        "LATITUDE": 36.3735,
+        "LONGITUDE": -84.7629,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.07572999999996,
+          36.261330000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.217",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1537142400000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "SR-85 Rockfall Mitigation LM 3.8 to 3.94",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.217",
+        "LATITUDE": 36.26133,
+        "LONGITUDE": -85.07573,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.01955399999997,
+          36.18617500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172432",
+        "PERMITTEE_NAME": "Fred Stout",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "South York Hwy (127N) @ Deer Lodge Hwy (62E)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172432",
+        "LATITUDE": 36.186175,
+        "LONGITUDE": -85.019554,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.06179999999995,
+          36.26500000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.042",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1602720000000,
+        "EFFECTIVE_DATE": 1602720000000,
+        "EXPIRATION_DATE": 1760400000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "LM 4.5 (February 2019 Flood)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.042",
+        "LATITUDE": 36.265,
+        "LONGITUDE": -85.0618,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94716699999998,
+          36.35236800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.044",
+        "PERMITTEE_NAME": "City of Jamestown Municipal Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1588896000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1746576000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Highway 127 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.044",
+        "LATITUDE": 36.352368,
+        "LONGITUDE": -84.947167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86744999999996,
+          36.344512000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059809",
+        "PERMITTEE_NAME": "Edgar F. Parker, Jr. dba Parker Charcoal",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "2560 Northup Falls Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059809",
+        "LATITUDE": 36.344512,
+        "LONGITUDE": -84.86744999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87825599999996,
+          36.47463200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172306",
+        "PERMITTEE_NAME": "Edgar F. Parker, III dba Smoky Mountain Charcoal",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Fentress",
+        "SITE_LOCATION": "Crockett Cemetery",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172306",
+        "LATITUDE": 36.474632,
+        "LONGITUDE": -84.878256,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

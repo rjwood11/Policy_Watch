@@ -1,0 +1,3047 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54691299999996,
+          35.19404700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-23017",
+        "PERMITTEE_NAME": "Bolt Farm Treehouse, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "600 English Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-23017",
+        "LATITUDE": 35.194047,
+        "LONGITUDE": -85.54691299999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60919999999999,
+          35.084700000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114416",
+        "PERMITTEE_NAME": "One Three Acres, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Hwy 150",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114416",
+        "LATITUDE": 35.084700000000005,
+        "LONGITUDE": -85.6092,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60657199999997,
+          35.08474400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114664",
+        "PERMITTEE_NAME": "New Beginnings Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Highway 28",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114664",
+        "LATITUDE": 35.084744,
+        "LONGITUDE": -85.606572,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80849999999998,
+          35.22530000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.141",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787184000000,
+        "EFFECTIVE_DATE": 1787270400000,
+        "EXPIRATION_DATE": 1944950400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "I-24 Westbound Near MP 136.2",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.141",
+        "LATITUDE": 35.225300000000004,
+        "LONGITUDE": -85.80850000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69276599999995,
+          35.04528800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114708",
+        "PERMITTEE_NAME": "Mahant Kimball, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1791158400000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "426 Battle Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114708",
+        "LATITUDE": 35.045288,
+        "LONGITUDE": -85.69276599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46102299999995,
+          35.01907300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.181",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "SR-2 at LM 30.68",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.181",
+        "LATITUDE": 35.019073,
+        "LONGITUDE": -85.461023,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63492999999994,
+          35.004653000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114706",
+        "PERMITTEE_NAME": "Sequachee Valley Electric Cooperative",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Port Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114706",
+        "LATITUDE": 35.004653,
+        "LONGITUDE": -85.63493,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65417399999995,
+          35.04686600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114630",
+        "PERMITTEE_NAME": "Tipton Crane, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "2426 Industrial Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114630",
+        "LATITUDE": 35.046866,
+        "LONGITUDE": -85.654174,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64424299999996,
+          35.04928700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114717",
+        "PERMITTEE_NAME": "Dillard Construction",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1950 Industrial Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114717",
+        "LATITUDE": 35.049287,
+        "LONGITUDE": -85.644243,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72788599999996,
+          35.06784700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.031",
+        "PERMITTEE_NAME": "South Pittsburg Board of Waterworks & Sewers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1782864000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "3040 Battle Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.031",
+        "LATITUDE": 35.067847,
+        "LONGITUDE": -85.727886,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52729799999997,
+          35.08256800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.028",
+        "PERMITTEE_NAME": "Buzzi Unicem USA, Signal Mountain Plant",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772409600000,
+        "EFFECTIVE_DATE": 1772409600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1260 Bennett Lake Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.028",
+        "LATITUDE": 35.082567999999995,
+        "LONGITUDE": -85.527298,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65417399999995,
+          35.04686600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.054",
+        "PERMITTEE_NAME": "Tipton Crane, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1782864000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "2426 Industrial Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.054",
+        "LATITUDE": 35.046866,
+        "LONGITUDE": -85.654174,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52949999999998,
+          35.019900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.018",
+        "PERMITTEE_NAME": "Thunder Enterprises Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1783987200000,
+        "EFFECTIVE_DATE": 1784246400000,
+        "EXPIRATION_DATE": 1941926400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "195 Whiteside Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.018",
+        "LATITUDE": 35.0199,
+        "LONGITUDE": -85.5295,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70555599999994,
+          35.00750000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051676",
+        "PERMITTEE_NAME": "Lodge Manufacturing Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "600 Railroad Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051676",
+        "LATITUDE": 35.0075,
+        "LONGITUDE": -85.705556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72124999999994,
+          35.050546000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114594",
+        "PERMITTEE_NAME": "RPE Sweetens Cove JV LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "2040 SWEETENS COVE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114594",
+        "LATITUDE": 35.050546,
+        "LONGITUDE": -85.72125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59199999999998,
+          35.11790000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056786",
+        "PERMITTEE_NAME": "Seymour Manufacturing Co., Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "219 Handle Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056786",
+        "LATITUDE": 35.1179,
+        "LONGITUDE": -85.592,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59739999999994,
+          35.05890000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.095",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1725580800000,
+        "EFFECTIVE_DATE": 1725580800000,
+        "EXPIRATION_DATE": 1883260800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "SR-2 Southeast of Jasper",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.095",
+        "LATITUDE": 35.0589,
+        "LONGITUDE": -85.59740000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64174999999994,
+          35.04807000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059951",
+        "PERMITTEE_NAME": "Richard Lamb dba Jasper Pellets LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1643155200000,
+        "EFFECTIVE_DATE": 1643155200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1580 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059951",
+        "LATITUDE": 35.048069999999996,
+        "LONGITUDE": -85.64175,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51959999999997,
+          35.22730000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192294",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "LM 2.8, 3. SR-108 north of Whitwell.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192294",
+        "LATITUDE": 35.2273,
+        "LONGITUDE": -85.51960000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48963799999996,
+          35.026711000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114251",
+        "PERMITTEE_NAME": "Ryan Keel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "4100 Aetna Mountain Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114251",
+        "LATITUDE": 35.026711,
+        "LONGITUDE": -85.489638,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51637399999998,
+          35.22936100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114516",
+        "PERMITTEE_NAME": "Wright Brothers Civil Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "2210 HIGHWAY 108",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114516",
+        "LATITUDE": 35.229361,
+        "LONGITUDE": -85.516374,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83738799999998,
+          35.03337300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114388",
+        "PERMITTEE_NAME": "Marion Gas Systems South Pittsburg Water",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "South Pittsburg Mountain Road (SR-156)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114388",
+        "LATITUDE": 35.033373,
+        "LONGITUDE": -85.83738799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69657199999995,
+          35.017900000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114463",
+        "PERMITTEE_NAME": "Marion Gas Systems South Pittsburg Water",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "180 Jaycee Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114463",
+        "LATITUDE": 35.017900000000004,
+        "LONGITUDE": -85.69657199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66969999999998,
+          35.191500000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114491",
+        "PERMITTEE_NAME": "A. Perry Homes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "8165 Highway 150",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114491",
+        "LATITUDE": 35.191500000000005,
+        "LONGITUDE": -85.6697,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84909999999996,
+          35.238600000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.114",
+        "PERMITTEE_NAME": "Vision Monteagle, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770681600000,
+        "EFFECTIVE_DATE": 1770681600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Parker Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.114",
+        "LATITUDE": 35.2386,
+        "LONGITUDE": -85.8491,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66921899999994,
+          35.20945400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114525",
+        "PERMITTEE_NAME": "Josh Jennings",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "9426 Hwy 150",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114525",
+        "LATITUDE": 35.209454,
+        "LONGITUDE": -85.669219,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64424299999996,
+          35.04928700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114644",
+        "PERMITTEE_NAME": "Dillard Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1950 Industrial Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114644",
+        "LATITUDE": 35.049287,
+        "LONGITUDE": -85.644243,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63439999999997,
+          35.055300000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056724",
+        "PERMITTEE_NAME": "CCS CONTRACTOR EQUIPMENT & SUPPLY, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "150 Hickman Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056724",
+        "LATITUDE": 35.0553,
+        "LONGITUDE": -85.6344,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60694599999994,
+          35.08367400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114573",
+        "PERMITTEE_NAME": "CONEXUS COMPANY LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Intersection of SR-28 and SR-150",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114573",
+        "LATITUDE": 35.083673999999995,
+        "LONGITUDE": -85.606946,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52949999999998,
+          35.019900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114580",
+        "PERMITTEE_NAME": "Thunder Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "195 Whiteside Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114580",
+        "LATITUDE": 35.0199,
+        "LONGITUDE": -85.5295,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62399999999997,
+          35.041000000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050832",
+        "PERMITTEE_NAME": "Marion County Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1784764800000,
+        "EFFECTIVE_DATE": 1784764800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "700 CHASEY SIMPSON ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050832",
+        "LATITUDE": 35.041000000000004,
+        "LONGITUDE": -85.62400000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83996999999994,
+          35.239171000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114661",
+        "PERMITTEE_NAME": "Mike Keen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Church Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114661",
+        "LATITUDE": 35.239171,
+        "LONGITUDE": -85.83997,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69010699999995,
+          35.015532000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.128",
+        "PERMITTEE_NAME": "Marion Gas Systems South Pittsburg Water",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1770076800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Rivers Landing Hwy 156",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.128",
+        "LATITUDE": 35.015532,
+        "LONGITUDE": -85.690107,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61089799999996,
+          35.069060000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051635",
+        "PERMITTEE_NAME": "Daniel Fox",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1787875200000,
+        "EFFECTIVE_DATE": 1787875200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "5430 HIGHWAY 41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051635",
+        "LATITUDE": 35.06906,
+        "LONGITUDE": -85.61089799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58265899999998,
+          35.032966000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114489",
+        "PERMITTEE_NAME": "Speedway LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "520 TVA RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114489",
+        "LATITUDE": 35.032966,
+        "LONGITUDE": -85.58265899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84793799999994,
+          35.24017900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.219",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773100800000,
+        "EFFECTIVE_DATE": 1772496000000,
+        "EXPIRATION_DATE": 1930176000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Mile 1.8 SR-15",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.219",
+        "LATITUDE": 35.240179,
+        "LONGITUDE": -85.847938,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57780299999996,
+          35.10133100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051179",
+        "PERMITTEE_NAME": "Lofty Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751932800000,
+        "EFFECTIVE_DATE": 1751932800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Tn-28 Parcel 097 050.03",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051179",
+        "LATITUDE": 35.101331,
+        "LONGITUDE": -85.577803,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84909999999996,
+          35.238600000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114330",
+        "PERMITTEE_NAME": "Vision Monteagle, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Parker Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114330",
+        "LATITUDE": 35.2386,
+        "LONGITUDE": -85.8491,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63747399999994,
+          35.04811700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050180",
+        "PERMITTEE_NAME": "AZZ Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760486400000,
+        "EFFECTIVE_DATE": 1760486400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1535 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050180",
+        "LATITUDE": 35.048117,
+        "LONGITUDE": -85.637474,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62213399999996,
+          35.06636000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.082",
+        "PERMITTEE_NAME": "United States Gypsum Company, Inc. (USG)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1755043200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "322 Mj Moss Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.082",
+        "LATITUDE": 35.066359999999996,
+        "LONGITUDE": -85.622134,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66969999999998,
+          35.191500000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.087",
+        "PERMITTEE_NAME": "A. Perry Homes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1758758400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "8165 Highway 150",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.087",
+        "LATITUDE": 35.191500000000005,
+        "LONGITUDE": -85.6697,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69657199999995,
+          35.017900000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.073",
+        "PERMITTEE_NAME": "Marion Gas Systems South Pittsburg Water",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1769040000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "180 Jaycee Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.073",
+        "LATITUDE": 35.017900000000004,
+        "LONGITUDE": -85.69657199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63848699999994,
+          35.063563000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114473",
+        "PERMITTEE_NAME": "L-Tac, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Industrial Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114473",
+        "LATITUDE": 35.063562999999995,
+        "LONGITUDE": -85.638487,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84490499999998,
+          35.124119000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114531",
+        "PERMITTEE_NAME": "Richard Thornton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "176 Stage Coach Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114531",
+        "LATITUDE": 35.124119,
+        "LONGITUDE": -85.844905,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66969999999998,
+          35.191500000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.099",
+        "PERMITTEE_NAME": "A. Perry Homes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1758758400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "8165 Highway 150",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.099",
+        "LATITUDE": 35.191500000000005,
+        "LONGITUDE": -85.6697,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51959999999997,
+          35.22730000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.166",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1702512000000,
+        "EFFECTIVE_DATE": 1702512000000,
+        "EXPIRATION_DATE": 1860278400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "LM 2.8, 3. SR-108 north of Whitwell.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.166",
+        "LATITUDE": 35.2273,
+        "LONGITUDE": -85.51960000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56361099999998,
+          35.26916700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "587010",
+        "PERMITTEE_NAME": "Lexington Coal Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "99SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:587010",
+        "LATITUDE": 35.269166999999996,
+        "LONGITUDE": -85.563611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.43076299999996,
+          35.056737000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.321",
+        "PERMITTEE_NAME": "David Grimshaw",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691020800000,
+        "EFFECTIVE_DATE": 1691020800000,
+        "EXPIRATION_DATE": 1848787200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "13440 Mullins Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.321",
+        "LATITUDE": 35.056737,
+        "LONGITUDE": -85.430763,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59519999999998,
+          35.011900000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-24001",
+        "PERMITTEE_NAME": "Southeastern Loan Funding, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "TVA Access Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-24001",
+        "LATITUDE": 35.011900000000004,
+        "LONGITUDE": -85.5952,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61785899999995,
+          35.073162000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114126",
+        "PERMITTEE_NAME": "Stan Wilson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "4862 Main St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114126",
+        "LATITUDE": 35.073161999999996,
+        "LONGITUDE": -85.617859,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67809999999997,
+          35.03720000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114282",
+        "PERMITTEE_NAME": "Marion County, TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "3593 Industrial Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114282",
+        "LATITUDE": 35.0372,
+        "LONGITUDE": -85.6781,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.49390099999994,
+          35.17550300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.185",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1730160000000,
+        "EFFECTIVE_DATE": 1730246400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "SR-27, Culvert Replacement LM 16.52",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.185",
+        "LATITUDE": 35.175503,
+        "LONGITUDE": -85.493901,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52949999999998,
+          35.019900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114329",
+        "PERMITTEE_NAME": "Thunder Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "195 Whiteside Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114329",
+        "LATITUDE": 35.0199,
+        "LONGITUDE": -85.5295,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82979999999998,
+          35.237900000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114304",
+        "PERMITTEE_NAME": "New Doors Development Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Moffat Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114304",
+        "LATITUDE": 35.2379,
+        "LONGITUDE": -85.8298,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59990199999999,
+          35.06010900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110510",
+        "PERMITTEE_NAME": "Aquatic Holdings, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "6200 Hwy 41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110510",
+        "LATITUDE": 35.060109,
+        "LONGITUDE": -85.599902,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83738799999998,
+          35.03337300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.012",
+        "PERMITTEE_NAME": "Marion Gas Systems South Pittsburg Water",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1742256000000,
+        "EXPIRATION_DATE": 1773792000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "South Pittsburg Mountain Road (SR-156)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.012",
+        "LATITUDE": 35.033373,
+        "LONGITUDE": -85.83738799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70387499999998,
+          34.996200000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114345",
+        "PERMITTEE_NAME": "RaceTrac, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "730 East 12th Street\r\n",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114345",
+        "LATITUDE": 34.9962,
+        "LONGITUDE": -85.703875,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68749999999994,
+          35.011100000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114437",
+        "PERMITTEE_NAME": "Fox Developments, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Highway 156",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114437",
+        "LATITUDE": 35.0111,
+        "LONGITUDE": -85.6875,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69108999999997,
+          35.07102000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114257",
+        "PERMITTEE_NAME": "Thunder Air Inc. dba Thunder Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Jasper Highlands Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114257",
+        "LATITUDE": 35.07102,
+        "LONGITUDE": -85.69109,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85578899999996,
+          35.00250900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114133",
+        "PERMITTEE_NAME": "CCI Events",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "2985 Brown Trace Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114133",
+        "LATITUDE": 35.002508999999996,
+        "LONGITUDE": -85.855789,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63332799999995,
+          35.04553200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114135",
+        "PERMITTEE_NAME": "ATLUG Investors Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "0 Eagle Feather Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114135",
+        "LATITUDE": 35.045532,
+        "LONGITUDE": -85.63332799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69149999999996,
+          35.04260000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114184",
+        "PERMITTEE_NAME": "Vision Kamala I, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "259 & 27 Nelson Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114184",
+        "LATITUDE": 35.0426,
+        "LONGITUDE": -85.6915,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69149999999996,
+          35.04260000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.059",
+        "PERMITTEE_NAME": "Vision Kamala 1, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1704844800000,
+        "EFFECTIVE_DATE": 1704844800000,
+        "EXPIRATION_DATE": 1862611200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "259 & 27 Nelson Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.059",
+        "LATITUDE": 35.0426,
+        "LONGITUDE": -85.6915,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.53542099999999,
+          35.08701300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114158",
+        "PERMITTEE_NAME": "Marion County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "155 Mullins Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114158",
+        "LATITUDE": 35.087013,
+        "LONGITUDE": -85.535421,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85749999999996,
+          35.122100000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113983",
+        "PERMITTEE_NAME": "Deak Rushton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "300 Snake Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113983",
+        "LATITUDE": 35.1221,
+        "LONGITUDE": -85.8575,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60909699999996,
+          35.08273600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113924",
+        "PERMITTEE_NAME": "Marion County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "HWY 28",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113924",
+        "LATITUDE": 35.082736,
+        "LONGITUDE": -85.60909699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52949999999998,
+          35.019900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113846",
+        "PERMITTEE_NAME": "Thunder Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "195 Whiteside Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113846",
+        "LATITUDE": 35.0199,
+        "LONGITUDE": -85.5295,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52949999999998,
+          35.019900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113978",
+        "PERMITTEE_NAME": "Thunder Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "195 Whiteside Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113978",
+        "LATITUDE": 35.0199,
+        "LONGITUDE": -85.5295,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69518699999998,
+          34.99200200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.225",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1670198400000,
+        "EXPIRATION_DATE": 1807056000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Tennessee River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.225",
+        "LATITUDE": 34.992002,
+        "LONGITUDE": -85.69518699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61156899999997,
+          35.008579000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.325",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1704931200000,
+        "EFFECTIVE_DATE": 1704672000000,
+        "EXPIRATION_DATE": 1862697600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "TVA Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.325",
+        "LATITUDE": 35.008579,
+        "LONGITUDE": -85.611569,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64359999999994,
+          34.998200000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114004",
+        "PERMITTEE_NAME": "Colonial Chemical, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "255 Colonial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114004",
+        "LATITUDE": 34.998200000000004,
+        "LONGITUDE": -85.6436,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52949999999998,
+          35.019900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.011",
+        "PERMITTEE_NAME": "Thunder Enterprises, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "195 Whiteside Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.011",
+        "LATITUDE": 35.0199,
+        "LONGITUDE": -85.5295,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67982999999998,
+          35.04427000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113883",
+        "PERMITTEE_NAME": "Marathon Realty, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113883",
+        "LATITUDE": 35.04427,
+        "LONGITUDE": -85.67983,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61156899999997,
+          35.008579000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192133",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "TVA Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192133",
+        "LATITUDE": 35.008579,
+        "LONGITUDE": -85.611569,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76829999999995,
+          35.12880000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.010",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1643760000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "SR-2, Log Mile 2.8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.010",
+        "LATITUDE": 35.1288,
+        "LONGITUDE": -85.76830000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.53749999999997,
+          35.034722000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050100",
+        "PERMITTEE_NAME": "Serodino, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764547200000,
+        "EFFECTIVE_DATE": 1764547200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "445 HALES BAR ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050100",
+        "LATITUDE": 35.034721999999995,
+        "LONGITUDE": -85.53750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63403899999997,
+          35.05254300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051416",
+        "PERMITTEE_NAME": "Variform, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770940800000,
+        "EFFECTIVE_DATE": 1770940800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1274 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051416",
+        "LATITUDE": 35.052543,
+        "LONGITUDE": -85.634039,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64424299999996,
+          35.04928700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054089",
+        "PERMITTEE_NAME": "Valmont Industries, Jasper",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1950 Industrial Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054089",
+        "LATITUDE": 35.049287,
+        "LONGITUDE": -85.644243,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64754999999997,
+          35.04789000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051482",
+        "PERMITTEE_NAME": "Mueller Co. LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "2048 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051482",
+        "LATITUDE": 35.047889999999995,
+        "LONGITUDE": -85.64755,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63388899999995,
+          35.055278000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053531",
+        "PERMITTEE_NAME": "Primex Color, Compounding & Additives Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763992857000,
+        "EFFECTIVE_DATE": 1763992857000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "193 Commerce Place",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053531",
+        "LATITUDE": 35.055278,
+        "LONGITUDE": -85.633889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72448699999995,
+          35.063184000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056431",
+        "PERMITTEE_NAME": "Cardin Forest Products, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "2534 Battle Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056431",
+        "LATITUDE": 35.063184,
+        "LONGITUDE": -85.724487,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70109999999994,
+          35.002800000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB024295",
+        "PERMITTEE_NAME": "South Pittsburg STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1769385600000,
+        "EFFECTIVE_DATE": 1769385600000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "725 Willow Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB024295",
+        "LATITUDE": 35.0028,
+        "LONGITUDE": -85.70110000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64402599999994,
+          35.04620200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB054585",
+        "PERMITTEE_NAME": "Jasper STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1665964800000,
+        "EFFECTIVE_DATE": 1665964800000,
+        "EXPIRATION_DATE": 1725062400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1903 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB054585",
+        "LATITUDE": 35.046202,
+        "LONGITUDE": -85.644026,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75359999999995,
+          35.03750000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111345",
+        "PERMITTEE_NAME": "Jay Jenkins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "4380 South Pittsburg Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111345",
+        "LATITUDE": 35.0375,
+        "LONGITUDE": -85.7536,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72916499999997,
+          34.995191000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056823",
+        "PERMITTEE_NAME": "C & D Recycling",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770768000000,
+        "EFFECTIVE_DATE": 1770768000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "745 19TH ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056823",
+        "LATITUDE": 34.995191,
+        "LONGITUDE": -85.729165,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65719399999995,
+          35.13608300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111464",
+        "PERMITTEE_NAME": "Lee Allen, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Intersection of Old Sequatchie Road and SR-150",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111464",
+        "LATITUDE": 35.136083,
+        "LONGITUDE": -85.65719399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74919999999997,
+          35.02060000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111416",
+        "PERMITTEE_NAME": "The Southern Group, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "End of Woodall Point Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111416",
+        "LATITUDE": 35.0206,
+        "LONGITUDE": -85.7492,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66193999999996,
+          35.00639000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111836",
+        "PERMITTEE_NAME": "Fox Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "2466 Highway 156",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111836",
+        "LATITUDE": 35.006389999999996,
+        "LONGITUDE": -85.66194,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61055999999996,
+          35.06611000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111800",
+        "PERMITTEE_NAME": "Danny Fox, Fox Developments",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "US-41, SW of SR-28",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111800",
+        "LATITUDE": 35.06611,
+        "LONGITUDE": -85.61055999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78777999999994,
+          35.03861000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111782",
+        "PERMITTEE_NAME": "Joe Hibbs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Highway 156",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111782",
+        "LATITUDE": 35.03861,
+        "LONGITUDE": -85.78778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64064599999995,
+          35.06562800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111655",
+        "PERMITTEE_NAME": "Tommy Stanfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "the intersection of Main Street (Highway 41) and Woodland Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111655",
+        "LATITUDE": 35.065628,
+        "LONGITUDE": -85.64064599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64182399999999,
+          35.04806600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058246",
+        "PERMITTEE_NAME": "Renewable Fuels, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": 1764720000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1570 INDUSTRIAL BOULEVARD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058246",
+        "LATITUDE": 35.048066,
+        "LONGITUDE": -85.641824,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64182399999999,
+          35.04806600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059147",
+        "PERMITTEE_NAME": "Jasper TN Pellets, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "1570 INDUSTRIAL BOULEVARD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059147",
+        "LATITUDE": 35.048066,
+        "LONGITUDE": -85.641824,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86277799999993,
+          35.190833000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "587003",
+        "PERMITTEE_NAME": "Clifftops P.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1765324800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "94ne Falls Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:587003",
+        "LATITUDE": 35.190833,
+        "LONGITUDE": -85.86277799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84305599999999,
+          35.22388900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "587004",
+        "PERMITTEE_NAME": "Town of Monteagle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1744070400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1807747200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "94ne Laurel Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:587004",
+        "LATITUDE": 35.223889,
+        "LONGITUDE": -85.84305599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63666699999999,
+          35.13472200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "587005",
+        "PERMITTEE_NAME": "Darlene Williamson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1725321600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818374400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "100nw Sawmill Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:587005",
+        "LATITUDE": 35.134722,
+        "LONGITUDE": -85.636667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86111099999994,
+          35.212500000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "587014",
+        "PERMITTEE_NAME": "SRM Materials, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1769040000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1799971200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "94ne Trib-wildcat Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:587014",
+        "LATITUDE": 35.2125,
+        "LONGITUDE": -85.861111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64336699999996,
+          34.997922000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059142",
+        "PERMITTEE_NAME": "COLONIAL CHEMICAL, INC.",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "225 COLONIAL DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059142",
+        "LATITUDE": 34.997921999999996,
+        "LONGITUDE": -85.643367,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59739999999994,
+          35.05890000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.016",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1454025600000,
+        "EFFECTIVE_DATE": 1454025600000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "SR-2 Southeast of Jasper",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.016",
+        "LATITUDE": 35.0589,
+        "LONGITUDE": -85.59740000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69108999999997,
+          35.07102000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-17004",
+        "PERMITTEE_NAME": "Thunder Development, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Jasper Highlands Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-17004",
+        "LATITUDE": 35.07102,
+        "LONGITUDE": -85.69109,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69190299999997,
+          35.03124400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059278",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769644800000,
+        "EFFECTIVE_DATE": 1769644800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "828 HWY 72, EAST SIDE OF HWY 72, 1/2 MILE NORTH",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059278",
+        "LATITUDE": 35.031244,
+        "LONGITUDE": -85.691903,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56055599999996,
+          35.27333300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "587009",
+        "PERMITTEE_NAME": "Lexington Coal Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "99SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:587009",
+        "LATITUDE": 35.273333,
+        "LONGITUDE": -85.56055599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69108999999997,
+          35.07102000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.076",
+        "PERMITTEE_NAME": "Thunder Air Inc. dba Thunder Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1533859200000,
+        "EFFECTIVE_DATE": 1533859200000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Jasper Highlands Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.076",
+        "LATITUDE": 35.07102,
+        "LONGITUDE": -85.69109,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55188699999997,
+          35.158645000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113189",
+        "PERMITTEE_NAME": "Town of Jasper",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Valley View Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113189",
+        "LATITUDE": 35.158645,
+        "LONGITUDE": -85.551887,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58265899999998,
+          35.032966000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059554",
+        "PERMITTEE_NAME": "Speedway LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1629763200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "520 TVA RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059554",
+        "LATITUDE": 35.032966,
+        "LONGITUDE": -85.58265899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64559999999994,
+          35.04870000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113210",
+        "PERMITTEE_NAME": "Solid Waste Disposal, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113210",
+        "LATITUDE": 35.048700000000004,
+        "LONGITUDE": -85.6456,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59519999999998,
+          35.011900000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113342",
+        "PERMITTEE_NAME": "Southeastern Loan Funding, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "TVA Access Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113342",
+        "LATITUDE": 35.011900000000004,
+        "LONGITUDE": -85.5952,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.49029999999999,
+          35.08230000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.085",
+        "PERMITTEE_NAME": "Marion County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1564099200000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Mullins Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.085",
+        "LATITUDE": 35.082300000000004,
+        "LONGITUDE": -85.4903,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.39000899999996,
+          35.127109000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.136a",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1594080000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Emergency Repair at LM 26.9 and 27.9",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.136a",
+        "LATITUDE": 35.127109,
+        "LONGITUDE": -85.39000899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82579999999996,
+          35.235600000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113542",
+        "PERMITTEE_NAME": "RBT Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "801 Dixie Lee Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113542",
+        "LATITUDE": 35.235600000000005,
+        "LONGITUDE": -85.8258,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.39000899999996,
+          35.127109000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.136",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1594080000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Emergency Repair at LM 26.9 and 27.9",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.136",
+        "LATITUDE": 35.127109,
+        "LONGITUDE": -85.39000899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80720299999996,
+          35.01308000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.007",
+        "PERMITTEE_NAME": "Marion County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1619049600000,
+        "EFFECTIVE_DATE": 1619049600000,
+        "EXPIRATION_DATE": 1667174400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "626 Orme Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.007",
+        "LATITUDE": 35.013079999999995,
+        "LONGITUDE": -85.807203,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70204299999995,
+          35.012504000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110191",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1667865600000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "210 Ash Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110191",
+        "LATITUDE": 35.012504,
+        "LONGITUDE": -85.70204299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.39223099999998,
+          35.12219600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.010",
+        "PERMITTEE_NAME": "Marion County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1613952000000,
+        "EFFECTIVE_DATE": 1613952000000,
+        "EXPIRATION_DATE": 1667174400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "21926 River Canyon Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.010",
+        "LATITUDE": 35.122195999999995,
+        "LONGITUDE": -85.392231,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72089999999997,
+          34.99021000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113557",
+        "PERMITTEE_NAME": "Joe A. Hibbs, H.J. Group, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Smith Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113557",
+        "LATITUDE": 34.99021,
+        "LONGITUDE": -85.7209,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63059999999996,
+          35.00720000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113705",
+        "PERMITTEE_NAME": "Nickajack Port Authority, Mr. David Abbott",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "Port Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113705",
+        "LATITUDE": 35.007200000000005,
+        "LONGITUDE": -85.6306,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59519999999998,
+          35.011900000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113566",
+        "PERMITTEE_NAME": "Southeastern Loan Funding, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marion",
+        "SITE_LOCATION": "TVA Access Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113566",
+        "LATITUDE": 35.011900000000004,
+        "LONGITUDE": -85.5952,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

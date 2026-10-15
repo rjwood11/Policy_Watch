@@ -1,0 +1,1721 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44421399999999,
+          36.12618200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.093a",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779840000000,
+        "EFFECTIVE_DATE": 1779840000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "I-26 W through Erwin, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.093a",
+        "LATITUDE": 36.126182,
+        "LONGITUDE": -82.444214,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39319999999998,
+          36.164600000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.098",
+        "PERMITTEE_NAME": "Impact Parks - Robert Mazza",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "615 Fishery Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.098",
+        "LATITUDE": 36.1646,
+        "LONGITUDE": -82.39320000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32419999999996,
+          36.24070000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.170",
+        "PERMITTEE_NAME": "Johnny Lynch",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786320000000,
+        "EFFECTIVE_DATE": 1786320000000,
+        "EXPIRATION_DATE": 1944000000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "121 Covered Bridge Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.170",
+        "LATITUDE": 36.240700000000004,
+        "LONGITUDE": -82.3242,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43234599999994,
+          36.09944200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.113",
+        "PERMITTEE_NAME": "Dwell Enterprises",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "2 Jones Branch Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.113",
+        "LATITUDE": 36.099441999999996,
+        "LONGITUDE": -82.432346,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44421399999999,
+          36.12618200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.093b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779840000000,
+        "EFFECTIVE_DATE": 1779840000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "I-26 W through Erwin, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.093b",
+        "LATITUDE": 36.126182,
+        "LONGITUDE": -82.444214,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44231799999994,
+          36.12669100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162503",
+        "PERMITTEE_NAME": "Town of Erwin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "1001 South Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162503",
+        "LATITUDE": 36.126691,
+        "LONGITUDE": -82.442318,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44858099999999,
+          36.104107000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.024",
+        "PERMITTEE_NAME": "Unicoi County Mayor's Office",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770940800000,
+        "EFFECTIVE_DATE": 1770940800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Unaka Springs Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.024",
+        "LATITUDE": 36.104107,
+        "LONGITUDE": -82.44858099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55684999999994,
+          36.048020000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162484",
+        "PERMITTEE_NAME": "State of Tennessee Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Rocky Fork State Park",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162484",
+        "LATITUDE": 36.04802,
+        "LONGITUDE": -82.55685,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55684999999994,
+          36.048020000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.271",
+        "PERMITTEE_NAME": "State of Tennessee Department of General Sevices",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1790035200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Rocky Fork State Park",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.271",
+        "LATITUDE": 36.04802,
+        "LONGITUDE": -82.55685,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41031499999997,
+          36.13790800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162350",
+        "PERMITTEE_NAME": "Unicoi County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "700 S MOHAWK DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162350",
+        "LATITUDE": 36.137907999999996,
+        "LONGITUDE": -82.410315,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37665699999997,
+          36.18011700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162280",
+        "PERMITTEE_NAME": "David R Shults",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "TBD Dry Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162280",
+        "LATITUDE": 36.180116999999996,
+        "LONGITUDE": -82.376657,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38761899999997,
+          36.17893200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2406.044",
+        "PERMITTEE_NAME": "William Barrett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1715817600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "458 McInturff Springs Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2406.044",
+        "LATITUDE": 36.178931999999996,
+        "LONGITUDE": -82.387619,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28666999999996,
+          36.17775000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.154",
+        "PERMITTEE_NAME": "Benjamin Miller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1658448000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "115 Edith Shelton Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.154",
+        "LATITUDE": 36.177749999999996,
+        "LONGITUDE": -82.28667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48075999999998,
+          36.092981000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.272",
+        "PERMITTEE_NAME": "Dreicor Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1755820800000,
+        "EXPIRATION_DATE": 1787270400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "3219 Temple Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.272",
+        "LATITUDE": 36.092981,
+        "LONGITUDE": -82.48075999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44808299999994,
+          36.10674700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.244",
+        "PERMITTEE_NAME": "Unicoi County Gas Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1749772800000,
+        "EXPIRATION_DATE": 1781222400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "River Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.244",
+        "LATITUDE": 36.106747,
+        "LONGITUDE": -82.448083,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34954999999997,
+          36.19423000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.152",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-107 / 173",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.152",
+        "LATITUDE": 36.19423,
+        "LONGITUDE": -82.34955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44421399999999,
+          36.12618200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.260",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "I-26 W through Erwin, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.260",
+        "LATITUDE": 36.126182,
+        "LONGITUDE": -82.444214,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34954999999997,
+          36.19423000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.150",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-107 / 173",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.150",
+        "LATITUDE": 36.19423,
+        "LONGITUDE": -82.34955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45339999999999,
+          36.11370000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.009",
+        "PERMITTEE_NAME": "Roger Dale Willis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768521600000,
+        "EFFECTIVE_DATE": 1768521600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "430 Tate Ramsey ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.009",
+        "LATITUDE": 36.1137,
+        "LONGITUDE": -82.4534,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39319999999998,
+          36.164600000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162548",
+        "PERMITTEE_NAME": "Robert Mazza",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "615 Fishery Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162548",
+        "LATITUDE": 36.1646,
+        "LONGITUDE": -82.39320000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44641599999994,
+          36.10540000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.014",
+        "PERMITTEE_NAME": "Unicoi County Mayor's Office",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1769644800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "2200 Chestoa Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.014",
+        "LATITUDE": 36.1054,
+        "LONGITUDE": -82.446416,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43982699999998,
+          36.12980100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192448",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Interstate 26",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192448",
+        "LATITUDE": 36.129801,
+        "LONGITUDE": -82.439827,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.49730499999998,
+          36.04277600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.299",
+        "PERMITTEE_NAME": "James Danny Higgins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1764720000000,
+        "EXPIRATION_DATE": 1796169600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "972 Spivey Mountain Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.299",
+        "LATITUDE": 36.042775999999996,
+        "LONGITUDE": -82.497305,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34954999999997,
+          36.19423000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.151",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-107 / 173",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.151",
+        "LATITUDE": 36.19423,
+        "LONGITUDE": -82.34955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044C",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044C",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044H",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044H",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044G",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044G",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34523299999995,
+          36.192589000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.177",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764633600000,
+        "EFFECTIVE_DATE": 1764633600000,
+        "EXPIRATION_DATE": 1922313600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "150 Forest Service Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.177",
+        "LATITUDE": 36.192589,
+        "LONGITUDE": -82.345233,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34954999999997,
+          36.19423000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.153",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-107 / 173",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.153",
+        "LATITUDE": 36.19423,
+        "LONGITUDE": -82.34955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35845299999994,
+          36.19446100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162422",
+        "PERMITTEE_NAME": "Town of Unicoi",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1733184000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "404 MASSACHUSETTS AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162422",
+        "LATITUDE": 36.194461,
+        "LONGITUDE": -82.358453,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42523899999998,
+          36.08886700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.232",
+        "PERMITTEE_NAME": "CSX Transportation Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1733875200000,
+        "EFFECTIVE_DATE": 1733875200000,
+        "EXPIRATION_DATE": 1891555200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "LOW GAP RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.232",
+        "LATITUDE": 36.088867,
+        "LONGITUDE": -82.42523899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044B",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044B",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044F",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044F",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44038499999994,
+          36.15300800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192321",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-81",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192321",
+        "LATITUDE": 36.153008,
+        "LONGITUDE": -82.44038499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.49226399999998,
+          36.01775800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162239",
+        "PERMITTEE_NAME": "Coffee Ridge, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "end of Farnor Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162239",
+        "LATITUDE": 36.017758,
+        "LONGITUDE": -82.49226399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44421399999999,
+          36.12618200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192319",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "I-26 W through Erwin, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192319",
+        "LATITUDE": 36.126182,
+        "LONGITUDE": -82.444214,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.49619999999999,
+          36.042899000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192324",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-36, from near LM 0.00 to near LM 7.50 (Hurricane Helene)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192324",
+        "LATITUDE": 36.042899,
+        "LONGITUDE": -82.4962,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32611099999997,
+          36.25555600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162431",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "320 Bill Garland Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162431",
+        "LATITUDE": 36.255556,
+        "LONGITUDE": -82.326111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44038499999994,
+          36.15300800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.213",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1731974400000,
+        "EFFECTIVE_DATE": 1731974400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-81",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.213",
+        "LATITUDE": 36.153008,
+        "LONGITUDE": -82.44038499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41582399999999,
+          36.156780000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162439",
+        "PERMITTEE_NAME": "Baker's Construction & Excavation Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "1170 N Walnut Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162439",
+        "LATITUDE": 36.15678,
+        "LONGITUDE": -82.415824,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.49651099999994,
+          36.07770400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162322",
+        "PERMITTEE_NAME": "Erwin Utilities Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Lower Higgins Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162322",
+        "LATITUDE": 36.077704,
+        "LONGITUDE": -82.496511,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044D",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044D",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044I",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044I",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.044E",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.044E",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34615099999996,
+          36.193842000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.314",
+        "PERMITTEE_NAME": "USDA Forest Service, Cherokee National Forest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1702598400000,
+        "EFFECTIVE_DATE": 1702598400000,
+        "EXPIRATION_DATE": 1860364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Cherokee National Forest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.314",
+        "LATITUDE": 36.193842,
+        "LONGITUDE": -82.34615099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34954999999997,
+          36.19423000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192216",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-107 / 173",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192216",
+        "LATITUDE": 36.19423,
+        "LONGITUDE": -82.34955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55325999999997,
+          36.023240000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.094",
+        "PERMITTEE_NAME": "Tommy Clouse",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1651795200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "South Indian Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.094",
+        "LATITUDE": 36.02324,
+        "LONGITUDE": -82.55326,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40919999999994,
+          36.130300000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051127",
+        "PERMITTEE_NAME": "TN Tennessee LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "800 TENNESSEE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051127",
+        "LATITUDE": 36.1303,
+        "LONGITUDE": -82.4092,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41966799999994,
+          36.149171000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110164",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1700611200000,
+        "EFFECTIVE_DATE": 1701388800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "135 North Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110164",
+        "LATITUDE": 36.149170999999996,
+        "LONGITUDE": -82.419668,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43220999999994,
+          36.12931400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050873",
+        "PERMITTEE_NAME": "Nuclear Fuel Services, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1776174458000,
+        "EFFECTIVE_DATE": 1776174458000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "1205 Banner Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050873",
+        "LATITUDE": 36.129314,
+        "LONGITUDE": -82.43221,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43575699999997,
+          36.12810900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053756",
+        "PERMITTEE_NAME": "Erwin ResinSolutions, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759276800000,
+        "EFFECTIVE_DATE": 1759276800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "151 TC RUNNION RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053756",
+        "LATITUDE": 36.128108999999995,
+        "LONGITUDE": -82.435757,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41594199999997,
+          36.149470000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054541",
+        "PERMITTEE_NAME": "Duncan Mechanical Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1781740800000,
+        "EFFECTIVE_DATE": 1781740800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "507 JONESBOROUGH HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054541",
+        "LATITUDE": 36.14947,
+        "LONGITUDE": -82.415942,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35944399999994,
+          36.20138900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161183",
+        "PERMITTEE_NAME": "Unicoi Road, LLC, EXIT 32",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "north side of SR-173, east of northbound on-ramp to I-26",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161183",
+        "LATITUDE": 36.201389,
+        "LONGITUDE": -82.359444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36188399999998,
+          36.18845900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058497",
+        "PERMITTEE_NAME": "Specialty Tires of America, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759276800000,
+        "EFFECTIVE_DATE": 1759276800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "1000 DON MATEER DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058497",
+        "LATITUDE": 36.188459,
+        "LONGITUDE": -82.36188399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44166299999995,
+          36.147868000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058903",
+        "PERMITTEE_NAME": "New River Hardwoods, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762992000000,
+        "EFFECTIVE_DATE": 1762992000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "2092 JONESBOROUGH RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058903",
+        "LATITUDE": 36.147867999999995,
+        "LONGITUDE": -82.44166299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44165999999996,
+          36.127440000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS13.230",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1461283200000,
+        "EFFECTIVE_DATE": 1461283200000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Erwin",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS13.230",
+        "LATITUDE": 36.12744,
+        "LONGITUDE": -82.44166,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47216299999997,
+          36.09967500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161674",
+        "PERMITTEE_NAME": "Unicoi County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Near 107 Garland Meadows Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161674",
+        "LATITUDE": 36.099675,
+        "LONGITUDE": -82.472163,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42289999999997,
+          36.14570000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161825",
+        "PERMITTEE_NAME": "Town of Erwin (formerly Summers Taylor Fill Site)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "1,222' north of the County Animal Shelter along N. Industrial Drive, Erwin, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161825",
+        "LATITUDE": 36.145700000000005,
+        "LONGITUDE": -82.4229,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32836599999996,
+          36.23459800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.318",
+        "PERMITTEE_NAME": "City of Johnson City",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "190 Golf Course Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.318",
+        "LATITUDE": 36.234598,
+        "LONGITUDE": -82.328366,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32611099999997,
+          36.25555600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059721",
+        "PERMITTEE_NAME": "Summers Taylor Materials",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "320 Bill Garland Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059721",
+        "LATITUDE": 36.255556,
+        "LONGITUDE": -82.326111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36915999999997,
+          36.19111200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162547",
+        "PERMITTEE_NAME": "Ballad Health",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Rocky Bottom Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162547",
+        "LATITUDE": 36.191112,
+        "LONGITUDE": -82.36916,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42479999999995,
+          36.14300000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059789",
+        "PERMITTEE_NAME": "Morton Salt, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762300800000,
+        "EFFECTIVE_DATE": 1762300800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "229 NOLICHUCKY AVENUE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059789",
+        "LATITUDE": 36.143,
+        "LONGITUDE": -82.4248,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28329999999994,
+          36.17810000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.073",
+        "PERMITTEE_NAME": "Troy Clark",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1618876800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "135 Troy Clark Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.073",
+        "LATITUDE": 36.1781,
+        "LONGITUDE": -82.2833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40535899999998,
+          36.138135000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162118",
+        "PERMITTEE_NAME": "Erwin Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "Shawnee Street, Erwin TN.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162118",
+        "LATITUDE": 36.138135,
+        "LONGITUDE": -82.40535899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50319999999994,
+          36.05910000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.095",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1598486400000,
+        "EFFECTIVE_DATE": 1598486400000,
+        "EXPIRATION_DATE": 1756166400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Unicoi",
+        "SITE_LOCATION": "SR-36 at LMs 5.3, 5.2, and 4.8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.095",
+        "LATITUDE": 36.0591,
+        "LONGITUDE": -82.5032,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

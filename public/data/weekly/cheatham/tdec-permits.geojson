@@ -1,0 +1,3177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09619999999995,
+          36.08440000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.023-25",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747958400000,
+        "EFFECTIVE_DATE": 1747958400000,
+        "EXPIRATION_DATE": 1905638400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "From Near I-840 to Near US-70S and from Near SR-255 to Near US-70 (Exit 239) (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.023-25",
+        "LATITUDE": 36.0844,
+        "LONGITUDE": -87.09620000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.99612699999994,
+          36.209426000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248103",
+        "PERMITTEE_NAME": "Ctl Southern Construction LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "north of the intersection of River Road and Pond Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248103",
+        "LATITUDE": 36.209426,
+        "LONGITUDE": -86.996127,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.19912999999997,
+          36.392539000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249130",
+        "PERMITTEE_NAME": "East Montgomery Utility District of Montgomery and Cheatham County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 12, Old Hwy 12, Mosley Ferry Road, Gossett Road, Leo Baker Road, Hinton Road, Houston Fielder Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249130",
+        "LATITUDE": 36.392539,
+        "LONGITUDE": -87.19913,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09042299999999,
+          36.06803300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249341",
+        "PERMITTEE_NAME": "Golf Club of Tennessee",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1000 GOLF CLUB DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249341",
+        "LATITUDE": 36.068033,
+        "LONGITUDE": -87.090423,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.08873399999999,
+          36.30385200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249274",
+        "PERMITTEE_NAME": "Bethlehem Free Will Baptist Church, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1709 Hwy 12 N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249274",
+        "LATITUDE": 36.303852,
+        "LONGITUDE": -87.088734,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02645499999994,
+          36.39952200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249006",
+        "PERMITTEE_NAME": "Tony Warner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 41a",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249006",
+        "LATITUDE": 36.399522,
+        "LONGITUDE": -87.026455,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02619999999996,
+          36.398100000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249065",
+        "PERMITTEE_NAME": "Robert Warner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Highway 41-A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249065",
+        "LATITUDE": 36.3981,
+        "LONGITUDE": -87.0262,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06839999999994,
+          36.268800000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.189",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1791158400000,
+        "EFFECTIVE_DATE": 1790899200000,
+        "EXPIRATION_DATE": 1948579200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "SR-455, RSAR, From 1500ft south of SR-49 to SR-49",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.189",
+        "LATITUDE": 36.2688,
+        "LONGITUDE": -87.06840000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02719699999994,
+          36.397939000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248640",
+        "PERMITTEE_NAME": "McDonald's USA, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "6394 Highway 41A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248640",
+        "LATITUDE": 36.397939,
+        "LONGITUDE": -87.027197,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.15413099999995,
+          36.10788500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670731",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1721088000000,
+        "EFFECTIVE_DATE": 1721088000000,
+        "EXPIRATION_DATE": 1752624000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1201 Craggie Hope Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670731",
+        "LATITUDE": 36.107884999999996,
+        "LONGITUDE": -87.15413099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.15413099999995,
+          36.10788500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2404.198",
+        "PERMITTEE_NAME": "TN Gas Pipeline Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1726444800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1201 Craggie Hope Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2404.198",
+        "LATITUDE": 36.107884999999996,
+        "LONGITUDE": -87.15413099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03307899999999,
+          36.25214100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247625",
+        "PERMITTEE_NAME": "Yuvan Hospitality Inc",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1203 Old Hydes Ferry Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247625",
+        "LATITUDE": 36.252141,
+        "LONGITUDE": -87.033079,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01800799999995,
+          36.39124300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247639",
+        "PERMITTEE_NAME": "Austin Stratton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Highway 41 A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247639",
+        "LATITUDE": 36.391242999999996,
+        "LONGITUDE": -87.018008,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00544099999996,
+          36.21853100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2404.121",
+        "PERMITTEE_NAME": "Arcosa Marine",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1721865600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1050 Trinity Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2404.121",
+        "LATITUDE": 36.218531,
+        "LONGITUDE": -87.00544099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09694399999995,
+          36.35112000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-95027",
+        "PERMITTEE_NAME": "Pleasant View Utility District",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1627776000000,
+        "EFFECTIVE_DATE": 1627776000000,
+        "EXPIRATION_DATE": 1785456000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "~ 3480 Sweethome Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-95027",
+        "LATITUDE": 36.35112,
+        "LONGITUDE": -87.096944,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00544099999996,
+          36.21853100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051364",
+        "PERMITTEE_NAME": "NABRICO Marine Products, Inc. - Ashland City Barge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1778025600000,
+        "EFFECTIVE_DATE": 1778025600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1050 Trinity Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051364",
+        "LATITUDE": 36.218531,
+        "LONGITUDE": -87.00544099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07750899999996,
+          36.28539000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.109",
+        "PERMITTEE_NAME": "Action TN Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1749427200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1251 Highway 12",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.109",
+        "LATITUDE": 36.28539,
+        "LONGITUDE": -87.07750899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.12483899999995,
+          36.132336000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.145",
+        "PERMITTEE_NAME": "Brian Law",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1750204800000,
+        "EFFECTIVE_DATE": 1750204800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1251 Butterworth Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.145",
+        "LATITUDE": 36.132335999999995,
+        "LONGITUDE": -87.124839,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02774399999998,
+          36.23223500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248497",
+        "PERMITTEE_NAME": "Carter Group LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1037 Thompson Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248497",
+        "LATITUDE": 36.232234999999996,
+        "LONGITUDE": -87.027744,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05932999999999,
+          36.40902100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248408",
+        "PERMITTEE_NAME": "DSLD Homes (Southeast), LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Boat Factory Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248408",
+        "LATITUDE": 36.409020999999996,
+        "LONGITUDE": -87.05933,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05189999999999,
+          36.290500000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248762",
+        "PERMITTEE_NAME": "Alliance Machine and Fabrication, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "268 Frey Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248762",
+        "LATITUDE": 36.2905,
+        "LONGITUDE": -87.0519,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.92729999999995,
+          36.34860000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244703.02",
+        "PERMITTEE_NAME": "ROCKWOOD HOMES, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Cotton Harris Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244703.02",
+        "LATITUDE": 36.348600000000005,
+        "LONGITUDE": -86.9273,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20969999999994,
+          36.40620000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2604.133",
+        "PERMITTEE_NAME": "East Montgomery Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782345600000,
+        "EFFECTIVE_DATE": 1782345600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Old State Hwy 12, Gossett Road, Leo Baker Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2604.133",
+        "LATITUDE": 36.4062,
+        "LONGITUDE": -87.2097,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20969999999994,
+          36.40620000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2604.132",
+        "PERMITTEE_NAME": "East Montgomery Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782345600000,
+        "EFFECTIVE_DATE": 1782345600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Old State Hwy 12, Gossett Road, Leo Baker Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2604.132",
+        "LATITUDE": 36.4062,
+        "LONGITUDE": -87.2097,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.17060999999995,
+          36.162240000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.127",
+        "PERMITTEE_NAME": "Michael Burns",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749168000000,
+        "EFFECTIVE_DATE": 1749168000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1292 Claylick Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.127",
+        "LATITUDE": 36.16224,
+        "LONGITUDE": -87.17061,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.15346699999998,
+          36.28938500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.125",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754956800000,
+        "EFFECTIVE_DATE": 1754956800000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "SR-49 at Log Mile 0.94",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.125",
+        "LATITUDE": 36.289384999999996,
+        "LONGITUDE": -87.15346699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00491999999997,
+          36.22260000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670732",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1777852800000,
+        "EFFECTIVE_DATE": 1777852800000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "2124 Hwy 12 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670732",
+        "LATITUDE": 36.2226,
+        "LONGITUDE": -87.00492,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03088499999996,
+          36.40223100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248336",
+        "PERMITTEE_NAME": "Ashland City Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 41A / SR-112",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248336",
+        "LATITUDE": 36.402231,
+        "LONGITUDE": -87.030885,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04799999999994,
+          36.09000000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248516",
+        "PERMITTEE_NAME": "Town of Pegram, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "5227 Walkup Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248516",
+        "LATITUDE": 36.09,
+        "LONGITUDE": -87.048,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00685899999996,
+          36.22110100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.262",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1764633600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Trinity Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.262",
+        "LATITUDE": 36.221101,
+        "LONGITUDE": -87.00685899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.15413099999995,
+          36.10788500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670768",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1777593600000,
+        "EFFECTIVE_DATE": 1777593600000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1201 Craggie Hope Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670768",
+        "LATITUDE": 36.107884999999996,
+        "LONGITUDE": -87.15413099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00371799999994,
+          36.31240500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.158",
+        "PERMITTEE_NAME": "Scott M. Stiff",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1255 Murff Acres Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.158",
+        "LATITUDE": 36.312405,
+        "LONGITUDE": -87.00371799999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03019199999994,
+          36.342516000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2404.337",
+        "PERMITTEE_NAME": "Eddie Ray Gray",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1738540800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "2807 Old Clarksville Pk.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2404.337",
+        "LATITUDE": 36.342515999999996,
+        "LONGITUDE": -87.030192,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.96601899999996,
+          36.32055400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670687",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1680220800000,
+        "EFFECTIVE_DATE": 1680220800000,
+        "EXPIRATION_DATE": 1777507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Spring Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670687",
+        "LATITUDE": 36.320554,
+        "LONGITUDE": -86.966019,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00207999999998,
+          36.21754000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050613",
+        "PERMITTEE_NAME": "PARKER TOWING CO., INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753660800000,
+        "EFFECTIVE_DATE": 1753660800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1053 Trinity Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050613",
+        "LATITUDE": 36.21754,
+        "LONGITUDE": -87.00207999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02699999999999,
+          36.248200000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.007",
+        "PERMITTEE_NAME": "Ashland Farms G.P. = Scott Tyrone, John Howard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1571702400000,
+        "EFFECTIVE_DATE": 1571702400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 12 S (Sandy Run/Little Marrowbone Rd.)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.007",
+        "LATITUDE": 36.248200000000004,
+        "LONGITUDE": -87.027,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03541499999994,
+          36.402885000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2304.113",
+        "PERMITTEE_NAME": "Pleasant View Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1685664000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 41A and Hicks Edgen Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2304.113",
+        "LATITUDE": 36.402885,
+        "LONGITUDE": -87.035415,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06611399999997,
+          36.27799500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247675",
+        "PERMITTEE_NAME": "Town of Ashland City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "405 N MAIN ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247675",
+        "LATITUDE": 36.277995,
+        "LONGITUDE": -87.066114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.17089999999996,
+          36.219100000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2404.232",
+        "PERMITTEE_NAME": "Cheatham County Hwy Dept",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1435 Turnipseed Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2404.232",
+        "LATITUDE": 36.219100000000005,
+        "LONGITUDE": -87.1709,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06276299999996,
+          36.25791400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR246322",
+        "PERMITTEE_NAME": "Town of Ashland City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "269 Tennessee Waltz Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR246322",
+        "LATITUDE": 36.257914,
+        "LONGITUDE": -87.06276299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02719699999994,
+          36.397939000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247452",
+        "PERMITTEE_NAME": "Pleasant  View Partners AL, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "6394 Highway 41A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247452",
+        "LATITUDE": 36.397939,
+        "LONGITUDE": -87.027197,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07617399999998,
+          36.283600000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247558",
+        "PERMITTEE_NAME": "AC Clark",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Chapmansboro Road Trailhead to SR-455",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247558",
+        "LATITUDE": 36.2836,
+        "LONGITUDE": -87.076174,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01886599999995,
+          36.39136200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247801",
+        "PERMITTEE_NAME": "Beristain Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Highway 41 A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247801",
+        "LATITUDE": 36.391362,
+        "LONGITUDE": -87.018866,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06299999999999,
+          36.27540000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247163",
+        "PERMITTEE_NAME": "Kerry McCarver",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Sycamore Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247163",
+        "LATITUDE": 36.275400000000005,
+        "LONGITUDE": -87.063,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04534899999999,
+          36.366108000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248260",
+        "PERMITTEE_NAME": "Randal Pleasant View Partners LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1985 HIGHWAY 49 E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248260",
+        "LATITUDE": 36.366108,
+        "LONGITUDE": -87.045349,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.99612699999994,
+          36.209426000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.210",
+        "PERMITTEE_NAME": "CTL Southern Construction LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1735776000000,
+        "EFFECTIVE_DATE": 1735776000000,
+        "EXPIRATION_DATE": 1893456000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "north of the intersection of River Road and Pond Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.210",
+        "LATITUDE": 36.209426,
+        "LONGITUDE": -86.996127,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.92124999999999,
+          36.33522000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.122",
+        "PERMITTEE_NAME": "A. Layne Gebers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748304000000,
+        "EFFECTIVE_DATE": 1748304000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "5150 Hwy 41A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.122",
+        "LATITUDE": 36.33522,
+        "LONGITUDE": -86.92125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02774399999998,
+          36.23223500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.204",
+        "PERMITTEE_NAME": "Mid Tennessee River Port LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1745452800000,
+        "EFFECTIVE_DATE": 1745452800000,
+        "EXPIRATION_DATE": 1903132800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1037 Thompson Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.204",
+        "LATITUDE": 36.232234999999996,
+        "LONGITUDE": -87.027744,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.93759899999998,
+          36.35109700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247254",
+        "PERMITTEE_NAME": "Eric Collier",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1010 Old Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247254",
+        "LATITUDE": 36.351096999999996,
+        "LONGITUDE": -86.93759899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06526099999996,
+          36.26020600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247456",
+        "PERMITTEE_NAME": "J.T. Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Tennessee Waltz Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247456",
+        "LATITUDE": 36.260206,
+        "LONGITUDE": -87.06526099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09042299999999,
+          36.06803300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR246443",
+        "PERMITTEE_NAME": "The Golf Club of Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1000 GOLF CLUB DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR246443",
+        "LATITUDE": 36.068033,
+        "LONGITUDE": -87.090423,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04521499999998,
+          36.21254300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.308",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1678147200000,
+        "EFFECTIVE_DATE": 1678147200000,
+        "EXPIRATION_DATE": 1835913600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "SR-249 (Sams Creek Road) Bridge over Dry Creek L.M. 11.54 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.308",
+        "LATITUDE": 36.212543,
+        "LONGITUDE": -87.045215,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07108499999998,
+          36.362929000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247202",
+        "PERMITTEE_NAME": "Century Communities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "3423 SWEETHOME RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247202",
+        "LATITUDE": 36.362929,
+        "LONGITUDE": -87.071085,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06371999999999,
+          36.23654600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.172",
+        "PERMITTEE_NAME": "Timothy Dobbins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691020800000,
+        "EFFECTIVE_DATE": 1690416000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "3300 Salmon Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.172",
+        "LATITUDE": 36.236546,
+        "LONGITUDE": -87.06371999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00685899999996,
+          36.22110100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.109",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1726099200000,
+        "EFFECTIVE_DATE": 1726099200000,
+        "EXPIRATION_DATE": 1883779200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Trinity Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.109",
+        "LATITUDE": 36.221101,
+        "LONGITUDE": -87.00685899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06371999999999,
+          36.23654600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.172B",
+        "PERMITTEE_NAME": "Timothy Dobbins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691020800000,
+        "EFFECTIVE_DATE": 1690416000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "3300 Salmon Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.172B",
+        "LATITUDE": 36.236546,
+        "LONGITUDE": -87.06371999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.92729999999995,
+          36.34860000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244703.01",
+        "PERMITTEE_NAME": "Modern Contracting, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Cotton Harris Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244703.01",
+        "LATITUDE": 36.348600000000005,
+        "LONGITUDE": -86.9273,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14939999999996,
+          36.43818300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050738",
+        "PERMITTEE_NAME": "Linda Smith dba Smith's Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766966400000,
+        "EFFECTIVE_DATE": 1766966400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1090 ASHLEY ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050738",
+        "LATITUDE": 36.438182999999995,
+        "LONGITUDE": -87.1494,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.08329999999995,
+          36.28890000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR246605",
+        "PERMITTEE_NAME": "Action TN Construction LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 12 North Map 049 Parcel 45.00",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR246605",
+        "LATITUDE": 36.288900000000005,
+        "LONGITUDE": -87.08330000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02977699999997,
+          36.39911100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR246718",
+        "PERMITTEE_NAME": "Pleasant View Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 41A and Hicks Edgen Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR246718",
+        "LATITUDE": 36.399111,
+        "LONGITUDE": -87.029777,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09879199999995,
+          36.08664700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR246413",
+        "PERMITTEE_NAME": "Tyler Technologies, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "114 E Kingston Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR246413",
+        "LATITUDE": 36.086647,
+        "LONGITUDE": -87.098792,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07028299999996,
+          36.28020900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245360",
+        "PERMITTEE_NAME": "Michael Highers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "700 North Main St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245360",
+        "LATITUDE": 36.280209,
+        "LONGITUDE": -87.07028299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05209999999994,
+          36.23330000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.310",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1639094400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "SR-249, Bank Stabilization at LM 13.1 , UT to Brush Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.310",
+        "LATITUDE": 36.2333,
+        "LONGITUDE": -87.05210000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04399999999998,
+          36.09430000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245422",
+        "PERMITTEE_NAME": "The Marchetti Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "5021 Walkup Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245422",
+        "LATITUDE": 36.094300000000004,
+        "LONGITUDE": -87.04400000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02129999999994,
+          36.23980000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245657",
+        "PERMITTEE_NAME": "Mark Yarbrough",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1807 TN Hwy 12S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245657",
+        "LATITUDE": 36.2398,
+        "LONGITUDE": -87.02130000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02679999999998,
+          36.37500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245211",
+        "PERMITTEE_NAME": "Ole South Properties LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Triangle Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245211",
+        "LATITUDE": 36.375,
+        "LONGITUDE": -87.02680000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09700399999997,
+          36.089454000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245850",
+        "PERMITTEE_NAME": "Town of Kingston Springs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Harpeth View Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245850",
+        "LATITUDE": 36.089453999999996,
+        "LONGITUDE": -87.097004,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03860999999995,
+          36.30086000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-05002",
+        "PERMITTEE_NAME": "Pleasant View Utility District",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1619740800000,
+        "EFFECTIVE_DATE": 1619827200000,
+        "EXPIRATION_DATE": 1777507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "150 Alec Ct",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-05002",
+        "LATITUDE": 36.30086,
+        "LONGITUDE": -87.03860999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01087099999995,
+          36.403448000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110299",
+        "PERMITTEE_NAME": "SMYRNA READY MIX CONCRETE LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1785888000000,
+        "EFFECTIVE_DATE": 1785888000000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "2874 JOE DOWLEN ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110299",
+        "LATITUDE": 36.403448,
+        "LONGITUDE": -87.010871,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06527799999998,
+          36.26722200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053379",
+        "PERMITTEE_NAME": "State Industries",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1772064000000,
+        "EFFECTIVE_DATE": 1772064000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "500 Tennessee Waltz Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053379",
+        "LATITUDE": 36.267222,
+        "LONGITUDE": -87.06527799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00405999999998,
+          36.213231000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0074764",
+        "PERMITTEE_NAME": "Tennessee Wastewater Systems, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": 1285804800000,
+        "EFFECTIVE_DATE": 1288569600000,
+        "EXPIRATION_DATE": 1443571200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "3211 River Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0074764",
+        "LATITUDE": 36.213231,
+        "LONGITUDE": -87.00406,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14662599999997,
+          36.114820000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056002",
+        "PERMITTEE_NAME": "Highway 70 Auto Salvage LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754006400000,
+        "EFFECTIVE_DATE": 1754006400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1912 Highway 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056002",
+        "LATITUDE": 36.11482,
+        "LONGITUDE": -87.146626,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02027999999996,
+          36.230830000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051782",
+        "PERMITTEE_NAME": "LAN SE, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1772668800000,
+        "EFFECTIVE_DATE": 1772668800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1 BLUEGRASS DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051782",
+        "LATITUDE": 36.23083,
+        "LONGITUDE": -87.02028,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00544099999996,
+          36.21853100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670148",
+        "PERMITTEE_NAME": "NABRICO Marine Products, Inc.  -  Ashland City Barge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1778457600000,
+        "EFFECTIVE_DATE": 1778457600000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1050 Trinity Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670148",
+        "LATITUDE": 36.218531,
+        "LONGITUDE": -87.00544099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.92078999999995,
+          36.33049200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056090",
+        "PERMITTEE_NAME": "EcoMetal Solutions",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "5105 US-41 ALT",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056090",
+        "LATITUDE": 36.330492,
+        "LONGITUDE": -86.92079,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02477699999997,
+          36.23088900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053806",
+        "PERMITTEE_NAME": "Strategic Materials, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768953600000,
+        "EFFECTIVE_DATE": 1768953600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1035 THOMPSON ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053806",
+        "LATITUDE": 36.230889,
+        "LONGITUDE": -87.024777,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06669999999997,
+          36.27167900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB020737",
+        "PERMITTEE_NAME": "Ashland City STP",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "199 Rhea Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB020737",
+        "LATITUDE": 36.271679,
+        "LONGITUDE": -87.0667,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09710899999999,
+          36.08287700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059244",
+        "PERMITTEE_NAME": "Graphic Packaging International, LLC dba GPI Converting, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753401600000,
+        "EFFECTIVE_DATE": 1753401600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "167 Luyben Hills Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059244",
+        "LATITUDE": 36.082876999999996,
+        "LONGITUDE": -87.09710899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07429999999994,
+          36.11220000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR240414",
+        "PERMITTEE_NAME": "Bruce Brothers Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR240414",
+        "LATITUDE": 36.1122,
+        "LONGITUDE": -87.07430000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09027799999996,
+          36.07361100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "117008",
+        "PERMITTEE_NAME": "Metropolitan Propertis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1712534400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "305SE Trib-Brush Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:117008",
+        "LATITUDE": 36.073611,
+        "LONGITUDE": -87.090278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06849999999997,
+          36.266800000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.220",
+        "PERMITTEE_NAME": "A.O.Smith Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "500 Tennessee Waltz Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.220",
+        "LATITUDE": 36.2668,
+        "LONGITUDE": -87.0685,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07617399999998,
+          36.283600000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR241468",
+        "PERMITTEE_NAME": "Town of Ashland City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Chapmansboro Road Trailhead to SR-455",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR241468",
+        "LATITUDE": 36.2836,
+        "LONGITUDE": -87.076174,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.12107199999997,
+          36.12061500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR242463",
+        "PERMITTEE_NAME": "Ricky D. Thurman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1011 Butterworth Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR242463",
+        "LATITUDE": 36.120615,
+        "LONGITUDE": -87.121072,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04260999999997,
+          36.212000000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.060",
+        "PERMITTEE_NAME": "Robert Lovell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1525219200000,
+        "EFFECTIVE_DATE": 1525219200000,
+        "EXPIRATION_DATE": 1682899200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1455 Sams Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.060",
+        "LATITUDE": 36.212,
+        "LONGITUDE": -87.04261,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.08079999999995,
+          36.276400000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.232",
+        "PERMITTEE_NAME": "Wendell Patterson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1540425600000,
+        "EXPIRATION_DATE": 1698105600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "171 Shoals Landing",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.232",
+        "LATITUDE": 36.2764,
+        "LONGITUDE": -87.08080000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.92939899999999,
+          36.34979000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243392",
+        "PERMITTEE_NAME": "Jason Walker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1049 New Hope Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243392",
+        "LATITUDE": 36.34979,
+        "LONGITUDE": -86.92939899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06540399999994,
+          36.27825100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR242615",
+        "PERMITTEE_NAME": "Oakwoods On Main, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "N. Main St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR242615",
+        "LATITUDE": 36.278251,
+        "LONGITUDE": -87.065404,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.08429999999998,
+          36.11620000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR242743",
+        "PERMITTEE_NAME": "Cumberland Heights Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1062 Hwy 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR242743",
+        "LATITUDE": 36.1162,
+        "LONGITUDE": -87.0843,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01019999999994,
+          36.22830000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243441",
+        "PERMITTEE_NAME": "Andy Hobbs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 12",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243441",
+        "LATITUDE": 36.228300000000004,
+        "LONGITUDE": -87.0102,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.99609999999996,
+          36.36390000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.136",
+        "PERMITTEE_NAME": "John D. Binkley",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1498 Mount Zion Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.136",
+        "LATITUDE": 36.3639,
+        "LONGITUDE": -86.9961,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01749999999998,
+          36.392400000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243222",
+        "PERMITTEE_NAME": "Fred Nordquist, M.D.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Pinnacle Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243222",
+        "LATITUDE": 36.3924,
+        "LONGITUDE": -87.0175,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00207999999998,
+          36.21754000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.088",
+        "PERMITTEE_NAME": "Parker Towing Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1597104000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1754784000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1053 Trinity Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.088",
+        "LATITUDE": 36.21754,
+        "LONGITUDE": -87.00207999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02399999999994,
+          36.39400000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243431",
+        "PERMITTEE_NAME": "EJM Holdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "6341 Hwy 41A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243431",
+        "LATITUDE": 36.394,
+        "LONGITUDE": -87.024,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03276399999999,
+          36.39976100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243658",
+        "PERMITTEE_NAME": "Ashland City Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "6513 Hwy 41A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243658",
+        "LATITUDE": 36.399761,
+        "LONGITUDE": -87.032764,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01019999999994,
+          36.22830000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243941",
+        "PERMITTEE_NAME": "Andy Hobbs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 12",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243941",
+        "LATITUDE": 36.228300000000004,
+        "LONGITUDE": -87.0102,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09619999999995,
+          36.08440000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.023",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1588032000000,
+        "EFFECTIVE_DATE": 1588032000000,
+        "EXPIRATION_DATE": 1745712000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "From Near I-840 to Near US-70S and from Near SR-255 to Near US-70 (Exit 239) (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.023",
+        "LATITUDE": 36.0844,
+        "LONGITUDE": -87.09620000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09603999999996,
+          36.08074000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244303",
+        "PERMITTEE_NAME": "Andrew Ferrin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "173/177 Luyben Hills Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244303",
+        "LATITUDE": 36.08074,
+        "LONGITUDE": -87.09604,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01422799999995,
+          36.229948000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243895",
+        "PERMITTEE_NAME": "Mustang Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 12 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243895",
+        "LATITUDE": 36.229948,
+        "LONGITUDE": -87.014228,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.93046999999996,
+          36.35028700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243902",
+        "PERMITTEE_NAME": "Jason Walker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Ridge Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243902",
+        "LATITUDE": 36.350287,
+        "LONGITUDE": -86.93047,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02041399999996,
+          36.23575500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244346",
+        "PERMITTEE_NAME": "Jason Walker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1840 Highway 12 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244346",
+        "LATITUDE": 36.235755,
+        "LONGITUDE": -87.020414,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.10078199999998,
+          36.281705000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.147",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1603324800000,
+        "EFFECTIVE_DATE": 1603324800000,
+        "EXPIRATION_DATE": 1761004800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Cheatham Lake WMA",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.147",
+        "LATITUDE": 36.281704999999995,
+        "LONGITUDE": -87.100782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07139999999998,
+          36.11870000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244332",
+        "PERMITTEE_NAME": "Frank Bloom",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "926U Hwy 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244332",
+        "LATITUDE": 36.118700000000004,
+        "LONGITUDE": -87.07140000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04549999999995,
+          36.36582000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244865",
+        "PERMITTEE_NAME": "Pleasant View UD",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Sweet Home Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244865",
+        "LATITUDE": 36.36582,
+        "LONGITUDE": -87.0455,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.08059999999995,
+          36.07720000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.033",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1660521600000,
+        "EFFECTIVE_DATE": 1616976000000,
+        "EXPIRATION_DATE": 1774656000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "S. Harpeth Rd, LM1.27",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.033",
+        "LATITUDE": 36.077200000000005,
+        "LONGITUDE": -87.0806,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01269999999994,
+          36.38880000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245123",
+        "PERMITTEE_NAME": "Venture 24",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "US Hwy 41-A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245123",
+        "LATITUDE": 36.3888,
+        "LONGITUDE": -87.01270000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.08201299999996,
+          36.08231400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.102",
+        "PERMITTEE_NAME": "The Golf Club of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1644537600000,
+        "EFFECTIVE_DATE": 1644537600000,
+        "EXPIRATION_DATE": 1802217600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "1000 Golf Club Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.102",
+        "LATITUDE": 36.082314,
+        "LONGITUDE": -87.08201299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02679999999998,
+          36.37500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245412",
+        "PERMITTEE_NAME": "Ole South Properties LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Triangle Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245412",
+        "LATITUDE": 36.375,
+        "LONGITUDE": -87.02680000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03399999999993,
+          36.252000000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244912",
+        "PERMITTEE_NAME": "Randal Ashland City, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Old Hydes Ferry Pk.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244912",
+        "LATITUDE": 36.252,
+        "LONGITUDE": -87.034,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07108499999998,
+          36.362929000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245222",
+        "PERMITTEE_NAME": "Regal Homes Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "3423 SWEETHOME RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245222",
+        "LATITUDE": 36.362929,
+        "LONGITUDE": -87.071085,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.92729999999995,
+          36.34860000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244703",
+        "PERMITTEE_NAME": "Dalamar Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Cotton Harris Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244703",
+        "LATITUDE": 36.348600000000005,
+        "LONGITUDE": -86.9273,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13269999999994,
+          36.16420000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.067",
+        "PERMITTEE_NAME": "Jim Delanis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1619481600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Jim Delanis Property",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.067",
+        "LATITUDE": 36.1642,
+        "LONGITUDE": -87.1327,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05527999999998,
+          36.26366000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245289",
+        "PERMITTEE_NAME": "BAM, GP = Ashley Dugger, Barry Mayo, Matthew Mayo",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 12",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245289",
+        "LATITUDE": 36.26366,
+        "LONGITUDE": -87.05528,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00999999999999,
+          36.230800000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245059",
+        "PERMITTEE_NAME": "Jarrett Business Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hwy 20 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245059",
+        "LATITUDE": 36.2308,
+        "LONGITUDE": -87.01,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00389999999999,
+          36.22109700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245110",
+        "PERMITTEE_NAME": "Corsair Artisan Distillery",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "2150 TN-12, Ashland City, TN 37015",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245110",
+        "LATITUDE": 36.221097,
+        "LONGITUDE": -87.0039,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.04529899999994,
+          36.260489000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245326",
+        "PERMITTEE_NAME": "Mark Yarbrough",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Map 55, Parcel 36",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245326",
+        "LATITUDE": 36.260489,
+        "LONGITUDE": -87.045299,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.97909999999996,
+          36.366300000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245175",
+        "PERMITTEE_NAME": "Jassan Bumpus",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "US 41A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245175",
+        "LATITUDE": 36.3663,
+        "LONGITUDE": -86.9791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01562999999999,
+          36.38858000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245058",
+        "PERMITTEE_NAME": "P.V.V.I., LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Highway 41A & Hicks Edgen Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245058",
+        "LATITUDE": 36.38858,
+        "LONGITUDE": -87.01563,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00929999999994,
+          36.388600000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249064",
+        "PERMITTEE_NAME": "Robert Warner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Highway 41-A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249064",
+        "LATITUDE": 36.388600000000004,
+        "LONGITUDE": -87.00930000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01739999999995,
+          36.386100000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245026",
+        "PERMITTEE_NAME": "MSI Homes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Hicks Edgen Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245026",
+        "LATITUDE": 36.3861,
+        "LONGITUDE": -87.01740000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09700399999997,
+          36.089454000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245043",
+        "PERMITTEE_NAME": "Town of Kingston Springs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Harpeth View Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245043",
+        "LATITUDE": 36.089453999999996,
+        "LONGITUDE": -87.097004,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07970499999999,
+          36.07430000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.160",
+        "PERMITTEE_NAME": "The Golf Club of DBI, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1644537600000,
+        "EFFECTIVE_DATE": 1644537600000,
+        "EXPIRATION_DATE": 1802217600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "South Harpeth Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.160",
+        "LATITUDE": 36.0743,
+        "LONGITUDE": -87.07970499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.08999999999997,
+          36.085000000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.202",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1626393600000,
+        "EXPIRATION_DATE": 1628640000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cheatham",
+        "SITE_LOCATION": "Interstate 40, Emergency Bank Stabilization, Harpeth River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.202",
+        "LATITUDE": 36.085,
+        "LONGITUDE": -87.09,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

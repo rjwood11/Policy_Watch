@@ -1,0 +1,2735 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75740199999996,
+          35.42981600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182793",
+        "PERMITTEE_NAME": "Berry Global, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "851 GARRETT PKWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182793",
+        "LATITUDE": 35.429815999999995,
+        "LONGITUDE": -86.757402,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75876999999997,
+          35.44750000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182758",
+        "PERMITTEE_NAME": "RMC, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "N of Creekside Drive and S of Finley Beech Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182758",
+        "LATITUDE": 35.447500000000005,
+        "LONGITUDE": -86.75877,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77871999999996,
+          35.45716300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183308",
+        "PERMITTEE_NAME": "First Commerce Bank",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "500 N. Ellington Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183308",
+        "LATITUDE": 35.457163,
+        "LONGITUDE": -86.77871999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.89526599999994,
+          35.44343900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.199",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1790553600000,
+        "EFFECTIVE_DATE": 1790553600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "State Route 373 at Log Mile 2.70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.199",
+        "LATITUDE": 35.443439,
+        "LONGITUDE": -86.89526599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.63748299999997,
+          35.32004100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.183c",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780012800000,
+        "EFFECTIVE_DATE": 1780012800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "SR-130 Bridge over Cane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.183c",
+        "LATITUDE": 35.320040999999996,
+        "LONGITUDE": -86.637483,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.86384999999996,
+          35.38239000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183465",
+        "PERMITTEE_NAME": "Douglas Hooten",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Lynnville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183465",
+        "LATITUDE": 35.38239,
+        "LONGITUDE": -86.86385,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.70151599999997,
+          35.603334000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183469",
+        "PERMITTEE_NAME": "Chris Threet",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Caney Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183469",
+        "LATITUDE": 35.603334,
+        "LONGITUDE": -86.701516,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71353199999999,
+          35.56336300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-26023",
+        "PERMITTEE_NAME": "Edge Wastewater Utilities LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Along Powell Lane, West of Hwy 31A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-26023",
+        "LATITUDE": 35.563362999999995,
+        "LONGITUDE": -86.713532,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71797299999997,
+          35.585275000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.104",
+        "PERMITTEE_NAME": "Henry Horton State Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1790035200000,
+        "EFFECTIVE_DATE": 1789948800000,
+        "EXPIRATION_DATE": 1947628800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "2035 River Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.104",
+        "LATITUDE": 35.585274999999996,
+        "LONGITUDE": -86.717973,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71353199999999,
+          35.56336300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183482",
+        "PERMITTEE_NAME": "Cameron Coble",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Along Powell Lane, West of Hwy 31A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183482",
+        "LATITUDE": 35.563362999999995,
+        "LONGITUDE": -86.713532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.69870999999995,
+          35.60704000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183435",
+        "PERMITTEE_NAME": "Bourne Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "4543 Nashville Highway (US-31A)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183435",
+        "LATITUDE": 35.60704,
+        "LONGITUDE": -86.69870999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68113199999999,
+          35.66262300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183500",
+        "PERMITTEE_NAME": "Chris Threet",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Nashville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183500",
+        "LATITUDE": 35.662622999999996,
+        "LONGITUDE": -86.68113199999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.73230199999995,
+          35.37850300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.004",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768262400000,
+        "EFFECTIVE_DATE": 1768262400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "SR-272 at LM. 4.435",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.004",
+        "LATITUDE": 35.378502999999995,
+        "LONGITUDE": -86.73230199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78476899999998,
+          35.45151200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183393",
+        "PERMITTEE_NAME": "Marshall County Emergency Communications District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "339 East Hill St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183393",
+        "LATITUDE": 35.451512,
+        "LONGITUDE": -86.784769,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75763999999998,
+          35.44160000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182830",
+        "PERMITTEE_NAME": "Rocky Childers Construction",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1380 W. Commerce Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182830",
+        "LATITUDE": 35.4416,
+        "LONGITUDE": -86.75764,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.69876599999998,
+          35.612903000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183460",
+        "PERMITTEE_NAME": "MCDONALD'S USA, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "4651 Nashville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183460",
+        "LATITUDE": 35.612902999999996,
+        "LONGITUDE": -86.69876599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79802299999994,
+          35.36318000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4063",
+        "PERMITTEE_NAME": "Kent Peters",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1915920000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1108 Poor House Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4063",
+        "LATITUDE": 35.36318,
+        "LONGITUDE": -86.798023,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80616499999996,
+          35.48927800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182950.03",
+        "PERMITTEE_NAME": "D.R. Horton, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1703 FRANKLIN PIKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182950.03",
+        "LATITUDE": 35.489278,
+        "LONGITUDE": -86.806165,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68927799999994,
+          35.592187000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183337",
+        "PERMITTEE_NAME": "Tennessee State Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "WARNER RD 3690",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183337",
+        "LATITUDE": 35.592186999999996,
+        "LONGITUDE": -86.689278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68839999999994,
+          35.64620000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183354",
+        "PERMITTEE_NAME": "Justin Russell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Highway 31A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183354",
+        "LATITUDE": 35.6462,
+        "LONGITUDE": -86.6884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78845699999994,
+          35.46990100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183301",
+        "PERMITTEE_NAME": "Connelly Dream Center",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Rock Crusher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183301",
+        "LATITUDE": 35.469901,
+        "LONGITUDE": -86.788457,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80228299999999,
+          35.56639900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183332",
+        "PERMITTEE_NAME": "Marshall County Board of Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Wiles Lane, McClean Road, Owenby Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183332",
+        "LATITUDE": 35.566399,
+        "LONGITUDE": -86.802283,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68927799999994,
+          35.592187000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.164",
+        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761004800000,
+        "EFFECTIVE_DATE": 1760918400000,
+        "EXPIRATION_DATE": 1918598400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "WARNER RD 3690",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.164",
+        "LATITUDE": 35.592186999999996,
+        "LONGITUDE": -86.689278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.70826499999998,
+          35.60535200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059968",
+        "PERMITTEE_NAME": "Jeffrey Pennington",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763424000000,
+        "EFFECTIVE_DATE": 1763424000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "2100 CANEY SPRINGS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059968",
+        "LATITUDE": 35.605351999999996,
+        "LONGITUDE": -86.708265,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74024899999995,
+          35.42356100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183448",
+        "PERMITTEE_NAME": "Flying Hawk Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "891 INDUSTRIAL DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183448",
+        "LATITUDE": 35.423561,
+        "LONGITUDE": -86.74024899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76999999999998,
+          35.43640000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053136",
+        "PERMITTEE_NAME": "Allison Transmission, Inc. dba Walker Die Casting",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1125 Higgs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053136",
+        "LATITUDE": 35.4364,
+        "LONGITUDE": -86.77,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88103999999998,
+          35.44487000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183442",
+        "PERMITTEE_NAME": "Hale Hawkins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Globe Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183442",
+        "LATITUDE": 35.44487,
+        "LONGITUDE": -86.88104,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.84702999999996,
+          35.33133000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058697",
+        "PERMITTEE_NAME": "Harmon Scrap Metal, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1920 NEW OSTELLA RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058697",
+        "LATITUDE": 35.33133,
+        "LONGITUDE": -86.84702999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74742799999996,
+          35.44419800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183328",
+        "PERMITTEE_NAME": "Suncrest Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1404 Robin Hood Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183328",
+        "LATITUDE": 35.444198,
+        "LONGITUDE": -86.747428,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78354399999995,
+          35.480335000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-20013",
+        "PERMITTEE_NAME": "Titan Tree and Firewood",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1555 Old Rock Crusher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-20013",
+        "LATITUDE": 35.480335,
+        "LONGITUDE": -86.78354399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68769999999995,
+          35.624000000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183336",
+        "PERMITTEE_NAME": "Patrick Carey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "108 MORNINGSIDE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183336",
+        "LATITUDE": 35.624,
+        "LONGITUDE": -86.6877,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.70529599999998,
+          35.595098000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182933",
+        "PERMITTEE_NAME": "Town of Chapel Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Sylvester Chunn Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182933",
+        "LATITUDE": 35.595098,
+        "LONGITUDE": -86.70529599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78698999999995,
+          35.585650000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2308.3820",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Milltown",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2308.3820",
+        "LATITUDE": 35.58565,
+        "LONGITUDE": -86.78699,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75647999999995,
+          35.624070000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183003",
+        "PERMITTEE_NAME": "Dream Finders Homes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "4231 Pyles Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183003",
+        "LATITUDE": 35.624069999999996,
+        "LONGITUDE": -86.75648,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.63748299999997,
+          35.32004100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.183",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "SR-130 Bridge over Cane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.183",
+        "LATITUDE": 35.320040999999996,
+        "LONGITUDE": -86.637483,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.73387499999995,
+          35.64526200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183374",
+        "PERMITTEE_NAME": "Wilson Farm Residential, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Thick Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183374",
+        "LATITUDE": 35.645261999999995,
+        "LONGITUDE": -86.733875,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77800699999995,
+          35.445861000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183338",
+        "PERMITTEE_NAME": "EAST COMMERCE BAPTIST CHURCH, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "560 East Commerce Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183338",
+        "LATITUDE": 35.445861,
+        "LONGITUDE": -86.778007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68792199999996,
+          35.65017800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183345",
+        "PERMITTEE_NAME": "Grove Hill Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "5439 Nashville HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183345",
+        "LATITUDE": 35.650178,
+        "LONGITUDE": -86.687922,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.63748299999997,
+          35.32004100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.183b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "SR-130 Bridge over Cane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.183b",
+        "LATITUDE": 35.320040999999996,
+        "LONGITUDE": -86.637483,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88605699999994,
+          35.44779200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183222",
+        "PERMITTEE_NAME": "King Land Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "3001 Mooresville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183222",
+        "LATITUDE": 35.447792,
+        "LONGITUDE": -86.886057,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80616499999996,
+          35.48927800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182950.02",
+        "PERMITTEE_NAME": "D.R. Horton, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1703 FRANKLIN PIKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182950.02",
+        "LATITUDE": 35.489278,
+        "LONGITUDE": -86.806165,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88349999999997,
+          35.31044000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183252",
+        "PERMITTEE_NAME": "Bill Woods, Woods Equipment, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Globe Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183252",
+        "LATITUDE": 35.31044,
+        "LONGITUDE": -86.8835,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.67919999999998,
+          35.64480000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183224",
+        "PERMITTEE_NAME": "Spring Creek Farm Partners, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Stevens Road and Highway 99(4511 Eagleville Pike)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183224",
+        "LATITUDE": 35.644800000000004,
+        "LONGITUDE": -86.67920000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80616499999996,
+          35.48927800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182950",
+        "PERMITTEE_NAME": "Spring Creek Farms Partners LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1703 FRANKLIN PIKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182950",
+        "LATITUDE": 35.489278,
+        "LONGITUDE": -86.806165,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.86848099999997,
+          35.45215600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183016",
+        "PERMITTEE_NAME": "CBC Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1013 Veterans Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183016",
+        "LATITUDE": 35.452155999999995,
+        "LONGITUDE": -86.868481,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80942299999998,
+          35.47783500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182815",
+        "PERMITTEE_NAME": "DR Horton, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1501 New Columbia Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182815",
+        "LATITUDE": 35.477835,
+        "LONGITUDE": -86.809423,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77389999999997,
+          35.58511500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183103",
+        "PERMITTEE_NAME": "Marshall County Board of Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Verona Caney Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183103",
+        "LATITUDE": 35.585115,
+        "LONGITUDE": -86.7739,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76126999999997,
+          35.45260500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183190",
+        "PERMITTEE_NAME": "Joshua Hesse",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1200 Finley Beech Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183190",
+        "LATITUDE": 35.452605,
+        "LONGITUDE": -86.76127,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79209999999995,
+          35.56960000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4026",
+        "PERMITTEE_NAME": "Marshall County Board of Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748908800000,
+        "EFFECTIVE_DATE": 1748908800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Wiles Lane, McLean Road, and Ownby Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4026",
+        "LATITUDE": 35.5696,
+        "LONGITUDE": -86.7921,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68927799999994,
+          35.592187000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183239",
+        "PERMITTEE_NAME": "State of Tennessee, Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "WARNER RD 3690",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183239",
+        "LATITUDE": 35.592186999999996,
+        "LONGITUDE": -86.689278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81342599999994,
+          35.47776500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182893",
+        "PERMITTEE_NAME": "DR Horton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "New Columbia Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182893",
+        "LATITUDE": 35.477765,
+        "LONGITUDE": -86.81342599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68884999999995,
+          35.645087000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183074",
+        "PERMITTEE_NAME": "Hwy 41 Investments Inc. DBA Bizee Mart #112",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "5349 Nashville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183074",
+        "LATITUDE": 35.645087,
+        "LONGITUDE": -86.68885,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77199999999993,
+          35.46900000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050765",
+        "PERMITTEE_NAME": "Pioneer Manufacturing, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762387200000,
+        "EFFECTIVE_DATE": 1762387200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1520 Nashville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050765",
+        "LATITUDE": 35.469,
+        "LONGITUDE": -86.772,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78668399999998,
+          35.473497000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183141",
+        "PERMITTEE_NAME": "Josh King Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Rock Crusher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183141",
+        "LATITUDE": 35.473497,
+        "LONGITUDE": -86.786684,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75802299999998,
+          35.45796000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183027",
+        "PERMITTEE_NAME": "Lennar Homes of Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "HOLLY GROVE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183027",
+        "LATITUDE": 35.45796,
+        "LONGITUDE": -86.758023,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.73946799999999,
+          35.419651000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183026",
+        "PERMITTEE_NAME": "Mace Development (Ryan Perryman)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Old Belfast Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183026",
+        "LATITUDE": 35.419651,
+        "LONGITUDE": -86.739468,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78321999999997,
+          35.47340000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183089",
+        "PERMITTEE_NAME": "US Brick Centennial, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Verona-Caney Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183089",
+        "LATITUDE": 35.473400000000005,
+        "LONGITUDE": -86.78322,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78674199999995,
+          35.470548000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183097",
+        "PERMITTEE_NAME": "Steve Hooten",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1385 Rock Crusher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183097",
+        "LATITUDE": 35.470548,
+        "LONGITUDE": -86.78674199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80616499999996,
+          35.48927800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183057",
+        "PERMITTEE_NAME": "Spring Creek Farms Partners LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1703 FRANKLIN PIKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183057",
+        "LATITUDE": 35.489278,
+        "LONGITUDE": -86.806165,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79106299999995,
+          35.42879000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182741",
+        "PERMITTEE_NAME": "DR Horton, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1207 Yell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182741",
+        "LATITUDE": 35.42879,
+        "LONGITUDE": -86.791063,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76160699999997,
+          35.448732000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182838",
+        "PERMITTEE_NAME": "Tommy Cheatham",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Finley Beech Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182838",
+        "LATITUDE": 35.448732,
+        "LONGITUDE": -86.761607,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88049999999998,
+          35.310100000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.294",
+        "PERMITTEE_NAME": "The Tennessean Truck Stop LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1687392000000,
+        "EFFECTIVE_DATE": 1687392000000,
+        "EXPIRATION_DATE": 1845158400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "3686 Pulaski Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.294",
+        "LATITUDE": 35.3101,
+        "LONGITUDE": -86.8805,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78660999999994,
+          35.36416000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.128",
+        "PERMITTEE_NAME": "Clay Glenn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1685491200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Yell Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.128",
+        "LATITUDE": 35.36416,
+        "LONGITUDE": -86.78661,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75735299999997,
+          35.43427800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182851",
+        "PERMITTEE_NAME": "John Chunn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Garrett Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182851",
+        "LATITUDE": 35.434278,
+        "LONGITUDE": -86.757353,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80616499999996,
+          35.48927800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.022",
+        "PERMITTEE_NAME": "Spring Creek Farm Partners, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1664409600000,
+        "EFFECTIVE_DATE": 1664323200000,
+        "EXPIRATION_DATE": 1822003200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1703 FRANKLIN PIKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.022",
+        "LATITUDE": 35.489278,
+        "LONGITUDE": -86.806165,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77559999999994,
+          35.46580000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.279",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1634515200000,
+        "EFFECTIVE_DATE": 1711497600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Bridge over Big Rock Creek L.M. 13.18",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.279",
+        "LATITUDE": 35.4658,
+        "LONGITUDE": -86.7756,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.86880499999995,
+          35.324718000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.120",
+        "PERMITTEE_NAME": "Sam Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1655769600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "2220 Charlie Thomas Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.120",
+        "LATITUDE": 35.324718,
+        "LONGITUDE": -86.868805,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.73992999999996,
+          35.42808000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182745",
+        "PERMITTEE_NAME": "Mike Walker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1430 Abbey Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182745",
+        "LATITUDE": 35.42808,
+        "LONGITUDE": -86.73993,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80284099999994,
+          35.47542100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183325",
+        "PERMITTEE_NAME": "Josh King Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1425 New Columbia Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183325",
+        "LATITUDE": 35.475421,
+        "LONGITUDE": -86.802841,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68909999999994,
+          35.68500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182724",
+        "PERMITTEE_NAME": "Phillips Development Group, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "6069 Nashville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182724",
+        "LATITUDE": 35.685,
+        "LONGITUDE": -86.68910000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74268599999994,
+          35.43094000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182832",
+        "PERMITTEE_NAME": "Wayne Haynes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1855 Childress Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182832",
+        "LATITUDE": 35.43094,
+        "LONGITUDE": -86.74268599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77073199999995,
+          35.587166000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.177",
+        "PERMITTEE_NAME": "Marshall County Board of Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1651536000000,
+        "EFFECTIVE_DATE": 1651536000000,
+        "EXPIRATION_DATE": 1809216000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "3470 Verona Caney Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.177",
+        "LATITUDE": 35.587165999999996,
+        "LONGITUDE": -86.770732,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71379099999996,
+          35.618101000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182690",
+        "PERMITTEE_NAME": "Jeff Knox Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "2071 Old Highway 99",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182690",
+        "LATITUDE": 35.618100999999996,
+        "LONGITUDE": -86.713791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76305599999995,
+          35.42972200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050037",
+        "PERMITTEE_NAME": "Tennessee Technical Coatings, Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761127442000,
+        "EFFECTIVE_DATE": 1761127442000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1421 HIGGS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050037",
+        "LATITUDE": 35.429722,
+        "LONGITUDE": -86.76305599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78799999999995,
+          35.47220000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110069",
+        "PERMITTEE_NAME": "imi Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1671062400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1415 Rock Crusher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110069",
+        "LATITUDE": 35.4722,
+        "LONGITUDE": -86.78800000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77447599999994,
+          35.437279000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110032",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1675209600000,
+        "EFFECTIVE_DATE": 1677628800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "725 South Ellington Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110032",
+        "LATITUDE": 35.437279,
+        "LONGITUDE": -86.77447599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.92251099999999,
+          35.43475600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050235",
+        "PERMITTEE_NAME": "Servant Auto and Salvage, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753315200000,
+        "EFFECTIVE_DATE": 1753315200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "3064 Demastus Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050235",
+        "LATITUDE": 35.434756,
+        "LONGITUDE": -86.922511,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75943799999999,
+          35.43349800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053236",
+        "PERMITTEE_NAME": "WestRock CP, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756892620000,
+        "EFFECTIVE_DATE": 1756892620000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "700 Garrett Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053236",
+        "LATITUDE": 35.433498,
+        "LONGITUDE": -86.759438,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75704399999995,
+          35.42984700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053403",
+        "PERMITTEE_NAME": "BERRY GLOBAL, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "851 GARRETT PARKWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053403",
+        "LATITUDE": 35.429846999999995,
+        "LONGITUDE": -86.757044,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80140999999998,
+          35.62003000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059136",
+        "PERMITTEE_NAME": "Volunteer Materials, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758758400000,
+        "EFFECTIVE_DATE": 1758758400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "750 Hwy 99",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059136",
+        "LATITUDE": 35.62003,
+        "LONGITUDE": -86.80140999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.82040299999994,
+          35.522572000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056556",
+        "PERMITTEE_NAME": "M & Y Auto Salvage",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "2321 Franklin Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056556",
+        "LATITUDE": 35.522572,
+        "LONGITUDE": -86.820403,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76166699999999,
+          35.438889000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056559",
+        "PERMITTEE_NAME": "Tucker Auto Parts, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1221 East Commerce Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056559",
+        "LATITUDE": 35.438888999999996,
+        "LONGITUDE": -86.761667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75361099999998,
+          35.43750000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050005",
+        "PERMITTEE_NAME": "Marelli North America",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "201 Garrett Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050005",
+        "LATITUDE": 35.4375,
+        "LONGITUDE": -86.75361099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77491999999995,
+          35.434000000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056387",
+        "PERMITTEE_NAME": "AAA COOPER TRANSPORTATION, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "995 SPRINGPLACE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056387",
+        "LATITUDE": 35.434000000000005,
+        "LONGITUDE": -86.77492,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80166699999995,
+          35.45222200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054223",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761004800000,
+        "EFFECTIVE_DATE": 1761004800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "225 Heil Quaker Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054223",
+        "LATITUDE": 35.452222,
+        "LONGITUDE": -86.801667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83694399999996,
+          35.461944000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051563",
+        "PERMITTEE_NAME": "Cedar Ridge Landfill, Inc. dba Waste Management, Inc. of Tennessee and Carcel and G. Construction, LLC dba 2313 Cedar Ridge Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765152000000,
+        "EFFECTIVE_DATE": 1765152000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "2340 MOORESVILLE HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051563",
+        "LATITUDE": 35.461943999999995,
+        "LONGITUDE": -86.836944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78737999999998,
+          35.450072000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS077615",
+        "PERMITTEE_NAME": "City of Lewisburg",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1670198400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "131 East Church Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS077615",
+        "LATITUDE": 35.450072,
+        "LONGITUDE": -86.78738,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78069899999997,
+          35.453832000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB022888",
+        "PERMITTEE_NAME": "Lewisburg STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757980800000,
+        "EFFECTIVE_DATE": 1757980800000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "401 Woodside Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB022888",
+        "LATITUDE": 35.453832,
+        "LONGITUDE": -86.780699,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78859999999997,
+          35.475532000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058270",
+        "PERMITTEE_NAME": "Tankersley Concrete Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1630 Rock Crusher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058270",
+        "LATITUDE": 35.475532,
+        "LONGITUDE": -86.7886,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74551499999995,
+          35.43029700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058285",
+        "PERMITTEE_NAME": "Minth Tennessee International, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1821 Childress Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058285",
+        "LATITUDE": 35.430296999999996,
+        "LONGITUDE": -86.745515,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76189399999998,
+          35.430327000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058248",
+        "PERMITTEE_NAME": "Dole Refrigerating Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1420 HIGGS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058248",
+        "LATITUDE": 35.430327,
+        "LONGITUDE": -86.761894,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77799999999996,
+          35.45800000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR181601",
+        "PERMITTEE_NAME": "John Chunn",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Intersection of N. Ellington & Medical Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR181601",
+        "LATITUDE": 35.458,
+        "LONGITUDE": -86.778,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77768799999996,
+          35.44220500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059116",
+        "PERMITTEE_NAME": "TN Fulfillment Logistics, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "671 CRESTLAND ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059116",
+        "LATITUDE": 35.442205,
+        "LONGITUDE": -86.777688,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83749999999998,
+          35.40277800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "597003",
+        "PERMITTEE_NAME": "City of Lewisburg",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1771459200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1799971200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "65ne New Lake Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:597003",
+        "LATITUDE": 35.402778,
+        "LONGITUDE": -86.8375,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83472199999994,
+          35.418889000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "597006",
+        "PERMITTEE_NAME": "Perryman Investments, LLC (Paradise)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1737417600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1831420800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "65ne Thomas Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:597006",
+        "LATITUDE": 35.418889,
+        "LONGITUDE": -86.834722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78444399999995,
+          35.586667000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "597008",
+        "PERMITTEE_NAME": "City of Lewisburg",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "64se Duck River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:597008",
+        "LATITUDE": 35.586667,
+        "LONGITUDE": -86.784444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76320999999996,
+          35.442413000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059505",
+        "PERMITTEE_NAME": "Commerce Metals, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762732800000,
+        "EFFECTIVE_DATE": 1762732800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1190 E COMMERCE ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059505",
+        "LATITUDE": 35.442413,
+        "LONGITUDE": -86.76321,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80140999999998,
+          35.62003000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110436",
+        "PERMITTEE_NAME": "Volunteer Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1669939200000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "750 Highway 99",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110436",
+        "LATITUDE": 35.62003,
+        "LONGITUDE": -86.80140999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76703199999997,
+          35.43629500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059472",
+        "PERMITTEE_NAME": "Marshall County Solid Waste",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "611 HAWKINS DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059472",
+        "LATITUDE": 35.436295,
+        "LONGITUDE": -86.767032,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80782699999997,
+          35.625977000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059486",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "646 TN-11",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059486",
+        "LATITUDE": 35.625977,
+        "LONGITUDE": -86.80782699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74004399999995,
+          35.58956200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-19012",
+        "PERMITTEE_NAME": "Duck River Preserve",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Mahaley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-19012",
+        "LATITUDE": 35.589562,
+        "LONGITUDE": -86.740044,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.63759999999996,
+          35.32170000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.246",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1604620800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "SR-130, Gravel Removal at LM 0.52, Cane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.246",
+        "LATITUDE": 35.3217,
+        "LONGITUDE": -86.6376,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.82929999999999,
+          35.585300000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182657",
+        "PERMITTEE_NAME": "Douglas Todd Carson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Hwy 431",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182657",
+        "LATITUDE": 35.585300000000004,
+        "LONGITUDE": -86.8293,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81936699999994,
+          35.39398900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182729",
+        "PERMITTEE_NAME": "Jeff Poarch",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "Hobo Shaw Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182729",
+        "LATITUDE": 35.393989,
+        "LONGITUDE": -86.819367,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75887999999998,
+          35.345155000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182631",
+        "PERMITTEE_NAME": "Camuel Harmon",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Marshall",
+        "SITE_LOCATION": "1200 Finley Beech Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182631",
+        "LATITUDE": 35.345155,
+        "LONGITUDE": -86.75887999999999,
+        "permit_status": "Pending"
+      }
+    }
+  ]
+}

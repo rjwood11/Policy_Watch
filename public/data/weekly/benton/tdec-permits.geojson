@@ -1,0 +1,1695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15147399999995,
+          35.87952900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123017",
+        "PERMITTEE_NAME": "MID VALLEY PIPELINE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "35.8788, -88.1506",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123017",
+        "LATITUDE": 35.879529,
+        "LONGITUDE": -88.151474,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09466699999996,
+          36.06938900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.046",
+        "PERMITTEE_NAME": "City of Camden Government - Municipal",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "North Forrest Avenue over Charlie Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.046",
+        "LATITUDE": 36.069389,
+        "LONGITUDE": -89.094667,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03999999999996,
+          36.01416700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.028",
+        "PERMITTEE_NAME": "Tn Dept. of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778457600000,
+        "EFFECTIVE_DATE": 1778457600000,
+        "EXPIRATION_DATE": 1809907200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "SR-1 (US 70) from Camden Bypass to the Tennessee River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.028",
+        "LATITUDE": 36.014167,
+        "LONGITUDE": -88.04,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94972199999995,
+          36.23416700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.096",
+        "PERMITTEE_NAME": "Wayne Simmons",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765238400000,
+        "EFFECTIVE_DATE": 1765238400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "894 Branch Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.096",
+        "LATITUDE": 36.234167,
+        "LONGITUDE": -87.949722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08418999999998,
+          35.86406000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123183",
+        "PERMITTEE_NAME": "Spectrum Southeast, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Hwy 641, Rockport McIlwain Road, Pauline Road, Green Hatley Br Road, etc",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123183",
+        "LATITUDE": 35.864059999999995,
+        "LONGITUDE": -88.08418999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13707099999993,
+          36.00166400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.102",
+        "PERMITTEE_NAME": "Deborah Hargrove",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765497600000,
+        "EFFECTIVE_DATE": 1765497600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Deborah Hargrove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.102",
+        "LATITUDE": 36.001664,
+        "LONGITUDE": -88.13707099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08417099999997,
+          35.85510900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050820",
+        "PERMITTEE_NAME": "Volunteer Paving, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "14106 US-641 Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050820",
+        "LATITUDE": 35.855109,
+        "LONGITUDE": -88.084171,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03999999999996,
+          36.01416700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.043",
+        "PERMITTEE_NAME": "Tn Dept. of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786492800000,
+        "EFFECTIVE_DATE": 1786492800000,
+        "EXPIRATION_DATE": 1817942400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "SR-1 (US 70) from Camden Bypass to the Tennessee River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.043",
+        "LATITUDE": 36.014167,
+        "LONGITUDE": -88.04,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98673799999995,
+          36.093135000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.087",
+        "PERMITTEE_NAME": "State of TN Real Estate Asset Management",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759363200000,
+        "EFFECTIVE_DATE": 1759363200000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1825 PILOT KNOB RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.087",
+        "LATITUDE": 36.093135,
+        "LONGITUDE": -87.986738,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98673799999995,
+          36.093135000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.088",
+        "PERMITTEE_NAME": "State of TN Real Estate Asset Management",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759363200000,
+        "EFFECTIVE_DATE": 1759363200000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1825 PILOT KNOB RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.088",
+        "LATITUDE": 36.093135,
+        "LONGITUDE": -87.986738,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15179099999995,
+          36.05520500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123130",
+        "PERMITTEE_NAME": "WASTE MANAGEMENT, INC. OF TENNESSEE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "2410 Highway 70 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123130",
+        "LATITUDE": 36.055205,
+        "LONGITUDE": -88.151791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15147399999995,
+          35.87952900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.014",
+        "PERMITTEE_NAME": "Sunoco Pipeline LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743120000000,
+        "EFFECTIVE_DATE": 1743120000000,
+        "EXPIRATION_DATE": 1775347200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "35.8788, -88.1506",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.014",
+        "LATITUDE": 35.879529,
+        "LONGITUDE": -88.151474,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98673799999995,
+          36.093135000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.089",
+        "PERMITTEE_NAME": "State of TN Real Estate Asset Management",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759363200000,
+        "EFFECTIVE_DATE": 1759363200000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1825 PILOT KNOB RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.089",
+        "LATITUDE": 36.093135,
+        "LONGITUDE": -87.986738,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15814999999998,
+          35.88875900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.054",
+        "PERMITTEE_NAME": "SR Benton, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752451200000,
+        "EFFECTIVE_DATE": 1752451200000,
+        "EXPIRATION_DATE": 1783900800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Old Union Church Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.054",
+        "LATITUDE": 35.888759,
+        "LONGITUDE": -88.15814999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03539999999998,
+          36.01795000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123092",
+        "PERMITTEE_NAME": "Vaughn Contractors, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1899 Stones Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123092",
+        "LATITUDE": 36.01795,
+        "LONGITUDE": -88.03540000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98673799999995,
+          36.093135000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.228",
+        "PERMITTEE_NAME": "Division of State Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1733184000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1825 PILOT KNOB RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.228",
+        "LATITUDE": 36.093135,
+        "LONGITUDE": -87.986738,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03999999999996,
+          36.01416700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.177",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1738022400000,
+        "EFFECTIVE_DATE": 1738022400000,
+        "EXPIRATION_DATE": 1895702400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "SR-1 (US 70) from Camden Bypass to the Tennessee River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.177",
+        "LATITUDE": 36.014167,
+        "LONGITUDE": -88.04,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10926699999999,
+          35.99455100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123103",
+        "PERMITTEE_NAME": "Thompson Machinery",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "4350 HIGHWAY 641 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123103",
+        "LATITUDE": 35.994551,
+        "LONGITUDE": -88.109267,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11721299999994,
+          36.049532000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122944",
+        "PERMITTEE_NAME": "Benton County",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Hwy 641 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122944",
+        "LATITUDE": 36.049532,
+        "LONGITUDE": -88.11721299999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08459499999998,
+          35.852243000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122980",
+        "PERMITTEE_NAME": "Volunteer Paving, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "US 641",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122980",
+        "LATITUDE": 35.852243,
+        "LONGITUDE": -88.084595,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98673799999995,
+          36.093135000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122974",
+        "PERMITTEE_NAME": "State of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1825 PILOT KNOB RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122974",
+        "LATITUDE": 36.093135,
+        "LONGITUDE": -87.986738,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03999999999996,
+          36.01416700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192339",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "SR-1 (US 70) from Camden Bypass to the Tennessee River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192339",
+        "LATITUDE": 36.014167,
+        "LONGITUDE": -88.04,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96849099999997,
+          36.29471600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.216",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "8899 Danville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.216",
+        "LATITUDE": 36.294716,
+        "LONGITUDE": -87.968491,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11152999999996,
+          36.10376000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122850",
+        "PERMITTEE_NAME": "Marty L. Hollowell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Liberty Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122850",
+        "LATITUDE": 36.10376,
+        "LONGITUDE": -88.11153,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12112899999994,
+          36.11417200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122559",
+        "PERMITTEE_NAME": "Terry Rainwaters",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1351 Liberty Road, Camden, TN 38320",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122559",
+        "LATITUDE": 36.114171999999996,
+        "LONGITUDE": -88.121129,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10579999999999,
+          36.07110000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122669",
+        "PERMITTEE_NAME": "Benton County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "115 Schools Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122669",
+        "LATITUDE": 36.0711,
+        "LONGITUDE": -88.1058,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08703999999994,
+          36.085650000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122607",
+        "PERMITTEE_NAME": "Sandra L. Fowble",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1590 Flatwoods Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122607",
+        "LATITUDE": 36.08565,
+        "LONGITUDE": -88.08704,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08498999999995,
+          36.26583000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2102.071",
+        "PERMITTEE_NAME": "James T. Rogers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1629158400000,
+        "EXPIRATION_DATE": 1769472000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "501 Fisherman's Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2102.071",
+        "LATITUDE": 36.26583,
+        "LONGITUDE": -88.08498999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03539999999998,
+          36.01795000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059963",
+        "PERMITTEE_NAME": "Randy Holland dba Stones Road Borrow Pit",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1647475200000,
+        "EFFECTIVE_DATE": 1647475200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1899 Stones Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059963",
+        "LATITUDE": 36.01795,
+        "LONGITUDE": -88.03540000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19287799999995,
+          36.03364200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050237",
+        "PERMITTEE_NAME": "Camden Hardwood Products",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "145 Cole Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050237",
+        "LATITUDE": 36.033642,
+        "LONGITUDE": -88.192878,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09463999999997,
+          36.049690000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110020",
+        "PERMITTEE_NAME": "Mid-Way Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1707350400000,
+        "EFFECTIVE_DATE": 1707350400000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "128 Natchez Trace Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110020",
+        "LATITUDE": 36.04969,
+        "LONGITUDE": -88.09464,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03263199999998,
+          35.95397900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056443",
+        "PERMITTEE_NAME": "Highway 191 Auto Salvage, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765152000000,
+        "EFFECTIVE_DATE": 1765152000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "7110 BIRDSONG ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056443",
+        "LATITUDE": 35.953979,
+        "LONGITUDE": -88.03263199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10820999999999,
+          36.00559000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055949",
+        "PERMITTEE_NAME": "H & H Oil, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769990400000,
+        "EFFECTIVE_DATE": 1769990400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "3580 HIGHWAY 641 SOUTH",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055949",
+        "LATITUDE": 36.00559,
+        "LONGITUDE": -88.10821,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12936599999995,
+          36.02970400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051869",
+        "PERMITTEE_NAME": "Jones Plastic & Engineering",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1782259200000,
+        "EFFECTIVE_DATE": 1782259200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "470 BENTON INDUSTRIAL ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051869",
+        "LATITUDE": 36.029703999999995,
+        "LONGITUDE": -88.12936599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12907399999995,
+          36.01139500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054538",
+        "PERMITTEE_NAME": "S & W PALLET COMPANY, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768867200000,
+        "EFFECTIVE_DATE": 1768867200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "2120 DIVIDER & NATCHEZ TRACE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054538",
+        "LATITUDE": 36.011395,
+        "LONGITUDE": -88.129074,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13262399999996,
+          36.04526400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051607",
+        "PERMITTEE_NAME": "MagPro, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "245 Foundry Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051607",
+        "LATITUDE": 36.045263999999996,
+        "LONGITUDE": -88.13262399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08888899999994,
+          35.855556000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053825",
+        "PERMITTEE_NAME": "Delta Contracting Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "14285 Highway 641 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053825",
+        "LATITUDE": 35.855556,
+        "LONGITUDE": -88.088889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.14665999999994,
+          36.04916600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120430",
+        "PERMITTEE_NAME": "CSC Recycling",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "3124 Hwy 70 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120430",
+        "LATITUDE": 36.049166,
+        "LONGITUDE": -88.14666,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13193999999999,
+          36.08916000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120149",
+        "PERMITTEE_NAME": "Robert Shannon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1785 McKelvy Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120149",
+        "LATITUDE": 36.08916,
+        "LONGITUDE": -88.13194,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11949999999996,
+          36.03600000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120922",
+        "PERMITTEE_NAME": "L.C.Cary Fish Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Thompson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120922",
+        "LATITUDE": 36.036,
+        "LONGITUDE": -88.1195,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06288999999998,
+          36.03688000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121059",
+        "PERMITTEE_NAME": "Terrence Brown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Bivens Cypress Creek Road just past Trans-Ash",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121059",
+        "LATITUDE": 36.03688,
+        "LONGITUDE": -88.06289,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13714999999996,
+          36.04695000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058199",
+        "PERMITTEE_NAME": "Mr. Bult's, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751932800000,
+        "EFFECTIVE_DATE": 1751932800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "2470 Hwy 70 W.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058199",
+        "LATITUDE": 36.046949999999995,
+        "LONGITUDE": -88.13714999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08878999999996,
+          36.04967000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121285",
+        "PERMITTEE_NAME": "Recycling Ventures, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "400 Old Highway 70 (Co. Hwy, 1764)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121285",
+        "LATITUDE": 36.04967,
+        "LONGITUDE": -88.08879,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10989999999998,
+          36.058700000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121470",
+        "PERMITTEE_NAME": "St. Mary's Church, Catholic - Diocese of Memphis, TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "220 West Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121470",
+        "LATITUDE": 36.0587,
+        "LONGITUDE": -88.10990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07206999999994,
+          36.014361000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121728",
+        "PERMITTEE_NAME": "Randy Holland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1300 Palmer Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121728",
+        "LATITUDE": 36.014361,
+        "LONGITUDE": -88.07207,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08939499999997,
+          36.04580400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121699",
+        "PERMITTEE_NAME": "Benton County Utility",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Corner of Highway 70 and Timothy Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121699",
+        "LATITUDE": 36.045804,
+        "LONGITUDE": -88.089395,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19449999999995,
+          36.03625000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121783",
+        "PERMITTEE_NAME": "Cole Pallet Co, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "5940 Highway 70 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121783",
+        "LATITUDE": 36.036249999999995,
+        "LONGITUDE": -88.1945,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97009999999995,
+          35.86870000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121908",
+        "PERMITTEE_NAME": "Delta Contracting Company, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "West of SR-191 to West of Tennessee River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121908",
+        "LATITUDE": 35.868700000000004,
+        "LONGITUDE": -87.9701,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13257799999997,
+          36.089057000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122014",
+        "PERMITTEE_NAME": "City of Camden",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Whitney Lane, Camden, TN 38320",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122014",
+        "LATITUDE": 36.089057,
+        "LONGITUDE": -88.132578,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05979999999994,
+          36.02140000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121909",
+        "PERMITTEE_NAME": "Missionary Grove Baptist Church",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "165 Missionary Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121909",
+        "LATITUDE": 36.0214,
+        "LONGITUDE": -89.05980000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17472199999997,
+          36.04000000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "037004",
+        "PERMITTEE_NAME": "IperionX Critical Minerals LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1740441600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1832112000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "20SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:037004",
+        "LATITUDE": 36.04,
+        "LONGITUDE": -88.174722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12611099999998,
+          36.10888900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "037007",
+        "PERMITTEE_NAME": "Cedar Lakes P.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1728000000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1852329600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "20sw Dry Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:037007",
+        "LATITUDE": 36.108889,
+        "LONGITUDE": -88.126111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13055599999996,
+          36.10888900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "037008",
+        "PERMITTEE_NAME": "Cedar Lakes P.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1728000000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820880000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "20sw Dry Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:037008",
+        "LATITUDE": 36.108889,
+        "LONGITUDE": -88.130556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18222199999997,
+          36.03555600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "037011",
+        "PERMITTEE_NAME": "IperionX Critical Minerals LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1740441600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1832112000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "20SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:037011",
+        "LATITUDE": 36.035556,
+        "LONGITUDE": -88.182222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16944399999994,
+          36.04222200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "037015",
+        "PERMITTEE_NAME": "IperionX Critical Minerals LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1841443200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "20SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:037015",
+        "LATITUDE": 36.042221999999995,
+        "LONGITUDE": -88.169444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17833299999995,
+          36.034167000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "037016",
+        "PERMITTEE_NAME": "IperionX Critical Minerals LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1705536000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1796083200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "20 SW Trib-Hunting Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:037016",
+        "LATITUDE": 36.034167,
+        "LONGITUDE": -88.178333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11798799999997,
+          36.01083100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122096",
+        "PERMITTEE_NAME": "John Story",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Port Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122096",
+        "LATITUDE": 36.010830999999996,
+        "LONGITUDE": -88.117988,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08073799999994,
+          35.841653000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122213",
+        "PERMITTEE_NAME": "Love's Travel Stop & Country Stores, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "SE corner of I-40 and US-641",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122213",
+        "LATITUDE": 35.841653,
+        "LONGITUDE": -88.080738,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08393999999998,
+          35.862640000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122308",
+        "PERMITTEE_NAME": "Linda Kimbel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Corner of Hwy 641 and McIllwain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122308",
+        "LATITUDE": 35.86264,
+        "LONGITUDE": -88.08394,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12112899999994,
+          36.11417200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122382",
+        "PERMITTEE_NAME": "Sam Rainwaters, Site Owner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "1351 Liberty Road, Camden, TN 38320",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122382",
+        "LATITUDE": 36.114171999999996,
+        "LONGITUDE": -88.121129,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13333399999999,
+          36.21270800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.034",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1592265600000,
+        "EFFECTIVE_DATE": 1591660800000,
+        "EXPIRATION_DATE": 1749340800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Big Sandy River Dewatering Unit",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.034",
+        "LATITUDE": 36.212708,
+        "LONGITUDE": -88.13333399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97762999999998,
+          36.12495000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2002.032",
+        "PERMITTEE_NAME": "Sam Rainwaters",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "Harmon Creek Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2002.032",
+        "LATITUDE": 36.12495,
+        "LONGITUDE": -87.97762999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08701999999994,
+          35.85152100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059769",
+        "PERMITTEE_NAME": "Fox Hardwood Lumber LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758549105000,
+        "EFFECTIVE_DATE": 1758549105000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "14425 Hwy 641 S.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059769",
+        "LATITUDE": 35.851521,
+        "LONGITUDE": -88.08702,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15179099999995,
+          36.05520500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122547",
+        "PERMITTEE_NAME": "Waste Management",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "2410 Highway 70 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122547",
+        "LATITUDE": 36.055205,
+        "LONGITUDE": -88.151791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12361099999998,
+          36.01111100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122481",
+        "PERMITTEE_NAME": "Benton County Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Benton",
+        "SITE_LOCATION": "275 Airport Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122481",
+        "LATITUDE": 36.011111,
+        "LONGITUDE": -88.123611,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

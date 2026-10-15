@@ -1,0 +1,1253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66715899999997,
+          35.06213500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182759",
+        "PERMITTEE_NAME": "Ronnie Holt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Mill Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182759",
+        "LATITUDE": 35.062135,
+        "LONGITUDE": -87.667159,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97605799999997,
+          35.02858900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.3992",
+        "PERMITTEE_NAME": "Eric Bradley Whitaker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1750032000000,
+        "EFFECTIVE_DATE": 1750032000000,
+        "EXPIRATION_DATE": 1781481600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Off County Road 1776, next to Grassy Creek Road and Second Creek Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.3992",
+        "LATITUDE": 35.028589,
+        "LONGITUDE": -87.976058,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85210999999998,
+          35.09134000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.3998",
+        "PERMITTEE_NAME": "Robert Berry",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1741824000000,
+        "EFFECTIVE_DATE": 1741824000000,
+        "EXPIRATION_DATE": 1773273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "2355 Weatherford Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.3998",
+        "LATITUDE": 35.091339999999995,
+        "LONGITUDE": -87.85211,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69474999999994,
+          35.11924000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.196",
+        "PERMITTEE_NAME": "Darrell West",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691452800000,
+        "EFFECTIVE_DATE": 1691452800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Middle Butler Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.196",
+        "LATITUDE": 35.11924,
+        "LONGITUDE": -87.69475,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69252699999998,
+          35.437572000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.279",
+        "PERMITTEE_NAME": "Rickey Kelley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697673600000,
+        "EFFECTIVE_DATE": 1697673600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Pea Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.279",
+        "LATITUDE": 35.437571999999996,
+        "LONGITUDE": -87.692527,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71963399999999,
+          35.114704000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.3995",
+        "PERMITTEE_NAME": "Bo Daniel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1742169600000,
+        "EFFECTIVE_DATE": 1742169600000,
+        "EXPIRATION_DATE": 1773619200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "First Butler Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.3995",
+        "LATITUDE": 35.114703999999996,
+        "LONGITUDE": -87.719634,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67409999999995,
+          35.34020000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.197",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789689600000,
+        "EFFECTIVE_DATE": 1789689600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "SR-15 at LM 20.2",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.197",
+        "LATITUDE": 35.3402,
+        "LONGITUDE": -87.67410000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99444999999997,
+          35.42201700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.089",
+        "PERMITTEE_NAME": "U.S. Army Corps of Engineers (USACE), Nashville District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786320000000,
+        "EFFECTIVE_DATE": 1785974400000,
+        "EXPIRATION_DATE": 1943654400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Tennessee River Navigation Channel (TRM155)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.089",
+        "LATITUDE": 35.422017,
+        "LONGITUDE": -87.99445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58399899999995,
+          35.173511000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4155",
+        "PERMITTEE_NAME": "Joseph Hollis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788393600000,
+        "EFFECTIVE_DATE": 1788393600000,
+        "EXPIRATION_DATE": 1819843200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Near intersection of Fred Todd Road and Factors Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4155",
+        "LATITUDE": 35.173511,
+        "LONGITUDE": -87.58399899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16605199999998,
+          35.166052000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183101",
+        "PERMITTEE_NAME": "Kenneth Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "1060 Robbins Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183101",
+        "LATITUDE": 35.166052,
+        "LONGITUDE": -87.166052,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99948699999999,
+          35.38690900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.158",
+        "PERMITTEE_NAME": "City of Clifton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1708646400000,
+        "EFFECTIVE_DATE": 1707177600000,
+        "EXPIRATION_DATE": 1864944000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "312 West Water St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.158",
+        "LATITUDE": 35.386908999999996,
+        "LONGITUDE": -87.999487,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69355999999999,
+          35.39348000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.033",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1646006400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "SR-99, Culvert Replacements at LM 7.1 and LM 7.2",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.033",
+        "LATITUDE": 35.39348,
+        "LONGITUDE": -87.69355999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68818399999998,
+          35.333799000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.244",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "SR-15, LM 19.1 and 19.3",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.244",
+        "LATITUDE": 35.333799,
+        "LONGITUDE": -87.68818399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65889999999996,
+          35.08060000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4084",
+        "PERMITTEE_NAME": "Wayne County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Hill Parkway over Butler Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4084",
+        "LATITUDE": 35.080600000000004,
+        "LONGITUDE": -87.6589,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99977399999995,
+          35.38298800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051321",
+        "PERMITTEE_NAME": "The Praxis Companies, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "316 Vine Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051321",
+        "LATITUDE": 35.382988,
+        "LONGITUDE": -87.999774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.82979299999994,
+          35.19076600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4151",
+        "PERMITTEE_NAME": "Jimmy Webb",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789084800000,
+        "EFFECTIVE_DATE": 1789084800000,
+        "EXPIRATION_DATE": 1789084800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "115 Jimmy Thomas Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4151",
+        "LATITUDE": 35.190765999999996,
+        "LONGITUDE": -87.829793,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75903799999998,
+          35.30405300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4120",
+        "PERMITTEE_NAME": "City of Waynesboro",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778025600000,
+        "EFFECTIVE_DATE": 1778025600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "625 Green River Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4120",
+        "LATITUDE": 35.304052999999996,
+        "LONGITUDE": -87.75903799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00040399999995,
+          35.381544000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183350",
+        "PERMITTEE_NAME": "City of Clifton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Vine street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183350",
+        "LATITUDE": 35.381544,
+        "LONGITUDE": -88.00040399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71608299999997,
+          35.14983700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182972",
+        "PERMITTEE_NAME": "Gunner Rich",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "7788 Middle Butler Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182972",
+        "LATITUDE": 35.149837,
+        "LONGITUDE": -87.716083,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64807099999996,
+          35.432412000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183005",
+        "PERMITTEE_NAME": "Bert Miller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "3951 Natural Bridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183005",
+        "LATITUDE": 35.432412,
+        "LONGITUDE": -87.648071,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74746499999998,
+          35.18599300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4050",
+        "PERMITTEE_NAME": "City of Collinwood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756080000000,
+        "EFFECTIVE_DATE": 1756080000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "North Trojan Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4050",
+        "LATITUDE": 35.185992999999996,
+        "LONGITUDE": -87.74746499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.82111099999997,
+          35.04777800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "917003",
+        "PERMITTEE_NAME": "Marjorie Holt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1759795200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1789430400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "34se Cypress Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:917003",
+        "LATITUDE": 35.047778,
+        "LONGITUDE": -87.821111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98623199999997,
+          35.37421200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183010",
+        "PERMITTEE_NAME": "RFM Clifton LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "2307 Billy Nance Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183010",
+        "LATITUDE": 35.374212,
+        "LONGITUDE": -87.986232,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76135699999998,
+          35.233119000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183241",
+        "PERMITTEE_NAME": "David Rochell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Highland Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183241",
+        "LATITUDE": 35.233118999999995,
+        "LONGITUDE": -87.76135699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98063599999995,
+          35.42592700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.239",
+        "PERMITTEE_NAME": "Randy Batson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Beech Creek Embayment",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.239",
+        "LATITUDE": 35.425927,
+        "LONGITUDE": -87.98063599999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74932599999994,
+          35.08933300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183093",
+        "PERMITTEE_NAME": "Madison Young",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "5250 Little Cypress Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183093",
+        "LATITUDE": 35.089332999999996,
+        "LONGITUDE": -87.749326,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.82979799999998,
+          35.063905000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183240",
+        "PERMITTEE_NAME": "Greg Pigg",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Weatherford Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183240",
+        "LATITUDE": 35.063905,
+        "LONGITUDE": -87.829798,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83467299999995,
+          35.12220300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182912",
+        "PERMITTEE_NAME": "Nick Thompson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Rose Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182912",
+        "LATITUDE": 35.122203,
+        "LONGITUDE": -87.834673,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59314299999994,
+          35.31586600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182992",
+        "PERMITTEE_NAME": "Alan Gobbell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Barnett Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182992",
+        "LATITUDE": 35.315866,
+        "LONGITUDE": -87.593143,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67376999999999,
+          35.023281000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182935",
+        "PERMITTEE_NAME": "Stanson Horton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "3456 Chisholm Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182935",
+        "LATITUDE": 35.023281,
+        "LONGITUDE": -87.67376999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65529499999997,
+          35.32763500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.305",
+        "PERMITTEE_NAME": "James Griggs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1702598400000,
+        "EFFECTIVE_DATE": 1702598400000,
+        "EXPIRATION_DATE": 1744588800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "4208 S Fortyeight RD ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.305",
+        "LATITUDE": 35.327635,
+        "LONGITUDE": -87.655295,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98609999999996,
+          35.38930000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192164",
+        "PERMITTEE_NAME": "City of Clifton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "East Water Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192164",
+        "LATITUDE": 35.3893,
+        "LONGITUDE": -87.98610000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68818399999998,
+          35.333799000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.198",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1664496000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "SR-15, LM 19.1 and 19.3",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.198",
+        "LATITUDE": 35.333799,
+        "LONGITUDE": -87.68818399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94749999999999,
+          35.14420000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.303",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1635724800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "SR-203, Culvert Replacement at LM 2.5",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.303",
+        "LATITUDE": 35.144200000000005,
+        "LONGITUDE": -87.9475,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76629999999994,
+          35.14130000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.290",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1634688000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "SR-203, Culvert Replacement at LM 14.28",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.290",
+        "LATITUDE": 35.1413,
+        "LONGITUDE": -87.7663,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76703099999997,
+          35.24289600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050496",
+        "PERMITTEE_NAME": "Beavers Tie and Lumber Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752710400000,
+        "EFFECTIVE_DATE": 1752710400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "6779 Chalk Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050496",
+        "LATITUDE": 35.242896,
+        "LONGITUDE": -87.767031,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70937799999996,
+          35.32212700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110247",
+        "PERMITTEE_NAME": "River City Concrete, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1708387200000,
+        "EFFECTIVE_DATE": 1708387200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "1041 Lawrenceburg Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110247",
+        "LATITUDE": 35.322127,
+        "LONGITUDE": -87.709378,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74589799999995,
+          35.16973800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050876",
+        "PERMITTEE_NAME": "Hughes Hardwood International, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770249600000,
+        "EFFECTIVE_DATE": 1770249600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "500 HIGHWAY 13 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050876",
+        "LATITUDE": 35.169737999999995,
+        "LONGITUDE": -87.745898,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75964699999997,
+          35.176010000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050631",
+        "PERMITTEE_NAME": "C-Wood Lumber Co. Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "624 West Indian Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050631",
+        "LATITUDE": 35.17601,
+        "LONGITUDE": -87.759647,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94804999999997,
+          35.31768000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055083",
+        "PERMITTEE_NAME": "American Stave Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1782086400000,
+        "EFFECTIVE_DATE": 1782086400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "199 R H MOORE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055083",
+        "LATITUDE": 35.317679999999996,
+        "LONGITUDE": -87.94805,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.80892999999998,
+          35.01386000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058050",
+        "PERMITTEE_NAME": "Glenda Gilchrist dba Gilchrist Used Cars",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "6865 PUMPING STATION RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058050",
+        "LATITUDE": 35.01386,
+        "LONGITUDE": -87.80892999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94221199999998,
+          35.11359300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00037",
+        "PERMITTEE_NAME": "D and R Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1441238400000,
+        "EFFECTIVE_DATE": 1441238400000,
+        "EXPIRATION_DATE": 1551312000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "Grassy Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00037",
+        "LATITUDE": 35.113593,
+        "LONGITUDE": -87.942212,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74651999999998,
+          35.16967100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058540",
+        "PERMITTEE_NAME": "Hassell & Hughes Lumber Co., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759190400000,
+        "EFFECTIVE_DATE": 1759190400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "608 Highway 13 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058540",
+        "LATITUDE": 35.169671,
+        "LONGITUDE": -87.74651999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.87361099999998,
+          35.098333000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "917001",
+        "PERMITTEE_NAME": "James & Jamie Miller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1791158400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1852588800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "34SE Weatherford Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:917001",
+        "LATITUDE": 35.098333,
+        "LONGITUDE": -87.873611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.87861099999998,
+          35.147500000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "917002",
+        "PERMITTEE_NAME": "Lonnie Housley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1730160000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1757894400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "34NW Bear Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:917002",
+        "LATITUDE": 35.1475,
+        "LONGITUDE": -87.87861099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96972199999999,
+          35.38166700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "917005",
+        "PERMITTEE_NAME": "RC Properties (Ross)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1726790400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "33NW       110 Hassell Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:917005",
+        "LATITUDE": 35.381667,
+        "LONGITUDE": -87.96972199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67707999999999,
+          35.43998000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.161",
+        "PERMITTEE_NAME": "American Rebel Mud Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1485475200000,
+        "EFFECTIVE_DATE": 1485475200000,
+        "EXPIRATION_DATE": 1643155200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "3301 Natural Bridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.161",
+        "LATITUDE": 35.43998,
+        "LONGITUDE": -87.67707999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.80028399999998,
+          35.01858200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.173",
+        "PERMITTEE_NAME": "Justus Clay Craig",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1632182400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Wayne",
+        "SITE_LOCATION": "6622 Pumping Station Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.173",
+        "LATITUDE": 35.018581999999995,
+        "LONGITUDE": -87.80028399999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

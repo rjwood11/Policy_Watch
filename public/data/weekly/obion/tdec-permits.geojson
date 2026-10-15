@@ -1,0 +1,2501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.84625099999994,
+          36.43301700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.056",
+        "PERMITTEE_NAME": "Ty McConnell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1617840000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "McConnell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.056",
+        "LATITUDE": 36.433017,
+        "LONGITUDE": -88.846251,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.04203099999995,
+          36.458120000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123168",
+        "PERMITTEE_NAME": "City of Union City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Greenfield Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123168",
+        "LATITUDE": 36.45812,
+        "LONGITUDE": -89.042031,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47239999999994,
+          36.22560000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.109",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Southwest of Gratio Rd and Bluff Rd intersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.109",
+        "LATITUDE": 36.2256,
+        "LONGITUDE": -89.47240000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41425899999996,
+          36.26023600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123190",
+        "PERMITTEE_NAME": "Scott Earl",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2633 Inman Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123190",
+        "LATITUDE": 36.260236,
+        "LONGITUDE": -89.414259,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07312999999994,
+          36.37515200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.184",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787702400000,
+        "EFFECTIVE_DATE": 1787702400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Near 1000-1074 Leggett Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.184",
+        "LATITUDE": 36.375152,
+        "LONGITUDE": -89.07312999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.13408299999998,
+          36.368944000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.047",
+        "PERMITTEE_NAME": "Obion County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789430400000,
+        "EFFECTIVE_DATE": 1789430400000,
+        "EXPIRATION_DATE": 1820880000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Phebus Road over Davidson Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.047",
+        "LATITUDE": 36.368944,
+        "LONGITUDE": -89.13408299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.42102999999997,
+          36.27412000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.101",
+        "PERMITTEE_NAME": "Mark S Koch",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "000",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.101",
+        "LATITUDE": 36.274119999999996,
+        "LONGITUDE": -89.42103,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47239999999994,
+          36.22560000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123141",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Southwest of Gratio Rd and Bluff Rd intersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123141",
+        "LATITUDE": 36.2256,
+        "LONGITUDE": -89.47240000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08645699999994,
+          36.40345800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123122",
+        "PERMITTEE_NAME": "Thompson Machinery Commerce Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2110 W REELFOOT AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123122",
+        "LATITUDE": 36.403458,
+        "LONGITUDE": -89.086457,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.04203099999995,
+          36.458120000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123115",
+        "PERMITTEE_NAME": "City of Union City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Greenfield Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123115",
+        "LATITUDE": 36.45812,
+        "LONGITUDE": -89.042031,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05443299999996,
+          36.44748400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670801",
+        "PERMITTEE_NAME": "Atmos Energy Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1789344000000,
+        "EFFECTIVE_DATE": 1789344000000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "~60 ft west of Barham Road and Illinois Central Gulf Railroad intersection (Zip Code: 38261) Union City, TN (west end)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670801",
+        "LATITUDE": 36.447483999999996,
+        "LONGITUDE": -89.054433,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.91502799999995,
+          36.47068600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059678",
+        "PERMITTEE_NAME": "Illinois Central Railroad",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760486400000,
+        "EFFECTIVE_DATE": 1760486400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "7478 East Pierce Station Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059678",
+        "LATITUDE": 36.470686,
+        "LONGITUDE": -88.91502799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.91015999999996,
+          36.43332000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.029",
+        "PERMITTEE_NAME": "Atmos Energy Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1733356800000,
+        "EFFECTIVE_DATE": 1733356800000,
+        "EXPIRATION_DATE": 1891036800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Hollie Hutchison Road, approximately one-mile southwest of the intersection of Hollie Hutchison Road and Old Fulton Harris Road, to its eastern terminus along Wolf Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.029",
+        "LATITUDE": 36.433319999999995,
+        "LONGITUDE": -88.91015999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23335099999997,
+          36.42156700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122915",
+        "PERMITTEE_NAME": "David Alexander",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "3106 Cecil Roberts Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122915",
+        "LATITUDE": 36.421566999999996,
+        "LONGITUDE": -89.233351,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24883499999999,
+          36.32350900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.154",
+        "PERMITTEE_NAME": "Davey Mitigation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765497600000,
+        "EFFECTIVE_DATE": 1765497600000,
+        "EXPIRATION_DATE": 1923177600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Highway 21 and Blackley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.154",
+        "LATITUDE": 36.323509,
+        "LONGITUDE": -89.248835,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.00308299999995,
+          36.44334200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123074",
+        "PERMITTEE_NAME": "Atmos Energy Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "~60 ft west of Barham Road and Illinois Central Gulf Railroad intersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123074",
+        "LATITUDE": 36.443342,
+        "LONGITUDE": -89.00308299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.02298999999994,
+          36.45903000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.013",
+        "PERMITTEE_NAME": "Obion County Hwy Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774310400000,
+        "EFFECTIVE_DATE": 1774310400000,
+        "EXPIRATION_DATE": 1805760000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "N. Bethlehem Road over Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.013",
+        "LATITUDE": 36.45903,
+        "LONGITUDE": -89.02299,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.12383699999998,
+          36.22566900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.001",
+        "PERMITTEE_NAME": "Elbridge Water Association",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Various roadways east of Hwy 51",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.001",
+        "LATITUDE": 36.225668999999996,
+        "LONGITUDE": -89.123837,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.00777799999997,
+          36.42166700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052111",
+        "PERMITTEE_NAME": "Tyson Farms, Inc. Processing Plant",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2800 East Tyson Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052111",
+        "LATITUDE": 36.421667,
+        "LONGITUDE": -89.007778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24883499999999,
+          36.32350900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123137",
+        "PERMITTEE_NAME": "Davey Resource Group Inc./Davey Mitigation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Highway 21 and Blackley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123137",
+        "LATITUDE": 36.323509,
+        "LONGITUDE": -89.248835,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22673299999997,
+          36.47902600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.095",
+        "PERMITTEE_NAME": "Jon C McKinnis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764028800000,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": 1795564800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "151 Troy Hickman Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.095",
+        "LATITUDE": 36.479026,
+        "LONGITUDE": -89.226733,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.25683699999996,
+          36.35681400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.061",
+        "PERMITTEE_NAME": "RAM Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756080000000,
+        "EFFECTIVE_DATE": 1756080000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "485 Yellow Hammer Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.061",
+        "LATITUDE": 36.356814,
+        "LONGITUDE": -89.25683699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.03879999999998,
+          36.468900000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.155-23",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1690761600000,
+        "EFFECTIVE_DATE": 1690502400000,
+        "EXPIRATION_DATE": 1848268800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "I-69 construct from SR-21 to SR-3 (NE of Mayberry Road); Weigh Station from Albert Owens Rd to Wright Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.155-23",
+        "LATITUDE": 36.468900000000005,
+        "LONGITUDE": -89.03880000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.29518899999994,
+          36.454266000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.025",
+        "PERMITTEE_NAME": "Reelfoot Water Association",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747612800000,
+        "EFFECTIVE_DATE": 1747612800000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Kirk Road, SR-22, Roger Marshall Rd, B. Hutchinson Rd, Woodrine Rd, Clayton Antioch Rd, Mt. Olive Rd, Walter Whipple Rd, John Duncan Rd, State Line Rd, Beachum Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.025",
+        "LATITUDE": 36.454266,
+        "LONGITUDE": -89.295189,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.25888899999995,
+          36.386389000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667019",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1766707200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "419NE South Reelfoot Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667019",
+        "LATITUDE": 36.386389,
+        "LONGITUDE": -89.258889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.06159999999994,
+          36.42340000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122781",
+        "PERMITTEE_NAME": "Union City, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "SOUTH FIFTH STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122781",
+        "LATITUDE": 36.4234,
+        "LONGITUDE": -89.0616,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.00822999999997,
+          36.442210000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058200",
+        "PERMITTEE_NAME": "Mr. Bult's, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751846400000,
+        "EFFECTIVE_DATE": 1751846400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "3560 Ken Tenn Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058200",
+        "LATITUDE": 36.442209999999996,
+        "LONGITUDE": -89.00823,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.04111099999994,
+          36.41277800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123057",
+        "PERMITTEE_NAME": "Gary A. Taylor Investment Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1507 E REELFOOT AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123057",
+        "LATITUDE": 36.412777999999996,
+        "LONGITUDE": -89.041111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05443299999996,
+          36.44748400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.059",
+        "PERMITTEE_NAME": "ATMOS Energy Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755734400000,
+        "EFFECTIVE_DATE": 1755734400000,
+        "EXPIRATION_DATE": 1913414400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "~60 ft west of Barham Road and Illinois Central Gulf Railroad intersection (Zip Code: 38261) Union City, TN (west end)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.059",
+        "LATITUDE": 36.447483999999996,
+        "LONGITUDE": -89.054433,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37319999999994,
+          36.37530000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.215",
+        "PERMITTEE_NAME": "Jessica Heller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765152000000,
+        "EFFECTIVE_DATE": 1763683200000,
+        "EXPIRATION_DATE": 1921449600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1497 Lake Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.215",
+        "LATITUDE": 36.3753,
+        "LONGITUDE": -89.37320000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.98260999999997,
+          36.38277000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2402.038",
+        "PERMITTEE_NAME": "Everett-Stewart Regional Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747612800000,
+        "EFFECTIVE_DATE": 1747612800000,
+        "EXPIRATION_DATE": 1779148800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1489 Airport Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2402.038",
+        "LATITUDE": 36.38277,
+        "LONGITUDE": -88.98261,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05191099999996,
+          36.44722100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192293",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "US-51, SR-3",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192293",
+        "LATITUDE": 36.447221,
+        "LONGITUDE": -89.05191099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.20279999999997,
+          36.202800000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122770",
+        "PERMITTEE_NAME": "City of Kenton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "City Park Ballfield Improvements",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122770",
+        "LATITUDE": 36.2028,
+        "LONGITUDE": -89.20280000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35373999999996,
+          36.38266100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.078",
+        "PERMITTEE_NAME": "David Laut",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1721692800000,
+        "EFFECTIVE_DATE": 1721692800000,
+        "EXPIRATION_DATE": 1879372800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "472 East Lakeview Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.078",
+        "LATITUDE": 36.382661,
+        "LONGITUDE": -89.35374,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.06981199999996,
+          36.462889000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122773",
+        "PERMITTEE_NAME": "Mayor Steve Carr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "George Moss Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122773",
+        "LATITUDE": 36.462889,
+        "LONGITUDE": -89.069812,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.21527799999996,
+          36.48694400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667012",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1738540800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1760400000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427NW Tull Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667012",
+        "LATITUDE": 36.486944,
+        "LONGITUDE": -89.215278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.03444399999995,
+          36.261667000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667021",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1791849600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1884384000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427se Obion River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667021",
+        "LATITUDE": 36.261666999999996,
+        "LONGITUDE": -89.034444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.04929999999996,
+          36.44930000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059087",
+        "PERMITTEE_NAME": "Greenfield Products, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765411200000,
+        "EFFECTIVE_DATE": 1765411200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "3920 GREENFIELD DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059087",
+        "LATITUDE": 36.4493,
+        "LONGITUDE": -89.0493,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.87852099999998,
+          36.41777300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122602",
+        "PERMITTEE_NAME": "Robert Holman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "8461 Meadows Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122602",
+        "LATITUDE": 36.417773,
+        "LONGITUDE": -88.87852099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35810999999995,
+          36.369800000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122949",
+        "PERMITTEE_NAME": "Kathleen Hayes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "north of Lassiter Corner, east of Foothill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122949",
+        "LATITUDE": 36.369800000000005,
+        "LONGITUDE": -89.35811,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15579199999996,
+          36.40066000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122957",
+        "PERMITTEE_NAME": "Lightning Renewables, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "518 Beech Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122957",
+        "LATITUDE": 36.400659999999995,
+        "LONGITUDE": -89.15579199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14773599999995,
+          36.283029000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122674",
+        "PERMITTEE_NAME": "Green Plains Obion LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2098 McDonald Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122674",
+        "LATITUDE": 36.283029,
+        "LONGITUDE": -89.147736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35169999999994,
+          36.383200000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.253",
+        "PERMITTEE_NAME": "Southshore Resort, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1675641600000,
+        "EFFECTIVE_DATE": 1675641600000,
+        "EXPIRATION_DATE": 1833321600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Reelfoot Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.253",
+        "LATITUDE": 36.3832,
+        "LONGITUDE": -89.35170000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.81769499999996,
+          36.34176300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122918",
+        "PERMITTEE_NAME": "Adrienne Anne Morgan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Industrial Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122918",
+        "LATITUDE": 36.341763,
+        "LONGITUDE": -88.817695,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11640899999998,
+          36.37584900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050676",
+        "PERMITTEE_NAME": "GERDAU AMERISTEEL US INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1324 N HIGHWAY 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050676",
+        "LATITUDE": 36.375848999999995,
+        "LONGITUDE": -89.11640899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35994499999998,
+          36.37959900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.196",
+        "PERMITTEE_NAME": "Richard Spicer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1682380800000,
+        "EFFECTIVE_DATE": 1681689600000,
+        "EXPIRATION_DATE": 1839456000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "270 West Lakeview Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.196",
+        "LATITUDE": 36.379599,
+        "LONGITUDE": -89.359945,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99440699999997,
+          36.40018500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.270",
+        "PERMITTEE_NAME": "Atmos Energy Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1680048000000,
+        "EFFECTIVE_DATE": 1680048000000,
+        "EXPIRATION_DATE": 1837814400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Northern Terminus Start at Sunswept Drive and E. Reelfoot Avenue Intersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.270",
+        "LATITUDE": 36.400185,
+        "LONGITUDE": -88.994407,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07304999999997,
+          36.41640800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122623",
+        "PERMITTEE_NAME": "BH Union City Partners",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1315 OLD TROY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122623",
+        "LATITUDE": 36.416408,
+        "LONGITUDE": -89.07305,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.87852099999998,
+          36.41777300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00374",
+        "PERMITTEE_NAME": "Holman Hog Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785110400000,
+        "EFFECTIVE_DATE": 1785110400000,
+        "EXPIRATION_DATE": 1822262400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "8461 Meadows Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00374",
+        "LATITUDE": 36.417773,
+        "LONGITUDE": -88.87852099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14739999999995,
+          36.48390000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122548",
+        "PERMITTEE_NAME": "Obion County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Woodland Mills Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122548",
+        "LATITUDE": 36.4839,
+        "LONGITUDE": -89.1474,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41425899999996,
+          36.26023600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122218",
+        "PERMITTEE_NAME": "ECM of Ridgely, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2633 Inman Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122218",
+        "LATITUDE": 36.260236,
+        "LONGITUDE": -89.414259,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05344999999994,
+          36.44645000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110077",
+        "PERMITTEE_NAME": "Southern Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1672876800000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "106 BARHAM RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110077",
+        "LATITUDE": 36.44645,
+        "LONGITUDE": -89.05345,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05443299999996,
+          36.41281100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050129",
+        "PERMITTEE_NAME": "American Casework, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767571200000,
+        "EFFECTIVE_DATE": 1767571200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "503 EAST REELFOOT AVENUE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050129",
+        "LATITUDE": 36.412811,
+        "LONGITUDE": -89.054433,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.91555599999998,
+          36.492500000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050053",
+        "PERMITTEE_NAME": "Waymatic, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": 1764720000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "5354 KEN - TENN HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050053",
+        "LATITUDE": 36.4925,
+        "LONGITUDE": -88.915556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05851199999995,
+          36.44451900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050203",
+        "PERMITTEE_NAME": "Kohler Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769385600000,
+        "EFFECTIVE_DATE": 1769385600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2000 North 5th Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050203",
+        "LATITUDE": 36.444519,
+        "LONGITUDE": -89.058512,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.16083299999997,
+          36.481111000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052026",
+        "PERMITTEE_NAME": "Williams Sausage Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "5132 OLD TROY HICKMAN ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052026",
+        "LATITUDE": 36.481111,
+        "LONGITUDE": -89.160833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.89946099999997,
+          36.48563400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052063",
+        "PERMITTEE_NAME": "Tyson Farms, Inc. South Fulton Feed Mill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762300800000,
+        "EFFECTIVE_DATE": 1762300800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "5100 Tim Rice Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052063",
+        "LATITUDE": 36.485634,
+        "LONGITUDE": -88.899461,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15579199999996,
+          36.40066000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052080",
+        "PERMITTEE_NAME": "Northwest Tennessee Disposal Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766361600000,
+        "EFFECTIVE_DATE": 1766361600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "518 Beech Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052080",
+        "LATITUDE": 36.400659999999995,
+        "LONGITUDE": -89.15579199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05634399999997,
+          36.42306200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075558",
+        "PERMITTEE_NAME": "City Of Union City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1681948800000,
+        "EFFECTIVE_DATE": 1682899200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "PO Box 9",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075558",
+        "LATITUDE": 36.423062,
+        "LONGITUDE": -89.056344,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01693999999998,
+          36.43527000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120831",
+        "PERMITTEE_NAME": "Bill Hayes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Ken-Tenn Road, Union City",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120831",
+        "LATITUDE": 36.435269999999996,
+        "LONGITUDE": -89.01693999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14773599999995,
+          36.283029000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120936",
+        "PERMITTEE_NAME": "Obion Grain Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2098 McDonald Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120936",
+        "LATITUDE": 36.283029,
+        "LONGITUDE": -89.147736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14773599999995,
+          36.283029000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058105",
+        "PERMITTEE_NAME": "POET BIOREFINING - OBION, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759449600000,
+        "EFFECTIVE_DATE": 1759449600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2098 McDonald Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058105",
+        "LATITUDE": 36.283029,
+        "LONGITUDE": -89.147736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11725699999994,
+          36.37738100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058132",
+        "PERMITTEE_NAME": "Republic Services of Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1341 N HIGHWAY 51 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058132",
+        "LATITUDE": 36.377381,
+        "LONGITUDE": -89.117257,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41425899999996,
+          36.26023600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058131",
+        "PERMITTEE_NAME": "ECM of Ridgely, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2633 Inman Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058131",
+        "LATITUDE": 36.260236,
+        "LONGITUDE": -89.414259,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.82189999999997,
+          36.447100000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00227",
+        "PERMITTEE_NAME": "Clint Workman Hog Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1885420800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Adkinson Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00227",
+        "LATITUDE": 36.4471,
+        "LONGITUDE": -88.8219,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22305599999999,
+          36.38611100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667017",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1637539200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1696377600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427NW Kilham Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667017",
+        "LATITUDE": 36.386111,
+        "LONGITUDE": -89.223056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.21694399999996,
+          36.39777800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667018",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1766707200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427NW Scawley Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667018",
+        "LATITUDE": 36.397777999999995,
+        "LONGITUDE": -89.216944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05416699999995,
+          36.242500000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667022",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1490140800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1570752000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "428ne Obion River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667022",
+        "LATITUDE": 36.2425,
+        "LONGITUDE": -89.05416699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37222199999997,
+          36.335556000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667023",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1791849600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820880000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "419se Trib-running Reelfoot Bay",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667023",
+        "LATITUDE": 36.335556,
+        "LONGITUDE": -89.372222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.20777799999996,
+          36.409167000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667025",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1766707200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427NW Cane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667025",
+        "LATITUDE": 36.409167,
+        "LONGITUDE": -89.20777799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34222199999994,
+          36.38277800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667026",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1767571200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1798502400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "419NE Indian Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667026",
+        "LATITUDE": 36.382778,
+        "LONGITUDE": -89.34222199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24999999999994,
+          36.42527800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667027",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1766707200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427NW Reelfoot Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667027",
+        "LATITUDE": 36.425278,
+        "LONGITUDE": -89.25,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.29055599999998,
+          36.42194400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667028",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1767571200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "419NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667028",
+        "LATITUDE": 36.421943999999996,
+        "LONGITUDE": -89.290556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.17166699999996,
+          36.378333000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667007",
+        "PERMITTEE_NAME": "Englewood Lake Club",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1760572800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1855958400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427nw Troy Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667007",
+        "LATITUDE": 36.378333,
+        "LONGITUDE": -89.171667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.16805599999998,
+          36.498056000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667009",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1767571200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826928000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427NW Reelfoot Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667009",
+        "LATITUDE": 36.498056,
+        "LONGITUDE": -89.16805599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22777799999994,
+          36.48750000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667011",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1767571200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1827532800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427NW Hamblin Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667011",
+        "LATITUDE": 36.487500000000004,
+        "LONGITUDE": -89.227778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34777799999995,
+          36.34777800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667014",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1791849600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820880000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "419se Glady Hollow Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667014",
+        "LATITUDE": 36.347778,
+        "LONGITUDE": -89.34777799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33388899999994,
+          36.396667000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667016",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776297600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1837814400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "419ne Reelfoot Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667016",
+        "LATITUDE": 36.396667,
+        "LONGITUDE": -89.333889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05166699999995,
+          36.409560000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121693",
+        "PERMITTEE_NAME": "Jack Pate",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Home and Nelson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121693",
+        "LATITUDE": 36.40956,
+        "LONGITUDE": -89.051667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09485699999999,
+          36.48922500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00344",
+        "PERMITTEE_NAME": "Gray Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1486080000000,
+        "EFFECTIVE_DATE": 1486080000000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Armstrong Road and Arch Thompson Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00344",
+        "LATITUDE": 36.489225,
+        "LONGITUDE": -89.09485699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.04959699999995,
+          36.40895800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121979",
+        "PERMITTEE_NAME": "SRC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Edwards Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121979",
+        "LATITUDE": 36.408958,
+        "LONGITUDE": -89.04959699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33720999999997,
+          36.40034000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.290",
+        "PERMITTEE_NAME": "Wayne Barker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1493164800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1650844800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "5005 Hamilton Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.290",
+        "LATITUDE": 36.40034,
+        "LONGITUDE": -89.33721,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37510999999995,
+          36.37316700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.241",
+        "PERMITTEE_NAME": "John Robert McKnight",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1545264000000,
+        "EFFECTIVE_DATE": 1545264000000,
+        "EXPIRATION_DATE": 1702944000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1433/1439 Lake Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.241",
+        "LATITUDE": 36.373166999999995,
+        "LONGITUDE": -89.37510999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.89583299999998,
+          36.48750000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0082171",
+        "PERMITTEE_NAME": "Illinois Central Railroad Company",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1130 feet SW of SR-215 along EX tracks",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0082171",
+        "LATITUDE": 36.487500000000004,
+        "LONGITUDE": -88.895833,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.90086499999995,
+          36.48395400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.134",
+        "PERMITTEE_NAME": "Illinois Central Railroad",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1535068800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1692748800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "South Fulton",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.134",
+        "LATITUDE": 36.483954,
+        "LONGITUDE": -88.900865,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05149999999998,
+          36.44180000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059598",
+        "PERMITTEE_NAME": "Ford Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1773100800000,
+        "EFFECTIVE_DATE": 1773100800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1610 North Morgan Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059598",
+        "LATITUDE": 36.4418,
+        "LONGITUDE": -89.0515,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38473499999998,
+          36.36218400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.133",
+        "PERMITTEE_NAME": "James Byford",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1566777600000,
+        "EFFECTIVE_DATE": 1566777600000,
+        "EXPIRATION_DATE": 1724544000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1065 Lake Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.133",
+        "LATITUDE": 36.362184,
+        "LONGITUDE": -89.38473499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05851199999995,
+          36.44451900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122230",
+        "PERMITTEE_NAME": "Kohler Company",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2000 North 5th Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122230",
+        "LATITUDE": 36.444519,
+        "LONGITUDE": -89.058512,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05172899999997,
+          36.452262000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059668",
+        "PERMITTEE_NAME": "Williams Food Works & Distribution, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "4009 GREENFIELD DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059668",
+        "LATITUDE": 36.452262,
+        "LONGITUDE": -89.051729,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01524799999999,
+          36.42070700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122389",
+        "PERMITTEE_NAME": "TRU-BILT Building Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "Section Line Road & Tyson Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122389",
+        "LATITUDE": 36.420707,
+        "LONGITUDE": -89.015248,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38097999999997,
+          36.36746000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.019",
+        "PERMITTEE_NAME": "Bernie Cheatham",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1589846400000,
+        "EFFECTIVE_DATE": 1589846400000,
+        "EXPIRATION_DATE": 1604102400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "1253 Lake Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.019",
+        "LATITUDE": 36.36746,
+        "LONGITUDE": -89.38098,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22222199999999,
+          36.46722200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "667008",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1766707200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "427NW Taylor Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:667008",
+        "LATITUDE": 36.467222,
+        "LONGITUDE": -89.222222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23140099999995,
+          36.41654300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00369",
+        "PERMITTEE_NAME": "Alexander Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "2859 Cecil Roberts Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00369",
+        "LATITUDE": 36.416543,
+        "LONGITUDE": -89.23140099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15629999999999,
+          36.33910000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.094",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1624579200000,
+        "EFFECTIVE_DATE": 1624579200000,
+        "EXPIRATION_DATE": 1782259200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "SR-3, Bridges over Troy Creek (L&R) at LM 10.38 and Davidson Creek (L&R) at LM 12.54",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.094",
+        "LATITUDE": 36.3391,
+        "LONGITUDE": -89.1563,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14292899999998,
+          36.33895400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.204",
+        "PERMITTEE_NAME": "Energy Transfer Crude Oil Pipeline, Obion County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1633046400000,
+        "EFFECTIVE_DATE": 1632700800000,
+        "EXPIRATION_DATE": 1790380800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "UNT to Troy Creek near 608 Thunder Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.204",
+        "LATITUDE": 36.338954,
+        "LONGITUDE": -89.142929,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.87432899999999,
+          36.416652000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.208",
+        "PERMITTEE_NAME": "Mike Holman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1631145600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Obion",
+        "SITE_LOCATION": "South Meadow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.208",
+        "LATITUDE": 36.416652,
+        "LONGITUDE": -88.874329,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

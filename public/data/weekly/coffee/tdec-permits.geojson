@@ -1,0 +1,4347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16321599999998,
+          35.534170000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.003",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1685404800000,
+        "EFFECTIVE_DATE": 1685404800000,
+        "EXPIRATION_DATE": 1843171200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "SR-2, Bridge over i-24, LM 8.23",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.003",
+        "LATITUDE": 35.534169999999996,
+        "LONGITUDE": -86.16321599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97157999999996,
+          35.580854000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4006",
+        "PERMITTEE_NAME": "Meadow Branch Farm LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Smith Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4006",
+        "LATITUDE": 35.580853999999995,
+        "LONGITUDE": -85.97158,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05720099999996,
+          35.46613600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183277",
+        "PERMITTEE_NAME": "Eric Dill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Expressway Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183277",
+        "LATITUDE": 35.466136,
+        "LONGITUDE": -86.05720099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01829099999998,
+          35.46071400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183297",
+        "PERMITTEE_NAME": "Little Leaf NC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1778 Asbury Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183297",
+        "LATITUDE": 35.460713999999996,
+        "LONGITUDE": -86.01829099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19659999999999,
+          35.36330000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183272",
+        "PERMITTEE_NAME": "BDT, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "633 East Carroll Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183272",
+        "LATITUDE": 35.3633,
+        "LONGITUDE": -86.1966,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22090499999996,
+          35.36096700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183250",
+        "PERMITTEE_NAME": "Curl Construction and Excavating, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "404 Cedar Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183250",
+        "LATITUDE": 35.360966999999995,
+        "LONGITUDE": -86.220905,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95085499999999,
+          35.427651000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183479",
+        "PERMITTEE_NAME": "Tommy Wright",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Little Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183479",
+        "LATITUDE": 35.427651,
+        "LONGITUDE": -85.95085499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24413199999998,
+          35.39014600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183501",
+        "PERMITTEE_NAME": "City of Tullahoma",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ledford Mill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183501",
+        "LATITUDE": 35.390146,
+        "LONGITUDE": -86.244132,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19947799999994,
+          35.34924200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183476",
+        "PERMITTEE_NAME": "Montgomery G. Turner, Sr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "South Jackson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183476",
+        "LATITUDE": 35.349242,
+        "LONGITUDE": -86.199478,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07057299999997,
+          35.476037000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183481",
+        "PERMITTEE_NAME": "City of Manchester",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hillwood Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183481",
+        "LATITUDE": 35.476037,
+        "LONGITUDE": -86.070573,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07553599999994,
+          35.48711100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192449",
+        "PERMITTEE_NAME": "DEMENT CONSTRUCTION GROUP, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "865 McMinnville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192449",
+        "LATITUDE": 35.487111,
+        "LONGITUDE": -86.075536,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09874999999994,
+          35.46606600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051586",
+        "PERMITTEE_NAME": "Manchester Public Works Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1782172800000,
+        "EFFECTIVE_DATE": 1782172800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1210 OAKALE STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051586",
+        "LATITUDE": 35.466066,
+        "LONGITUDE": -86.09875,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07542499999994,
+          35.50316600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183492",
+        "PERMITTEE_NAME": "Don Parker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Phillips Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183492",
+        "LATITUDE": 35.503166,
+        "LONGITUDE": -86.075425,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02996999999993,
+          35.45584900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4109",
+        "PERMITTEE_NAME": "Joey Hobbs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1775433600000,
+        "EFFECTIVE_DATE": 1775433600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Asbury Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4109",
+        "LATITUDE": 35.455849,
+        "LONGITUDE": -86.02996999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14529999999996,
+          35.636900000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4086",
+        "PERMITTEE_NAME": "Coffee County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764547200000,
+        "EFFECTIVE_DATE": 1764547200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ferrells Loop Road over Duck River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4086",
+        "LATITUDE": 35.636900000000004,
+        "LONGITUDE": -86.1453,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22249999999997,
+          35.366300000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.303a",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765411200000,
+        "EFFECTIVE_DATE": 1765411200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "SR-55 from First Avenue to SR-16 (N Jackson St)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.303a",
+        "LATITUDE": 35.3663,
+        "LONGITUDE": -86.22250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22249999999997,
+          35.366300000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.303c",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765411200000,
+        "EFFECTIVE_DATE": 1765411200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "SR-55 from First Avenue to SR-16 (N Jackson St)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.303c",
+        "LATITUDE": 35.3663,
+        "LONGITUDE": -86.22250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22249999999997,
+          35.366300000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.303b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765411200000,
+        "EFFECTIVE_DATE": 1765411200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "SR-55 from First Avenue to SR-16 (N Jackson St)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.303b",
+        "LATITUDE": 35.3663,
+        "LONGITUDE": -86.22250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07930599999997,
+          35.48040700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.116",
+        "PERMITTEE_NAME": "City of Manchester",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1790553600000,
+        "EFFECTIVE_DATE": 1790553600000,
+        "EXPIRATION_DATE": 1948233600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Mile 14.1 SR-55",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.116",
+        "LATITUDE": 35.480407,
+        "LONGITUDE": -86.079306,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07229999999998,
+          35.46590000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183409",
+        "PERMITTEE_NAME": "Wesley Parker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Summer Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183409",
+        "LATITUDE": 35.465900000000005,
+        "LONGITUDE": -86.0723,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02779999999996,
+          35.49690000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4087",
+        "PERMITTEE_NAME": "Coffee County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764547200000,
+        "EFFECTIVE_DATE": 1764547200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ragsdale Road over Taylor Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4087",
+        "LATITUDE": 35.496900000000004,
+        "LONGITUDE": -86.0278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17829999999998,
+          35.37050000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183146",
+        "PERMITTEE_NAME": "Tennessee Army National Guard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1202 E Carroll Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183146",
+        "LATITUDE": 35.3705,
+        "LONGITUDE": -86.17830000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07102199999997,
+          35.490444000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183418",
+        "PERMITTEE_NAME": "Mike Bray",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ragsdale Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183418",
+        "LATITUDE": 35.490444,
+        "LONGITUDE": -86.071022,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89942999999994,
+          35.35208800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.156",
+        "PERMITTEE_NAME": "Allen Gilmer ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1657584000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "940 Bost Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.156",
+        "LATITUDE": 35.352087999999995,
+        "LONGITUDE": -85.89943,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19369999999998,
+          35.39191000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183162",
+        "PERMITTEE_NAME": "Allan Howard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Short Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183162",
+        "LATITUDE": 35.391909999999996,
+        "LONGITUDE": -86.1937,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20029999999997,
+          35.348100000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183166",
+        "PERMITTEE_NAME": "Proposed Townhome Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "New Rock Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183166",
+        "LATITUDE": 35.3481,
+        "LONGITUDE": -86.2003,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96217199999995,
+          35.53606000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182864",
+        "PERMITTEE_NAME": "Hall Excavation LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "2106 Hickory Grove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182864",
+        "LATITUDE": 35.53606,
+        "LONGITUDE": -85.962172,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.92778699999997,
+          35.31040400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.159",
+        "PERMITTEE_NAME": "Willis Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1659484800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "End of Joyce Lane off of Rutledge Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.159",
+        "LATITUDE": 35.310404,
+        "LONGITUDE": -85.927787,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24964999999997,
+          35.40020000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183258",
+        "PERMITTEE_NAME": "John D Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "2320 N Jackson St (U..S 41 A)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183258",
+        "LATITUDE": 35.400200000000005,
+        "LONGITUDE": -86.24965,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03414799999996,
+          35.44924000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.3987",
+        "PERMITTEE_NAME": "Coffee County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1742169600000,
+        "EFFECTIVE_DATE": 1742169600000,
+        "EXPIRATION_DATE": 1773619200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "3292 Hillsboro Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.3987",
+        "LATITUDE": 35.449239999999996,
+        "LONGITUDE": -86.034148,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04553399999998,
+          35.375617000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183329",
+        "PERMITTEE_NAME": "Joseph Baxter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Area E Laydown Fifth Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183329",
+        "LATITUDE": 35.375617,
+        "LONGITUDE": -86.04553399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20588199999997,
+          35.35310800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4027",
+        "PERMITTEE_NAME": "The City of Tullahoma",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748995200000,
+        "EFFECTIVE_DATE": 1748995200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "South Jefferson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4027",
+        "LATITUDE": 35.353108,
+        "LONGITUDE": -86.205882,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01239899999996,
+          35.58966300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4009",
+        "PERMITTEE_NAME": "Meadow Branch Farm LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "78 Mud Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4009",
+        "LATITUDE": 35.589663,
+        "LONGITUDE": -86.012399,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97394099999997,
+          35.59145900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4008",
+        "PERMITTEE_NAME": "Meadow Branch Farm LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "2808 Shady Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4008",
+        "LATITUDE": 35.591459,
+        "LONGITUDE": -85.973941,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04865999999998,
+          35.45737200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183349",
+        "PERMITTEE_NAME": "Wawa, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "24 Campground Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183349",
+        "LATITUDE": 35.457372,
+        "LONGITUDE": -86.04866,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12553499999996,
+          35.45252900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183475",
+        "PERMITTEE_NAME": "Curl Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Big Sky Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183475",
+        "LATITUDE": 35.452529,
+        "LONGITUDE": -86.125535,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07102199999997,
+          35.490444000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4121",
+        "PERMITTEE_NAME": "Billy R Hall",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776729600000,
+        "EFFECTIVE_DATE": 1776729600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ragsdale Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4121",
+        "LATITUDE": 35.490444,
+        "LONGITUDE": -86.071022,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19369999999998,
+          35.39191000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183162.01",
+        "PERMITTEE_NAME": "Ole South Properties, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Short Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183162.01",
+        "LATITUDE": 35.391909999999996,
+        "LONGITUDE": -86.1937,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07709999999997,
+          35.485700000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183378",
+        "PERMITTEE_NAME": "Nick Patel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hwy 55",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183378",
+        "LATITUDE": 35.4857,
+        "LONGITUDE": -86.0771,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20010599999995,
+          35.35916800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183388",
+        "PERMITTEE_NAME": "Summit Builders Corp",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "308 E CARROLL ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183388",
+        "LATITUDE": 35.359168,
+        "LONGITUDE": -86.20010599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04030499999999,
+          35.444439000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.036",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765324800000,
+        "EFFECTIVE_DATE": 1765324800000,
+        "EXPIRATION_DATE": 1906329600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "S of Joe Hickerson Road and W of Volunteer Court",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.036",
+        "LATITUDE": 35.444438999999996,
+        "LONGITUDE": -86.04030499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06663799999995,
+          35.48273300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051473",
+        "PERMITTEE_NAME": "Jimmy Sain dba Sain Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771977600000,
+        "EFFECTIVE_DATE": 1771977600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "226 NEW BUSHY BRANCH RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051473",
+        "LATITUDE": 35.482732999999996,
+        "LONGITUDE": -86.066638,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12553499999996,
+          35.45252900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183392",
+        "PERMITTEE_NAME": "Curl Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Big Sky Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183392",
+        "LATITUDE": 35.452529,
+        "LONGITUDE": -86.125535,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02996999999993,
+          35.45584900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183431",
+        "PERMITTEE_NAME": "City of Manchester",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Asbury Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183431",
+        "LATITUDE": 35.455849,
+        "LONGITUDE": -86.02996999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04166999999995,
+          35.44551800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051452",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769385600000,
+        "EFFECTIVE_DATE": 1769385600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "490 VOLUNTEER COURT",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051452",
+        "LATITUDE": 35.445518,
+        "LONGITUDE": -86.04167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08848699999999,
+          35.484429000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.107",
+        "PERMITTEE_NAME": "City of Manchester",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789603200000,
+        "EFFECTIVE_DATE": 1789516800000,
+        "EXPIRATION_DATE": 1947283200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Various locations throughout Manchester, TN 37355",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.107",
+        "LATITUDE": 35.484429,
+        "LONGITUDE": -86.088487,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97182399999997,
+          35.396614000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059949",
+        "PERMITTEE_NAME": "Trey Morgan dba Morgan Waste Area",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763942400000,
+        "EFFECTIVE_DATE": 1763942400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "704 PRAIRIE PLAINS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059949",
+        "LATITUDE": 35.396614,
+        "LONGITUDE": -85.971824,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19279899999998,
+          35.34625600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183008",
+        "PERMITTEE_NAME": "Freedom Industries, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1400 S Washington Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183008",
+        "LATITUDE": 35.346256,
+        "LONGITUDE": -86.192799,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11349999999999,
+          35.492200000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183006",
+        "PERMITTEE_NAME": "Ole South Properties, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Country Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183006",
+        "LATITUDE": 35.492200000000004,
+        "LONGITUDE": -86.1135,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07539999999995,
+          35.499100000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183012",
+        "PERMITTEE_NAME": "Don Parker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Interstate Drive and Phillips Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183012",
+        "LATITUDE": 35.4991,
+        "LONGITUDE": -86.0754,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93864999999994,
+          35.36054500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4049",
+        "PERMITTEE_NAME": "Hillsville Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754006400000,
+        "EFFECTIVE_DATE": 1754006400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hillsboro Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4049",
+        "LATITUDE": 35.360545,
+        "LONGITUDE": -85.93865,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17438199999998,
+          35.38216100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183373",
+        "PERMITTEE_NAME": "Joe Denby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Stewart Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183373",
+        "LATITUDE": 35.382160999999996,
+        "LONGITUDE": -86.174382,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24393299999997,
+          35.39035800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.025",
+        "PERMITTEE_NAME": "Tullahoma Utilities Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1687910400000,
+        "EFFECTIVE_DATE": 1687910400000,
+        "EXPIRATION_DATE": 1845676800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "2111 N JACKSON ST STE 105",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.025",
+        "LATITUDE": 35.390358,
+        "LONGITUDE": -86.243933,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25574999999998,
+          35.371590000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182595",
+        "PERMITTEE_NAME": "Chris Rowland",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1358 Old Shelbyville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182595",
+        "LATITUDE": 35.37159,
+        "LONGITUDE": -86.25574999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10977299999996,
+          35.495840000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183370",
+        "PERMITTEE_NAME": "Scot St. John",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Country Club Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183370",
+        "LATITUDE": 35.49584,
+        "LONGITUDE": -86.10977299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20895699999994,
+          35.34769200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056768",
+        "PERMITTEE_NAME": "Tullahoma Public Works Facility",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "942 MAPLEWOOD AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056768",
+        "LATITUDE": 35.347691999999995,
+        "LONGITUDE": -86.208957,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23348299999998,
+          35.376558000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183340",
+        "PERMITTEE_NAME": "National Healthcare Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1339 Cedar Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183340",
+        "LATITUDE": 35.376557999999996,
+        "LONGITUDE": -86.23348299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96939399999997,
+          35.41630500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192372",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "SR-127 - Bradley Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192372",
+        "LATITUDE": 35.416305,
+        "LONGITUDE": -85.969394,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94000999999997,
+          35.36337200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183358",
+        "PERMITTEE_NAME": "Hillsville Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Highway 41 (Hillsboro Hwy)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183358",
+        "LATITUDE": 35.363372,
+        "LONGITUDE": -85.94001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21959999999996,
+          35.33914000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183324",
+        "PERMITTEE_NAME": "Joe Denby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Westside Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183324",
+        "LATITUDE": 35.33914,
+        "LONGITUDE": -86.2196,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23169999999999,
+          35.374100000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183278",
+        "PERMITTEE_NAME": "Frank Throneberry",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Cedar Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183278",
+        "LATITUDE": 35.3741,
+        "LONGITUDE": -86.2317,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07539999999995,
+          35.499100000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183012.01",
+        "PERMITTEE_NAME": "Castle Rock Communities Tennessee,LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Interstate Drive and Phillips Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183012.01",
+        "LATITUDE": 35.4991,
+        "LONGITUDE": -86.0754,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19580799999994,
+          35.35303000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183317",
+        "PERMITTEE_NAME": "Mr. Flippy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1020 Old Estill Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183317",
+        "LATITUDE": 35.35303,
+        "LONGITUDE": -86.195808,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17159999999996,
+          35.38360000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183279",
+        "PERMITTEE_NAME": "Jeff Lowe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "East Lincoln Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183279",
+        "LATITUDE": 35.3836,
+        "LONGITUDE": -86.1716,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96573399999994,
+          35.59052900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4407",
+        "PERMITTEE_NAME": "Meadow Branch Farm LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "615 Martin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4407",
+        "LATITUDE": 35.590529,
+        "LONGITUDE": -85.965734,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03222199999999,
+          35.53083300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183326",
+        "PERMITTEE_NAME": "Coffee County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Wayside Acres Subidivision",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183326",
+        "LATITUDE": 35.530833,
+        "LONGITUDE": -86.03222199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21199999999999,
+          35.36513000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059130",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "315 NW Atlantic Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059130",
+        "LATITUDE": 35.36513,
+        "LONGITUDE": -86.212,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24309999999997,
+          35.36540000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183300",
+        "PERMITTEE_NAME": "Craig Brock",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Wilson Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183300",
+        "LATITUDE": 35.3654,
+        "LONGITUDE": -86.2431,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22378199999997,
+          35.38200100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183333",
+        "PERMITTEE_NAME": "Centerstone of Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1816 N Washington Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183333",
+        "LATITUDE": 35.382000999999995,
+        "LONGITUDE": -86.223782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21959999999996,
+          35.39710000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183111",
+        "PERMITTEE_NAME": "Allan Howard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Riley Creek Road and Ovoca Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183111",
+        "LATITUDE": 35.3971,
+        "LONGITUDE": -86.2196,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25559999999996,
+          35.36340000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182732.01",
+        "PERMITTEE_NAME": "Ole South Properties, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "North Side Wilson Ave & West of Sharondale Dri.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182732.01",
+        "LATITUDE": 35.3634,
+        "LONGITUDE": -86.2556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17061199999995,
+          35.47013300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.143",
+        "PERMITTEE_NAME": "Sadhish Siva",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1721952000000,
+        "EFFECTIVE_DATE": 1721952000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "2011 M.G. England Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.143",
+        "LATITUDE": 35.470133,
+        "LONGITUDE": -86.17061199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01789699999995,
+          35.414562000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192309",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Wattendorf Memorial Hwy/AEDC Rd Bridge over I-24 (L.M. 7.67)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192309",
+        "LATITUDE": 35.414562,
+        "LONGITUDE": -86.01789699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07564899999994,
+          35.466559000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182957",
+        "PERMITTEE_NAME": "Hills Chapel Road Sidewalk Phase 2",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hills Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182957",
+        "LATITUDE": 35.466559,
+        "LONGITUDE": -86.075649,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22249999999997,
+          35.366300000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192212",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "SR-55 from First Avenue to SR-16 (N Jackson St)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192212",
+        "LATITUDE": 35.3663,
+        "LONGITUDE": -86.22250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17438199999998,
+          35.38216100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183165",
+        "PERMITTEE_NAME": "Joe Denby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Stewart Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183165",
+        "LATITUDE": 35.382160999999996,
+        "LONGITUDE": -86.174382,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22550299999995,
+          35.365942000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183204",
+        "PERMITTEE_NAME": "C & P Investment Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "622 Wilson Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183204",
+        "LATITUDE": 35.365942,
+        "LONGITUDE": -86.22550299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24779999999998,
+          35.398600000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183152",
+        "PERMITTEE_NAME": "Joe Denby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Flowertown and North Jackson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183152",
+        "LATITUDE": 35.3986,
+        "LONGITUDE": -86.2478,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09051899999997,
+          35.46559300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183160",
+        "PERMITTEE_NAME": "Curl Construction and Excavating, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "S Spring Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183160",
+        "LATITUDE": 35.465593,
+        "LONGITUDE": -86.090519,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19659999999999,
+          35.36330000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183174",
+        "PERMITTEE_NAME": "BDT, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "633 East Carroll Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183174",
+        "LATITUDE": 35.3633,
+        "LONGITUDE": -86.1966,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20192299999997,
+          35.37092000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183243",
+        "PERMITTEE_NAME": "New Doors Development Group, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "801 East Moore Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183243",
+        "LATITUDE": 35.37092,
+        "LONGITUDE": -86.201923,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21689999999995,
+          35.416900000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183052",
+        "PERMITTEE_NAME": "Allan Howard",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Copperas Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183052",
+        "LATITUDE": 35.4169,
+        "LONGITUDE": -86.21690000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10490599999997,
+          35.49229200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.200",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1717718400000,
+        "EFFECTIVE_DATE": 1780272000000,
+        "EXPIRATION_DATE": 1875398400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Campground Road, replace bridge over Duck River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.200",
+        "LATITUDE": 35.492292,
+        "LONGITUDE": -86.104906,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11999999999995,
+          35.50550000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183199",
+        "PERMITTEE_NAME": "Umbarger/Ross",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hwy 41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183199",
+        "LATITUDE": 35.505500000000005,
+        "LONGITUDE": -86.12,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96939399999997,
+          35.41630500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.111",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752019200000,
+        "EFFECTIVE_DATE": 1752019200000,
+        "EXPIRATION_DATE": 1909699200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "SR-127 - Bradley Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.111",
+        "LATITUDE": 35.416305,
+        "LONGITUDE": -85.969394,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04595999999998,
+          35.45972500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.150",
+        "PERMITTEE_NAME": "Manchester Pointe, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1739491200000,
+        "EFFECTIVE_DATE": 1738886400000,
+        "EXPIRATION_DATE": 1896652800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Truckers Lane, Manchester, Coffee County, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.150",
+        "LATITUDE": 35.459725,
+        "LONGITUDE": -86.04596,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04166999999995,
+          35.44551800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183231",
+        "PERMITTEE_NAME": "Tony Russo/Rogers Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "490 VOLUNTEER COURT",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183231",
+        "LATITUDE": 35.445518,
+        "LONGITUDE": -86.04167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22315799999996,
+          35.38295100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183249",
+        "PERMITTEE_NAME": "Joe Denby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Kings Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183249",
+        "LATITUDE": 35.382951,
+        "LONGITUDE": -86.223158,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03414799999996,
+          35.44924000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183259",
+        "PERMITTEE_NAME": "Coffee County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "3292 Hillsboro Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183259",
+        "LATITUDE": 35.449239999999996,
+        "LONGITUDE": -86.034148,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01829099999998,
+          35.46071400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.2414",
+        "PERMITTEE_NAME": "Little Leaf NC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748822400000,
+        "EFFECTIVE_DATE": 1748822400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1778 Asbury Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.2414",
+        "LATITUDE": 35.460713999999996,
+        "LONGITUDE": -86.01829099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12953799999997,
+          35.40229900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183198",
+        "PERMITTEE_NAME": "Coffee County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Joint Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183198",
+        "LATITUDE": 35.402299,
+        "LONGITUDE": -86.129538,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10490599999997,
+          35.49229200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192262",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Campground Road, replace bridge over Duck River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192262",
+        "LATITUDE": 35.492292,
+        "LONGITUDE": -86.104906,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10699999999997,
+          35.503100000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183119",
+        "PERMITTEE_NAME": "Allan Howard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hwy 41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183119",
+        "LATITUDE": 35.5031,
+        "LONGITUDE": -86.107,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04991299999995,
+          35.45494400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182923",
+        "PERMITTEE_NAME": "Jalaram Krupa Investments, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "2314 Hillsboro Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182923",
+        "LATITUDE": 35.454944,
+        "LONGITUDE": -86.04991299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08061199999997,
+          35.476598000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183058",
+        "PERMITTEE_NAME": "Club Car Wash Manchester Hillsboro, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "701 HILLSBORO BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183058",
+        "LATITUDE": 35.476597999999996,
+        "LONGITUDE": -86.080612,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18429899999995,
+          35.37491200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183031",
+        "PERMITTEE_NAME": "Amnon Shreibman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1800 E Lincoln Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183031",
+        "LATITUDE": 35.374912,
+        "LONGITUDE": -86.184299,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02560199999994,
+          35.434379000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.160",
+        "PERMITTEE_NAME": "Black Rifle Coffee Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1714953600000,
+        "EFFECTIVE_DATE": 1714694400000,
+        "EXPIRATION_DATE": 1872374400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "621 PARKTOWER ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.160",
+        "LATITUDE": 35.434379,
+        "LONGITUDE": -86.02560199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24902899999995,
+          35.38694000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183091",
+        "PERMITTEE_NAME": "Jeff Jackson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "NW Taxiway Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183091",
+        "LATITUDE": 35.386939999999996,
+        "LONGITUDE": -86.249029,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09684299999998,
+          35.476131000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183055",
+        "PERMITTEE_NAME": "Curl Construction and Excavating, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "West End Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183055",
+        "LATITUDE": 35.476130999999995,
+        "LONGITUDE": -86.09684299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08075899999994,
+          35.498109000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183054",
+        "PERMITTEE_NAME": "Swanson Development, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "South of Interstate Drive and North of Interstate 24",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183054",
+        "LATITUDE": 35.498109,
+        "LONGITUDE": -86.080759,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12891699999994,
+          35.40124700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050652",
+        "PERMITTEE_NAME": "BFS Operations LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757980800000,
+        "EFFECTIVE_DATE": 1757980800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "152 JOINT PARK BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050652",
+        "LATITUDE": 35.401247,
+        "LONGITUDE": -86.128917,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21549999999996,
+          35.353000000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183087",
+        "PERMITTEE_NAME": "Tullahoma City Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Farrah Elementary School \r\n Westside Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183087",
+        "LATITUDE": 35.353,
+        "LONGITUDE": -86.2155,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23449999999997,
+          35.33230000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183023",
+        "PERMITTEE_NAME": "Joe Denby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Turkey Creek and Holt Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183023",
+        "LATITUDE": 35.332300000000004,
+        "LONGITUDE": -86.2345,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24413199999998,
+          35.39014600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.075",
+        "PERMITTEE_NAME": "City of Tullahoma",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1729555200000,
+        "EFFECTIVE_DATE": 1729555200000,
+        "EXPIRATION_DATE": 1887408000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ledford Mill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.075",
+        "LATITUDE": 35.390146,
+        "LONGITUDE": -86.244132,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21839999999997,
+          35.39990000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183076",
+        "PERMITTEE_NAME": "Howard Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ovoca Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183076",
+        "LATITUDE": 35.3999,
+        "LONGITUDE": -86.2184,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12553499999996,
+          35.45252900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182739",
+        "PERMITTEE_NAME": "Curl Construction and Excavating, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Big Sky Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182739",
+        "LATITUDE": 35.452529,
+        "LONGITUDE": -86.125535,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02018599999997,
+          35.43522600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.051",
+        "PERMITTEE_NAME": "Ravago Manufacturing Americas",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1670803200000,
+        "EFFECTIVE_DATE": 1670803200000,
+        "EXPIRATION_DATE": 1828483200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "405 Park Tower Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.051",
+        "LATITUDE": 35.435226,
+        "LONGITUDE": -86.020186,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02644499999997,
+          35.44606500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.136",
+        "PERMITTEE_NAME": "Hillsville Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1696896000000,
+        "EFFECTIVE_DATE": 1696896000000,
+        "EXPIRATION_DATE": 1854748800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hwy 41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.136",
+        "LATITUDE": 35.446065,
+        "LONGITUDE": -86.026445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08917099999996,
+          35.47403300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182962",
+        "PERMITTEE_NAME": "City of Manchester",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Coffee Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182962",
+        "LATITUDE": 35.474033,
+        "LONGITUDE": -86.089171,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04595999999998,
+          35.45972500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182891",
+        "PERMITTEE_NAME": "Manchester Pointe, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Truckers Lane, Manchester, Coffee County, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182891",
+        "LATITUDE": 35.459725,
+        "LONGITUDE": -86.04596,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21959599999997,
+          35.39076000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183098",
+        "PERMITTEE_NAME": "City of Tullahoma",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ovoca Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183098",
+        "LATITUDE": 35.39076,
+        "LONGITUDE": -86.219596,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24699999999996,
+          35.38840000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182885",
+        "PERMITTEE_NAME": "Harney Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ledford Mills Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182885",
+        "LATITUDE": 35.388400000000004,
+        "LONGITUDE": -86.247,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18809999999996,
+          35.445700000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.201",
+        "PERMITTEE_NAME": "Duck River Utility Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1710460800000,
+        "EFFECTIVE_DATE": 1710460800000,
+        "EXPIRATION_DATE": 1868140800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "3131 JD Neil Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.201",
+        "LATITUDE": 35.4457,
+        "LONGITUDE": -86.1881,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17829999999998,
+          35.37050000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182865",
+        "PERMITTEE_NAME": "Tennessee Army National Guard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1202 E Carroll Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182865",
+        "LATITUDE": 35.3705,
+        "LONGITUDE": -86.17830000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08578499999999,
+          35.467021000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182988",
+        "PERMITTEE_NAME": "Timothy Crowder / McDonald's Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1107 McArthur Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182988",
+        "LATITUDE": 35.467020999999995,
+        "LONGITUDE": -86.085785,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23699799999997,
+          35.39190000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182973",
+        "PERMITTEE_NAME": "DCC Strategic Realty Partners, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "106 Flowertown Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182973",
+        "LATITUDE": 35.3919,
+        "LONGITUDE": -86.236998,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25409999999994,
+          35.39170000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182847",
+        "PERMITTEE_NAME": "Matt Hayes Legacy Lake Homes, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ledford Mill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182847",
+        "LATITUDE": 35.3917,
+        "LONGITUDE": -86.25410000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89942999999994,
+          35.35208800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.199",
+        "PERMITTEE_NAME": "Allen Gilmer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1664409600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "940 Bost Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.199",
+        "LATITUDE": 35.352087999999995,
+        "LONGITUDE": -85.89943,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21259999999995,
+          35.39710000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182846",
+        "PERMITTEE_NAME": "Harton Family Partners I, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Country Club Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182846",
+        "LATITUDE": 35.3971,
+        "LONGITUDE": -86.21260000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19474599999995,
+          35.36182400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053555",
+        "PERMITTEE_NAME": "United Parcel Service, Inc. - Tullahoma",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "106 Mitchell Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053555",
+        "LATITUDE": 35.361824,
+        "LONGITUDE": -86.194746,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01370499999996,
+          35.45165000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182853",
+        "PERMITTEE_NAME": "Dot Foods Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "600 Manchester Industrial Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182853",
+        "LATITUDE": 35.45165,
+        "LONGITUDE": -86.013705,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07102199999997,
+          35.490444000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182949",
+        "PERMITTEE_NAME": "Vesta Housing Solutions, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ragsdale Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182949",
+        "LATITUDE": 35.490444,
+        "LONGITUDE": -86.071022,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06062999999995,
+          35.50236000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182918",
+        "PERMITTEE_NAME": "Ray Selk",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hwy 55 McMinnville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182918",
+        "LATITUDE": 35.502359999999996,
+        "LONGITUDE": -86.06062999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12891699999994,
+          35.40124700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182782",
+        "PERMITTEE_NAME": "Builders First Source",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "152 JOINT PARK BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182782",
+        "LATITUDE": 35.401247,
+        "LONGITUDE": -86.128917,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07819999999998,
+          35.398600000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182794",
+        "PERMITTEE_NAME": "Arnold Air Force Base",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Wattendorf Memorial Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182794",
+        "LATITUDE": 35.3986,
+        "LONGITUDE": -86.07820000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23619999999994,
+          35.39050000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182791",
+        "PERMITTEE_NAME": "Tullahoma Hotel Group, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Hoover Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182791",
+        "LATITUDE": 35.3905,
+        "LONGITUDE": -86.23620000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09083299999998,
+          35.47138800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110061",
+        "PERMITTEE_NAME": "imi Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1668556800000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "213 East Coffee Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110061",
+        "LATITUDE": 35.471388,
+        "LONGITUDE": -86.09083299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24472199999997,
+          35.43777800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050073",
+        "PERMITTEE_NAME": "Diageo Americas Supply, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1950 Cascade Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050073",
+        "LATITUDE": 35.437778,
+        "LONGITUDE": -86.244722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09775599999995,
+          35.45892200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110294",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1670976000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1620 Old Tullahoma Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110294",
+        "LATITUDE": 35.458922,
+        "LONGITUDE": -86.09775599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04723899999999,
+          35.379043000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053487",
+        "PERMITTEE_NAME": "Arnold Engineering Development Center",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": 1764720000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "100 Kindel DriveCOFFEE AND FRANKLIN COUNTIES",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053487",
+        "LATITUDE": 35.379042999999996,
+        "LONGITUDE": -86.04723899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04723899999999,
+          35.379043000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053036",
+        "PERMITTEE_NAME": "Arnold Engineering Development Center - Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765756800000,
+        "EFFECTIVE_DATE": 1765756800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "100 Kindel DriveCOFFEE AND FRANKLIN COUNTIES",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053036",
+        "LATITUDE": 35.379042999999996,
+        "LONGITUDE": -86.04723899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18604099999999,
+          35.36310400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056585",
+        "PERMITTEE_NAME": "Ventek Solutions LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "207 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056585",
+        "LATITUDE": 35.363104,
+        "LONGITUDE": -86.186041,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23939999999999,
+          35.38070000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053596",
+        "PERMITTEE_NAME": "TE Connectivity Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758672000000,
+        "EFFECTIVE_DATE": 1758672000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "509 AIRPARK DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053596",
+        "LATITUDE": 35.380700000000004,
+        "LONGITUDE": -86.2394,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15968199999998,
+          35.38668800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050973",
+        "PERMITTEE_NAME": "C.F.C. Recycling, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "54 Recycle Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050973",
+        "LATITUDE": 35.386688,
+        "LONGITUDE": -86.15968199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08120999999994,
+          35.54585000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056250",
+        "PERMITTEE_NAME": "PRO METAL RECYCLING LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759795200000,
+        "EFFECTIVE_DATE": 1759795200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "4134 Woodbury Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056250",
+        "LATITUDE": 35.54585,
+        "LONGITUDE": -86.08121,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03437799999995,
+          35.45320700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053975",
+        "PERMITTEE_NAME": "LKQ Southeast, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760572800000,
+        "EFFECTIVE_DATE": 1760572800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "3055 HILLSBORO HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053975",
+        "LATITUDE": 35.453207,
+        "LONGITUDE": -86.03437799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03515499999997,
+          35.43877100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054339",
+        "PERMITTEE_NAME": "ACME Mechanical Contractors, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "612 VOLUNTEER PKWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054339",
+        "LATITUDE": 35.438770999999996,
+        "LONGITUDE": -86.035155,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20943999999997,
+          35.36194000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS077631",
+        "PERMITTEE_NAME": "City of Tullahoma",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1671408000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Tullahoma",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS077631",
+        "LATITUDE": 35.36194,
+        "LONGITUDE": -86.20944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08138899999994,
+          35.502500000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054275",
+        "PERMITTEE_NAME": "K & S Steel Fabricators Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753315200000,
+        "EFFECTIVE_DATE": 1753315200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "828 Interstate Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054275",
+        "LATITUDE": 35.502500000000005,
+        "LONGITUDE": -86.081389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19777799999997,
+          35.35388900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056725",
+        "PERMITTEE_NAME": "Marine Master Trailers, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1011 South Washington Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056725",
+        "LATITUDE": 35.353888999999995,
+        "LONGITUDE": -86.197778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02972199999994,
+          35.43416700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051524",
+        "PERMITTEE_NAME": "Kasai North America, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1020 Volunteer Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051524",
+        "LATITUDE": 35.434166999999995,
+        "LONGITUDE": -86.02972199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20069999999998,
+          35.35560000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056772",
+        "PERMITTEE_NAME": "U.S. Display Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "810 South Washington Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056772",
+        "LATITUDE": 35.3556,
+        "LONGITUDE": -86.2007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20105799999999,
+          35.36154600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056811",
+        "PERMITTEE_NAME": "H.J. Walker Oil Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766361600000,
+        "EFFECTIVE_DATE": 1766361600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "403 SOUTH ANDERSON STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056811",
+        "LATITUDE": 35.361546,
+        "LONGITUDE": -86.20105799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03057499999994,
+          35.43692400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058174",
+        "PERMITTEE_NAME": "Newell Brands Sanford - Manchester Facility",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "831 Volunteer Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058174",
+        "LATITUDE": 35.436924,
+        "LONGITUDE": -86.030575,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08917899999994,
+          35.48372500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS088331",
+        "PERMITTEE_NAME": "City of Manchester",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1670457600000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "200 W. Fort Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS088331",
+        "LATITUDE": 35.483725,
+        "LONGITUDE": -86.089179,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20482599999997,
+          35.35501800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058742",
+        "PERMITTEE_NAME": "Ferro Designs LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "701 S. Jackson St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058742",
+        "LATITUDE": 35.355018,
+        "LONGITUDE": -86.204826,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20936599999999,
+          35.34499400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB023469",
+        "PERMITTEE_NAME": "Tullahoma STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1012 S. Franklin St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB023469",
+        "LATITUDE": 35.344994,
+        "LONGITUDE": -86.209366,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24083299999995,
+          35.43861100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "167004",
+        "PERMITTEE_NAME": "Cascade Hollow Distilling Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1783492521000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1812412800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "86nw Trib-cascade Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:167004",
+        "LATITUDE": 35.438611,
+        "LONGITUDE": -86.240833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10916699999996,
+          35.48416700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "167007",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1759363200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "86ne Duck River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:167007",
+        "LATITUDE": 35.484167,
+        "LONGITUDE": -86.109167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13944399999997,
+          35.65138900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "167008",
+        "PERMITTEE_NAME": "Lakewood Park Trustees",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1759190400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "85nw Trib-duck River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:167008",
+        "LATITUDE": 35.651389,
+        "LONGITUDE": -86.139444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14444399999996,
+          35.65138900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "167009",
+        "PERMITTEE_NAME": "Lakewood Park Trustees",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "85nw Trib-duck River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:167009",
+        "LATITUDE": 35.651389,
+        "LONGITUDE": -86.144444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12029999999999,
+          35.50180000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR181753",
+        "PERMITTEE_NAME": "Mike Gipson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Highway 41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR181753",
+        "LATITUDE": 35.5018,
+        "LONGITUDE": -86.1203,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20638899999994,
+          35.40055600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "167003",
+        "PERMITTEE_NAME": "Lake Tullahoma, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1636329600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "86nw Carroll Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:167003",
+        "LATITUDE": 35.400556,
+        "LONGITUDE": -86.206389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95182899999998,
+          35.44729200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.189",
+        "PERMITTEE_NAME": "Jones Brothers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1529020800000,
+        "EFFECTIVE_DATE": 1529020800000,
+        "EXPIRATION_DATE": 1686787200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "4248 Old Airport Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.189",
+        "LATITUDE": 35.447292,
+        "LONGITUDE": -85.95182899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18700199999995,
+          35.37127300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059470",
+        "PERMITTEE_NAME": "Real Wood Products Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754524800000,
+        "EFFECTIVE_DATE": 1754524800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "152 FREEMAN ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059470",
+        "LATITUDE": 35.371272999999995,
+        "LONGITUDE": -86.18700199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01469999999995,
+          35.418900000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.283",
+        "PERMITTEE_NAME": "Love's Travel Stop & Country Stores, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1587427200000,
+        "EFFECTIVE_DATE": 1587427200000,
+        "EXPIRATION_DATE": 1745107200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "ADEC Road & Interstate 24",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.283",
+        "LATITUDE": 35.4189,
+        "LONGITUDE": -86.0147,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01311499999997,
+          35.42507100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182193",
+        "PERMITTEE_NAME": "Lawson Real Estate, G.P.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "AEDC Access Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182193",
+        "LATITUDE": 35.425070999999996,
+        "LONGITUDE": -86.013115,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03666399999997,
+          35.44460000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059600",
+        "PERMITTEE_NAME": "Capital Waste Services, LLC dba Manchester Transfer, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "490 VOLUNTEER CT",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059600",
+        "LATITUDE": 35.4446,
+        "LONGITUDE": -86.036664,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18623999999994,
+          35.36307500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059661",
+        "PERMITTEE_NAME": "JSP International LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755734400000,
+        "EFFECTIVE_DATE": 1755734400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "207 Industrial Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059661",
+        "LATITUDE": 35.363074999999995,
+        "LONGITUDE": -86.18624,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08739999999995,
+          35.49840000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182432",
+        "PERMITTEE_NAME": "Yashpal Tanwar",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Highway 53",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182432",
+        "LATITUDE": 35.498400000000004,
+        "LONGITUDE": -86.0874,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02715299999994,
+          35.43622200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059817",
+        "PERMITTEE_NAME": "Chris Green",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763683200000,
+        "EFFECTIVE_DATE": 1763683200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1021 VOLUNTEER PKWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059817",
+        "LATITUDE": 35.436222,
+        "LONGITUDE": -86.027153,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06329999999997,
+          35.45750000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182552",
+        "PERMITTEE_NAME": "Allan Howard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Doak Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182552",
+        "LATITUDE": 35.4575,
+        "LONGITUDE": -86.0633,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02560199999994,
+          35.434379000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059866",
+        "PERMITTEE_NAME": "Black Rifle Coffee Company LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761091200000,
+        "EFFECTIVE_DATE": 1761091200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "621 PARKTOWER ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059866",
+        "LATITUDE": 35.434379,
+        "LONGITUDE": -86.02560199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25559999999996,
+          35.36340000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182732",
+        "PERMITTEE_NAME": "Stillwater Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "North Side Wilson Ave & West of Sharondale Dri.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182732",
+        "LATITUDE": 35.3634,
+        "LONGITUDE": -86.2556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06944399999998,
+          35.50000000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051158",
+        "PERMITTEE_NAME": "Batesville Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761004800000,
+        "EFFECTIVE_DATE": 1761004800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "175 Monogard Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051158",
+        "LATITUDE": 35.5,
+        "LONGITUDE": -86.06944399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05949999999996,
+          35.44890000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182593",
+        "PERMITTEE_NAME": "Chad Chaudhury",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "Ester Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182593",
+        "LATITUDE": 35.4489,
+        "LONGITUDE": -86.0595,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07019999999994,
+          35.49350000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182677",
+        "PERMITTEE_NAME": "Speedway LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Coffee",
+        "SITE_LOCATION": "1380 McMinnville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182677",
+        "LATITUDE": 35.493500000000004,
+        "LONGITUDE": -86.0702,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

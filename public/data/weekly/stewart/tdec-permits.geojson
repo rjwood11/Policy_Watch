@@ -1,0 +1,1305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84201899999994,
+          36.48990300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.102",
+        "PERMITTEE_NAME": "U.S. Army Corps of Engineers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1660003200000,
+        "EFFECTIVE_DATE": 1659916800000,
+        "EXPIRATION_DATE": 1817596800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Forest Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.102",
+        "LATITUDE": 36.489903,
+        "LONGITUDE": -87.842019,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83751299999994,
+          36.60692800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.101",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756252800000,
+        "EFFECTIVE_DATE": 1756252800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "SR-120 at Log Mile 9.658",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.101",
+        "LATITUDE": 36.606927999999996,
+        "LONGITUDE": -87.837513,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.81905599999999,
+          36.49767000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.227",
+        "PERMITTEE_NAME": "North Stewart Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749772800000,
+        "EFFECTIVE_DATE": 1749772800000,
+        "EXPIRATION_DATE": 1907452800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Dyer Creek Boat Dock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.227",
+        "LATITUDE": 36.49767,
+        "LONGITUDE": -87.81905599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.81865299999998,
+          36.59691900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2604.122",
+        "PERMITTEE_NAME": "North Stewart Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1780963200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Wall Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2604.122",
+        "LATITUDE": 36.596919,
+        "LONGITUDE": -87.818653,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83139999999997,
+          36.48470000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249254",
+        "PERMITTEE_NAME": "Cumberland Electric Membership Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Natcor Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249254",
+        "LATITUDE": 36.484700000000004,
+        "LONGITUDE": -87.8314,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.81222599999995,
+          36.596494000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2604.224",
+        "PERMITTEE_NAME": "Joseph Estes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1791763200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "239 Wall Hollow Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2604.224",
+        "LATITUDE": 36.596494,
+        "LONGITUDE": -87.812226,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.81222599999995,
+          36.596494000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2604.230",
+        "PERMITTEE_NAME": "Joseph Estes",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "239 Wall Hollow Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2604.230",
+        "LATITUDE": 36.596494,
+        "LONGITUDE": -87.812226,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88429099999996,
+          36.47938000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248833",
+        "PERMITTEE_NAME": "Hawkins Homes LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Donelson Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248833",
+        "LATITUDE": 36.47938,
+        "LONGITUDE": -87.88429099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67653199999995,
+          36.38597500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.049",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1783900800000,
+        "EFFECTIVE_DATE": 1783900800000,
+        "EXPIRATION_DATE": 1941580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Linear project at: TVA Cumberland Fossil Plant Reservation 455 Old Scott Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.049",
+        "LATITUDE": 36.385974999999995,
+        "LONGITUDE": -87.676532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64226799999994,
+          36.39247000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.236",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1667779200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "SR-233, Intersection at Old SR-149",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.236",
+        "LATITUDE": 36.392469999999996,
+        "LONGITUDE": -87.642268,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72397899999999,
+          36.58201900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.270",
+        "PERMITTEE_NAME": "Fort Campbell Military Reservation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1760918400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Destiny Trail,",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.270",
+        "LATITUDE": 36.582018999999995,
+        "LONGITUDE": -87.723979,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65341999999998,
+          36.39125100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.143",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "815 Cumberland City Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.143",
+        "LATITUDE": 36.391251,
+        "LONGITUDE": -87.65342,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67653199999995,
+          36.38597500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192412",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Linear project at: TVA Cumberland Fossil Plant Reservation 455 Old Scott Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192412",
+        "LATITUDE": 36.385974999999995,
+        "LONGITUDE": -87.676532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67653199999995,
+          36.38597500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670723",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1777852800000,
+        "EFFECTIVE_DATE": 1777852800000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Linear project at: TVA Cumberland Fossil Plant Reservation 455 Old Scott Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670723",
+        "LATITUDE": 36.385974999999995,
+        "LONGITUDE": -87.676532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.80020399999995,
+          36.54126000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249210",
+        "PERMITTEE_NAME": "Stewart County, TN Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "1130 US Hwy 79",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249210",
+        "LATITUDE": 36.54126,
+        "LONGITUDE": -87.800204,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85373099999998,
+          36.58827900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.046",
+        "PERMITTEE_NAME": "Westervelt Ecological Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1690761600000,
+        "EFFECTIVE_DATE": 1690502400000,
+        "EXPIRATION_DATE": 1848268800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "209 Hayes Fork Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.046",
+        "LATITUDE": 36.588279,
+        "LONGITUDE": -87.853731,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64769999999999,
+          36.38381000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053946",
+        "PERMITTEE_NAME": "Georgia-Pacific Gypsum LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1757289600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "150 Temple Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053946",
+        "LATITUDE": 36.38381,
+        "LONGITUDE": -87.6477,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75967899999995,
+          36.561968000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.124",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1753660800000,
+        "EFFECTIVE_DATE": 1753660800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "SR-76, Emergency Streambank Stabilization at LM 20.3",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.124",
+        "LATITUDE": 36.561968,
+        "LONGITUDE": -87.75967899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.77239999999995,
+          36.63370000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.272",
+        "PERMITTEE_NAME": "Fort Campbell Military Reservation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Artillery Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.272",
+        "LATITUDE": 36.633700000000005,
+        "LONGITUDE": -87.7724,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65686999999997,
+          36.567923000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.269",
+        "PERMITTEE_NAME": "Fort Campbell Military Reservation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1760659200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Sukchon Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.269",
+        "LATITUDE": 36.567923,
+        "LONGITUDE": -87.65687,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66771099999994,
+          36.56437600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.271",
+        "PERMITTEE_NAME": "Fort Campbell Military Reservation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Colson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.271",
+        "LATITUDE": 36.564375999999996,
+        "LONGITUDE": -87.667711,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64558899999997,
+          36.36989300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR246766",
+        "PERMITTEE_NAME": "Daejin Advanced Materials TN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "1338 Highway 149",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR246766",
+        "LATITUDE": 36.369893,
+        "LONGITUDE": -87.645589,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62999999999994,
+          36.39610000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.152",
+        "PERMITTEE_NAME": "River Marine Service, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1729555200000,
+        "EFFECTIVE_DATE": 1729209600000,
+        "EXPIRATION_DATE": 1886889600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "335 Hwy 434",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.152",
+        "LATITUDE": 36.396100000000004,
+        "LONGITUDE": -87.63,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67653199999995,
+          36.38597500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192186",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Linear project at: TVA Cumberland Fossil Plant Reservation 455 Old Scott Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192186",
+        "LATITUDE": 36.385974999999995,
+        "LONGITUDE": -87.676532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68599999999998,
+          36.44980000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR246721",
+        "PERMITTEE_NAME": "Stewart County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Walker Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR246721",
+        "LATITUDE": 36.4498,
+        "LONGITUDE": -87.686,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65341999999998,
+          36.39125100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192255",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "815 Cumberland City Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192255",
+        "LATITUDE": 36.391251,
+        "LONGITUDE": -87.65342,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70768199999998,
+          36.613283000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247830",
+        "PERMITTEE_NAME": "U.S. Army",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "7.31 miles west of the intersection of Palmyra Rd. and Jordan Springs Rd. At the site of existing Range 28",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247830",
+        "LATITUDE": 36.613282999999996,
+        "LONGITUDE": -87.70768199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70768199999998,
+          36.613283000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.058",
+        "PERMITTEE_NAME": "Fort Campbell Military Reservation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1751328000000,
+        "EFFECTIVE_DATE": 1751328000000,
+        "EXPIRATION_DATE": 1909094400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "7.31 miles west of the intersection of Palmyra Rd. and Jordan Springs Rd. At the site of existing Range 28",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.058",
+        "LATITUDE": 36.613282999999996,
+        "LONGITUDE": -87.70768199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85373099999998,
+          36.58827900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.026",
+        "PERMITTEE_NAME": "Westervelt Ecological Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747180800000,
+        "EFFECTIVE_DATE": 1747180800000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "209 Hayes Fork Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.026",
+        "LATITUDE": 36.588279,
+        "LONGITUDE": -87.853731,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86259699999994,
+          36.53226200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR247618",
+        "PERMITTEE_NAME": "Arthur Lewis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Lewis Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR247618",
+        "LATITUDE": 36.532261999999996,
+        "LONGITUDE": -87.862597,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67653199999995,
+          36.38597500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.325",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1713139200000,
+        "EFFECTIVE_DATE": 1713139200000,
+        "EXPIRATION_DATE": 1870819200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Linear project at: TVA Cumberland Fossil Plant Reservation 455 Old Scott Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.325",
+        "LATITUDE": 36.385974999999995,
+        "LONGITUDE": -87.676532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86969999999997,
+          36.59123100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.127",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1690761600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "137 Nactor Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.127",
+        "LATITUDE": 36.591231,
+        "LONGITUDE": -87.86970000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67653199999995,
+          36.38597500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.110",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1686009600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Linear project at: TVA Cumberland Fossil Plant Reservation 455 Old Scott Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.110",
+        "LATITUDE": 36.385974999999995,
+        "LONGITUDE": -87.676532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67779999999999,
+          36.53580000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.029",
+        "PERMITTEE_NAME": "North Stewart UD",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1655942400000,
+        "EFFECTIVE_DATE": 1655942400000,
+        "EXPIRATION_DATE": 1813622400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Rorie Hollow Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.029",
+        "LATITUDE": 36.5358,
+        "LONGITUDE": -87.6778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84972199999999,
+          36.461944000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054245",
+        "PERMITTEE_NAME": "Milton Lumber Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "443 Leatherwood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054245",
+        "LATITUDE": 36.461943999999995,
+        "LONGITUDE": -87.849722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65341999999998,
+          36.39125100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051933",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1774828800000,
+        "EFFECTIVE_DATE": 1774828800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "815 Cumberland City Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051933",
+        "LATITUDE": 36.391251,
+        "LONGITUDE": -87.65342,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92839999999995,
+          36.48210000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053527",
+        "PERMITTEE_NAME": "Global Win Wickliffe LLC D.B.A. Phoenix Paper Wickliffe LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761583061000,
+        "EFFECTIVE_DATE": 1761583061000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "260 OLD SR-76",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053527",
+        "LATITUDE": 36.4821,
+        "LONGITUDE": -87.92840000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75833299999994,
+          36.47500000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051829",
+        "PERMITTEE_NAME": "Mathis Brothers Lumber Co., LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1757289600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "107 Albert Glasgow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051829",
+        "LATITUDE": 36.475,
+        "LONGITUDE": -87.758333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84138899999994,
+          36.47861100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050705",
+        "PERMITTEE_NAME": "Nashville Wire Products",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "720 NATCOR DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050705",
+        "LATITUDE": 36.478611,
+        "LONGITUDE": -87.84138899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64095299999997,
+          36.38497600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR241798",
+        "PERMITTEE_NAME": "Cass Rye II, et al",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Old Hwy 149",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR241798",
+        "LATITUDE": 36.384976,
+        "LONGITUDE": -87.640953,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94463599999995,
+          36.38273400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.010",
+        "PERMITTEE_NAME": "Greg Braselton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1524009600000,
+        "EFFECTIVE_DATE": 1524009600000,
+        "EXPIRATION_DATE": 1681776000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "One mile south of 257 Ironwood Lane, Stewart, TN 37175",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.010",
+        "LATITUDE": 36.382734,
+        "LONGITUDE": -87.944636,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62999999999994,
+          36.39610000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.053",
+        "PERMITTEE_NAME": "River Marine Service, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1556236800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1714003200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "335 Hwy 434",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.053",
+        "LATITUDE": 36.396100000000004,
+        "LONGITUDE": -87.63,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85838999999999,
+          36.35549000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243416",
+        "PERMITTEE_NAME": "BellSouth Telecommunications Inc. dba AT&T TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Hurricane Creek Rd., Hwy 147, Phillips Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243416",
+        "LATITUDE": 36.355489999999996,
+        "LONGITUDE": -87.85839,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83147799999995,
+          36.60865600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.174",
+        "PERMITTEE_NAME": "Charles Hancock",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1586304000000,
+        "EXPIRATION_DATE": 1698710400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "3920 Cadiz Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.174",
+        "LATITUDE": 36.608655999999996,
+        "LONGITUDE": -87.83147799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84082199999995,
+          36.48707900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR243055",
+        "PERMITTEE_NAME": "Twin Lakes Food Service, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "415 Donelson Pkwy.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR243055",
+        "LATITUDE": 36.487079,
+        "LONGITUDE": -87.840822,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76059999999995,
+          36.579000000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244193",
+        "PERMITTEE_NAME": "Peed Family Assoc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Norris Hancock Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244193",
+        "LATITUDE": 36.579,
+        "LONGITUDE": -87.76060000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95839999999998,
+          36.43200000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.057",
+        "PERMITTEE_NAME": "Fredrick Gibson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1597881600000,
+        "EFFECTIVE_DATE": 1597881600000,
+        "EXPIRATION_DATE": 1755561600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Gibson Stream - Dover",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.057",
+        "LATITUDE": 36.432,
+        "LONGITUDE": -87.9584,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97385899999995,
+          36.436266000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TND0020205",
+        "PERMITTEE_NAME": "Sill's Excavating",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1596499200000,
+        "EFFECTIVE_DATE": 1596067200000,
+        "EXPIRATION_DATE": 1753747200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "400 feet west from Hwy 232",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TND0020205",
+        "LATITUDE": 36.436265999999996,
+        "LONGITUDE": -87.97385899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84201899999994,
+          36.48990300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.233",
+        "PERMITTEE_NAME": "U.S. Army Corps of Engineers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1609113600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1766793600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Forest Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.233",
+        "LATITUDE": 36.489903,
+        "LONGITUDE": -87.842019,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67859999999996,
+          36.36820000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR245007",
+        "PERMITTEE_NAME": "City of Erin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Stewart",
+        "SITE_LOCATION": "Buckey Rd., Old Scott Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR245007",
+        "LATITUDE": 36.3682,
+        "LONGITUDE": -87.6786,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3255 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.62483999999995,
+          36.13867000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.087",
+        "PERMITTEE_NAME": "William J. Graves",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1652140800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "New Market",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.087",
+        "LATITUDE": 36.13867,
+        "LONGITUDE": -83.62483999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.44412299999999,
+          36.03424400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138378",
+        "PERMITTEE_NAME": "KYLE REDISKE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "145 SHARON DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138378",
+        "LATITUDE": 36.034244,
+        "LONGITUDE": -83.44412299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63139999999999,
+          36.138000000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.154",
+        "PERMITTEE_NAME": "Sandy Bartlett",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1981 Griffey Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.154",
+        "LATITUDE": 36.138000000000005,
+        "LONGITUDE": -83.6314,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33492899999999,
+          36.04160100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192465",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "I-40 Bridge over French Broad River/Douglas Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192465",
+        "LATITUDE": 36.041601,
+        "LONGITUDE": -83.334929,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57882299999994,
+          36.09375000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138346",
+        "PERMITTEE_NAME": "Appalachian Construction & Design",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1369 W Hwy 11E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138346",
+        "LATITUDE": 36.09375,
+        "LONGITUDE": -83.578823,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48776699999996,
+          36.12183500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138388",
+        "PERMITTEE_NAME": "Robert Key",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "2130 South Branner Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138388",
+        "LATITUDE": 36.121835,
+        "LONGITUDE": -83.48776699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34326399999998,
+          35.92997600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.221-26",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1 BUSH BROTHERS WAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.221-26",
+        "LATITUDE": 35.929975999999996,
+        "LONGITUDE": -83.34326399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50407799999994,
+          36.104355000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138451",
+        "PERMITTEE_NAME": "Nancy Fielden Nicholson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "535 Deerview Way and Hwy 92",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138451",
+        "LATITUDE": 36.104355,
+        "LONGITUDE": -83.50407799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60765899999996,
+          36.13454400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.139",
+        "PERMITTEE_NAME": "Grace Barger",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1787788800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1925 River Mist Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.139",
+        "LATITUDE": 36.134544,
+        "LONGITUDE": -83.607659,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45637899999997,
+          36.07108800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138507",
+        "PERMITTEE_NAME": "Larry Pinkston",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "860 Forgety Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138507",
+        "LATITUDE": 36.071087999999996,
+        "LONGITUDE": -83.456379,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28069999999997,
+          36.03860000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.028",
+        "PERMITTEE_NAME": "Larry Morgan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1769990400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "116 Kamman Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.028",
+        "LATITUDE": 36.0386,
+        "LONGITUDE": -83.28070000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47219999999999,
+          36.123200000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138263",
+        "PERMITTEE_NAME": "Express Oil Jefferson City TN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "E. Broadway Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138263",
+        "LATITUDE": 36.123200000000004,
+        "LONGITUDE": -83.4722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45779999999996,
+          36.12560000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138152",
+        "PERMITTEE_NAME": "Allegiant Properties LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "North Chucky Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138152",
+        "LATITUDE": 36.1256,
+        "LONGITUDE": -83.4578,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49780799999996,
+          36.028530000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.134",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1784160000000,
+        "EFFECTIVE_DATE": 1784160000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-9, Bridge over Dumplin Creek, LM 7.00",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.134",
+        "LATITUDE": 36.028529999999996,
+        "LONGITUDE": -83.49780799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.54059999999998,
+          36.034800000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.177",
+        "PERMITTEE_NAME": "Harold Tony Martin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1765152000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "parcel 065 032.00 Piedmont Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.177",
+        "LATITUDE": 36.034800000000004,
+        "LONGITUDE": -83.5406,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28889999999996,
+          36.02270000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.031",
+        "PERMITTEE_NAME": "Brian Buzzard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1770249600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Lot 42 Sunset Harbor Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.031",
+        "LATITUDE": 36.0227,
+        "LONGITUDE": -83.2889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52558699999997,
+          36.00575500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137576",
+        "PERMITTEE_NAME": "BIR Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Deep Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137576",
+        "LATITUDE": 36.005755,
+        "LONGITUDE": -83.525587,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52558699999997,
+          36.00575500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137620",
+        "PERMITTEE_NAME": "BIR Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Deep Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137620",
+        "LATITUDE": 36.005755,
+        "LONGITUDE": -83.525587,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.61050199999994,
+          36.097672000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.061",
+        "PERMITTEE_NAME": "Harvey F Young",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1650844800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "837 Lost Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.061",
+        "LATITUDE": 36.097671999999996,
+        "LONGITUDE": -83.610502,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45079999999996,
+          35.97480000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.094",
+        "PERMITTEE_NAME": "Ernest Browning Jr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1721865600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "468 Filet Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.094",
+        "LATITUDE": 35.9748,
+        "LONGITUDE": -83.4508,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48849999999999,
+          36.13400000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058092",
+        "PERMITTEE_NAME": "IBP Solutions US LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "506 Municipal Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058092",
+        "LATITUDE": 36.134,
+        "LONGITUDE": -83.4885,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.51794999999998,
+          36.02622100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136760",
+        "PERMITTEE_NAME": "Jefferson County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1100 West Dumplin Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136760",
+        "LATITUDE": 36.026221,
+        "LONGITUDE": -83.51795,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36719999999997,
+          35.95950000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.096",
+        "PERMITTEE_NAME": "Rodney Leatherman",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Lot 27 and 28 Martin Court",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.096",
+        "LATITUDE": 35.9595,
+        "LONGITUDE": -83.36720000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28267999999997,
+          36.13224400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138121",
+        "PERMITTEE_NAME": "QuikTrip Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1743 State Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138121",
+        "LATITUDE": 36.132244,
+        "LONGITUDE": -83.28268,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.53209999999996,
+          36.01171500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138083",
+        "PERMITTEE_NAME": "Loves - Dandridge TN (R&R)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1058 DEEP SPRINGS RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138083",
+        "LATITUDE": 36.011714999999995,
+        "LONGITUDE": -83.5321,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47575599999999,
+          36.14014700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138013",
+        "PERMITTEE_NAME": "Crafted Milestone, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "412 E. Old A.J. Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138013",
+        "LATITUDE": 36.140147,
+        "LONGITUDE": -83.47575599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49462499999998,
+          36.10255300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138131",
+        "PERMITTEE_NAME": "Leonard Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "0 crooke rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138131",
+        "LATITUDE": 36.102553,
+        "LONGITUDE": -83.494625,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28379299999995,
+          36.109897000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137865",
+        "PERMITTEE_NAME": "CASEY'S GENERAL STORES, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1324 STATE STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137865",
+        "LATITUDE": 36.109897,
+        "LONGITUDE": -83.283793,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47155999999995,
+          36.13660600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137984",
+        "PERMITTEE_NAME": "City of Jefferson City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1075 Odyssey Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137984",
+        "LATITUDE": 36.136606,
+        "LONGITUDE": -83.47156,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33492899999999,
+          36.04160100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.085",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785715200000,
+        "EFFECTIVE_DATE": 1785715200000,
+        "EXPIRATION_DATE": 1943395200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "I-40 Bridge over French Broad River/Douglas Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.085",
+        "LATITUDE": 36.041601,
+        "LONGITUDE": -83.334929,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26143899999994,
+          36.06550000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830095",
+        "PERMITTEE_NAME": "Wingfield Environmental, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1782691200000,
+        "EFFECTIVE_DATE": 1782691200000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "503 Highway 25/32",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830095",
+        "LATITUDE": 36.0655,
+        "LONGITUDE": -83.261439,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37411099999997,
+          35.919902000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138500",
+        "PERMITTEE_NAME": "JONES BROS CONTRACTORS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "DICKEY ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138500",
+        "LATITUDE": 35.919902,
+        "LONGITUDE": -83.374111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43291699999997,
+          36.033592000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138475",
+        "PERMITTEE_NAME": "Crafted Milestone, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "711 Highway 92 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138475",
+        "LATITUDE": 36.033592,
+        "LONGITUDE": -83.432917,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33318899999995,
+          36.10862600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830302",
+        "PERMITTEE_NAME": "Pilot Travel Centers, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1781740800000,
+        "EFFECTIVE_DATE": 1781740800000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "3624 Roy Messer Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830302",
+        "LATITUDE": 36.108626,
+        "LONGITUDE": -83.33318899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48081199999996,
+          36.10121600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138323",
+        "PERMITTEE_NAME": "Ryan D Peirce",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "105 Mt Horeb Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138323",
+        "LATITUDE": 36.101216,
+        "LONGITUDE": -83.480812,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.46427899999998,
+          35.95344600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.039",
+        "PERMITTEE_NAME": "Terry Weldon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1772496000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "3595 Needles Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.039",
+        "LATITUDE": 35.953446,
+        "LONGITUDE": -83.46427899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41652499999998,
+          36.017532000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138385",
+        "PERMITTEE_NAME": "Dandridge Memorial Library, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1135 Academy Cir",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138385",
+        "LATITUDE": 36.017531999999996,
+        "LONGITUDE": -83.416525,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47103799999996,
+          36.12413800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138290",
+        "PERMITTEE_NAME": "ORNL Federal Credit Union",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "104 Mossy Creek Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138290",
+        "LATITUDE": 36.124137999999995,
+        "LONGITUDE": -83.471038,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67959999999994,
+          36.08390000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.091",
+        "PERMITTEE_NAME": "Al Parrot",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747958400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1055 Big Bend Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.091",
+        "LATITUDE": 36.0839,
+        "LONGITUDE": -83.67960000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48106799999994,
+          36.13772600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137939",
+        "PERMITTEE_NAME": "Crafted Milestone, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Battle Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137939",
+        "LATITUDE": 36.137726,
+        "LONGITUDE": -83.481068,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33339999999998,
+          36.09210000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.124",
+        "PERMITTEE_NAME": "Jefferson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1754611200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Carmichael Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.124",
+        "LATITUDE": 36.0921,
+        "LONGITUDE": -83.3334,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45206299999995,
+          36.13940700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051313",
+        "PERMITTEE_NAME": "The Quikrete Companies, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "269 Rocktown Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051313",
+        "LATITUDE": 36.139407,
+        "LONGITUDE": -83.452063,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39759999999995,
+          36.02770000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.162",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755216000000,
+        "EFFECTIVE_DATE": 1755216000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-9/US-25W, (East Meeting Street) Bridge over Rimmer Creek, LM 13.23",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.162",
+        "LATITUDE": 36.0277,
+        "LONGITUDE": -83.3976,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.42109999999997,
+          35.96900000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.031",
+        "PERMITTEE_NAME": "Larry Anglea",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1651708800000,
+        "EFFECTIVE_DATE": 1651363200000,
+        "EXPIRATION_DATE": 1809043200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Cypress Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.031",
+        "LATITUDE": 35.969,
+        "LONGITUDE": -83.42110000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38653599999998,
+          35.95249000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.133",
+        "PERMITTEE_NAME": "Josh Norris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1755820800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "2518 Cooper Bald Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.133",
+        "LATITUDE": 35.95249,
+        "LONGITUDE": -83.38653599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39759999999995,
+          36.02770000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.162a",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755216000000,
+        "EFFECTIVE_DATE": 1755216000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-9/US-25W, (East Meeting Street) Bridge over Rimmer Creek, LM 13.23",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.162a",
+        "LATITUDE": 36.0277,
+        "LONGITUDE": -83.3976,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67959999999994,
+          36.08390000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.090",
+        "PERMITTEE_NAME": "Al Parrot",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747958400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1055 Big Bend Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.090",
+        "LATITUDE": 36.0839,
+        "LONGITUDE": -83.67960000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30789999999996,
+          36.07970000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.163",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-113, LM 3.68",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.163",
+        "LATITUDE": 36.0797,
+        "LONGITUDE": -83.3079,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43173699999994,
+          36.04125000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138026",
+        "PERMITTEE_NAME": "Mark V. Jackson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "795 Killion Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138026",
+        "LATITUDE": 36.04125,
+        "LONGITUDE": -83.431737,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.53209999999996,
+          36.01171500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137980",
+        "PERMITTEE_NAME": "Love's Travel Stops & Country Stores, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1058 DEEP SPRINGS RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137980",
+        "LATITUDE": 36.011714999999995,
+        "LONGITUDE": -83.5321,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26289999999995,
+          36.023100000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.136",
+        "PERMITTEE_NAME": "Chad M Fite",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1756771200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "984 Harrison Ferry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.136",
+        "LATITUDE": 36.0231,
+        "LONGITUDE": -83.2629,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50141599999995,
+          36.13228200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138128",
+        "PERMITTEE_NAME": "Steven R Lamb",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "780 Lakewood Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138128",
+        "LATITUDE": 36.132282,
+        "LONGITUDE": -83.50141599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.44569999999999,
+          36.023900000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137642",
+        "PERMITTEE_NAME": "Tim Curtis / TLC Construction and Design, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "W Highway 25-70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137642",
+        "LATITUDE": 36.023900000000005,
+        "LONGITUDE": -83.4457,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.44647699999996,
+          36.144067000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137818",
+        "PERMITTEE_NAME": "LC Estates, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "925 Old Andrew Johnson Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137818",
+        "LATITUDE": 36.144067,
+        "LONGITUDE": -83.446477,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48745699999995,
+          36.13765300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137816",
+        "PERMITTEE_NAME": "Drinnen Enterprises, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "2220 Black Oak Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137816",
+        "LATITUDE": 36.137653,
+        "LONGITUDE": -83.48745699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45503599999995,
+          36.07600300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137715",
+        "PERMITTEE_NAME": "Jim Falin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Coile Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137715",
+        "LATITUDE": 36.076003,
+        "LONGITUDE": -83.45503599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41254199999997,
+          36.00811700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137483",
+        "PERMITTEE_NAME": "TWRA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "157 Public Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137483",
+        "LATITUDE": 36.008117,
+        "LONGITUDE": -83.412542,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33060399999994,
+          35.97123400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137114",
+        "PERMITTEE_NAME": "Patrick Miller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "369 Mountain Lake Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137114",
+        "LATITUDE": 35.971233999999995,
+        "LONGITUDE": -83.330604,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52828799999997,
+          36.003292000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137184",
+        "PERMITTEE_NAME": "BIR Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1217 Deep Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137184",
+        "LATITUDE": 36.003292,
+        "LONGITUDE": -83.52828799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.44254899999999,
+          35.987933000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2303.032",
+        "PERMITTEE_NAME": "Jeremy D. Witt",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1747 Sams Drive, Lot 19",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2303.032",
+        "LATITUDE": 35.987933,
+        "LONGITUDE": -83.442549,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32951299999996,
+          35.998890000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.038",
+        "PERMITTEE_NAME": "Thomas McNamara",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1685059200000,
+        "EFFECTIVE_DATE": 1684972800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1507 Tranquility Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.038",
+        "LATITUDE": 35.998889999999996,
+        "LONGITUDE": -83.32951299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52484799999996,
+          35.99313100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137104",
+        "PERMITTEE_NAME": "Mullins Enterprises/ Stoney Mullins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1180 Black road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137104",
+        "LATITUDE": 35.993131,
+        "LONGITUDE": -83.52484799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39759999999995,
+          36.02770000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192141",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-9/US-25W, (East Meeting Street) Bridge over Rimmer Creek, LM 13.23",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192141",
+        "LATITUDE": 36.0277,
+        "LONGITUDE": -83.3976,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49629299999998,
+          36.11269100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137728",
+        "PERMITTEE_NAME": "Marathon Realty, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "157 West Broadway Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137728",
+        "LATITUDE": 36.112691,
+        "LONGITUDE": -83.496293,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50819999999999,
+          36.01210000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-24011",
+        "PERMITTEE_NAME": "Forest Grove LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1000 Harbin Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-24011",
+        "LATITUDE": 36.012100000000004,
+        "LONGITUDE": -83.5082,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50407799999994,
+          36.104355000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137758",
+        "PERMITTEE_NAME": "Nancy Nicholson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "535 Deerview Way and Hwy 92",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137758",
+        "LATITUDE": 36.104355,
+        "LONGITUDE": -83.50407799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41898399999997,
+          36.03609800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137813",
+        "PERMITTEE_NAME": "BIR Investments",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Pine Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137813",
+        "LATITUDE": 36.036097999999996,
+        "LONGITUDE": -83.418984,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.53062399999999,
+          36.104292000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137764",
+        "PERMITTEE_NAME": "John Ballinger",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Old AJ Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137764",
+        "LATITUDE": 36.104292,
+        "LONGITUDE": -83.530624,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34326399999998,
+          35.92997600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192191",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1 BUSH BROTHERS WAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192191",
+        "LATITUDE": 35.929975999999996,
+        "LONGITUDE": -83.34326399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.46591299999994,
+          36.13261000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137422",
+        "PERMITTEE_NAME": "CARLYLE CONSTRUCTION LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "500 Odyssey Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137422",
+        "LATITUDE": 36.13261,
+        "LONGITUDE": -83.465913,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.46332299999995,
+          36.12875900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137339",
+        "PERMITTEE_NAME": "Dr. Aqueel Kouser",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "661 East Broadway Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137339",
+        "LATITUDE": 36.128758999999995,
+        "LONGITUDE": -83.463323,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40349899999995,
+          36.01065600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.348",
+        "PERMITTEE_NAME": "Daniel Ontrop",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1707696000000,
+        "EFFECTIVE_DATE": 1707436800000,
+        "EXPIRATION_DATE": 1865203200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1491 David Swann Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.348",
+        "LATITUDE": 36.010656,
+        "LONGITUDE": -83.403499,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.46886199999994,
+          36.12621800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192298",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-34/US-11E, intersection @ N Chucky Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192298",
+        "LATITUDE": 36.126218,
+        "LONGITUDE": -83.468862,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28830999999997,
+          36.06392000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050714",
+        "PERMITTEE_NAME": "Whaley Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1780012800000,
+        "EFFECTIVE_DATE": 1780012800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "3094 NINA ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050714",
+        "LATITUDE": 36.063919999999996,
+        "LONGITUDE": -83.28831,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41762999999997,
+          36.017300000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137042",
+        "PERMITTEE_NAME": "Dandridge School Lofts, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1105 Academy Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137042",
+        "LATITUDE": 36.0173,
+        "LONGITUDE": -83.41763,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48039999999997,
+          36.11830000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137140",
+        "PERMITTEE_NAME": "Branchwater Jeferson City, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "303 E BROADWAY BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137140",
+        "LATITUDE": 36.118300000000005,
+        "LONGITUDE": -83.4804,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31244099999998,
+          36.027927000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670678",
+        "PERMITTEE_NAME": "Jefferson-Cocke County Utility District (JCCUD)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1777852800000,
+        "EFFECTIVE_DATE": 1777852800000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1770 US-25W #70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670678",
+        "LATITUDE": 36.027927,
+        "LONGITUDE": -83.31244099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47566599999999,
+          36.11564500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110496",
+        "PERMITTEE_NAME": "Summers Taylor Materials",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1678406400000,
+        "EFFECTIVE_DATE": 1680307200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "345 East Broadway Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110496",
+        "LATITUDE": 36.115645,
+        "LONGITUDE": -83.47566599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39619999999996,
+          35.980200000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137150",
+        "PERMITTEE_NAME": "Mack Muill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Kinder Lane parcel 084 028.03",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137150",
+        "LATITUDE": 35.9802,
+        "LONGITUDE": -83.39620000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45017399999995,
+          36.04634200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137198",
+        "PERMITTEE_NAME": "Logan Sapp",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "294 MILLDALE RD MILLDALE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137198",
+        "LATITUDE": 36.046341999999996,
+        "LONGITUDE": -83.45017399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50849999999997,
+          36.13330000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137006",
+        "PERMITTEE_NAME": "Cherokee Bay LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Ridgewood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137006",
+        "LATITUDE": 36.1333,
+        "LONGITUDE": -83.5085,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43469999999996,
+          36.03690000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136618",
+        "PERMITTEE_NAME": "Domino's of East Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-92 at Exit 417 on I-40",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136618",
+        "LATITUDE": 36.0369,
+        "LONGITUDE": -83.4347,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43119999999999,
+          36.03800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136631",
+        "PERMITTEE_NAME": "Carlyle Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "741 Killion Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136631",
+        "LATITUDE": 36.038000000000004,
+        "LONGITUDE": -83.4312,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.46219999999994,
+          36.046700000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136770",
+        "PERMITTEE_NAME": "T. Phillip Carlyle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "West of Hwy 92 and North of W Price Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136770",
+        "LATITUDE": 36.0467,
+        "LONGITUDE": -83.46220000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38139999999999,
+          36.03470000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192144",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-9/US-25W, Bridge over Koontz Creek, LM 14.24",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192144",
+        "LATITUDE": 36.0347,
+        "LONGITUDE": -83.3814,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50819999999999,
+          36.01210000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136723",
+        "PERMITTEE_NAME": "Forest Grove LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1000 Harbin Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136723",
+        "LATITUDE": 36.012100000000004,
+        "LONGITUDE": -83.5082,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26149999999996,
+          36.109300000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137505",
+        "PERMITTEE_NAME": "Beechwood Homes LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "3488 White Birch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137505",
+        "LATITUDE": 36.109300000000005,
+        "LONGITUDE": -83.2615,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47675499999997,
+          36.114325000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053464",
+        "PERMITTEE_NAME": "APAC-Atlantic, Inc. dba Harrison Construction Co",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769126400000,
+        "EFFECTIVE_DATE": 1769126400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1360 HICK ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053464",
+        "LATITUDE": 36.114325,
+        "LONGITUDE": -83.476755,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.56139999999994,
+          36.020200000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056487",
+        "PERMITTEE_NAME": "Barnes Recycling, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756771200000,
+        "EFFECTIVE_DATE": 1756771200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1759 West Highway 25/70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056487",
+        "LATITUDE": 36.0202,
+        "LONGITUDE": -83.5614,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27541299999996,
+          36.10222700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052047",
+        "PERMITTEE_NAME": "CMH Manufacturing, Inc. dba TRU White Pine",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761091200000,
+        "EFFECTIVE_DATE": 1761091200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "2215 Walnut Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052047",
+        "LATITUDE": 36.102227,
+        "LONGITUDE": -83.275413,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52989999999994,
+          36.023700000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051204",
+        "PERMITTEE_NAME": "Jasper Jones, LLC DBA Jasper Jones Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1603324800000,
+        "EFFECTIVE_DATE": 1603324800000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1410 Highway 25-70W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051204",
+        "LATITUDE": 36.023700000000005,
+        "LONGITUDE": -83.5299,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32539799999995,
+          36.104621000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050674",
+        "PERMITTEE_NAME": "Strange Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "3513 ROY MESSER HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050674",
+        "LATITUDE": 36.104621,
+        "LONGITUDE": -83.32539799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50354099999998,
+          36.12941200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB021199",
+        "PERMITTEE_NAME": "Jefferson City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1406246400000,
+        "EFFECTIVE_DATE": 1406246400000,
+        "EXPIRATION_DATE": 1723680000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "936 West Cherokee Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB021199",
+        "LATITUDE": 36.129411999999995,
+        "LONGITUDE": -83.503541,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26627299999996,
+          36.099897000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB064971",
+        "PERMITTEE_NAME": "White Pine STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1491350400000,
+        "EFFECTIVE_DATE": 1491350400000,
+        "EXPIRATION_DATE": 1556582400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1280 Blue Bonnet Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB064971",
+        "LATITUDE": 36.099897,
+        "LONGITUDE": -83.266273,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.42399999999998,
+          36.04000000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110330",
+        "PERMITTEE_NAME": "APAC Atlantic, Inc. Harrison Division",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1694044800000,
+        "EFFECTIVE_DATE": 1696118400000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1070 Epco Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110330",
+        "LATITUDE": 36.04,
+        "LONGITUDE": -83.424,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47388899999999,
+          36.12916700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058364",
+        "PERMITTEE_NAME": "Brown Trucking, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1923 Slate Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058364",
+        "LATITUDE": 36.129166999999995,
+        "LONGITUDE": -83.473889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33040999999997,
+          36.11095100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058209",
+        "PERMITTEE_NAME": "Old Dominion Freight Line, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762300800000,
+        "EFFECTIVE_DATE": 1762300800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "3608 ROY MESSER HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058209",
+        "LATITUDE": 36.110951,
+        "LONGITUDE": -83.33041,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48055299999999,
+          36.12809600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058637",
+        "PERMITTEE_NAME": "Iconex, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1784851200000,
+        "EFFECTIVE_DATE": 1784851200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1 RITTENHOUSE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058637",
+        "LATITUDE": 36.128096,
+        "LONGITUDE": -83.480553,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49078199999997,
+          36.11102200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS088315",
+        "PERMITTEE_NAME": "City of Jefferson City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1679270400000,
+        "EFFECTIVE_DATE": 1680307200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "112 City Center Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS088315",
+        "LATITUDE": 36.111022,
+        "LONGITUDE": -83.490782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.53298299999994,
+          36.01027700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-14003",
+        "PERMITTEE_NAME": "7-Eleven, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1714348800000,
+        "EFFECTIVE_DATE": 1714521600000,
+        "EXPIRATION_DATE": 1872201600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Deep Springs Road and Whillock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-14003",
+        "LATITUDE": 36.010276999999995,
+        "LONGITUDE": -83.532983,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31388899999996,
+          36.03666700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "457003",
+        "PERMITTEE_NAME": "Wild Pear Shores H.O.A, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1778025600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1870905600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "163se Seahorn Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:457003",
+        "LATITUDE": 36.036667,
+        "LONGITUDE": -83.313889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.61083299999996,
+          36.07916700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "457005",
+        "PERMITTEE_NAME": "Crucible ETN LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1735776000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "155SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:457005",
+        "LATITUDE": 36.079167,
+        "LONGITUDE": -83.610833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.61083299999996,
+          36.07916700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "457006",
+        "PERMITTEE_NAME": "Nyrstar Tn Mines-Strawberry Plains",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1575417600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1668470400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "155SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:457006",
+        "LATITUDE": 36.079167,
+        "LONGITUDE": -83.610833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33839999999998,
+          36.04020000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.384",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1452211200000,
+        "EFFECTIVE_DATE": 1452211200000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-9",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.384",
+        "LATITUDE": 36.0402,
+        "LONGITUDE": -83.33840000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33349999999996,
+          35.93480000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.039",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1503360000000,
+        "EFFECTIVE_DATE": 1502928000000,
+        "EXPIRATION_DATE": 1629072000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-35 (US-411)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.039",
+        "LATITUDE": 35.9348,
+        "LONGITUDE": -83.3335,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24709999999999,
+          36.06000000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.250",
+        "PERMITTEE_NAME": "George Johnson Jr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1539561600000,
+        "EFFECTIVE_DATE": 1539561600000,
+        "EXPIRATION_DATE": 1696896000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "240 Cody Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.250",
+        "LATITUDE": 36.06,
+        "LONGITUDE": -83.2471,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.44669999999996,
+          36.142300000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135503",
+        "PERMITTEE_NAME": "Adam Kuzma",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Hwy 11E at Moser Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135503",
+        "LATITUDE": 36.1423,
+        "LONGITUDE": -83.4467,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34699999999998,
+          36.10430000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135500",
+        "PERMITTEE_NAME": "Van Allen Lester",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "2542 Valley Home Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135500",
+        "LATITUDE": 36.1043,
+        "LONGITUDE": -83.34700000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.44809999999995,
+          36.04260000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059385",
+        "PERMITTEE_NAME": "William C. Pierce dba Pierce-Blankenship Property Waste Area",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "4066 Hwy 92 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059385",
+        "LATITUDE": 36.0426,
+        "LONGITUDE": -83.44810000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32226799999995,
+          35.936416000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.079",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1545177600000,
+        "EFFECTIVE_DATE": 1545177600000,
+        "EXPIRATION_DATE": 1702857600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-35, Dandridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.079",
+        "LATITUDE": 35.936416,
+        "LONGITUDE": -83.322268,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33480199999997,
+          35.98269700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR191801",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-363 (LM 2.7)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR191801",
+        "LATITUDE": 35.982697,
+        "LONGITUDE": -83.334802,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36729999999994,
+          35.922300000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135512",
+        "PERMITTEE_NAME": "Charles Blalock & Sons, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "2589 Dickey Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135512",
+        "LATITUDE": 35.9223,
+        "LONGITUDE": -83.3673,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.42327299999994,
+          36.03479100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059115",
+        "PERMITTEE_NAME": "Ames Goldsmith Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765843200000,
+        "EFFECTIVE_DATE": 1765843200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "950 Pine Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059115",
+        "LATITUDE": 36.034791,
+        "LONGITUDE": -83.423273,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.42039999999997,
+          36.00360000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135956",
+        "PERMITTEE_NAME": "BellSouth Telecommunications Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Majestic Bay",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135956",
+        "LATITUDE": 36.0036,
+        "LONGITUDE": -83.4204,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49292999999994,
+          36.106205000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059628",
+        "PERMITTEE_NAME": "JLG INDUSTRIES, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751932800000,
+        "EFFECTIVE_DATE": 1752019200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1400 Flat Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059628",
+        "LATITUDE": 36.106204999999996,
+        "LONGITUDE": -83.49293,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60009999999994,
+          36.155800000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.086",
+        "PERMITTEE_NAME": "Morris Monroe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1593302400000,
+        "EFFECTIVE_DATE": 1593302400000,
+        "EXPIRATION_DATE": 1750982400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "2253 Indian Cave Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.086",
+        "LATITUDE": 36.1558,
+        "LONGITUDE": -83.6001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47239999999994,
+          36.08440000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136039",
+        "PERMITTEE_NAME": "Charles Finger",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "East side of Highway 92 at 700 block",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136039",
+        "LATITUDE": 36.0844,
+        "LONGITUDE": -83.47240000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.42955199999994,
+          35.98389400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.237",
+        "PERMITTEE_NAME": "Fred Hardwick",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1574035200000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1797 Doc Terry Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.237",
+        "LATITUDE": 35.983894,
+        "LONGITUDE": -83.429552,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70419999999996,
+          36.095200000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.114",
+        "PERMITTEE_NAME": "David Robertson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1594080000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1751760000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "615 Duignan",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.114",
+        "LATITUDE": 36.0952,
+        "LONGITUDE": -83.7042,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.42955199999994,
+          35.98389400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.255",
+        "PERMITTEE_NAME": "Fred Hardwick",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1574035200000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1797 Doc Terry Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.255",
+        "LATITUDE": 35.983894,
+        "LONGITUDE": -83.429552,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33975299999997,
+          35.93260200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050362",
+        "PERMITTEE_NAME": "Bush Brothers and Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "3304 Chestnut Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050362",
+        "LATITUDE": 35.932601999999996,
+        "LONGITUDE": -83.339753,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38139999999999,
+          36.03470000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.082",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1639440000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "SR-9/US-25W, Bridge over Koontz Creek, LM 14.24",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.082",
+        "LATITUDE": 36.0347,
+        "LONGITUDE": -83.3814,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38969999999995,
+          35.93420000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136445",
+        "PERMITTEE_NAME": "Richard Hain",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Fain, Road, Sevierville 37862",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136445",
+        "LATITUDE": 35.934200000000004,
+        "LONGITUDE": -83.3897,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34326399999998,
+          35.92997600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.221",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1629417600000,
+        "EFFECTIVE_DATE": 1646006400000,
+        "EXPIRATION_DATE": 1787097600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "1 BUSH BROTHERS WAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.221",
+        "LATITUDE": 35.929975999999996,
+        "LONGITUDE": -83.34326399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43189999999998,
+          36.14680000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136474",
+        "PERMITTEE_NAME": "LS General Partners",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jefferson",
+        "SITE_LOCATION": "Hwy 11E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136474",
+        "LATITUDE": 36.1468,
+        "LONGITUDE": -83.4319,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

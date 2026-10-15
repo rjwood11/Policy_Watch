@@ -1,0 +1,733 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26643599999994,
+          36.57255600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.162",
+        "PERMITTEE_NAME": "Steve Lopez",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1661385600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "2995 Mulberry Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.162",
+        "LATITUDE": 36.572556,
+        "LONGITUDE": -83.266436,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40556299999997,
+          36.59730700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162206",
+        "PERMITTEE_NAME": "Hancock County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "Atlanthus Hill Road south of VA/TN line. Tazwell, Hancock County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162206",
+        "LATITUDE": 36.597307,
+        "LONGITUDE": -83.405563,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01161199999996,
+          36.585320000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.059",
+        "PERMITTEE_NAME": "Brian Ward NRCS Project",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "212 Fisher Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.059",
+        "LATITUDE": 36.585319999999996,
+        "LONGITUDE": -83.011612,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29376899999994,
+          36.56386200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.095",
+        "PERMITTEE_NAME": "Richard Fenton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787184000000,
+        "EFFECTIVE_DATE": 1787184000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "4833 Mulberry Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.095",
+        "LATITUDE": 36.563862,
+        "LONGITUDE": -83.293769,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17691799999994,
+          36.467746000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.063",
+        "PERMITTEE_NAME": "Harry Allen Wilson NRCS Project",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "5150 Cool Branch Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.063",
+        "LATITUDE": 36.467746,
+        "LONGITUDE": -83.176918,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26515499999994,
+          36.505944000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.071",
+        "PERMITTEE_NAME": "NRCS-Designed Repair of Eroding Streambanks and Shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "Tazewell Hwy.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.071",
+        "LATITUDE": 36.505944,
+        "LONGITUDE": -83.265155,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26032299999997,
+          36.51069700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.070",
+        "PERMITTEE_NAME": "Tony Seal Property NRCS Project",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "2251 Back Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.070",
+        "LATITUDE": 36.510697,
+        "LONGITUDE": -83.260323,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11890299999999,
+          36.55020200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.059",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774483200000,
+        "EFFECTIVE_DATE": 1774483200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "SR-33, Culvert Replacement, LM 18.9",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.059",
+        "LATITUDE": 36.550202,
+        "LONGITUDE": -83.118903,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36927199999997,
+          36.42258900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.067",
+        "PERMITTEE_NAME": "Michelle Haverland NRCS Designed Repair of Eroding Streambanks and Shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "Pawpaw Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.067",
+        "LATITUDE": 36.422588999999995,
+        "LONGITUDE": -83.369272,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31549499999994,
+          36.55727800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.068",
+        "PERMITTEE_NAME": "Rebecca Marion NRCS Designed Repair of Eroding Streambanks and Shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "6098 Mulberry Gap Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.068",
+        "LATITUDE": 36.557278,
+        "LONGITUDE": -83.315495,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93140399999999,
+          36.573042000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.064",
+        "PERMITTEE_NAME": "James Kendall NRCS-Designed Repair of Eroding Streambank and Shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "9386 Horton Ford Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.064",
+        "LATITUDE": 36.573042,
+        "LONGITUDE": -82.931404,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29642699999994,
+          36.55946300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.065",
+        "PERMITTEE_NAME": "Jason Sexton NRCS Designed Repair of Eroding Streambanks and Shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "MULBERRY GAP RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.065",
+        "LATITUDE": 36.559463,
+        "LONGITUDE": -83.296427,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19444199999998,
+          36.54486000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.033",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772150400000,
+        "EFFECTIVE_DATE": 1772150400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "SR-33, Culvert Replacement, LM 13.6",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.033",
+        "LATITUDE": 36.54486,
+        "LONGITUDE": -83.194442,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30529999999999,
+          36.48740000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.062",
+        "PERMITTEE_NAME": "Greg Skonie NRCS Designed Repair of Eroding Streambanks and shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779926400000,
+        "EFFECTIVE_DATE": 1779926400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "485 Hen Johnson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.062",
+        "LATITUDE": 36.4874,
+        "LONGITUDE": -83.3053,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21613399999995,
+          36.53425100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162398",
+        "PERMITTEE_NAME": "Hancock County Health Department",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "1506 Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162398",
+        "LATITUDE": 36.534251,
+        "LONGITUDE": -83.216134,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37383199999994,
+          36.53375500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.212",
+        "PERMITTEE_NAME": "Jeff Walker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1692748800000,
+        "EFFECTIVE_DATE": 1692748800000,
+        "EXPIRATION_DATE": 1850515200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "157 WALKER LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.212",
+        "LATITUDE": 36.533755,
+        "LONGITUDE": -83.373832,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25878199999994,
+          36.512830000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.003",
+        "PERMITTEE_NAME": "Hancock County",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "Mill Dam Rd. at East Intersection with Back Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.003",
+        "LATITUDE": 36.51283,
+        "LONGITUDE": -83.258782,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26320499999997,
+          36.507003000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.229",
+        "PERMITTEE_NAME": "Shannon Bell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1695600000000,
+        "EFFECTIVE_DATE": 1695600000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "3430 Tazewell Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.229",
+        "LATITUDE": 36.507003,
+        "LONGITUDE": -83.263205,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16336299999995,
+          36.584831000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.235",
+        "PERMITTEE_NAME": "Tom Visser",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1695600000000,
+        "EFFECTIVE_DATE": 1695600000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "6029 Vardy Blackwater Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.235",
+        "LATITUDE": 36.584831,
+        "LONGITUDE": -83.16336299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26999999999998,
+          36.51580000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.230",
+        "PERMITTEE_NAME": "Paul Dallemagne ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1674000000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "421 Mabe Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.230",
+        "LATITUDE": 36.5158,
+        "LONGITUDE": -83.27,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36586899999998,
+          36.47195300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.061",
+        "PERMITTEE_NAME": "Carl Ray Cope",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1683158400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "199 Cope Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.061",
+        "LATITUDE": 36.471953,
+        "LONGITUDE": -83.36586899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21939999999995,
+          36.52810000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.200",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1663632000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "SR-33, (Main Street), Bridge over Greasy Rock Creek, LM 11.77",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.200",
+        "LATITUDE": 36.5281,
+        "LONGITUDE": -83.21940000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23545099999996,
+          36.53288300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053788",
+        "PERMITTEE_NAME": "Henry Wynn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753315200000,
+        "EFFECTIVE_DATE": 1753315200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "1132 Campbell Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053788",
+        "LATITUDE": 36.532883,
+        "LONGITUDE": -83.235451,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25760299999996,
+          36.51125700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056364",
+        "PERMITTEE_NAME": "Kiefer MFG and Sales LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "2276 Back Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056364",
+        "LATITUDE": 36.511257,
+        "LONGITUDE": -83.257603,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25991299999998,
+          36.51159900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.184",
+        "PERMITTEE_NAME": "Hancock County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1544140800000,
+        "EFFECTIVE_DATE": 1544140800000,
+        "EXPIRATION_DATE": 1701907200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "Brier Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.184",
+        "LATITUDE": 36.511599,
+        "LONGITUDE": -83.259913,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25878199999994,
+          36.512830000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162068",
+        "PERMITTEE_NAME": "Hancock County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "Mill Dam Rd. at East Intersection with Back Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162068",
+        "LATITUDE": 36.51283,
+        "LONGITUDE": -83.258782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15479999999997,
+          36.547300000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.126",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1591920000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "SR-33 at LM 16.50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.126",
+        "LATITUDE": 36.5473,
+        "LONGITUDE": -83.15480000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30259999999998,
+          36.501100000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.285",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1606089600000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hancock",
+        "SITE_LOCATION": "SR-33, LM 5.35",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.285",
+        "LATITUDE": 36.5011,
+        "LONGITUDE": -83.3026,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

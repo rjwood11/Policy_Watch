@@ -1,0 +1,3749 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68465199999997,
+          35.53603900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114423",
+        "PERMITTEE_NAME": "Mitigate Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "791-713 Co Rd 187",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114423",
+        "LATITUDE": 35.536038999999995,
+        "LONGITUDE": -84.684652,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58070999999995,
+          35.48570900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051178",
+        "PERMITTEE_NAME": "SHC, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3020 LEE HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051178",
+        "LATITUDE": 35.485709,
+        "LONGITUDE": -84.58071,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55677799999995,
+          35.51064500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114657",
+        "PERMITTEE_NAME": "Blue Clear Skies Partners LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "720 W Willson St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114657",
+        "LATITUDE": 35.510645,
+        "LONGITUDE": -84.556778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70422599999995,
+          35.36475600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114683",
+        "PERMITTEE_NAME": "Groundscape Concepts LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "4064 Highway 11 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114683",
+        "LATITUDE": 35.364756,
+        "LONGITUDE": -84.70422599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58896099999998,
+          35.482571000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114703",
+        "PERMITTEE_NAME": "Engineered Transportation International",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1125 Congress Parkway North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114703",
+        "LATITUDE": 35.482571,
+        "LONGITUDE": -84.588961,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52180299999998,
+          35.37859300000002
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114597",
+        "PERMITTEE_NAME": "McMinn County Economic Development Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "North Industrial Park Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114597",
+        "LATITUDE": 35.378592999999995,
+        "LONGITUDE": -84.52180299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57105599999994,
+          35.45008300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113732.01",
+        "PERMITTEE_NAME": "DR Horton, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Shadows Lawn Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113732.01",
+        "LATITUDE": 35.450083,
+        "LONGITUDE": -84.571056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70096099999995,
+          35.494714000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.006",
+        "PERMITTEE_NAME": "HGS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776729600000,
+        "EFFECTIVE_DATE": 1776729600000,
+        "EXPIRATION_DATE": 1934409600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "303 Clearwater-Rogers Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.006",
+        "LATITUDE": 35.494714,
+        "LONGITUDE": -84.70096099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63017399999995,
+          35.44378500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114552",
+        "PERMITTEE_NAME": "TCAT Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1635 Vo-tech Drive1635 Technology Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114552",
+        "LATITUDE": 35.443785,
+        "LONGITUDE": -84.630174,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52128099999999,
+          35.59851800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.004",
+        "PERMITTEE_NAME": "Sweetwater Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1776124800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "75 Regional Commerce Park Pleasant Grove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.004",
+        "LATITUDE": 35.598518,
+        "LONGITUDE": -84.521281,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57105599999994,
+          35.45008300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113732.02",
+        "PERMITTEE_NAME": "DR Horton, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Shadows Lawn Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113732.02",
+        "LATITUDE": 35.450083,
+        "LONGITUDE": -84.571056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55055199999998,
+          35.597042000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114600",
+        "PERMITTEE_NAME": "Watts Bar Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "County Road 311",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114600",
+        "LATITUDE": 35.597042,
+        "LONGITUDE": -84.550552,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55899999999997,
+          35.39690000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114557",
+        "PERMITTEE_NAME": "McMinn County Airport Committee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "195 County Road 552",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114557",
+        "LATITUDE": 35.3969,
+        "LONGITUDE": -84.559,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42989999999998,
+          35.354100000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.289",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1763683200000,
+        "EFFECTIVE_DATE": 1763683200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "SR-310, Slip Lining at LM 5.768 and 6.04",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.289",
+        "LATITUDE": 35.3541,
+        "LONGITUDE": -84.4299,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52128099999999,
+          35.59851800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.002",
+        "PERMITTEE_NAME": "Sweetwater Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1769731200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "75 Regional Commerce Park Pleasant Grove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.002",
+        "LATITUDE": 35.598518,
+        "LONGITUDE": -84.521281,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53801899999996,
+          35.32884100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058114",
+        "PERMITTEE_NAME": "City of Etowah",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "108 SUNRISE LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058114",
+        "LATITUDE": 35.328841,
+        "LONGITUDE": -84.53801899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44185899999997,
+          35.425531000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.114",
+        "PERMITTEE_NAME": "KCI Technologies, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1715904000000,
+        "EFFECTIVE_DATE": 1715904000000,
+        "EXPIRATION_DATE": 1873584000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1191 County Road 461",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.114",
+        "LATITUDE": 35.425531,
+        "LONGITUDE": -84.441859,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56629999999996,
+          35.36860000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192261",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Chestuee Rd and SR-609 intersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192261",
+        "LATITUDE": 35.3686,
+        "LONGITUDE": -84.5663,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62438099999997,
+          35.449200000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114278",
+        "PERMITTEE_NAME": "MTN, LTD, LLP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1511 Congress Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114278",
+        "LATITUDE": 35.449200000000005,
+        "LONGITUDE": -84.624381,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64485399999995,
+          35.46682400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114705",
+        "PERMITTEE_NAME": "BG Exit 49 LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Holiday dive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114705",
+        "LATITUDE": 35.466823999999995,
+        "LONGITUDE": -84.644854,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68259499999994,
+          35.39494200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113800",
+        "PERMITTEE_NAME": "Donald Humphreys",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3587 Hwy 11",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113800",
+        "LATITUDE": 35.394942,
+        "LONGITUDE": -84.68259499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68578699999995,
+          35.385353000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.127",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754438400000,
+        "EFFECTIVE_DATE": 1754438400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3489 TN-39",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.127",
+        "LATITUDE": 35.385352999999995,
+        "LONGITUDE": -84.68578699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63599999999997,
+          35.458300000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.085",
+        "PERMITTEE_NAME": "City of Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "0 Regional Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.085",
+        "LATITUDE": 35.4583,
+        "LONGITUDE": -84.63600000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57105599999994,
+          35.45008300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.020",
+        "PERMITTEE_NAME": "Mesana Investments LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1742860800000,
+        "EXPIRATION_DATE": 1774396800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Shadows Lawn Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.020",
+        "LATITUDE": 35.450083,
+        "LONGITUDE": -84.571056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63599999999997,
+          35.458300000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.096",
+        "PERMITTEE_NAME": "City of Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1759449600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "0 Regional Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.096",
+        "LATITUDE": 35.4583,
+        "LONGITUDE": -84.63600000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68578699999995,
+          35.385353000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.127b",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3489 TN-39",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.127b",
+        "LATITUDE": 35.385352999999995,
+        "LONGITUDE": -84.68578699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59039799999994,
+          35.38852600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114387",
+        "PERMITTEE_NAME": "John Gentry",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "297 Co Rd 750",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114387",
+        "LATITUDE": 35.388526,
+        "LONGITUDE": -84.590398,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63599999999997,
+          35.458300000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114495",
+        "PERMITTEE_NAME": "City of Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "0 Regional Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114495",
+        "LATITUDE": 35.4583,
+        "LONGITUDE": -84.63600000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69999999999999,
+          35.483780000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059295",
+        "PERMITTEE_NAME": "McKinney Excavating, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757413729000,
+        "EFFECTIVE_DATE": 1757413729000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Highway 30 East at McMinn CR-180",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059295",
+        "LATITUDE": 35.483779999999996,
+        "LONGITUDE": -84.7,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59351199999998,
+          35.43614900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114695",
+        "PERMITTEE_NAME": "City of Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "300 Elizabeth Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114695",
+        "LATITUDE": 35.436149,
+        "LONGITUDE": -84.59351199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74767199999997,
+          35.318340000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114696",
+        "PERMITTEE_NAME": "Calhoun-Charleston Utility District",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "310 County Road 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114696",
+        "LATITUDE": 35.31834,
+        "LONGITUDE": -84.747672,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55055199999998,
+          35.597042000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.020",
+        "PERMITTEE_NAME": "Watts Bar Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1777334400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "County Road 311",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.020",
+        "LATITUDE": 35.597042,
+        "LONGITUDE": -84.550552,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79688099999998,
+          35.205366000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192421",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "4762 Michigan Ave Rd NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192421",
+        "LATITUDE": 35.205366,
+        "LONGITUDE": -84.796881,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51610999999997,
+          35.54861000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.126",
+        "PERMITTEE_NAME": "City of Niota",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "21 S Main St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.126",
+        "LATITUDE": 35.54861,
+        "LONGITUDE": -84.51611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45209999999997,
+          35.34570000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192456",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "SR-310 at L.M. 4.36",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192456",
+        "LATITUDE": 35.3457,
+        "LONGITUDE": -84.4521,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.72567999999995,
+          35.301120000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051448",
+        "PERMITTEE_NAME": "Hiwassee Paving, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1773878400000,
+        "EFFECTIVE_DATE": 1773878400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "130 County Road 971",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051448",
+        "LATITUDE": 35.30112,
+        "LONGITUDE": -84.72568,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59743199999997,
+          35.445163000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114591",
+        "PERMITTEE_NAME": "Anthony (Tony) Murdic",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "414 CHESTER ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114591",
+        "LATITUDE": 35.445163,
+        "LONGITUDE": -84.597432,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52128099999999,
+          35.59851800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.003",
+        "PERMITTEE_NAME": "Sweetwater Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1769731200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "75 Regional Commerce Park Pleasant Grove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.003",
+        "LATITUDE": 35.598518,
+        "LONGITUDE": -84.521281,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45209999999997,
+          35.34570000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.161",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782864000000,
+        "EFFECTIVE_DATE": 1782864000000,
+        "EXPIRATION_DATE": 1940544000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "SR-310 at L.M. 4.36",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.161",
+        "LATITUDE": 35.3457,
+        "LONGITUDE": -84.4521,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65571799999998,
+          35.466716000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114048",
+        "PERMITTEE_NAME": "American Self Storage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "County Road 126",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114048",
+        "LATITUDE": 35.466716,
+        "LONGITUDE": -84.655718,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56629999999996,
+          35.36860000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.060-25",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747699200000,
+        "EFFECTIVE_DATE": 1747699200000,
+        "EXPIRATION_DATE": 1905379200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Chestuee Rd and SR-609 intersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.060-25",
+        "LATITUDE": 35.3686,
+        "LONGITUDE": -84.5663,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58896099999998,
+          35.482571000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114522",
+        "PERMITTEE_NAME": "Engineered transportation International",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1125 Congress Parkway North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114522",
+        "LATITUDE": 35.482571,
+        "LONGITUDE": -84.588961,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55308799999995,
+          35.36498100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114411",
+        "PERMITTEE_NAME": "Aaron Greer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "TN-30",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114411",
+        "LATITUDE": 35.364981,
+        "LONGITUDE": -84.553088,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69779999999997,
+          35.480800000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059059",
+        "PERMITTEE_NAME": "McKinney Excavating, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "795 CR-119",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059059",
+        "LATITUDE": 35.4808,
+        "LONGITUDE": -84.6978,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59265599999998,
+          35.435576000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114519",
+        "PERMITTEE_NAME": "McMinn County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "301 Elizabeth Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114519",
+        "LATITUDE": 35.435576,
+        "LONGITUDE": -84.59265599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61018499999994,
+          35.46762600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114532",
+        "PERMITTEE_NAME": "Riverstone Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Lee Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114532",
+        "LATITUDE": 35.467625999999996,
+        "LONGITUDE": -84.610185,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62580799999995,
+          35.46414600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114536",
+        "PERMITTEE_NAME": "Tradewinds Inv Properties",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Decatur Pike & Sullins Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114536",
+        "LATITUDE": 35.464146,
+        "LONGITUDE": -84.62580799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65028099999995,
+          35.46933000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114539",
+        "PERMITTEE_NAME": "GAJANAND, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Burkett L. Witt Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114539",
+        "LATITUDE": 35.46933,
+        "LONGITUDE": -84.65028099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52077299999996,
+          35.354021000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.211",
+        "PERMITTEE_NAME": "Etowah Utilities",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1317 Tennessee Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.211",
+        "LATITUDE": 35.354020999999996,
+        "LONGITUDE": -84.52077299999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55623999999995,
+          35.282422000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056420",
+        "PERMITTEE_NAME": "City of Etowah",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "275 County Road 850",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056420",
+        "LATITUDE": 35.282422,
+        "LONGITUDE": -84.55624,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58449999999993,
+          35.45080000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.086",
+        "PERMITTEE_NAME": "City of Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1755475200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1152 TN 305",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.086",
+        "LATITUDE": 35.4508,
+        "LONGITUDE": -84.5845,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58449999999993,
+          35.45080000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114496",
+        "PERMITTEE_NAME": "City of Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1152 TN 305",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114496",
+        "LATITUDE": 35.4508,
+        "LONGITUDE": -84.5845,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52128099999999,
+          35.59851800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114540",
+        "PERMITTEE_NAME": "Sweetwater Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "75 Regional Commerce Park Pleasant Grove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114540",
+        "LATITUDE": 35.598518,
+        "LONGITUDE": -84.521281,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68578699999995,
+          35.385353000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192386",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3489 TN-39",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192386",
+        "LATITUDE": 35.385352999999995,
+        "LONGITUDE": -84.68578699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.60655499999996,
+          35.46604400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.222",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "SR-2, LM 14.939, 14.90",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.222",
+        "LATITUDE": 35.466044,
+        "LONGITUDE": -84.606555,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69107099999997,
+          35.39792700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114189",
+        "PERMITTEE_NAME": "Bobby Farrar",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "135 County Road 673",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114189",
+        "LATITUDE": 35.397926999999996,
+        "LONGITUDE": -84.691071,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59096499999998,
+          35.38691200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114057",
+        "PERMITTEE_NAME": "John Gentry",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "391 CR-750",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114057",
+        "LATITUDE": 35.386911999999995,
+        "LONGITUDE": -84.590965,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75076599999994,
+          35.29041600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051775",
+        "PERMITTEE_NAME": "Southern Ionics Incorporated",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755561600000,
+        "EFFECTIVE_DATE": 1755561600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "187 South Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051775",
+        "LATITUDE": 35.290416,
+        "LONGITUDE": -84.750766,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80584999999996,
+          35.32943400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.337",
+        "PERMITTEE_NAME": "Donald Dwayne Pope",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1717027200000,
+        "EFFECTIVE_DATE": 1717027200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "155 County Road 5",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.337",
+        "LATITUDE": 35.329434,
+        "LONGITUDE": -84.80584999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63017399999995,
+          35.44378500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114309",
+        "PERMITTEE_NAME": "TCAT Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1635 Vo-tech Drive1635 Technology Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114309",
+        "LATITUDE": 35.443785,
+        "LONGITUDE": -84.630174,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55948899999999,
+          35.33055900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2401.050",
+        "PERMITTEE_NAME": "Elizabeth Dianne Brown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1717372800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Goodsprings area off McMinn Co Rd 660 - .07 miles from intersection with Co Rd 609",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2401.050",
+        "LATITUDE": 35.330559,
+        "LONGITUDE": -84.559489,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51839999999999,
+          35.39070000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050801",
+        "PERMITTEE_NAME": "PLTN Holdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "294 COUNTY ROAD 516",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050801",
+        "LATITUDE": 35.3907,
+        "LONGITUDE": -84.5184,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47414199999997,
+          35.43229400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114260",
+        "PERMITTEE_NAME": "Terry Stephens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3244 HIGHWAY 411 N # 3244 3244",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114260",
+        "LATITUDE": 35.432294,
+        "LONGITUDE": -84.474142,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58207599999997,
+          35.54620600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114105",
+        "PERMITTEE_NAME": "Thao Hunter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "538 County Road 267",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114105",
+        "LATITUDE": 35.546206,
+        "LONGITUDE": -84.582076,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68465199999997,
+          35.53603900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.215",
+        "PERMITTEE_NAME": "Mitigate TN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755216000000,
+        "EFFECTIVE_DATE": 1755216000000,
+        "EXPIRATION_DATE": 1912982400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "791-713 Co Rd 187",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.215",
+        "LATITUDE": 35.536038999999995,
+        "LONGITUDE": -84.684652,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61559999999997,
+          35.51520000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114361",
+        "PERMITTEE_NAME": "Lindsey Ferguson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "\"Lot 5\" Mt. Verd Industrial Park",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114361",
+        "LATITUDE": 35.5152,
+        "LONGITUDE": -84.6156,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.60682599999996,
+          35.47296200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114376",
+        "PERMITTEE_NAME": "Fulcrum Properties, LLC - 0 County Road 249 Series",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Off Co Rd 249",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114376",
+        "LATITUDE": 35.472961999999995,
+        "LONGITUDE": -84.606826,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67619999999994,
+          35.40159600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114295",
+        "PERMITTEE_NAME": "Deleon Dirt Works",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3481 US-11",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114295",
+        "LATITUDE": 35.401596,
+        "LONGITUDE": -84.67620000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74449999999996,
+          35.33780000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114145",
+        "PERMITTEE_NAME": "Paul William Development LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Hwy 29 Near I75",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114145",
+        "LATITUDE": 35.3378,
+        "LONGITUDE": -84.7445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48329999999999,
+          35.42640000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2301.119",
+        "PERMITTEE_NAME": "Farmer & Associates, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Parcel 065J A 033.00 & 034.00",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2301.119",
+        "LATITUDE": 35.4264,
+        "LONGITUDE": -84.4833,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45710899999995,
+          35.34461200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.307",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1710892800000,
+        "EFFECTIVE_DATE": 1710892800000,
+        "EXPIRATION_DATE": 1868572800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "SR-310, Log Mile 3.7 to 4.0",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.307",
+        "LATITUDE": 35.344612,
+        "LONGITUDE": -84.457109,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66689999999994,
+          35.471100000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110280",
+        "PERMITTEE_NAME": "LAMBCON, INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1703548800000,
+        "EFFECTIVE_DATE": 1703548800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "150 County Road 119",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110280",
+        "LATITUDE": 35.4711,
+        "LONGITUDE": -84.6669,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62199999999996,
+          35.45300000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114117",
+        "PERMITTEE_NAME": "PP Athens TN Owner LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1208 Congress Parkway South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114117",
+        "LATITUDE": 35.453,
+        "LONGITUDE": -84.622,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59674299999995,
+          35.477851000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114092",
+        "PERMITTEE_NAME": "AgCentral Farmers Cooperative",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "920 Congress Pkwy N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114092",
+        "LATITUDE": 35.477851,
+        "LONGITUDE": -84.59674299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57879999999994,
+          35.29370000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114277",
+        "PERMITTEE_NAME": "Peter Medlyn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Bradley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114277",
+        "LATITUDE": 35.2937,
+        "LONGITUDE": -84.5788,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75489999999996,
+          35.45730000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050299",
+        "PERMITTEE_NAME": "Danny Rattiff dba Ratliff Enterprise",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "689 CR-100",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050299",
+        "LATITUDE": 35.457300000000004,
+        "LONGITUDE": -84.7549,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57105599999994,
+          35.45008300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113887",
+        "PERMITTEE_NAME": "Scott Davis-Mesana Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Shadows Lawn Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113887",
+        "LATITUDE": 35.450083,
+        "LONGITUDE": -84.571056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64346699999999,
+          35.46358500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113960",
+        "PERMITTEE_NAME": "Panda Express, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2616 Decatur Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113960",
+        "LATITUDE": 35.463585,
+        "LONGITUDE": -84.643467,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57889999999998,
+          35.42700000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113828",
+        "PERMITTEE_NAME": "Silver Key Realty",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1014-1042 South Jackson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113828",
+        "LATITUDE": 35.427,
+        "LONGITUDE": -84.5789,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57105599999994,
+          35.45008300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113732",
+        "PERMITTEE_NAME": "Scott Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Shadows Lawn Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113732",
+        "LATITUDE": 35.450083,
+        "LONGITUDE": -84.571056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54166699999996,
+          35.27940000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0001996",
+        "PERMITTEE_NAME": "Evonik Corporation",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": 1639612800000,
+        "EFFECTIVE_DATE": 1648771200000,
+        "EXPIRATION_DATE": 1806451200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "131 County Road 875",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0001996",
+        "LATITUDE": 35.2794,
+        "LONGITUDE": -84.54166699999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74841099999998,
+          35.30901600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110262",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1670889600000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "4958 Highway 11 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110262",
+        "LATITUDE": 35.309016,
+        "LONGITUDE": -84.74841099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51647899999995,
+          35.54144000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050327",
+        "PERMITTEE_NAME": "Seaton Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771459200000,
+        "EFFECTIVE_DATE": 1771459200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "120 CR-351",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050327",
+        "LATITUDE": 35.54144,
+        "LONGITUDE": -84.51647899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62790099999995,
+          35.441748000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050603",
+        "PERMITTEE_NAME": "ABB Installation Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759449600000,
+        "EFFECTIVE_DATE": 1759449600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "260 Dennis Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050603",
+        "LATITUDE": 35.441748,
+        "LONGITUDE": -84.627901,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54166699999996,
+          35.27940000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051121",
+        "PERMITTEE_NAME": "Evonik Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754438400000,
+        "EFFECTIVE_DATE": 1754438400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "131 County Road 875",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051121",
+        "LATITUDE": 35.2794,
+        "LONGITUDE": -84.54166699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57427899999999,
+          35.456405000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050410",
+        "PERMITTEE_NAME": "Adient US LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760714496000,
+        "EFFECTIVE_DATE": 1760714496000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1210 East Madison Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050410",
+        "LATITUDE": 35.456405,
+        "LONGITUDE": -84.57427899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59096499999998,
+          35.38691200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053313",
+        "PERMITTEE_NAME": "McMinn County Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769644800000,
+        "EFFECTIVE_DATE": 1769644800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "391 CR-750",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053313",
+        "LATITUDE": 35.386911999999995,
+        "LONGITUDE": -84.590965,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57780999999994,
+          35.46407000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053456",
+        "PERMITTEE_NAME": "Seaton Iron And Metal Co., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752796800000,
+        "EFFECTIVE_DATE": 1752796800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "132 CR-370",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053456",
+        "LATITUDE": 35.46407,
+        "LONGITUDE": -84.57781,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58896099999998,
+          35.482571000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051440",
+        "PERMITTEE_NAME": "Heil Trailer International, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764028800000,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1125 Congress Parkway North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051440",
+        "LATITUDE": 35.482571,
+        "LONGITUDE": -84.588961,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46656199999995,
+          35.438698000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051893",
+        "PERMITTEE_NAME": "Contech Engineered Solutions, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753228800000,
+        "EFFECTIVE_DATE": 1753228800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "334 County Road 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051893",
+        "LATITUDE": 35.438697999999995,
+        "LONGITUDE": -84.466562,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63732299999998,
+          35.47923700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051921",
+        "PERMITTEE_NAME": "Midlab, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "140 Private Brand Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051921",
+        "LATITUDE": 35.479237,
+        "LONGITUDE": -84.637323,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69335999999998,
+          35.378122000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054154",
+        "PERMITTEE_NAME": "Omni Services, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "110 CR-701",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054154",
+        "LATITUDE": 35.378122,
+        "LONGITUDE": -84.69336,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65739999999994,
+          35.42410000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050961",
+        "PERMITTEE_NAME": "Webb's Used Cars",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": 1764720000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3068 HIGHWAY 11 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050961",
+        "LATITUDE": 35.4241,
+        "LONGITUDE": -84.65740000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63722199999995,
+          35.46861100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053701",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "106 CR-172",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053701",
+        "LATITUDE": 35.468610999999996,
+        "LONGITUDE": -84.637222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59027699999996,
+          35.42500000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056424",
+        "PERMITTEE_NAME": "Athens - Oostanaula Creek Wastewater Treatment Plant",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761582403000,
+        "EFFECTIVE_DATE": 1761582403000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "220 Alford Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056424",
+        "LATITUDE": 35.425000000000004,
+        "LONGITUDE": -84.590277,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51659999999998,
+          35.36660000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051828",
+        "PERMITTEE_NAME": "Johns Manville, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2235 Highway 411 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051828",
+        "LATITUDE": 35.3666,
+        "LONGITUDE": -84.51660000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58333299999998,
+          35.44722200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051412",
+        "PERMITTEE_NAME": "Mayfield Dairy Farms, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "806 EAST MADISON AVENUE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051412",
+        "LATITUDE": 35.447222,
+        "LONGITUDE": -84.583333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58521899999994,
+          35.48245600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054537",
+        "PERMITTEE_NAME": "Mills Products",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754956800000,
+        "EFFECTIVE_DATE": 1754956800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2530 Northridge Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054537",
+        "LATITUDE": 35.482456,
+        "LONGITUDE": -84.585219,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75423799999999,
+          35.295093000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053851",
+        "PERMITTEE_NAME": "Resolute FP US Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "5020 Highway 11 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053851",
+        "LATITUDE": 35.295093,
+        "LONGITUDE": -84.754238,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65277499999996,
+          35.46513300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056339",
+        "PERMITTEE_NAME": "Dynasty Spas, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769385600000,
+        "EFFECTIVE_DATE": 1769385600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "101 Dynasty Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056339",
+        "LATITUDE": 35.465133,
+        "LONGITUDE": -84.65277499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64269999999999,
+          35.47430000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053984",
+        "PERMITTEE_NAME": "Denso Manufacturing Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2400 DENSO Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053984",
+        "LATITUDE": 35.4743,
+        "LONGITUDE": -84.6427,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51859399999995,
+          35.547172000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054361",
+        "PERMITTEE_NAME": "A & B Eagle Line Equipment, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766966400000,
+        "EFFECTIVE_DATE": 1766966400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2315 US Highway 11 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054361",
+        "LATITUDE": 35.547171999999996,
+        "LONGITUDE": -84.518594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59739999999994,
+          35.451100000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075141",
+        "PERMITTEE_NAME": "City of Athens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1673481600000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "815 North Jackson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075141",
+        "LATITUDE": 35.451100000000004,
+        "LONGITUDE": -84.59740000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57869999999997,
+          35.48870000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110312",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1671753600000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "3106 Lee Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110312",
+        "LATITUDE": 35.4887,
+        "LONGITUDE": -84.5787,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52277699999996,
+          35.32111100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056814",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1757289600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "101 County Rd 475",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056814",
+        "LATITUDE": 35.321111,
+        "LONGITUDE": -84.52277699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53259999999995,
+          35.38870000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111514",
+        "PERMITTEE_NAME": "Scott Cass",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "CR-550",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111514",
+        "LATITUDE": 35.3887,
+        "LONGITUDE": -84.5326,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63068199999998,
+          35.45954700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058201",
+        "PERMITTEE_NAME": "Mr. Bult's, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751846400000,
+        "EFFECTIVE_DATE": 1751846400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2542 Sullins Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058201",
+        "LATITUDE": 35.459547,
+        "LONGITUDE": -84.630682,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59366599999998,
+          35.47690200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058286",
+        "PERMITTEE_NAME": "Selective Structures, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "811 East Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058286",
+        "LATITUDE": 35.476901999999995,
+        "LONGITUDE": -84.593666,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50732899999997,
+          35.55753800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058578",
+        "PERMITTEE_NAME": "ANDERSON METAL TRADING DBA ANDERSON AUTO SALVAGE AND RECYCLING",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1772668800000,
+        "EFFECTIVE_DATE": 1772668800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2289 HIGHWAY 11 S HIGHWAY 11 SOUTH",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058578",
+        "LATITUDE": 35.557538,
+        "LONGITUDE": -84.507329,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52026999999998,
+          35.549720000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058638",
+        "PERMITTEE_NAME": "Alan Purdy DBA Purdy's Auto Parts and Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1783987200000,
+        "EFFECTIVE_DATE": 1783987200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "149 CR-323",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058638",
+        "LATITUDE": 35.54972,
+        "LONGITUDE": -84.52027,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56979999999999,
+          35.61130000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058652",
+        "PERMITTEE_NAME": "Taner Timber Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752537600000,
+        "EFFECTIVE_DATE": 1752537600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1193 CR-316",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058652",
+        "LATITUDE": 35.6113,
+        "LONGITUDE": -84.5698,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52267399999994,
+          35.549769000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058668",
+        "PERMITTEE_NAME": "Donny Morgan dba Woodrows Used Auto",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1674432000000,
+        "EFFECTIVE_DATE": 1674432000000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "161 County Rd 323",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058668",
+        "LATITUDE": 35.549769,
+        "LONGITUDE": -84.522674,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68178899999998,
+          35.48166400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058715",
+        "PERMITTEE_NAME": "Johns Manville, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "187 County Road 166",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058715",
+        "LATITUDE": 35.481663999999995,
+        "LONGITUDE": -84.681789,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51220599999994,
+          35.56756100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "547005",
+        "PERMITTEE_NAME": "Sweetwater Creek W.D.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1781568000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1844640000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "124SE Sweetwater Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:547005",
+        "LATITUDE": 35.567561,
+        "LONGITUDE": -84.51220599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77999999999997,
+          35.316111000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "547007",
+        "PERMITTEE_NAME": "Resolute FP US Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1760486400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1852588800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "119se Trib-hiwasse River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:547007",
+        "LATITUDE": 35.316111,
+        "LONGITUDE": -84.78,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52749999999997,
+          35.560556000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "547008",
+        "PERMITTEE_NAME": "Sweetwater Creek W.D.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1750809600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1813017600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "124SE Trib-sweetwater Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:547008",
+        "LATITUDE": 35.560556,
+        "LONGITUDE": -84.5275,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49805599999996,
+          35.56333300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "547004",
+        "PERMITTEE_NAME": "Sweetwater Creek W.D.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1781568000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1844640000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "131SW Sweetwater Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:547004",
+        "LATITUDE": 35.563333,
+        "LONGITUDE": -84.49805599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55369999999994,
+          35.47040000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.045",
+        "PERMITTEE_NAME": "Blue Ridge Waterways Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1434931200000,
+        "EFFECTIVE_DATE": 1434931200000,
+        "EXPIRATION_DATE": 1592697600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Athens",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.045",
+        "LATITUDE": 35.470400000000005,
+        "LONGITUDE": -84.5537,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47848899999997,
+          35.48214200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.122",
+        "PERMITTEE_NAME": "Athens Utility Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1440028800000,
+        "EFFECTIVE_DATE": 1440028800000,
+        "EXPIRATION_DATE": 1597795200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Beginning on Highway 406 and Ending on Highway 255",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.122",
+        "LATITUDE": 35.482141999999996,
+        "LONGITUDE": -84.478489,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58320299999997,
+          35.46651300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058881",
+        "PERMITTEE_NAME": "Seaton Enterprises, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771459200000,
+        "EFFECTIVE_DATE": 1771459200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2101 Old Niota Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058881",
+        "LATITUDE": 35.466513,
+        "LONGITUDE": -84.583203,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68337999999994,
+          35.48447300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.091",
+        "PERMITTEE_NAME": "Environmental Trust Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1471564800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1629244800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "233 County Road 166",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.091",
+        "LATITUDE": 35.484473,
+        "LONGITUDE": -84.68338,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56833299999994,
+          35.46027800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059081",
+        "PERMITTEE_NAME": "E&E Manufacturing of Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2000 Tellico Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059081",
+        "LATITUDE": 35.460277999999995,
+        "LONGITUDE": -84.568333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51899999999995,
+          35.54600000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059171",
+        "PERMITTEE_NAME": "Triple R Salvage, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1780531200000,
+        "EFFECTIVE_DATE": 1780531200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2299 HWY 11 SOUTH",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059171",
+        "LATITUDE": 35.546,
+        "LONGITUDE": -84.519,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52129999999994,
+          35.59740000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.243",
+        "PERMITTEE_NAME": "City of Sweetwater",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1491782400000,
+        "EFFECTIVE_DATE": 1491782400000,
+        "EXPIRATION_DATE": 1649462400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Pleasant Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.243",
+        "LATITUDE": 35.5974,
+        "LONGITUDE": -84.52130000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59003099999995,
+          35.442616000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054543",
+        "PERMITTEE_NAME": "ATHENS PLOW COMPANY, INC.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "11 Green Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054543",
+        "LATITUDE": 35.442616,
+        "LONGITUDE": -84.590031,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.60655499999996,
+          35.46604400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.079",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1557878400000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "SR-2, LM 14.939, 14.90",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.079",
+        "LATITUDE": 35.466044,
+        "LONGITUDE": -84.606555,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61219999999997,
+          35.44390000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113248",
+        "PERMITTEE_NAME": "Brian McKinney",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Frye Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113248",
+        "LATITUDE": 35.4439,
+        "LONGITUDE": -84.6122,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.71309999999994,
+          35.483400000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113275",
+        "PERMITTEE_NAME": "Clifford Hampton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "TN Highway 30 at County Road 119",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113275",
+        "LATITUDE": 35.4834,
+        "LONGITUDE": -84.7131,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45309999999995,
+          35.40540000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.056",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1588118400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "SR-39, Culvert replacements at LM 17.768, 18.438, and 18.501",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.056",
+        "LATITUDE": 35.4054,
+        "LONGITUDE": -84.4531,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70096099999995,
+          35.494714000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113541",
+        "PERMITTEE_NAME": "HGS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "303 Clearwater-Rogers Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113541",
+        "LATITUDE": 35.494714,
+        "LONGITUDE": -84.70096099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55659999999995,
+          35.36760000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113411",
+        "PERMITTEE_NAME": "Scott Cass",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Corner of Blair Branch & Highway 30",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113411",
+        "LATITUDE": 35.3676,
+        "LONGITUDE": -84.5566,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65166699999997,
+          35.470724000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113435",
+        "PERMITTEE_NAME": "Carol Howard",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2299 Denso Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113435",
+        "LATITUDE": 35.470724,
+        "LONGITUDE": -84.65166699999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58839999999998,
+          35.48440000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113446",
+        "PERMITTEE_NAME": "Embark Development LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1108 Congress Parkway North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113446",
+        "LATITUDE": 35.4844,
+        "LONGITUDE": -84.58840000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.60169999999994,
+          35.434600000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113573",
+        "PERMITTEE_NAME": "Athens City Schools Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "City Park Property",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113573",
+        "LATITUDE": 35.4346,
+        "LONGITUDE": -84.60170000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.60528099999993,
+          35.42678100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113511",
+        "PERMITTEE_NAME": "Hector Jaramillo",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Cedar Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113511",
+        "LATITUDE": 35.426781,
+        "LONGITUDE": -84.60528099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61619999999994,
+          35.45900000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113607",
+        "PERMITTEE_NAME": "Nathan Derrick",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "712 Congress Parkway South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113607",
+        "LATITUDE": 35.459,
+        "LONGITUDE": -84.6162,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57502499999998,
+          35.430533000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059808",
+        "PERMITTEE_NAME": "EROSION SOLUTIONS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752710400000,
+        "EFFECTIVE_DATE": 1752710400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "County Road Hwy 39 East",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059808",
+        "LATITUDE": 35.430533,
+        "LONGITUDE": -84.575025,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55999999999995,
+          35.508800000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113544",
+        "PERMITTEE_NAME": "Thomas Builders, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "832 W. Wilson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113544",
+        "LATITUDE": 35.5088,
+        "LONGITUDE": -84.56,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57730599999996,
+          35.40234000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113658",
+        "PERMITTEE_NAME": "Storage Park, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "1680 Highway 30 East",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113658",
+        "LATITUDE": 35.402339999999995,
+        "LONGITUDE": -84.577306,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64125699999994,
+          35.461156000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113832",
+        "PERMITTEE_NAME": "Emanuel Makrinakis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "2509 Decatur Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113832",
+        "LATITUDE": 35.461155999999995,
+        "LONGITUDE": -84.641257,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57486999999998,
+          35.46641000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113723",
+        "PERMITTEE_NAME": "David Hobbs, Owner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "County Rd. 370",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113723",
+        "LATITUDE": 35.466409999999996,
+        "LONGITUDE": -84.57486999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63679999999994,
+          35.43770000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113727",
+        "PERMITTEE_NAME": "Jimmy Rhodes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "Adjacent to Rocky Mt Rd & Cardinal St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113727",
+        "LATITUDE": 35.4377,
+        "LONGITUDE": -84.63680000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54166699999996,
+          35.27940000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113719",
+        "PERMITTEE_NAME": "Evonik Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "131 County Road 875",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113719",
+        "LATITUDE": 35.2794,
+        "LONGITUDE": -84.54166699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51828899999998,
+          35.38514300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059889",
+        "PERMITTEE_NAME": "Southern Construction Group, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752451200000,
+        "EFFECTIVE_DATE": 1752451200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McMinn",
+        "SITE_LOCATION": "County Road 517",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059889",
+        "LATITUDE": 35.385143,
+        "LONGITUDE": -84.518289,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

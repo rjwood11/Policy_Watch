@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47599999999994,
+          36.42011000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110328",
+        "PERMITTEE_NAME": "SEMO Operating Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1668556800000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "30 Vaughn Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110328",
+        "LATITUDE": 36.42011,
+        "LONGITUDE": -89.476,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.45286399999998,
+          36.41540200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123162",
+        "PERMITTEE_NAME": "State of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "960 SR-212",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123162",
+        "LATITUDE": 36.415402,
+        "LONGITUDE": -89.45286399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47958999999997,
+          36.44367100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192399",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "SR-22, State Industrial Access Serving Project Sonic",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192399",
+        "LATITUDE": 36.443670999999995,
+        "LONGITUDE": -89.47959,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48579999999998,
+          36.45210000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.012",
+        "PERMITTEE_NAME": "US Army Corps of Engineers (USACE) - Memphis District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776297600000,
+        "EFFECTIVE_DATE": 1776643200000,
+        "EXPIRATION_DATE": 1934323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "Tiptonville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.012",
+        "LATITUDE": 36.4521,
+        "LONGITUDE": -89.4858,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38799999999998,
+          36.402000000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.023",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787011200000,
+        "EFFECTIVE_DATE": 1787011200000,
+        "EXPIRATION_DATE": 1944691200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "Lake & Obion Counties",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.023",
+        "LATITUDE": 36.402,
+        "LONGITUDE": -89.388,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48579999999998,
+          36.45210000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.050-20",
+        "PERMITTEE_NAME": "US Army Corps of Engineers (USACE) - Memphis District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1618876800000,
+        "EFFECTIVE_DATE": 1618876800000,
+        "EXPIRATION_DATE": 1776556800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "Tiptonville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.050-20",
+        "LATITUDE": 36.4521,
+        "LONGITUDE": -89.4858,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33721199999997,
+          36.05837900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.138",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1704931200000,
+        "EFFECTIVE_DATE": 1704931200000,
+        "EXPIRATION_DATE": 1862697600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "Bekaert Steel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.138",
+        "LATITUDE": 36.058378999999995,
+        "LONGITUDE": -89.337212,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47578999999996,
+          36.41915000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192277",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "Hwy 22 and Cates Landing Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192277",
+        "LATITUDE": 36.419149999999995,
+        "LONGITUDE": -89.47578999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.47580799999997,
+          36.304002000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122879",
+        "PERMITTEE_NAME": "Ridgely Energy Farm, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "28 Harry George Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122879",
+        "LATITUDE": 36.304002,
+        "LONGITUDE": -89.475808,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37631699999997,
+          36.41885700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2402.025",
+        "PERMITTEE_NAME": "TWRA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1723075200000,
+        "EFFECTIVE_DATE": 1723075200000,
+        "EXPIRATION_DATE": 1767139200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "Reelfoot Lake WMA",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2402.025",
+        "LATITUDE": 36.418856999999996,
+        "LONGITUDE": -89.376317,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52182099999999,
+          36.40572000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.088",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1703116800000,
+        "EFFECTIVE_DATE": 1703116800000,
+        "EXPIRATION_DATE": 1860883200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "Linear project (start:36.37769/-89.45870; end:36.40572/-89.521821)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.088",
+        "LATITUDE": 36.405719999999995,
+        "LONGITUDE": -89.521821,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.46643099999994,
+          36.439369000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122666",
+        "PERMITTEE_NAME": "Sinova Silicon, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "4255 Cates Landing Road N; P.O. Box 427",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122666",
+        "LATITUDE": 36.439369,
+        "LONGITUDE": -89.466431,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.44269999999995,
+          36.363000000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.204",
+        "PERMITTEE_NAME": "Reelfoot Lake State Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1668988800000,
+        "EFFECTIVE_DATE": 1668988800000,
+        "EXPIRATION_DATE": 1826668800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "2595 Highway 21 East",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.204",
+        "LATITUDE": 36.363,
+        "LONGITUDE": -89.4427,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40939999999995,
+          36.353000000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.090",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1526515200000,
+        "EFFECTIVE_DATE": 1526515200000,
+        "EXPIRATION_DATE": 1684281600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lake",
+        "SITE_LOCATION": "SR-21 Reelfoot Spillway CNH147 Stream Enhancement and Box Culvert Project",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.090",
+        "LATITUDE": 36.353,
+        "LONGITUDE": -89.4094,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

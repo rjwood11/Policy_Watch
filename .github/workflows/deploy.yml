@@ -1,12 +1,15 @@
 name: Deploy Static Site
 
 on:
+  schedule:
+    - cron: "0 2 * * 6"
+      timezone: America/Chicago
   push:
     branches: ["main"]
   workflow_dispatch:
     inputs:
       refresh_live_layers:
-        description: "Refresh weekly EPA ECHO and TDEC permit cache before building"
+        description: "Refresh online data sources before building"
         required: true
         type: boolean
         default: false
@@ -18,12 +21,18 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 180
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    outputs:
+      refresh_failed: ${{ steps.refresh_status.outputs.failed }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -42,12 +51,34 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install weekly refresh dependencies
-        run: python -m pip install requests
+      - name: Install refresh dependencies
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
+        run: python -m pip install -r requirements.txt
 
-      - name: Refresh weekly EPA ECHO and TDEC cache
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers }}
-        run: npm run data:refresh-weekly
+      - name: Refresh online data and rebuild county maps
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
+        env:
+          CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
+        run: npm run data:refresh-online
+
+      - name: Check refresh failure handling
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
+        run: python -m unittest scripts.validate.test_refresh
+
+      - name: Validate refreshed data
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
+        run: python -m scripts.validate.validate_prototype_outputs
+
+      - name: Record refresh health
+        id: refresh_status
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
+        run: |
+          python - <<'PY'
+          import json, os
+          failures = json.load(open('public/data/metadata/refresh-run.json'))['failures']
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write(f'failed={str(bool(failures)).lower()}\n')
+          PY
 
       - name: Lint
         run: npm run lint
@@ -60,6 +91,19 @@ jobs:
         env:
           NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
         run: npm run build
+
+      - name: Save validated data refresh
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
+        env:
+          REFRESH_BRANCH: ${{ github.ref_name }}
+        run: |
+          if ! git diff --quiet -- public/data || test -n "$(git ls-files --others --exclude-standard public/data)"; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/data
+            git commit -m "Refresh public data sources"
+            git push origin "HEAD:$REFRESH_BRANCH"
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
@@ -76,3 +120,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Report incomplete source refresh
+        if: ${{ needs.build.outputs.refresh_failed == 'true' }}
+        run: |
+          echo "::error::Published available updates, but some sources retained older data. Review the build job summary and Sources page."
+          exit 1

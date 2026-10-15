@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.07529499999998,
+          36.56287200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.62",
+        "PERMITTEE_NAME": "Pickett County Highway Department",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "Past 3041 South Ford Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.62",
+        "LATITUDE": 36.562872,
+        "LONGITUDE": -85.075295,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.16980599999994,
+          36.53118000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.048",
+        "PERMITTEE_NAME": "Pickett County Tennessee",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "100 Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.048",
+        "LATITUDE": 36.53118,
+        "LONGITUDE": -85.169806,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.12353299999995,
+          36.44957500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.013",
+        "PERMITTEE_NAME": "Matt's Marine & Powersports, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778544000000,
+        "EFFECTIVE_DATE": 1778544000000,
+        "EXPIRATION_DATE": 1936224000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "5652 East Port Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.013",
+        "LATITUDE": 36.449574999999996,
+        "LONGITUDE": -85.123533,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.10009199999996,
+          36.57235300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.166",
+        "PERMITTEE_NAME": "Gail S. Keating ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1659657600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "Near 1460 Nick Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.166",
+        "LATITUDE": 36.572353,
+        "LONGITUDE": -85.10009199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.08729999999997,
+          36.51030000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172833",
+        "PERMITTEE_NAME": "Daniel Masiongale",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "Step Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172833",
+        "LATITUDE": 36.5103,
+        "LONGITUDE": -85.0873,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.16941599999996,
+          36.50744700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172387",
+        "PERMITTEE_NAME": "Edwin W. Leslie ",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "7000 Earl Hicks Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172387",
+        "LATITUDE": 36.507447,
+        "LONGITUDE": -85.169416,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.16740499999997,
+          36.55024100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172589",
+        "PERMITTEE_NAME": "Jeremy Cole",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "1500 HWY 111",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172589",
+        "LATITUDE": 36.550241,
+        "LONGITUDE": -85.167405,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.16349999999994,
+          36.54890000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172332",
+        "PERMITTEE_NAME": "Elder Brothers Partners ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "1643 Livingston Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172332",
+        "LATITUDE": 36.5489,
+        "LONGITUDE": -85.1635,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.11902399999997,
+          36.562531000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056438",
+        "PERMITTEE_NAME": "Pickett County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1779321600000,
+        "EFFECTIVE_DATE": 1779321600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "3065 GIB MOLES ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056438",
+        "LATITUDE": 36.562531,
+        "LONGITUDE": -85.119024,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.12553499999996,
+          36.58073900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB062626",
+        "PERMITTEE_NAME": "Byrdstown STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757376000000,
+        "EFFECTIVE_DATE": 1757376000000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "1099 Spring Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB062626",
+        "LATITUDE": 36.580739,
+        "LONGITUDE": -85.125535,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.24222199999997,
+          36.62194400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058347",
+        "PERMITTEE_NAME": "SHM Eagle Cove, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "5899 Eagle Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058347",
+        "LATITUDE": 36.621944,
+        "LONGITUDE": -85.242222,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80083299999995,
+          36.553333000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "697001",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1753660800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1847232000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "335se Natural Bridge Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:697001",
+        "LATITUDE": 36.553332999999995,
+        "LONGITUDE": -84.800833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.17759999999998,
+          36.61340000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171916",
+        "PERMITTEE_NAME": "Tommy Fitzgerald",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "Turney Groce Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171916",
+        "LATITUDE": 36.6134,
+        "LONGITUDE": -85.1776,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.12224399999997,
+          36.58739200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171977",
+        "PERMITTEE_NAME": "Pickett County Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Pickett",
+        "SITE_LOCATION": "Old Static Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171977",
+        "LATITUDE": 36.587392,
+        "LONGITUDE": -85.122244,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

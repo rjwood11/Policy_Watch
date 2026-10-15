@@ -1,0 +1,1435 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66529599999996,
+          36.34417700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.45",
+        "PERMITTEE_NAME": "Lloyd Williams - Town of Gainesboro",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747353600000,
+        "EFFECTIVE_DATE": 1747353600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Near 538 W Gipson Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.45",
+        "LATITUDE": 36.344176999999995,
+        "LONGITUDE": -85.665296,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63971499999997,
+          36.38355800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050526",
+        "PERMITTEE_NAME": "Gainsboro Realty Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764892800000,
+        "EFFECTIVE_DATE": 1764892800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1267 North Grundy Quarles Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050526",
+        "LATITUDE": 36.383558,
+        "LONGITUDE": -85.639715,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60222599999997,
+          36.31818500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.04",
+        "PERMITTEE_NAME": "Daniel Garrison- Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770249600000,
+        "EFFECTIVE_DATE": 1770249600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Morrison Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.04",
+        "LATITUDE": 36.318185,
+        "LONGITUDE": -85.602226,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71959099999998,
+          36.47147800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRC2607.10",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771286400000,
+        "EFFECTIVE_DATE": 1771286400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "North Fork Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRC2607.10",
+        "LATITUDE": 36.471478,
+        "LONGITUDE": -85.719591,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65838399999996,
+          36.27544300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.06",
+        "PERMITTEE_NAME": "Daniel Garrison- Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771286400000,
+        "EFFECTIVE_DATE": 1771286400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Flynns Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.06",
+        "LATITUDE": 36.275442999999996,
+        "LONGITUDE": -85.658384,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63054599999998,
+          36.25163500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.07",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770854400000,
+        "EFFECTIVE_DATE": 1770854400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Flatt Dyer Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.07",
+        "LATITUDE": 36.251635,
+        "LONGITUDE": -85.630546,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72696099999996,
+          36.51632200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.11",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770854400000,
+        "EFFECTIVE_DATE": 1770854400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Pine Lick Rd., Whitleyville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.11",
+        "LATITUDE": 36.516321999999995,
+        "LONGITUDE": -85.726961,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65542899999997,
+          36.27746100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.08",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771286400000,
+        "EFFECTIVE_DATE": 1771286400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Cubb Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.08",
+        "LATITUDE": 36.277460999999995,
+        "LONGITUDE": -85.655429,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75789999999995,
+          36.31550000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670789",
+        "PERMITTEE_NAME": "East Tennessee Natural Gas, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1776729600000,
+        "EFFECTIVE_DATE": 1776729600000,
+        "EXPIRATION_DATE": 1809043200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Smith Bend Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670789",
+        "LATITUDE": 36.3155,
+        "LONGITUDE": -85.7579,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75948699999998,
+          36.403346000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.09",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770249600000,
+        "EFFECTIVE_DATE": 1770249600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Indian Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.09",
+        "LATITUDE": 36.403346,
+        "LONGITUDE": -85.759487,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64876499999997,
+          36.28069700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.55",
+        "PERMITTEE_NAME": "Bradley Mayberry",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788307200000,
+        "EFFECTIVE_DATE": 1788307200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "665 Cubb Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.55",
+        "LATITUDE": 36.280696999999996,
+        "LONGITUDE": -85.648765,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59237699999994,
+          36.33902600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.51",
+        "PERMITTEE_NAME": "Barbara Decker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785801600000,
+        "EFFECTIVE_DATE": 1785801600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "326 Lawson Road Gainesboro, TN 38562",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.51",
+        "LATITUDE": 36.339026,
+        "LONGITUDE": -85.592377,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63451999999995,
+          36.39682700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.079b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752710400000,
+        "EFFECTIVE_DATE": 1752796800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "SR-53 LM 17.55 at Hurricane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.079b",
+        "LATITUDE": 36.396827,
+        "LONGITUDE": -85.63452,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54595799999998,
+          36.33830800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.05",
+        "PERMITTEE_NAME": "Daniel Garrison- Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Spring Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.05",
+        "LATITUDE": 36.338308,
+        "LONGITUDE": -85.545958,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58872599999995,
+          36.34418900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.47",
+        "PERMITTEE_NAME": "Timothy Lance Reynolds",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1784505600000,
+        "EFFECTIVE_DATE": 1784505600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "115 Lawson Road Gainesboro",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.47",
+        "LATITUDE": 36.344189,
+        "LONGITUDE": -85.588726,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58259799999996,
+          36.35623700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.35",
+        "PERMITTEE_NAME": "Brandon Chaffin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782691200000,
+        "EFFECTIVE_DATE": 1782691200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Near 1757 Roaring River Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.35",
+        "LATITUDE": 36.356237,
+        "LONGITUDE": -85.58259799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68643299999997,
+          36.28979400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.14",
+        "PERMITTEE_NAME": "JAMES TIMOTHY BROWN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771286400000,
+        "EFFECTIVE_DATE": 1771286400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1080 Flynns Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.14",
+        "LATITUDE": 36.289794,
+        "LONGITUDE": -85.686433,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51531499999999,
+          36.33793500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.64",
+        "PERMITTEE_NAME": "Jeffrey King",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1694736000000,
+        "EFFECTIVE_DATE": 1694736000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1735 Poplar Springs Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.64",
+        "LATITUDE": 36.337935,
+        "LONGITUDE": -85.515315,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63451999999995,
+          36.39682700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.079a",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752710400000,
+        "EFFECTIVE_DATE": 1752796800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "SR-53 LM 17.55 at Hurricane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.079a",
+        "LATITUDE": 36.396827,
+        "LONGITUDE": -85.63452,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69380999999998,
+          36.37345000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.82",
+        "PERMITTEE_NAME": "Johnny Poston - Tennessee Wildlife Resources Agency",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1751500800000,
+        "EFFECTIVE_DATE": 1751500800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "2800 Free State Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.82",
+        "LATITUDE": 36.37345,
+        "LONGITUDE": -85.69381,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50962199999998,
+          36.34757200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.163",
+        "PERMITTEE_NAME": "Paul Puryear",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1659484800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Near 4771 Roaring River Rd, Hilham, TN 38568",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.163",
+        "LATITUDE": 36.347572,
+        "LONGITUDE": -85.509622,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71249999999998,
+          36.51527800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "447001",
+        "PERMITTEE_NAME": "Jackson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1769990400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1863129600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "324sw Brannon Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:447001",
+        "LATITUDE": 36.515277999999995,
+        "LONGITUDE": -85.7125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55684999999994,
+          36.34626700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.52",
+        "PERMITTEE_NAME": "Thomas Zagel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1720569600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "2644 Roaring River Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.52",
+        "LATITUDE": 36.346267,
+        "LONGITUDE": -85.55685,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50920999999994,
+          36.33081000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.90",
+        "PERMITTEE_NAME": "Luther Barden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1732147200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1819 Spring Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.90",
+        "LATITUDE": 36.33081,
+        "LONGITUDE": -85.50921,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56419999999997,
+          36.35000000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.145",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1701043200000,
+        "EFFECTIVE_DATE": 1701043200000,
+        "EXPIRATION_DATE": 1858809600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "2036 Roaring River Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.145",
+        "LATITUDE": 36.35,
+        "LONGITUDE": -85.5642,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55965899999995,
+          36.333676000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.17",
+        "PERMITTEE_NAME": "Martha Stinson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1710720000000,
+        "EFFECTIVE_DATE": 1710720000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": 1775779200000,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "968 Blackburn Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.17",
+        "LATITUDE": 36.333676,
+        "LONGITUDE": -85.559659,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65406499999995,
+          36.37277800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.336",
+        "PERMITTEE_NAME": "Town of Gainesboro",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1713312000000,
+        "EFFECTIVE_DATE": 1713312000000,
+        "EXPIRATION_DATE": 1870992000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "145 Free State Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.336",
+        "LATITUDE": 36.372778,
+        "LONGITUDE": -85.654065,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63009999999997,
+          36.39791900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.181",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1696896000000,
+        "EFFECTIVE_DATE": 1696896000000,
+        "EXPIRATION_DATE": 1854662400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Hurricane Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.181",
+        "LATITUDE": 36.397919,
+        "LONGITUDE": -85.6301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64712899999995,
+          36.416000000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.235",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1633392000000,
+        "EFFECTIVE_DATE": 1633392000000,
+        "EXPIRATION_DATE": 1667174400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Big Bottom Road, Free State",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.235",
+        "LATITUDE": 36.416000000000004,
+        "LONGITUDE": -85.64712899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60469999999998,
+          36.31107000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.137",
+        "PERMITTEE_NAME": "Steve D. Allen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1685923200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1860 Morrison Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.137",
+        "LATITUDE": 36.31107,
+        "LONGITUDE": -85.60470000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64232399999997,
+          36.39892200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172474",
+        "PERMITTEE_NAME": "Jackson County Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "860 Big Bottom Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172474",
+        "LATITUDE": 36.398922,
+        "LONGITUDE": -85.642324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64232399999997,
+          36.39892200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.23",
+        "PERMITTEE_NAME": "Jackson County Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1682640000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "860 Big Bottom Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.23",
+        "LATITUDE": 36.398922,
+        "LONGITUDE": -85.642324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68034999999998,
+          36.287900000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.164",
+        "PERMITTEE_NAME": "Tim Brown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1665532800000,
+        "EFFECTIVE_DATE": 1665532800000,
+        "EXPIRATION_DATE": 1823212800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1321 Flynn's Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.164",
+        "LATITUDE": 36.2879,
+        "LONGITUDE": -85.68034999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58153999999996,
+          36.45500000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171619",
+        "PERMITTEE_NAME": "Art Warden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "4044 Big Bottom Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171619",
+        "LATITUDE": 36.455,
+        "LONGITUDE": -85.58153999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71231999999998,
+          36.38426000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171712",
+        "PERMITTEE_NAME": "James R. Hines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1142 Trace Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171712",
+        "LATITUDE": 36.38426,
+        "LONGITUDE": -85.71231999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67759999999998,
+          36.27820000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.092",
+        "PERMITTEE_NAME": "Larry Flatt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1442534400000,
+        "EFFECTIVE_DATE": 1442534400000,
+        "EXPIRATION_DATE": 1605571200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "145 Boyd Flatt Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.092",
+        "LATITUDE": 36.2782,
+        "LONGITUDE": -85.6776,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71659999999997,
+          36.46520000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.317",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1445558400000,
+        "EFFECTIVE_DATE": 1445558400000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Gainsboro",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.317",
+        "LATITUDE": 36.4652,
+        "LONGITUDE": -85.7166,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80833299999995,
+          36.471944000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "447005",
+        "PERMITTEE_NAME": "Jackson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1763942400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794700800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "321ne Hudson Hollow",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:447005",
+        "LATITUDE": 36.471944,
+        "LONGITUDE": -85.80833299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68749999999994,
+          36.47361100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "447006",
+        "PERMITTEE_NAME": "Jackson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1765411200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "325nw Hicks Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:447006",
+        "LATITUDE": 36.473611,
+        "LONGITUDE": -85.6875,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78916699999996,
+          36.44250000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "447007",
+        "PERMITTEE_NAME": "Jackson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1763942400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794700800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "321ne Ward Fork",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:447007",
+        "LATITUDE": 36.4425,
+        "LONGITUDE": -85.78916699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72083299999997,
+          36.51027800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "447002",
+        "PERMITTEE_NAME": "Jackson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1769385600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1828828800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "324sw Pine Lick Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:447002",
+        "LATITUDE": 36.510278,
+        "LONGITUDE": -85.720833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77694399999996,
+          36.494722000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "447003",
+        "PERMITTEE_NAME": "Jackson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1765411200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "321ne Buchanan Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:447003",
+        "LATITUDE": 36.494721999999996,
+        "LONGITUDE": -85.776944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75166699999994,
+          36.491667000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "447004",
+        "PERMITTEE_NAME": "Jackson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1763942400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794700800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "321ne Crab Tree Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:447004",
+        "LATITUDE": 36.491667,
+        "LONGITUDE": -85.751667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59910499999995,
+          36.353248000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.074",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1481241600000,
+        "EFFECTIVE_DATE": 1481241600000,
+        "EXPIRATION_DATE": 1638921600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "970-1286 Roaring River Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.074",
+        "LATITUDE": 36.353248,
+        "LONGITUDE": -85.599105,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79369999999994,
+          36.503100000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.300",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1481068800000,
+        "EFFECTIVE_DATE": 1481068800000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "SR-151 at LM 3.50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.300",
+        "LATITUDE": 36.5031,
+        "LONGITUDE": -85.7937,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68034999999998,
+          36.287900000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.031",
+        "PERMITTEE_NAME": "Tim Brown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1494374400000,
+        "EFFECTIVE_DATE": 1494374400000,
+        "EXPIRATION_DATE": 1652140800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1321 Flynn's Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.031",
+        "LATITUDE": 36.2879,
+        "LONGITUDE": -85.68034999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56326999999999,
+          36.27281000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.218",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1542585600000,
+        "EXPIRATION_DATE": 1604620800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Blackburn Fork Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.218",
+        "LATITUDE": 36.27281,
+        "LONGITUDE": -85.56327,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71249999999998,
+          36.32120000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172104",
+        "PERMITTEE_NAME": "Jack Lee Meadows, Jr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "2804 Granville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172104",
+        "LATITUDE": 36.321200000000005,
+        "LONGITUDE": -85.7125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70353699999998,
+          36.30135000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.019",
+        "PERMITTEE_NAME": "James Elrod Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1496102400000,
+        "EFFECTIVE_DATE": 1496102400000,
+        "EXPIRATION_DATE": 1653868800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "430 Flynns Creek Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.019",
+        "LATITUDE": 36.30135,
+        "LONGITUDE": -85.703537,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71410999999995,
+          36.321150000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TND0020201",
+        "PERMITTEE_NAME": "Galen Brown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1596758400000,
+        "EFFECTIVE_DATE": 1596758400000,
+        "EXPIRATION_DATE": 1754438400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "235 Fort Blount Ferry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TND0020201",
+        "LATITUDE": 36.321149999999996,
+        "LONGITUDE": -85.71410999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67169399999995,
+          36.39588800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.166",
+        "PERMITTEE_NAME": "Jackson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1651622400000,
+        "EFFECTIVE_DATE": 1651622400000,
+        "EXPIRATION_DATE": 1809302400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Free State Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.166",
+        "LATITUDE": 36.395888,
+        "LONGITUDE": -85.671694,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66496299999994,
+          36.42715800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TND0002103",
+        "PERMITTEE_NAME": "Glynn Warden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1631664000000,
+        "EFFECTIVE_DATE": 1631664000000,
+        "EXPIRATION_DATE": 1789344000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Whitleyville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TND0002103",
+        "LATITUDE": 36.427158,
+        "LONGITUDE": -85.664963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66496299999994,
+          36.42715800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TND0002104",
+        "PERMITTEE_NAME": "Glynn Warden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1631664000000,
+        "EFFECTIVE_DATE": 1631664000000,
+        "EXPIRATION_DATE": 1789344000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "Whitleyville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TND0002104",
+        "LATITUDE": 36.427158,
+        "LONGITUDE": -85.664963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59732699999995,
+          36.32181500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.099",
+        "PERMITTEE_NAME": "Randy Ryan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1621296000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1383 Morrison Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.099",
+        "LATITUDE": 36.321815,
+        "LONGITUDE": -85.59732699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59915299999994,
+          36.319533000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.061",
+        "PERMITTEE_NAME": "Paul Illichman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1620950400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Jackson",
+        "SITE_LOCATION": "1489 Morrison Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.061",
+        "LATITUDE": 36.319533,
+        "LONGITUDE": -85.599153,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

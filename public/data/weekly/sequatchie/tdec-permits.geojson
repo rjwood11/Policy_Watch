@@ -1,0 +1,993 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50113499999998,
+          35.44475500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.052",
+        "PERMITTEE_NAME": "Pete Scerbo",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1750032000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "5146 TN-399",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.052",
+        "LATITUDE": 35.444755,
+        "LONGITUDE": -85.50113499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38249999999994,
+          35.387500000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114682",
+        "PERMITTEE_NAME": "Valley Rose Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Williams Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114682",
+        "LATITUDE": 35.3875,
+        "LONGITUDE": -85.38250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.43463199999997,
+          35.379931000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.051",
+        "PERMITTEE_NAME": "Fredonia Mountain Nature Resort HOA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1782864000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Greenfields Way N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.051",
+        "LATITUDE": 35.379931,
+        "LONGITUDE": -85.434632,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30882999999994,
+          35.35559000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.042",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774569600000,
+        "EFFECTIVE_DATE": 1774569600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "SR-111, LM 4.47",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.042",
+        "LATITUDE": 35.35559,
+        "LONGITUDE": -85.30883,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37779999999998,
+          35.407800000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114688",
+        "PERMITTEE_NAME": "VR Manufacturing, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "623 Sequatchie Industrial Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114688",
+        "LATITUDE": 35.4078,
+        "LONGITUDE": -85.37780000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.33319999999998,
+          35.40870000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114213",
+        "PERMITTEE_NAME": "SR EPC LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Boston Town Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114213",
+        "LATITUDE": 35.4087,
+        "LONGITUDE": -85.3332,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37501199999997,
+          35.40457100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059079",
+        "PERMITTEE_NAME": "Mann + Hummel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "260 Resource Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059079",
+        "LATITUDE": 35.404571,
+        "LONGITUDE": -85.375012,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35552899999999,
+          35.242274000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114584",
+        "PERMITTEE_NAME": "Horseshoe Realty Investments",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Clear Brooks Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114584",
+        "LATITUDE": 35.242274,
+        "LONGITUDE": -85.35552899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54221999999999,
+          35.53611100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.030",
+        "PERMITTEE_NAME": "Isha Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1783382400000,
+        "EFFECTIVE_DATE": 1783382400000,
+        "EXPIRATION_DATE": 1941062400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Along State Hwy 8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.030",
+        "LATITUDE": 35.536111,
+        "LONGITUDE": -85.54222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37647999999996,
+          35.33591000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.042",
+        "PERMITTEE_NAME": "Dunlap Water System",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1751328000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "6826 East Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.042",
+        "LATITUDE": 35.33591,
+        "LONGITUDE": -85.37648,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54221999999999,
+          35.53611100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-25004",
+        "PERMITTEE_NAME": "ISHA Foundation",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Along State Hwy 8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-25004",
+        "LATITUDE": 35.536111,
+        "LONGITUDE": -85.54222,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37989999999996,
+          35.156600000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.102",
+        "PERMITTEE_NAME": "Sally Moses",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1763337600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Baggett Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.102",
+        "LATITUDE": 35.156600000000005,
+        "LONGITUDE": -85.3799,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.41378999999995,
+          35.34551000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113998",
+        "PERMITTEE_NAME": "Darrell Jones",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "West Valley Road, Easy St, and Park Place Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113998",
+        "LATITUDE": 35.34551,
+        "LONGITUDE": -85.41378999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37198399999994,
+          35.40420500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.164",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1727654400000,
+        "EFFECTIVE_DATE": 1727654400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "50-538 Sequachee Industrial Park Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.164",
+        "LATITUDE": 35.404205,
+        "LONGITUDE": -85.371984,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50323799999995,
+          36.29787700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114327",
+        "PERMITTEE_NAME": "Ponderosa Construction Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Greer Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114327",
+        "LATITUDE": 36.297877,
+        "LONGITUDE": -82.503238,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47194399999995,
+          35.39166700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777003",
+        "PERMITTEE_NAME": "Deerhead Homeowners Assoc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1607990400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1700006400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "104nw Kelly Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777003",
+        "LATITUDE": 35.391667,
+        "LONGITUDE": -85.471944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.33999999999997,
+          35.43200000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114031",
+        "PERMITTEE_NAME": "Woodland Capital, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Pinnacle Point Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114031",
+        "LATITUDE": 35.432,
+        "LONGITUDE": -85.34,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45529999999997,
+          35.28460000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114314",
+        "PERMITTEE_NAME": "Dusty Rowland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Highway 28 & Cookston Cave Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114314",
+        "LATITUDE": 35.284600000000005,
+        "LONGITUDE": -85.45530000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.31139999999994,
+          35.33600000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114205",
+        "PERMITTEE_NAME": "North West Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Henson Gap Rd. & Lewis Chapel Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114205",
+        "LATITUDE": 35.336,
+        "LONGITUDE": -85.3114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50113499999998,
+          35.44475500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114425",
+        "PERMITTEE_NAME": "Longview Ridge TN, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "5146 TN-399",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114425",
+        "LATITUDE": 35.444755,
+        "LONGITUDE": -85.50113499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.36569999999995,
+          35.399500000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113909",
+        "PERMITTEE_NAME": "Clayton Homes of Hixson ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "46 Brush Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113909",
+        "LATITUDE": 35.3995,
+        "LONGITUDE": -85.3657,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38099999999997,
+          35.38230000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113882",
+        "PERMITTEE_NAME": "Roman Fonseca",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "16584 Rankin Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113882",
+        "LATITUDE": 35.3823,
+        "LONGITUDE": -85.381,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.40539899999999,
+          35.34920000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113837",
+        "PERMITTEE_NAME": "Tradewind Property Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "6531 SR-28",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113837",
+        "LATITUDE": 35.3492,
+        "LONGITUDE": -85.405399,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.28388899999999,
+          35.38277800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777009",
+        "PERMITTEE_NAME": "Lake Daniel Association, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1728259200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818374400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "104ne Trib-soddy Crk",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777009",
+        "LATITUDE": 35.382778,
+        "LONGITUDE": -85.283889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.36205899999999,
+          35.40635700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2101.155",
+        "PERMITTEE_NAME": "Ryan Oyler",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Old York Crossing",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2101.155",
+        "LATITUDE": 35.406357,
+        "LONGITUDE": -85.362059,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37064699999996,
+          35.40367500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110190",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1671062400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "18203 Rankin Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110190",
+        "LATITUDE": 35.403675,
+        "LONGITUDE": -85.37064699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35309999999998,
+          35.230800000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111191",
+        "PERMITTEE_NAME": "Patten & Patten, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Off Highway 127, Sequatchie County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111191",
+        "LATITUDE": 35.2308,
+        "LONGITUDE": -85.3531,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35309999999998,
+          35.230800000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111472",
+        "PERMITTEE_NAME": "Patten & Patten, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Off Highway 127, Sequatchie County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111472",
+        "LATITUDE": 35.2308,
+        "LONGITUDE": -85.3531,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.41109999999998,
+          35.34806000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111736",
+        "PERMITTEE_NAME": "Thomas Chapman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "West Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111736",
+        "LATITUDE": 35.34806,
+        "LONGITUDE": -85.4111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.29694399999994,
+          35.39250000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111778",
+        "PERMITTEE_NAME": "Lawrence McClendon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "Off Shadowland Drive, Lewis Chapel",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111778",
+        "LATITUDE": 35.3925,
+        "LONGITUDE": -85.296944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50388899999996,
+          35.419722000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777001",
+        "PERMITTEE_NAME": "Dunaway Hunt & Fish Club",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1699833600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1792022400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "99ne Dunaway Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777001",
+        "LATITUDE": 35.419722,
+        "LONGITUDE": -85.503889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38749999999999,
+          35.252778000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777002",
+        "PERMITTEE_NAME": "Nancy Taylor and Karen Sticher",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1787616000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1881446400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "104sw Brimer Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777002",
+        "LATITUDE": 35.252778,
+        "LONGITUDE": -85.3875,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47777799999994,
+          35.542778000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777005",
+        "PERMITTEE_NAME": "J. Phillip Osteen, et al.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1767916800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1860451200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "103sw Rocky River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777005",
+        "LATITUDE": 35.542778,
+        "LONGITUDE": -85.477778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.27333299999998,
+          35.357222000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777007",
+        "PERMITTEE_NAME": "Brier Branch HOA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1733097600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826236800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "104SE Alex Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777007",
+        "LATITUDE": 35.357222,
+        "LONGITUDE": -85.273333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.29277799999994,
+          35.377500000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777008",
+        "PERMITTEE_NAME": "Victoria Beasley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1639008000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1728950400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "104ne Trib -soddy Crk",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777008",
+        "LATITUDE": 35.377500000000005,
+        "LONGITUDE": -85.292778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37944399999998,
+          35.366667000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777011",
+        "PERMITTEE_NAME": "City of Dunlap",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1752105600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1784073600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "104SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777011",
+        "LATITUDE": 35.366667,
+        "LONGITUDE": -85.37944399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.43472199999997,
+          35.37361100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "777010",
+        "PERMITTEE_NAME": "Fredonia Mountain Nature Reserve HOA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1700524800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794787200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "104SW Johnson Mill Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:777010",
+        "LATITUDE": 35.373611,
+        "LONGITUDE": -85.434722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37269399999997,
+          35.35947200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.112",
+        "PERMITTEE_NAME": "City of Dunlap",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1601510400000,
+        "EFFECTIVE_DATE": 1601510400000,
+        "EXPIRATION_DATE": 1759190400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sequatchie",
+        "SITE_LOCATION": "751 Old York Highway East",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.112",
+        "LATITUDE": 35.359472,
+        "LONGITUDE": -85.372694,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

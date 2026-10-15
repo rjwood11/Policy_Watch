@@ -1,0 +1,1227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38121399999994,
+          34.98858800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.057",
+        "PERMITTEE_NAME": "Winston's Outdoor Contractors",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1750982400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "414 W Tennessee Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.057",
+        "LATITUDE": 34.988588,
+        "LONGITUDE": -84.381214,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.72648099999998,
+          35.004020000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051551",
+        "PERMITTEE_NAME": "Conasauga Wood Preservers, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1787875200000,
+        "EFFECTIVE_DATE": 1787875200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "280 BUSTED ROCK RD.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051551",
+        "LATITUDE": 35.00402,
+        "LONGITUDE": -84.72648099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63659999999999,
+          35.16940000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114645",
+        "PERMITTEE_NAME": "Polymer Components",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "2166 Parksville Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114645",
+        "LATITUDE": 35.1694,
+        "LONGITUDE": -84.6366,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66179399999999,
+          35.10851100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114632",
+        "PERMITTEE_NAME": "State of Tennessee Board of Regents",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "1703 Highway 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114632",
+        "LATITUDE": 35.108511,
+        "LONGITUDE": -84.661794,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67903499999994,
+          35.168551000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.091",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778025600000,
+        "EFFECTIVE_DATE": 1778025600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-33 Bridge over Ocoee River L.M. 13.64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.091",
+        "LATITUDE": 35.168551,
+        "LONGITUDE": -84.679035,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54725899999994,
+          35.235370000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114686",
+        "PERMITTEE_NAME": "State of Tennessee Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "404 Spring Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114686",
+        "LATITUDE": 35.235369999999996,
+        "LONGITUDE": -84.547259,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66797999999994,
+          35.171260000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114572",
+        "PERMITTEE_NAME": "Cornerstone Construction of Chattanooga",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Clemmer Ferry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114572",
+        "LATITUDE": 35.17126,
+        "LONGITUDE": -84.66798,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.72799999999995,
+          35.11400000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.179",
+        "PERMITTEE_NAME": "Tennessee Mitigation Fund",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1790726400000,
+        "EFFECTIVE_DATE": 1790726400000,
+        "EXPIRATION_DATE": 1948406400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Off Hwy 411",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.179",
+        "LATITUDE": 35.114000000000004,
+        "LONGITUDE": -84.72800000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40634299999994,
+          35.002207000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.274",
+        "PERMITTEE_NAME": "DPS Development LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "1801 Grassy Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.274",
+        "LATITUDE": 35.002207,
+        "LONGITUDE": -84.40634299999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53669999999994,
+          35.09840000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.261",
+        "PERMITTEE_NAME": "Tennessee State Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1659484800000,
+        "EFFECTIVE_DATE": 1659484800000,
+        "EXPIRATION_DATE": 1817164800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Caney Creek and Highway 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.261",
+        "LATITUDE": 35.098400000000005,
+        "LONGITUDE": -84.53670000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70320999999996,
+          35.11764000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114620",
+        "PERMITTEE_NAME": "Construction Brothers LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "HWY 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114620",
+        "LATITUDE": 35.11764,
+        "LONGITUDE": -84.70321,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37701999999996,
+          34.99144300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.079",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "McCaysville Bypass from Georgia State Line to SR-68",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.079",
+        "LATITUDE": 34.991443,
+        "LONGITUDE": -84.37702,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33494199999996,
+          35.142310000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.064",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1754352000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Hwy 411",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.064",
+        "LATITUDE": 35.14231,
+        "LONGITUDE": -84.334942,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64646899999997,
+          35.22470800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.065",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1754352000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Patty Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.065",
+        "LATITUDE": 35.224708,
+        "LONGITUDE": -84.646469,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37012399999998,
+          34.99282800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114385",
+        "PERMITTEE_NAME": "Garrison Sisson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "3rd Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114385",
+        "LATITUDE": 34.992827999999996,
+        "LONGITUDE": -84.37012399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65865099999996,
+          35.10358700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.138b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756252800000,
+        "EFFECTIVE_DATE": 1756252800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-40 From West of Welcome Valley Road to east of the bridge over Cloud Branch (Corridor K -TA Location #3) (TMA).",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.138b",
+        "LATITUDE": 35.103587,
+        "LONGITUDE": -84.65865099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66179399999999,
+          35.10851100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114415",
+        "PERMITTEE_NAME": "State of Tennessee Board of Regents",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "1703 Highway 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114415",
+        "LATITUDE": 35.108511,
+        "LONGITUDE": -84.661794,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65865099999996,
+          35.10358700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.138",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756252800000,
+        "EFFECTIVE_DATE": 1756252800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-40 From West of Welcome Valley Road to east of the bridge over Cloud Branch (Corridor K -TA Location #3) (TMA).",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.138",
+        "LATITUDE": 35.103587,
+        "LONGITUDE": -84.65865099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56359999999995,
+          35.23970000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.090",
+        "PERMITTEE_NAME": "TWRA",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Hwy 411 bridge over Hiwassee",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.090",
+        "LATITUDE": 35.2397,
+        "LONGITUDE": -84.56360000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65529999999995,
+          35.24720000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.080",
+        "PERMITTEE_NAME": "Polk County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1754352000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Chestuee Road over Chestuee Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.080",
+        "LATITUDE": 35.2472,
+        "LONGITUDE": -84.65530000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70222199999995,
+          35.16055600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114450",
+        "PERMITTEE_NAME": "Dip Construction, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Mull Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114450",
+        "LATITUDE": 35.160556,
+        "LONGITUDE": -84.70222199999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75354799999997,
+          35.00085500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192335",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Easley Ford Rd, Bridge over Conasauga River, L.M. 1.53",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192335",
+        "LATITUDE": 35.000855,
+        "LONGITUDE": -84.753548,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69468799999999,
+          35.119538000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114383",
+        "PERMITTEE_NAME": "Construction Brothers, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Old Federal Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114383",
+        "LATITUDE": 35.119538,
+        "LONGITUDE": -84.694688,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64939999999996,
+          35.17580000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114293",
+        "PERMITTEE_NAME": "Sidecar Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Parksville Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114293",
+        "LATITUDE": 35.1758,
+        "LONGITUDE": -84.6494,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38319999999999,
+          35.02690000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192322",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-68 bridge over SR-40; LM 18",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192322",
+        "LATITUDE": 35.026900000000005,
+        "LONGITUDE": -84.3832,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75354799999997,
+          35.00085500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.091",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1728864000000,
+        "EFFECTIVE_DATE": 1727827200000,
+        "EXPIRATION_DATE": 1885507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Easley Ford Rd, Bridge over Conasauga River, L.M. 1.53",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.091",
+        "LATITUDE": 35.000855,
+        "LONGITUDE": -84.753548,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40634299999994,
+          35.002207000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114292",
+        "PERMITTEE_NAME": "Jacob Kern",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "1801 Grassy Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114292",
+        "LATITUDE": 35.002207,
+        "LONGITUDE": -84.40634299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42109999999997,
+          35.012320000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114112",
+        "PERMITTEE_NAME": "177 Roper Road Development LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "177 Roper Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114112",
+        "LATITUDE": 35.012319999999995,
+        "LONGITUDE": -84.42110000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.71606799999995,
+          35.130123000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113959",
+        "PERMITTEE_NAME": "Perman Engineering ",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "176 Whitewater Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113959",
+        "LATITUDE": 35.130123,
+        "LONGITUDE": -84.71606799999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39157099999994,
+          35.05609400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.016",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1688083200000,
+        "EFFECTIVE_DATE": 1688083200000,
+        "EXPIRATION_DATE": 1845849600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-68 Bridge Replacement Over Brush Creek at LM 16.39",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.016",
+        "LATITUDE": 35.056094,
+        "LONGITUDE": -84.391571,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44529999999997,
+          35.18150000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.214",
+        "PERMITTEE_NAME": "United States Department of Agriculture (USDA) Forest Service",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1667174400000,
+        "EFFECTIVE_DATE": 1667174400000,
+        "EXPIRATION_DATE": 1824854400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Powerhouse Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.214",
+        "LATITUDE": 35.1815,
+        "LONGITUDE": -84.4453,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56169999999997,
+          35.233600000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113944",
+        "PERMITTEE_NAME": "Shirley Desear",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "5842 Hwy 30",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113944",
+        "LATITUDE": 35.2336,
+        "LONGITUDE": -84.5617,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.71949799999999,
+          35.03984800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR112954",
+        "PERMITTEE_NAME": "Woodlands of Polk County LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "Bill Howard Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR112954",
+        "LATITUDE": 35.039848,
+        "LONGITUDE": -84.719498,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37876399999999,
+          35.00301100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "PLN201303",
+        "PERMITTEE_NAME": "Glen Springs Holdings, Inc.",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "Planning Limits",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "304 Ocoee Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:PLN201303",
+        "LATITUDE": 35.003011,
+        "LONGITUDE": -84.37876399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61499999999995,
+          35.17555600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "707002",
+        "PERMITTEE_NAME": "Polk County Baptist Association",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1718841600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1810252800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "126ne Horton Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:707002",
+        "LATITUDE": 35.175556,
+        "LONGITUDE": -84.61500000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39666699999998,
+          35.07333300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "707003",
+        "PERMITTEE_NAME": "Copper Basin Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1746576000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1778803200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "133sw Deweese Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:707003",
+        "LATITUDE": 35.073333,
+        "LONGITUDE": -84.396667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36527799999999,
+          35.043611000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "707005",
+        "PERMITTEE_NAME": "Copper Basin Project Property Trust",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1709078400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "133SE Burra Burra Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:707005",
+        "LATITUDE": 35.043611,
+        "LONGITUDE": -84.36527799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37944399999998,
+          35.01611100000002
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "707008",
+        "PERMITTEE_NAME": "Copper Basin Project Property Trust",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1779321600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1810339200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "133sw North Potato Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:707008",
+        "LATITUDE": 35.016110999999995,
+        "LONGITUDE": -84.37944399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36305599999997,
+          35.01555600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "707011",
+        "PERMITTEE_NAME": "Intertrade Holdings Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1782259200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1841961600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "133se Davis Mill Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:707011",
+        "LATITUDE": 35.015556,
+        "LONGITUDE": -84.363056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34805599999999,
+          35.07000000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "707012",
+        "PERMITTEE_NAME": "Barry Lemoine, et al.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1714003200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1807747200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "133SE Trib-Hall Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:707012",
+        "LATITUDE": 35.07,
+        "LONGITUDE": -84.348056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65013299999998,
+          35.067255000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.129",
+        "PERMITTEE_NAME": "United States Department of Agriculture (USDA) Forest Service",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1466380800000,
+        "EFFECTIVE_DATE": 1466380800000,
+        "EXPIRATION_DATE": 1640908800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "US Forest Service Road #67",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.129",
+        "LATITUDE": 35.067254999999996,
+        "LONGITUDE": -84.650133,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65916699999997,
+          35.178333000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB067334",
+        "PERMITTEE_NAME": "Benton STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1499644800000,
+        "EFFECTIVE_DATE": 1499644800000,
+        "EXPIRATION_DATE": 1556582400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "320 Town Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB067334",
+        "LATITUDE": 35.178332999999995,
+        "LONGITUDE": -84.659167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49989999999997,
+          35.18690000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.098",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1558483200000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-30, LM 8.631",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.098",
+        "LATITUDE": 35.1869,
+        "LONGITUDE": -84.49990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51595199999997,
+          35.16990800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.095",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1558656000000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-30, LM 10.164 & 10.462",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.095",
+        "LATITUDE": 35.169908,
+        "LONGITUDE": -84.515952,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32699999999994,
+          35.19040000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.250",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1574812800000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-68 LM 2.313 and LM 2.451",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.250",
+        "LATITUDE": 35.190400000000004,
+        "LONGITUDE": -84.327,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34039999999999,
+          35.19240000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.249",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1574812800000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "SR-68 LM 1.36",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.249",
+        "LATITUDE": 35.1924,
+        "LONGITUDE": -84.3404,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37972199999996,
+          35.00111100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "707013",
+        "PERMITTEE_NAME": "Glenn Springs Holdings, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1709078400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Polk",
+        "SITE_LOCATION": "133sw Davis Mill Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:707013",
+        "LATITUDE": 35.001111,
+        "LONGITUDE": -84.379722,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

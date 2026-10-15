@@ -3,7 +3,7 @@
   "name": "Marion",
   "region": "East Tennessee",
   "population": 29250,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -27,18 +27,17 @@
   ],
   "legislativeDistricts": [
     "House 39",
-    "Senate 10",
-    "Senate 16"
+    "Senate 10"
   ],
   "congressionalDistricts": [
     "TN-04"
   ],
   "streamMiles": {
     "impaired": 144.7,
-    "fullAttainment": 187.2,
-    "notAssessed": 326.4,
+    "fullAttainment": 185.2,
+    "notAssessed": 322.1,
     "otherAssessed": 0.0,
-    "total": 658.3
+    "total": 652.0
   },
   "rankings": {
     "population": {
@@ -70,17 +69,17 @@
       "basis": "Ranked by impaired river miles, high to low."
     },
     "fullAttainmentRiverMiles": {
-      "rank": 16,
+      "rank": 18,
       "total": 95,
       "tieCount": 1,
-      "display": "16th of 95 Tennessee counties",
+      "display": "18th of 95 Tennessee counties",
       "basis": "Ranked by full-attainment river miles, high to low."
     },
     "notAssessedRiverMiles": {
-      "rank": 33,
+      "rank": 34,
       "total": 95,
       "tieCount": 1,
-      "display": "33rd of 95 Tennessee counties",
+      "display": "34th of 95 Tennessee counties",
       "basis": "Ranked by not-assessed river miles, high to low."
     },
     "otherAssessedRiverMiles": {
@@ -137,7 +136,7 @@
     {
       "category": "Fully Supporting",
       "label": "Fully supporting",
-      "miles": 186.0
+      "miles": 184.0
     },
     {
       "category": "Fully Supporting (Evaluated)",
@@ -147,7 +146,7 @@
     {
       "category": "Not Assessed",
       "label": "Not assessed",
-      "miles": 326.4
+      "miles": 322.1
     },
     {
       "category": "Not Supporting",
@@ -160,7 +159,7 @@
       "miles": 3.3
     }
   ],
-  "impairmentSummary": "The local 2026 303(d) county summary shows about 144.7 river miles in not supporting categories, 187.2 fully supporting miles, and 326.4 not assessed miles in Marion County.",
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 144.7 river miles in not supporting categories, 185.2 fully supporting miles, and 322.1 not assessed miles in Marion County.",
   "impairmentCauses": [
     {
       "cause": "pathogens",
@@ -283,7 +282,7 @@
       "description": "Census tracts flagged in the CEJST climate category in the local snapshot."
     }
   },
-  "overview": "Marion County is represented as a East Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Sequatchie, Guntersville Lake, Middle Tennessee-Chickamauga and overlaps 3 state legislative district labels plus 1 congressional district labels.",
+  "overview": "Marion County is represented as a East Tennessee county summary focused on county-scale watershed conditions, public-interest infrastructure context, and environmental screening indicators. It intersects Sequatchie, Guntersville Lake, Middle Tennessee-Chickamauga and overlaps 2 state legislative district labels plus 1 congressional district labels.",
   "getInvolved": [
     "Review county and municipal agendas in Marion County for stormwater, wastewater, landfill, quarry, and land-use decisions.",
     "Use the county page to connect statewide indicators with local watersheds, monitoring stations, and source notes.",

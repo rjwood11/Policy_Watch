@@ -3,7 +3,7 @@
   "name": "Blount",
   "region": "East Tennessee",
   "population": 139333,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -33,11 +33,11 @@
     "TN-02"
   ],
   "streamMiles": {
-    "impaired": 368.4,
+    "impaired": 368.7,
     "fullAttainment": 299.9,
     "notAssessed": 244.6,
     "otherAssessed": 0.0,
-    "total": 913.0
+    "total": 913.2
   },
   "rankings": {
     "population": {
@@ -111,10 +111,10 @@
       "basis": "Ranked by designated scenic river miles, high to low."
     },
     "waterServiceAreas": {
-      "rank": 32,
+      "rank": 31,
       "total": 95,
-      "tieCount": 9,
-      "display": "tied 32nd of 95 Tennessee counties",
+      "tieCount": 10,
+      "display": "tied 31st of 95 Tennessee counties",
       "basis": "Ranked by overlapping public water service areas, high to low."
     },
     "waterStressTractShare": {
@@ -151,7 +151,7 @@
     {
       "category": "Not Supporting",
       "label": "Not supporting",
-      "miles": 364.4
+      "miles": 364.7
     },
     {
       "category": "Not Supporting (Evaluated)",
@@ -159,12 +159,12 @@
       "miles": 4.0
     }
   ],
-  "impairmentSummary": "The local 2026 303(d) county summary shows about 368.4 river miles in not supporting categories, 299.9 fully supporting miles, and 244.6 not assessed miles in Blount County.",
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 368.7 river miles in not supporting categories, 299.9 fully supporting miles, and 244.6 not assessed miles in Blount County.",
   "impairmentCauses": [
     {
       "cause": "impaired_biota",
       "label": "Impaired biological community",
-      "miles": 358.2,
+      "miles": 358.4,
       "assessmentUnits": 37
     },
     {
@@ -346,7 +346,7 @@
     {
       "key": "impaired-river-miles",
       "label": "Impaired river miles",
-      "value": "368.4",
+      "value": "368.7",
       "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
       "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
       "sourceDataset": "2026 303(d) impairment layer",

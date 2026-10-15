@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69554399999998,
+          36.61537100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.57",
+        "PERMITTEE_NAME": "Alyssa Robin Clements",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788825600000,
+        "EFFECTIVE_DATE": 1788825600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "471 Brays Knob Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.57",
+        "LATITUDE": 36.615370999999996,
+        "LONGITUDE": -85.695544,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51097599999997,
+          36.546910000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192450",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "SR-52",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192450",
+        "LATITUDE": 36.54691,
+        "LONGITUDE": -85.510976,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51097599999997,
+          36.546910000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.067",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771804800000,
+        "EFFECTIVE_DATE": 1771804800000,
+        "EXPIRATION_DATE": 1929484800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "SR-52",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.067",
+        "LATITUDE": 36.54691,
+        "LONGITUDE": -85.510976,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47079999999994,
+          36.544800000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.41",
+        "PERMITTEE_NAME": "Beverly Stewart",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1724976000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "45 Keisling Upton Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.41",
+        "LATITUDE": 36.5448,
+        "LONGITUDE": -85.4708,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50235999999995,
+          36.50638800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172828",
+        "PERMITTEE_NAME": "Tiny Ventures, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "Off Modock Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172828",
+        "LATITUDE": 36.506388,
+        "LONGITUDE": -85.50236,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47040899999996,
+          36.54255200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.48",
+        "PERMITTEE_NAME": "USACE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1694736000000,
+        "EFFECTIVE_DATE": 1694736000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "1 Moody Boat Ramp Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.48",
+        "LATITUDE": 36.542552,
+        "LONGITUDE": -85.47040899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.49989499999998,
+          36.51620400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.08",
+        "PERMITTEE_NAME": "Steven Bias",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1707091200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "Clifton Rich Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.08",
+        "LATITUDE": 36.516204,
+        "LONGITUDE": -85.499895,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79457999999994,
+          36.53743000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0082385",
+        "PERMITTEE_NAME": "Browning Farm",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CAFO-Individual",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "Leonard Rd. Location",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0082385",
+        "LATITUDE": 36.53743,
+        "LONGITUDE": -85.79458,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79457999999994,
+          36.53743000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172554",
+        "PERMITTEE_NAME": "Browning Cattle Company LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "Leonard Rd. Location",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172554",
+        "LATITUDE": 36.53743,
+        "LONGITUDE": -85.79458,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47040899999996,
+          36.54255200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.92",
+        "PERMITTEE_NAME": "USACE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1694736000000,
+        "EFFECTIVE_DATE": 1694736000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "1 Moody Boat Ramp Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.92",
+        "LATITUDE": 36.542552,
+        "LONGITUDE": -85.47040899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65618699999999,
+          36.60082600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051272",
+        "PERMITTEE_NAME": "GF Hardwoods, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "9880 Clay County Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051272",
+        "LATITUDE": 36.600826,
+        "LONGITUDE": -85.656187,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70365899999996,
+          36.561772000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051307",
+        "PERMITTEE_NAME": "UPPER CUMBERLAND SOLID WASTE MANAGEMENT, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1787702400000,
+        "EFFECTIVE_DATE": 1787702400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "776 TERRY ODLE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051307",
+        "LATITUDE": 36.561772,
+        "LONGITUDE": -85.703659,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.42753699999997,
+          36.503457000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058106",
+        "PERMITTEE_NAME": "Mike's Auto Sales, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "Hwy 52 (6460 Livingston Hwy)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058106",
+        "LATITUDE": 36.503457,
+        "LONGITUDE": -85.427537,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74157099999996,
+          36.52188000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.295",
+        "PERMITTEE_NAME": "Clay County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1452211200000,
+        "EFFECTIVE_DATE": 1452211200000,
+        "EXPIRATION_DATE": 1609977600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "Multiple Site in Clay County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.295",
+        "LATITUDE": 36.521879999999996,
+        "LONGITUDE": -85.741571,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69472199999996,
+          36.49666700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "147001",
+        "PERMITTEE_NAME": "Jackson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1708905600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "325nw Sycamore Fork",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:147001",
+        "LATITUDE": 36.496666999999995,
+        "LONGITUDE": -85.694722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71194399999996,
+          36.56861100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "147002",
+        "PERMITTEE_NAME": "Clay County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1730073600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1792022400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "324SW Little Trace Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:147002",
+        "LATITUDE": 36.568611,
+        "LONGITUDE": -85.711944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54799999999994,
+          36.53510000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.130",
+        "PERMITTEE_NAME": "James Atchley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1567555200000,
+        "EFFECTIVE_DATE": 1567555200000,
+        "EXPIRATION_DATE": 1725321600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Clay",
+        "SITE_LOCATION": "917 Knob Creek ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.130",
+        "LATITUDE": 36.5351,
+        "LONGITUDE": -85.548,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

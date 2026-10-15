@@ -1,0 +1,1643 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79149999999998,
+          35.27410000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113822",
+        "PERMITTEE_NAME": "The Retreat at Deer Lick Falls, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Summerfield Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113822",
+        "LATITUDE": 35.274100000000004,
+        "LONGITUDE": -85.7915,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80811099999994,
+          35.41183200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114406",
+        "PERMITTEE_NAME": "Colonial Pipeline Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "14558 Pelham Road 35.397511, -85.784264",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114406",
+        "LATITUDE": 35.411832,
+        "LONGITUDE": -85.808111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87348899999995,
+          35.23737300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192471",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "I-24 at MM 132.40 and LM 5.6",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192471",
+        "LATITUDE": 35.237373,
+        "LONGITUDE": -85.87348899999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85115599999995,
+          35.240357000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114671",
+        "PERMITTEE_NAME": "Town of Monteagle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "801 W Main St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114671",
+        "LATITUDE": 35.240356999999996,
+        "LONGITUDE": -85.851156,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74105399999996,
+          35.26170900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114592",
+        "PERMITTEE_NAME": "Town of Tracy City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Nathurst St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114592",
+        "LATITUDE": 35.261708999999996,
+        "LONGITUDE": -85.74105399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74105399999996,
+          35.26170900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.015",
+        "PERMITTEE_NAME": "Town of Tracy City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1773100800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Nathurst St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.015",
+        "LATITUDE": 35.261708999999996,
+        "LONGITUDE": -85.74105399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66746899999998,
+          35.45370600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.081",
+        "PERMITTEE_NAME": "State of Tennessee - STREAM",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "SR-56 19350",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.081",
+        "LATITUDE": 35.453706,
+        "LONGITUDE": -85.667469,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69803199999996,
+          35.37306600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114409",
+        "PERMITTEE_NAME": "Grundy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Intersection of SR-108 & SR-56",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114409",
+        "LATITUDE": 35.373066,
+        "LONGITUDE": -85.698032,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83129999999994,
+          35.31760000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.078",
+        "PERMITTEE_NAME": "Michael Brady",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1755561600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "SR-50 & Payne Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.078",
+        "LATITUDE": 35.3176,
+        "LONGITUDE": -85.8313,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84746999999999,
+          35.24118400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114562",
+        "PERMITTEE_NAME": "Maverick Management",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "300 Monteagle Square",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114562",
+        "LATITUDE": 35.241184,
+        "LONGITUDE": -85.84747,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70690499999995,
+          35.37888000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114408",
+        "PERMITTEE_NAME": "Grundy County Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "North Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114408",
+        "LATITUDE": 35.378879999999995,
+        "LONGITUDE": -85.70690499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90302999999994,
+          35.30022900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.312",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1767657600000,
+        "EFFECTIVE_DATE": 1767657600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "I-24",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.312",
+        "LATITUDE": 35.300229,
+        "LONGITUDE": -85.90303,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70408099999997,
+          35.33841800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114672",
+        "PERMITTEE_NAME": "Montgomery G. Turner, Sr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "7365 TN-56",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114672",
+        "LATITUDE": 35.338418,
+        "LONGITUDE": -85.704081,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74800399999998,
+          35.28240200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.064",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776902400000,
+        "EFFECTIVE_DATE": 1776902400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "SR-56, From near Fire Tower Road to near Des Church Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.064",
+        "LATITUDE": 35.282402,
+        "LONGITUDE": -85.748004,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90302999999994,
+          35.30022900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192432",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "I-24",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192432",
+        "LATITUDE": 35.300229,
+        "LONGITUDE": -85.90303,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72070699999995,
+          35.38081500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114066",
+        "PERMITTEE_NAME": "Grundy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "571 South Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114066",
+        "LATITUDE": 35.380815,
+        "LONGITUDE": -85.72070699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82638499999996,
+          35.332501000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-23019",
+        "PERMITTEE_NAME": "LOBLOLLY VENTURES LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "555 Charlie Roberts Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-23019",
+        "LATITUDE": 35.332501,
+        "LONGITUDE": -85.826385,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71709999999996,
+          35.26630000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114067",
+        "PERMITTEE_NAME": "TDEC Bureau of Parks and Conservation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "587 LAKES RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114067",
+        "LATITUDE": 35.2663,
+        "LONGITUDE": -85.7171,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78418699999997,
+          35.25433900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114453",
+        "PERMITTEE_NAME": "Mustard Seed Capital LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Ingman Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114453",
+        "LATITUDE": 35.254339,
+        "LONGITUDE": -85.784187,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72421399999996,
+          35.33130500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2301.015",
+        "PERMITTEE_NAME": "Stephen Crisp",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "northwest of 455 Morgan Ridge North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2301.015",
+        "LATITUDE": 35.331305,
+        "LONGITUDE": -85.72421399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66746899999998,
+          35.45370600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.068",
+        "PERMITTEE_NAME": "State of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1753142400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "SR-56 19350",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.068",
+        "LATITUDE": 35.453706,
+        "LONGITUDE": -85.667469,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86299999999994,
+          35.23200000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB080985",
+        "PERMITTEE_NAME": "Monteagle STP, Plant #3",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Highway 64 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB080985",
+        "LATITUDE": 35.232,
+        "LONGITUDE": -85.863,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66746899999998,
+          35.45370600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114477",
+        "PERMITTEE_NAME": "Tennessee State Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "SR-56 19350",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114477",
+        "LATITUDE": 35.453706,
+        "LONGITUDE": -85.667469,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89435999999995,
+          35.303690000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.079",
+        "PERMITTEE_NAME": "Michael Brady",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1755561600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "TN-50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.079",
+        "LATITUDE": 35.303689999999996,
+        "LONGITUDE": -85.89435999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85186499999998,
+          35.31314500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.081",
+        "PERMITTEE_NAME": "Dustin Gallagher",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Paynes Cove Road, Leo Sanders Road, Charlie Roberts Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.081",
+        "LATITUDE": 35.313145,
+        "LONGITUDE": -85.85186499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87514599999997,
+          35.301030000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114469",
+        "PERMITTEE_NAME": "Hall Excavation, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "US Highway 41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114469",
+        "LATITUDE": 35.30103,
+        "LONGITUDE": -85.875146,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75419999999997,
+          35.26030000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114300",
+        "PERMITTEE_NAME": "The Retreat at Waters Edge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "13909 US-41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114300",
+        "LATITUDE": 35.2603,
+        "LONGITUDE": -85.7542,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75419999999997,
+          35.26030000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114027",
+        "PERMITTEE_NAME": "The Retreat at Waters Edge, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "13909 US-41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114027",
+        "LATITUDE": 35.2603,
+        "LONGITUDE": -85.7542,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81009999999998,
+          35.24800000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114265",
+        "PERMITTEE_NAME": "The Mountain Goat Trail Alliance, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Dubose Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114265",
+        "LATITUDE": 35.248000000000005,
+        "LONGITUDE": -85.8101,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70355199999995,
+          35.26704900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114073",
+        "PERMITTEE_NAME": "Blake Morrison",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "611 Shadrick Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114073",
+        "LATITUDE": 35.267049,
+        "LONGITUDE": -85.703552,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74867399999994,
+          35.25207100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.067",
+        "PERMITTEE_NAME": "Kristen Cecala",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1724716800000,
+        "EFFECTIVE_DATE": 1724716800000,
+        "EXPIRATION_DATE": 1882396800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Fiery Gizzard Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.067",
+        "LATITUDE": 35.252071,
+        "LONGITUDE": -85.748674,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90654999999998,
+          35.29777000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114206",
+        "PERMITTEE_NAME": "2024 I24 Pelham LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "930 TN-50 E Pelham",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114206",
+        "LATITUDE": 35.29777,
+        "LONGITUDE": -85.90655,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70247799999999,
+          35.37532100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114378",
+        "PERMITTEE_NAME": "Big Creek Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "State Highway 56",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114378",
+        "LATITUDE": 35.375321,
+        "LONGITUDE": -85.702478,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68102599999997,
+          35.376337000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114156",
+        "PERMITTEE_NAME": "DiemnguyenAG, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "N 10th Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114156",
+        "LATITUDE": 35.376337,
+        "LONGITUDE": -85.681026,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75076199999995,
+          35.253097000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114313",
+        "PERMITTEE_NAME": "The Mountain Goat Trail Alliance, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Fiery Gizzard Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114313",
+        "LATITUDE": 35.253097,
+        "LONGITUDE": -85.750762,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87348899999995,
+          35.23737300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.144",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1720656000000,
+        "EFFECTIVE_DATE": 1778544000000,
+        "EXPIRATION_DATE": 1878336000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "I-24 at MM 132.40 and LM 5.6",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.144",
+        "LATITUDE": 35.237373,
+        "LONGITUDE": -85.87348899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79119999999995,
+          35.253100000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114053",
+        "PERMITTEE_NAME": "The Mountain Goat Trail Alliance, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Across from 11745 US-41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114053",
+        "LATITUDE": 35.2531,
+        "LONGITUDE": -85.7912,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55189999999999,
+          35.41440000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317031",
+        "PERMITTEE_NAME": "Bobby Boyd",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1783468800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1865808000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "2239 SR-399",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317031",
+        "LATITUDE": 35.4144,
+        "LONGITUDE": -85.5519,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63389999999998,
+          35.36870000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.330",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1701388800000,
+        "EFFECTIVE_DATE": 1701302400000,
+        "EXPIRATION_DATE": 1859068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "From near 40th Avenue (LM 8.05) to near 32nd Avenue (LM 8.35) in Gruetli-Laager",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.330",
+        "LATITUDE": 35.368700000000004,
+        "LONGITUDE": -85.6339,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66025999999994,
+          35.362618000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113801",
+        "PERMITTEE_NAME": "Tennessee Mountain Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "20th Ave S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113801",
+        "LATITUDE": 35.362618,
+        "LONGITUDE": -85.66026,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75419999999997,
+          35.26030000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113770",
+        "PERMITTEE_NAME": "The Retreat at Waters Edge, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "13909 US-41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113770",
+        "LATITUDE": 35.2603,
+        "LONGITUDE": -85.7542,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55833299999995,
+          35.37083300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050120",
+        "PERMITTEE_NAME": "Meeks Auto Sales",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1790294400000,
+        "EFFECTIVE_DATE": 1790294400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "802 Tatesville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050120",
+        "LATITUDE": 35.370833,
+        "LONGITUDE": -85.55833299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88995499999999,
+          35.305210000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058470",
+        "PERMITTEE_NAME": "PPSI, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "1775 SR-50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058470",
+        "LATITUDE": 35.305209999999995,
+        "LONGITUDE": -85.889955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86089999999996,
+          35.242500000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.209",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1435622400000,
+        "EFFECTIVE_DATE": 1435622400000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Interstate 24 at MM 130.7 to MM 133.5",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.209",
+        "LATITUDE": 35.2425,
+        "LONGITUDE": -85.8609,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77472199999994,
+          35.263611000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317001",
+        "PERMITTEE_NAME": "James Roberts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1699228800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1760486400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "93se Big Fiery Gizzard Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317001",
+        "LATITUDE": 35.263611,
+        "LONGITUDE": -85.774722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67638899999997,
+          35.40750000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317002",
+        "PERMITTEE_NAME": "Carol Lake Associates",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1696204800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1789430400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "99nw Ranger Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317002",
+        "LATITUDE": 35.4075,
+        "LONGITUDE": -85.676389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71805599999999,
+          35.272222000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317006",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1786406400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818288000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "99sw Little Fiery Gizzard Ck",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317006",
+        "LATITUDE": 35.272222,
+        "LONGITUDE": -85.71805599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70027799999997,
+          35.367778000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317009",
+        "PERMITTEE_NAME": "Big Creek Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1823558400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "99sw Ranger Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317009",
+        "LATITUDE": 35.367778,
+        "LONGITUDE": -85.700278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86499999999995,
+          35.43416700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317011",
+        "PERMITTEE_NAME": "Cherokee Area Council of Boy Scouts of America",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1737417600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1828828800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "93ne Beans Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317011",
+        "LATITUDE": 35.434166999999995,
+        "LONGITUDE": -85.86500000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87305599999996,
+          35.43472200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317012",
+        "PERMITTEE_NAME": "Cherokee Area Council, Boy Scouts of America",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1737417600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1828828800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "93ne Beans Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317012",
+        "LATITUDE": 35.434722,
+        "LONGITUDE": -85.87305599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.73638899999997,
+          35.37694400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317017",
+        "PERMITTEE_NAME": "Eagle Lake Property Owners, et al.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1760918400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1849910400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "99nw Rocky Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317017",
+        "LATITUDE": 35.376944,
+        "LONGITUDE": -85.736389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77833299999998,
+          35.26916700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317019",
+        "PERMITTEE_NAME": "Randall Littell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1759276800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "93se Big Fiery Gizzard Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317019",
+        "LATITUDE": 35.269166999999996,
+        "LONGITUDE": -85.77833299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66444399999995,
+          35.448056000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317023",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1769126400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1831507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "99nw Trib-big Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317023",
+        "LATITUDE": 35.448056,
+        "LONGITUDE": -85.664444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75694399999998,
+          35.26000000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317024",
+        "PERMITTEE_NAME": "Town of Tracy City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1767830400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "93se Big Fiery Gizzard Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317024",
+        "LATITUDE": 35.26,
+        "LONGITUDE": -85.75694399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88329999999996,
+          35.23330000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.003",
+        "PERMITTEE_NAME": "RLF Cooley's Rift Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1496966400000,
+        "EFFECTIVE_DATE": 1496966400000,
+        "EXPIRATION_DATE": 1654646400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Monteagle, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.003",
+        "LATITUDE": 35.2333,
+        "LONGITUDE": -85.8833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75419999999997,
+          35.26030000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113939",
+        "PERMITTEE_NAME": "The Retreat at Waters Edge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "13909 US-41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113939",
+        "LATITUDE": 35.2603,
+        "LONGITUDE": -85.7542,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81249999999994,
+          35.47583300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317028",
+        "PERMITTEE_NAME": "Blueberry Bluffs H.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1729555200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818374400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "93ne Trib-hickory Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317028",
+        "LATITUDE": 35.475833,
+        "LONGITUDE": -85.8125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79149999999998,
+          35.27410000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113352",
+        "PERMITTEE_NAME": "The Retreat at Deer Lick Falls, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Summerfield Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113352",
+        "LATITUDE": 35.274100000000004,
+        "LONGITUDE": -85.7915,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64509999999996,
+          35.36940000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.040",
+        "PERMITTEE_NAME": "Big Creek Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1592179200000,
+        "EFFECTIVE_DATE": 1591920000000,
+        "EXPIRATION_DATE": 1749600000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "20th Ave, 62nd Ave, 66th Ave, Cullen Savage Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.040",
+        "LATITUDE": 35.3694,
+        "LONGITUDE": -85.6451,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.71749999999997,
+          35.26611100000002
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "317007",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1786406400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818288000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "99sw Little Fiery Gizzard Ck",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:317007",
+        "LATITUDE": 35.266110999999995,
+        "LONGITUDE": -85.7175,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78699999999998,
+          35.255300000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-20024",
+        "PERMITTEE_NAME": "Monteagle Greene Apartments, LP",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Monteagle Greene Apartment property, Hwy 41",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-20024",
+        "LATITUDE": 35.2553,
+        "LONGITUDE": -85.787,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70306699999998,
+          35.31339800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.171",
+        "PERMITTEE_NAME": "Big Creek Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1631664000000,
+        "EFFECTIVE_DATE": 1631664000000,
+        "EXPIRATION_DATE": 1789344000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "Along B Mine Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.171",
+        "LATITUDE": 35.313398,
+        "LONGITUDE": -85.70306699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75381199999998,
+          35.26816500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113703",
+        "PERMITTEE_NAME": "The Retreat RV Park, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grundy",
+        "SITE_LOCATION": "0 Saint Clair Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113703",
+        "LATITUDE": 35.268164999999996,
+        "LONGITUDE": -85.753812,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

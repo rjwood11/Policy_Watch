@@ -120,6 +120,8 @@ export type DataSourceRecord = {
   sourceUrl: string;
   refreshFrequency: string;
   lastUpdated: string;
+  lastChecked?: string;
+  refreshStatus?: string;
   notes: string;
 };
 

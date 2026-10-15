@@ -1,0 +1,1565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21061799999995,
+          36.027697000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138375",
+        "PERMITTEE_NAME": "Incredible Tiny Properties",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "953 INDUSTRIAL",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138375",
+        "LATITUDE": 36.027696999999996,
+        "LONGITUDE": -83.210618,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17811199999994,
+          35.81542900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192462",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Interstate 40, LM 15.05",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192462",
+        "LATITUDE": 35.815429,
+        "LONGITUDE": -83.178112,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96112299999999,
+          35.922412000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.105",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749081600000,
+        "EFFECTIVE_DATE": 1749081600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "4200 US-25",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.105",
+        "LATITUDE": 35.922412,
+        "LONGITUDE": -82.961123,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96112299999999,
+          35.922412000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192367",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "4200 US-25",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192367",
+        "LATITUDE": 35.922412,
+        "LONGITUDE": -82.961123,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98073099999993,
+          35.907571000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.160",
+        "PERMITTEE_NAME": "Cocke Co Highway Department",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Fugate Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.160",
+        "LATITUDE": 35.907571,
+        "LONGITUDE": -82.98073099999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98073099999993,
+          35.907571000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.159",
+        "PERMITTEE_NAME": "Cocke Co Highway Department",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Fugate Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.159",
+        "LATITUDE": 35.907571,
+        "LONGITUDE": -82.98073099999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98073099999993,
+          35.907571000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.161",
+        "PERMITTEE_NAME": "Cocke Co Highway Department",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Fugate Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.161",
+        "LATITUDE": 35.907571,
+        "LONGITUDE": -82.98073099999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.18503299999998,
+          35.88176600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138354",
+        "PERMITTEE_NAME": "Mahendrakumar Patel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "645 Catherine Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138354",
+        "LATITUDE": 35.881766,
+        "LONGITUDE": -83.18503299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17943999999994,
+          35.94925000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138356",
+        "PERMITTEE_NAME": "COCKE COUNTY HIGHWAY DEPARTMENT",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "820 LOWER QUARRY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138356",
+        "LATITUDE": 35.94925,
+        "LONGITUDE": -83.17944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22236299999997,
+          35.97059400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138338",
+        "PERMITTEE_NAME": "Tim Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Dandelion Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138338",
+        "LATITUDE": 35.970594,
+        "LONGITUDE": -83.222363,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17811199999994,
+          35.81542900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.154",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785715200000,
+        "EFFECTIVE_DATE": 1785715200000,
+        "EXPIRATION_DATE": 1943395200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Interstate 40, LM 15.05",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.154",
+        "LATITUDE": 35.815429,
+        "LONGITUDE": -83.178112,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06455599999998,
+          36.08979400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.066",
+        "PERMITTEE_NAME": "Jared Bowlin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1776038400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "459 Nola River Farm Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.066",
+        "LATITUDE": 36.089794,
+        "LONGITUDE": -83.064556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92039899999997,
+          35.91182300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138325",
+        "PERMITTEE_NAME": "Colby Wood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "149 Wolf Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138325",
+        "LATITUDE": 35.911823,
+        "LONGITUDE": -82.920399,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17221999999998,
+          35.92373100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138197",
+        "PERMITTEE_NAME": "Michelle Wojciechowski",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1000 TN-73",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138197",
+        "LATITUDE": 35.923731,
+        "LONGITUDE": -83.17222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.14651599999996,
+          35.958364000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051560",
+        "PERMITTEE_NAME": "LIMITLESS SOLUTIONS INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1778716800000,
+        "EFFECTIVE_DATE": 1778716800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1190 OLD ASHEVILLE HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051560",
+        "LATITUDE": 35.958363999999996,
+        "LONGITUDE": -83.14651599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12519999999995,
+          36.122100000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.169",
+        "PERMITTEE_NAME": "Cocke County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1761264000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1818 Briarthicket Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.169",
+        "LATITUDE": 36.1221,
+        "LONGITUDE": -83.1252,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19349999999997,
+          35.859200000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136847",
+        "PERMITTEE_NAME": "Eric Bauer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "559 Conard Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136847",
+        "LATITUDE": 35.8592,
+        "LONGITUDE": -83.1935,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20871899999997,
+          35.97765500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.182-25",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788134400000,
+        "EFFECTIVE_DATE": 1788134400000,
+        "EXPIRATION_DATE": 1924041600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "SR-35 at Newport Bypass",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.182-25",
+        "LATITUDE": 35.977655,
+        "LONGITUDE": -83.208719,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06260099999997,
+          36.017431000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.092",
+        "PERMITTEE_NAME": "Gary Smelcer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1749168000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "2512 Old Parrottsville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.092",
+        "LATITUDE": 36.017430999999995,
+        "LONGITUDE": -83.062601,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10477899999995,
+          35.779172000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.122",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755216000000,
+        "EFFECTIVE_DATE": 1755216000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "I-40, Near MMs 450.7, 451.0 and 451.6, LM 21.46",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.122",
+        "LATITUDE": 35.779171999999996,
+        "LONGITUDE": -83.104779,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22359999999998,
+          35.863600000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.103",
+        "PERMITTEE_NAME": "Marcus A. Lane",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1750809600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "2905 Cosby Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.103",
+        "LATITUDE": 35.863600000000005,
+        "LONGITUDE": -83.2236,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20242099999996,
+          35.987078000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051034",
+        "PERMITTEE_NAME": "Eastern Plating, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756944000000,
+        "EFFECTIVE_DATE": 1756944000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "371 Chemwood Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051034",
+        "LATITUDE": 35.987078,
+        "LONGITUDE": -83.202421,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20777799999996,
+          36.05083300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.110",
+        "PERMITTEE_NAME": "TWRA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1751500800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Douglas Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.110",
+        "LATITUDE": 36.050833,
+        "LONGITUDE": -83.20777799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08123799999998,
+          36.00839000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.127",
+        "PERMITTEE_NAME": "Town of Parrottsville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1755648000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Old Highway 321",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.127",
+        "LATITUDE": 36.00839,
+        "LONGITUDE": -83.081238,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24929999999995,
+          35.809000000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051278",
+        "PERMITTEE_NAME": "CREEKBANK AUTO SALES, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "4079 Cosby Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051278",
+        "LATITUDE": 35.809000000000005,
+        "LONGITUDE": -83.2493,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10477899999995,
+          35.779172000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.268",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "I-40, Near MMs 450.7, 451.0 and 451.6, LM 21.46",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.268",
+        "LATITUDE": 35.779171999999996,
+        "LONGITUDE": -83.104779,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15039999999999,
+          35.98960000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138188",
+        "PERMITTEE_NAME": "Outback Land Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1034 Highway 321",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138188",
+        "LATITUDE": 35.9896,
+        "LONGITUDE": -83.1504,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15039999999999,
+          35.98960000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051447",
+        "PERMITTEE_NAME": "Guy Hommel, Jr. dba Hommel Concrete Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766361600000,
+        "EFFECTIVE_DATE": 1766361600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1034 Highway 321",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051447",
+        "LATITUDE": 35.9896,
+        "LONGITUDE": -83.1504,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08566499999995,
+          35.84767800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138079",
+        "PERMITTEE_NAME": "Diego Yelpo",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "4605 RAVEN VIEW RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138079",
+        "LATITUDE": 35.847678,
+        "LONGITUDE": -83.08566499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13515599999994,
+          35.80381200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.259",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "I-40 E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.259",
+        "LATITUDE": 35.803812,
+        "LONGITUDE": -83.135156,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24589999999995,
+          35.973700000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137695",
+        "PERMITTEE_NAME": "Racetrac Petroleum, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1100 W HIGHWAY 25 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137695",
+        "LATITUDE": 35.9737,
+        "LONGITUDE": -83.2459,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19891999999999,
+          35.965310000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137186",
+        "PERMITTEE_NAME": "Rural Medical Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "229 HEDRICK DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137186",
+        "LATITUDE": 35.965309999999995,
+        "LONGITUDE": -83.19892,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09964699999995,
+          35.77492600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.234",
+        "PERMITTEE_NAME": "Duke Energy Carolinas, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1738886400000,
+        "EFFECTIVE_DATE": 1738886400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "251 Waterville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.234",
+        "LATITUDE": 35.774926,
+        "LONGITUDE": -83.09964699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20289999999994,
+          35.93050000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137718",
+        "PERMITTEE_NAME": "Woodridge Properties LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1279 Green Acres Drive, Lot 2",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137718",
+        "LATITUDE": 35.9305,
+        "LONGITUDE": -83.2029,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24999999999994,
+          35.957700000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137302",
+        "PERMITTEE_NAME": "Guy Hommel, Jr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1300 Splashaway Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137302",
+        "LATITUDE": 35.9577,
+        "LONGITUDE": -83.25,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17353899999995,
+          35.96101300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.233",
+        "PERMITTEE_NAME": "Norfolk Southern",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1734480000000,
+        "EFFECTIVE_DATE": 1734480000000,
+        "EXPIRATION_DATE": 1892160000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Railroad bridge over the Pigeon River at MP 205.40-AS",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.233",
+        "LATITUDE": 35.961013,
+        "LONGITUDE": -83.17353899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13515599999994,
+          35.80381200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192320",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "I-40 E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192320",
+        "LATITUDE": 35.803812,
+        "LONGITUDE": -83.135156,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10477899999995,
+          35.779172000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192336",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "I-40, Near MMs 450.7, 451.0 and 451.6, LM 21.46",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192336",
+        "LATITUDE": 35.779171999999996,
+        "LONGITUDE": -83.104779,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20985099999996,
+          35.98233400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137400",
+        "PERMITTEE_NAME": "Charles Blalock & Sons, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "100 yards south of Industrial Road, Newport",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137400",
+        "LATITUDE": 35.982334,
+        "LONGITUDE": -83.209851,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20024399999994,
+          35.94682900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137312",
+        "PERMITTEE_NAME": "John Davenport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Heritage Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137312",
+        "LATITUDE": 35.946829,
+        "LONGITUDE": -83.200244,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20529999999997,
+          35.984200000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192181",
+        "PERMITTEE_NAME": "Charles Blalock & Sons, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Lisega Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192181",
+        "LATITUDE": 35.9842,
+        "LONGITUDE": -83.20530000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20682799999997,
+          35.75362000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137595",
+        "PERMITTEE_NAME": "Kevin Rose",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Cosby Entrance Rd. and Cosby Picnic Area Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137595",
+        "LATITUDE": 35.75362,
+        "LONGITUDE": -83.206828,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16139699999997,
+          35.89795000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137396",
+        "PERMITTEE_NAME": "BOFFS LLC , DBA Great Smoky Mountain Vista Campground",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1311 Lark road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137396",
+        "LATITUDE": 35.89795,
+        "LONGITUDE": -83.161397,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17169999999999,
+          35.982300000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192168",
+        "PERMITTEE_NAME": "Charles Blalock & Sons, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "246 Woodson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192168",
+        "LATITUDE": 35.9823,
+        "LONGITUDE": -83.1717,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00332099999997,
+          35.86737700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.349",
+        "PERMITTEE_NAME": "Carroll Moore",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1645574400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Ivory Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.349",
+        "LATITUDE": 35.867377,
+        "LONGITUDE": -83.003321,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.18728899999996,
+          35.98714800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050039",
+        "PERMITTEE_NAME": "BS&J Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769990400000,
+        "EFFECTIVE_DATE": 1769990400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "601 Rankin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050039",
+        "LATITUDE": 35.987148,
+        "LONGITUDE": -83.18728899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20930999999996,
+          35.99220200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110137",
+        "PERMITTEE_NAME": "Newport Paving Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1670198400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "351 Industrial Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110137",
+        "LATITUDE": 35.992202,
+        "LONGITUDE": -83.20931,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20166699999999,
+          35.98527800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050768",
+        "PERMITTEE_NAME": "SI GROUP, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "380 Chemwood Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050768",
+        "LATITUDE": 35.985278,
+        "LONGITUDE": -83.201667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20491699999997,
+          36.01642400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055894",
+        "PERMITTEE_NAME": "Sonoco Products Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762473600000,
+        "EFFECTIVE_DATE": 1762473600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "766 Industrial Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055894",
+        "LATITUDE": 36.016424,
+        "LONGITUDE": -83.204917,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22225799999995,
+          35.97671600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050687",
+        "PERMITTEE_NAME": "Commercial Furniture Group, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761229120000,
+        "EFFECTIVE_DATE": 1761229120000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "810 West Highway 25/70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050687",
+        "LATITUDE": 35.976715999999996,
+        "LONGITUDE": -83.222258,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24949999999995,
+          35.94780000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134011",
+        "PERMITTEE_NAME": "Guy (Junior) Hommel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Bluets Road at Blue Springs Way in Cocke County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134011",
+        "LATITUDE": 35.9478,
+        "LONGITUDE": -83.2495,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25259999999997,
+          35.97070000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.072",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1562889600000,
+        "EFFECTIVE_DATE": 1562889600000,
+        "EXPIRATION_DATE": 1720656000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "I-40/SR-9",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.072",
+        "LATITUDE": 35.9707,
+        "LONGITUDE": -83.2526,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27544499999999,
+          35.97343900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059556",
+        "PERMITTEE_NAME": "Oakcrest Lumber, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1489 West Highway 25/70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059556",
+        "LATITUDE": 35.973439,
+        "LONGITUDE": -83.27544499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24799999999999,
+          35.96710000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110467",
+        "PERMITTEE_NAME": "Guy Hommel, Jr. DBA Hommel Concrete Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1738886400000,
+        "EFFECTIVE_DATE": 1738886400000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1164 Raines Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110467",
+        "LATITUDE": 35.9671,
+        "LONGITUDE": -83.248,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15299999999996,
+          35.956000000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135987",
+        "PERMITTEE_NAME": "Cocke County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "1160 Old Asheville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135987",
+        "LATITUDE": 35.956,
+        "LONGITUDE": -83.153,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20657699999998,
+          35.98823200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052034",
+        "PERMITTEE_NAME": "American Appliance Products, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752710400000,
+        "EFFECTIVE_DATE": 1752710400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "345 Chemwood Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052034",
+        "LATITUDE": 35.988231999999996,
+        "LONGITUDE": -83.206577,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17923399999995,
+          35.949707000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110098",
+        "PERMITTEE_NAME": "Erby Contractors, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1769126400000,
+        "EFFECTIVE_DATE": 1769126400000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "810 Lower Quarry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110098",
+        "LATITUDE": 35.949707,
+        "LONGITUDE": -83.179234,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20871899999997,
+          35.97765500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192064",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "SR-35 at Newport Bypass",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192064",
+        "LATITUDE": 35.977655,
+        "LONGITUDE": -83.208719,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92719999999997,
+          35.86250000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.152",
+        "PERMITTEE_NAME": "Trout Unlimited",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1631750400000,
+        "EFFECTIVE_DATE": 1631750400000,
+        "EXPIRATION_DATE": 1789430400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Stream Crossings on NFSR 96 (Wolf Creek Road) and NFSR 3249 (Boomer Den Road)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.152",
+        "LATITUDE": 35.862500000000004,
+        "LONGITUDE": -82.9272,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21959999999996,
+          35.98500000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136232",
+        "PERMITTEE_NAME": "The IDB of Newport/Cocke County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cocke",
+        "SITE_LOCATION": "Hwy 25E across from Fairlawn Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136232",
+        "LATITUDE": 35.985,
+        "LONGITUDE": -83.2196,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

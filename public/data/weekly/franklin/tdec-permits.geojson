@@ -1,0 +1,2761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13040999999998,
+          35.18938000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182820",
+        "PERMITTEE_NAME": "B. J. Rigsby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Route 50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182820",
+        "LATITUDE": 35.18938,
+        "LONGITUDE": -86.13041,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91511599999995,
+          35.200180000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4020",
+        "PERMITTEE_NAME": "Sewanee Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749772800000,
+        "EFFECTIVE_DATE": 1749772800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Various locations in Sewanee, TN 37383",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4020",
+        "LATITUDE": 35.200179999999996,
+        "LONGITUDE": -85.915116,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10549499999996,
+          35.19096600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183265",
+        "PERMITTEE_NAME": "Restaurant Management, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "714 DINAH SHORE BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183265",
+        "LATITUDE": 35.190965999999996,
+        "LONGITUDE": -86.10549499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22069299999998,
+          35.287187000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183292",
+        "PERMITTEE_NAME": "Andrew Welch",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "254 Holloway Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183292",
+        "LATITUDE": 35.287186999999996,
+        "LONGITUDE": -86.220693,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12361099999998,
+          35.32916700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.045",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1746144000000,
+        "EFFECTIVE_DATE": 1746144000000,
+        "EXPIRATION_DATE": 1903824000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "U. S. Air Force Arnold Air Force Station",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.045",
+        "LATITUDE": 35.329167,
+        "LONGITUDE": -86.123611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.98399799999999,
+          35.276549000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183486",
+        "PERMITTEE_NAME": "Henry Lam",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "466 Walls Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183486",
+        "LATITUDE": 35.276548999999996,
+        "LONGITUDE": -85.983998,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01442199999997,
+          35.243430000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183450",
+        "PERMITTEE_NAME": "Tinsley Properties LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Greenhaw Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183450",
+        "LATITUDE": 35.24343,
+        "LONGITUDE": -86.014422,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05122899999998,
+          35.16652800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183467",
+        "PERMITTEE_NAME": "John Williams",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Cowan Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183467",
+        "LATITUDE": 35.166528,
+        "LONGITUDE": -86.05122899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08147899999994,
+          35.177685000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183502",
+        "PERMITTEE_NAME": "Chris Vaughn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1791763200000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "1680 Bypass Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183502",
+        "LATITUDE": 35.177685,
+        "LONGITUDE": -86.081479,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07090299999999,
+          35.17815900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183181.05",
+        "PERMITTEE_NAME": "Legacy South",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Halfmoon Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183181.05",
+        "LATITUDE": 35.178159,
+        "LONGITUDE": -86.070903,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06889999999999,
+          35.19417900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183503",
+        "PERMITTEE_NAME": "Franklin County, Tennessee",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Decherd Modena Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183503",
+        "LATITUDE": 35.194179,
+        "LONGITUDE": -86.0689,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11839199999997,
+          35.24582300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183483",
+        "PERMITTEE_NAME": "Estill Springs Church of the Nazarene",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "4875 Tullahoma Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183483",
+        "LATITUDE": 35.245823,
+        "LONGITUDE": -86.118392,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18168699999995,
+          35.333124000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183491",
+        "PERMITTEE_NAME": "JSP International LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "102 Parham Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183491",
+        "LATITUDE": 35.333124,
+        "LONGITUDE": -86.181687,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10844399999996,
+          35.22041600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183396",
+        "PERMITTEE_NAME": "Alex Little",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "0 Blair Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183396",
+        "LATITUDE": 35.220416,
+        "LONGITUDE": -86.10844399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14371399999999,
+          35.19768400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4110",
+        "PERMITTEE_NAME": "Martin Tyler",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "154 Willow Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4110",
+        "LATITUDE": 35.197683999999995,
+        "LONGITUDE": -86.143714,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88809999999995,
+          35.21380000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4114",
+        "PERMITTEE_NAME": "Sewanee Mountain Partners, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774396800000,
+        "EFFECTIVE_DATE": 1774396800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Along Sewanee Highway, East of Midway Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4114",
+        "LATITUDE": 35.2138,
+        "LONGITUDE": -85.88810000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88809999999995,
+          35.21380000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4115",
+        "PERMITTEE_NAME": "Sewanee Mountain Partners, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774396800000,
+        "EFFECTIVE_DATE": 1774396800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Along Sewanee Highway, East of Midway Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4115",
+        "LATITUDE": 35.2138,
+        "LONGITUDE": -85.88810000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08516899999995,
+          35.19575400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050264",
+        "PERMITTEE_NAME": "CST Industries, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1779408000000,
+        "EFFECTIVE_DATE": 1779408000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "491 BAXTER LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050264",
+        "LATITUDE": 35.195754,
+        "LONGITUDE": -86.085169,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20480699999996,
+          35.112599000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4102",
+        "PERMITTEE_NAME": "Daryl Hicklan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770768000000,
+        "EFFECTIVE_DATE": 1770768000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Walnut Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4102",
+        "LATITUDE": 35.112598999999996,
+        "LONGITUDE": -86.204807,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31494699999996,
+          35.05243000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183493",
+        "PERMITTEE_NAME": "Cody Brazelton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Donaldson Grove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183493",
+        "LATITUDE": 35.05243,
+        "LONGITUDE": -86.31494699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.99551099999996,
+          35.16083700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4097",
+        "PERMITTEE_NAME": "Nathan Wilson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765756800000,
+        "EFFECTIVE_DATE": 1765756800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Slagtown Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4097",
+        "LATITUDE": 35.160837,
+        "LONGITUDE": -85.995511,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95979899999998,
+          35.165185000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183406",
+        "PERMITTEE_NAME": "The Mountain Goat Trail Alliance, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Slagtown Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183406",
+        "LATITUDE": 35.165185,
+        "LONGITUDE": -85.95979899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12408299999998,
+          35.213617000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183121",
+        "PERMITTEE_NAME": "Winchester Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "675 BIBLE CROSSING RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183121",
+        "LATITUDE": 35.213617,
+        "LONGITUDE": -86.124083,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12408299999998,
+          35.213617000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183123",
+        "PERMITTEE_NAME": "Winchester Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "675 BIBLE CROSSING RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183123",
+        "LATITUDE": 35.213617,
+        "LONGITUDE": -86.124083,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19206699999995,
+          35.18548000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182870",
+        "PERMITTEE_NAME": "Zaccri Recker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Lynchburg Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182870",
+        "LATITUDE": 35.18548,
+        "LONGITUDE": -86.192067,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09515399999998,
+          35.21107400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183136",
+        "PERMITTEE_NAME": "Express Oil Change, L.L.C",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Decherd Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183136",
+        "LATITUDE": 35.211073999999996,
+        "LONGITUDE": -86.095154,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21771399999994,
+          35.34576700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183507",
+        "PERMITTEE_NAME": "Riverchase Communities, LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "609 Westside Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183507",
+        "LATITUDE": 35.345766999999995,
+        "LONGITUDE": -86.217714,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10285299999998,
+          35.287907000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051612",
+        "PERMITTEE_NAME": "Williams Borrow Pit",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "MORRIS FERRY BRIDGE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051612",
+        "LATITUDE": 35.287907,
+        "LONGITUDE": -86.102853,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88899999999995,
+          35.214500000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-26007",
+        "PERMITTEE_NAME": "EDGE WASTEWATER UTILITIES LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Sewanee Hwy / 41A and Midway Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-26007",
+        "LATITUDE": 35.2145,
+        "LONGITUDE": -85.88900000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07992999999999,
+          35.19568000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183320",
+        "PERMITTEE_NAME": "Winchester Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "215 BYPASS RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183320",
+        "LATITUDE": 35.195679999999996,
+        "LONGITUDE": -86.07992999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91511599999995,
+          35.200180000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183304",
+        "PERMITTEE_NAME": "Sewanee Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Various locations in Sewanee, TN 37383",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183304",
+        "LATITUDE": 35.200179999999996,
+        "LONGITUDE": -85.915116,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07922599999995,
+          35.19603300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058621",
+        "PERMITTEE_NAME": "Phoenix Boats",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762041600000,
+        "EFFECTIVE_DATE": 1762041600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "730 Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058621",
+        "LATITUDE": 35.196033,
+        "LONGITUDE": -86.07922599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.30142699999999,
+          35.10964300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.132",
+        "PERMITTEE_NAME": "Steven Pickett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755475200000,
+        "EFFECTIVE_DATE": 1755475200000,
+        "EXPIRATION_DATE": 1913155200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "206 Limbaugh Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.132",
+        "LATITUDE": 35.109643,
+        "LONGITUDE": -86.30142699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12189999999998,
+          35.17640000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183490",
+        "PERMITTEE_NAME": "Brett Jackson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Davy Crockett Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183490",
+        "LATITUDE": 35.1764,
+        "LONGITUDE": -86.12190000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09558399999997,
+          35.198277000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183398",
+        "PERMITTEE_NAME": "Tarun & Harsh LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "105 Bypass Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183398",
+        "LATITUDE": 35.198277,
+        "LONGITUDE": -86.095584,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07090299999999,
+          35.17815900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183181.03",
+        "PERMITTEE_NAME": "Angela Privett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Halfmoon Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183181.03",
+        "LATITUDE": 35.178159,
+        "LONGITUDE": -86.070903,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07090299999999,
+          35.17815900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183181.04",
+        "PERMITTEE_NAME": "Greg Houston",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Halfmoon Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183181.04",
+        "LATITUDE": 35.178159,
+        "LONGITUDE": -86.070903,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16030699999999,
+          35.30383600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056789",
+        "PERMITTEE_NAME": "Meridian Waste Alabama, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "9577 TULLAHOMA HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056789",
+        "LATITUDE": 35.303836,
+        "LONGITUDE": -86.160307,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20480699999996,
+          35.112599000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183416",
+        "PERMITTEE_NAME": "Belvidere Rural Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Walnut Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183416",
+        "LATITUDE": 35.112598999999996,
+        "LONGITUDE": -86.204807,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88809999999995,
+          35.21380000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183422",
+        "PERMITTEE_NAME": "Sewanee Mountain Partners, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Along Sewanee Highway, East of Midway Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183422",
+        "LATITUDE": 35.2138,
+        "LONGITUDE": -85.88810000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20732499999997,
+          35.22515600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183454",
+        "PERMITTEE_NAME": "Fanning Bend, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Fanning Bend Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183454",
+        "LATITUDE": 35.225156,
+        "LONGITUDE": -86.207325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22517099999999,
+          35.301368000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4103",
+        "PERMITTEE_NAME": "DJ Boggs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772150400000,
+        "EFFECTIVE_DATE": 1772150400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Old Tullahoma Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4103",
+        "LATITUDE": 35.301368,
+        "LONGITUDE": -86.225171,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07593599999996,
+          35.17352900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183458",
+        "PERMITTEE_NAME": "McDonald's USA LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Cowan Highway parcel 076003.13",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183458",
+        "LATITUDE": 35.173528999999995,
+        "LONGITUDE": -86.075936,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22517099999999,
+          35.301368000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183430",
+        "PERMITTEE_NAME": "DJ Boggs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Old Tullahoma Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183430",
+        "LATITUDE": 35.301368,
+        "LONGITUDE": -86.225171,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09339999999997,
+          35.19460000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4037",
+        "PERMITTEE_NAME": "George Powell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1751414400000,
+        "EFFECTIVE_DATE": 1751414400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Bypass Road and Baxter Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4037",
+        "LATITUDE": 35.1946,
+        "LONGITUDE": -86.0934,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07090299999999,
+          35.17815900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183181.02",
+        "PERMITTEE_NAME": "Fred Walker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Halfmoon Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183181.02",
+        "LATITUDE": 35.178159,
+        "LONGITUDE": -86.070903,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08629899999994,
+          35.183010000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183330",
+        "PERMITTEE_NAME": "Compass General Partners",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Bypass Road and Peter Turney Lane SW Quadrant",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183330",
+        "LATITUDE": 35.183009999999996,
+        "LONGITUDE": -86.086299,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09833299999997,
+          35.22638900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051138",
+        "PERMITTEE_NAME": "BlockWorks, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "649 AEDC Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051138",
+        "LATITUDE": 35.226389,
+        "LONGITUDE": -86.098333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25240599999995,
+          35.21105300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183271",
+        "PERMITTEE_NAME": "State of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "570 TIMS FORD DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183271",
+        "LATITUDE": 35.211053,
+        "LONGITUDE": -86.252406,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01009699999997,
+          35.23849800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183305",
+        "PERMITTEE_NAME": "Tinsley Properties LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "5540 Greenhaw Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183305",
+        "LATITUDE": 35.238498,
+        "LONGITUDE": -86.010097,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18168699999995,
+          35.333124000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056726",
+        "PERMITTEE_NAME": "JSP International",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755734400000,
+        "EFFECTIVE_DATE": 1755734400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "102 Parham Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056726",
+        "LATITUDE": 35.333124,
+        "LONGITUDE": -86.181687,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11032399999993,
+          35.215797000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183384",
+        "PERMITTEE_NAME": "Alex Little",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "0 Bible Crossing Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183384",
+        "LATITUDE": 35.215796999999995,
+        "LONGITUDE": -86.11032399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08371599999998,
+          35.19489800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052092",
+        "PERMITTEE_NAME": "Tepro, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768435200000,
+        "EFFECTIVE_DATE": 1768435200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "590 Baxter Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052092",
+        "LATITUDE": 35.194897999999995,
+        "LONGITUDE": -86.083716,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06769999999995,
+          35.18210000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183376",
+        "PERMITTEE_NAME": "Winchester Airport Authority, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "420 AVIATION DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183376",
+        "LATITUDE": 35.1821,
+        "LONGITUDE": -86.0677,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08321199999995,
+          35.18126300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183170",
+        "PERMITTEE_NAME": "Bryan Wiliams",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Bypass Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183170",
+        "LATITUDE": 35.181263,
+        "LONGITUDE": -86.083212,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20827399999996,
+          35.22070300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183004",
+        "PERMITTEE_NAME": "Fanning Bend, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Fanning Bend Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183004",
+        "LATITUDE": 35.220703,
+        "LONGITUDE": -86.208274,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13134899999994,
+          35.245847000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.014",
+        "PERMITTEE_NAME": "Kayla Wiseman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1680220800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "134 Hickory Hill Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.014",
+        "LATITUDE": 35.245847,
+        "LONGITUDE": -86.131349,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08801799999998,
+          35.21407100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183014",
+        "PERMITTEE_NAME": "Watchman Properties",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "0 Christian Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183014",
+        "LATITUDE": 35.214071,
+        "LONGITUDE": -86.08801799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08562099999995,
+          35.190638000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182858",
+        "PERMITTEE_NAME": "Stanley Bean, Director of Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "833 BYPASS RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182858",
+        "LATITUDE": 35.190638,
+        "LONGITUDE": -86.08562099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20943499999998,
+          35.362022000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183130",
+        "PERMITTEE_NAME": "Vernon E Miller",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "3389 Tullahoma Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183130",
+        "LATITUDE": 35.362021999999996,
+        "LONGITUDE": -86.209435,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07090299999999,
+          35.17815900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183181",
+        "PERMITTEE_NAME": "Cortner Family Property, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Halfmoon Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183181",
+        "LATITUDE": 35.178159,
+        "LONGITUDE": -86.070903,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09409999999997,
+          35.17820000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183104",
+        "PERMITTEE_NAME": "Winchester Christian Academy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Winchester Christain Academy Shirley Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183104",
+        "LATITUDE": 35.178200000000004,
+        "LONGITUDE": -86.0941,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18478199999998,
+          35.330977000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.176",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1739491200000,
+        "EFFECTIVE_DATE": 1739491200000,
+        "EXPIRATION_DATE": 1897171200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Radio Beam Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.176",
+        "LATITUDE": 35.330977,
+        "LONGITUDE": -86.184782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.28338999999994,
+          35.13605700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.3993",
+        "PERMITTEE_NAME": "Russell Grammer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748476800000,
+        "EFFECTIVE_DATE": 1748476800000,
+        "EXPIRATION_DATE": 1906156800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "4755 Old Salem Lexie Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.3993",
+        "LATITUDE": 35.136057,
+        "LONGITUDE": -86.28339,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20909999999998,
+          35.28570000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182926",
+        "PERMITTEE_NAME": "Joe Denby",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Buck Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182926",
+        "LATITUDE": 35.2857,
+        "LONGITUDE": -86.2091,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91469199999995,
+          35.19626900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183142",
+        "PERMITTEE_NAME": "41A, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "12785 Sollace M Freeman Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183142",
+        "LATITUDE": 35.196269,
+        "LONGITUDE": -85.914692,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13228599999997,
+          35.17259000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183112",
+        "PERMITTEE_NAME": "Franklin County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "George Fraley Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183112",
+        "LATITUDE": 35.17259,
+        "LONGITUDE": -86.132286,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90339999999998,
+          35.19167700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183153",
+        "PERMITTEE_NAME": "The Mountain Goat Trail Alliance, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Hwy 41A",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183153",
+        "LATITUDE": 35.191677,
+        "LONGITUDE": -85.9034,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09614099999999,
+          35.20006100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183028",
+        "PERMITTEE_NAME": "Jose Flores",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "1601 Dinah Shore Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183028",
+        "LATITUDE": 35.200061,
+        "LONGITUDE": -86.096141,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93609999999995,
+          35.17360000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182725",
+        "PERMITTEE_NAME": "Cardon Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Saint Marys Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182725",
+        "LATITUDE": 35.1736,
+        "LONGITUDE": -85.93610000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12087699999995,
+          35.18104100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182905",
+        "PERMITTEE_NAME": "Beacon Land Equities LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "200 FAIRGROUND ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182905",
+        "LATITUDE": 35.181041,
+        "LONGITUDE": -86.120877,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13236999999998,
+          35.16986000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182956",
+        "PERMITTEE_NAME": "Watchman Properties, LLC (Paul Wuthrich)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "100 & 110 Bunker Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182956",
+        "LATITUDE": 35.16986,
+        "LONGITUDE": -86.13237,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12718799999999,
+          35.16871400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182976",
+        "PERMITTEE_NAME": "Tracy Temples",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "141 Rowe Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182976",
+        "LATITUDE": 35.168714,
+        "LONGITUDE": -86.12718799999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11909999999995,
+          35.181700000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110065",
+        "PERMITTEE_NAME": "imi Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1671062400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "612 David Crockett  Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110065",
+        "LATITUDE": 35.1817,
+        "LONGITUDE": -86.1191,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12650099999996,
+          35.27503000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050176",
+        "PERMITTEE_NAME": "Tyson Farms, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "206 Tyson Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050176",
+        "LATITUDE": 35.27503,
+        "LONGITUDE": -86.12650099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10313599999995,
+          35.184068000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050619",
+        "PERMITTEE_NAME": "Winchester auto salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "606 old cowan rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050619",
+        "LATITUDE": 35.184067999999996,
+        "LONGITUDE": -86.10313599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10087499999997,
+          35.22452100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110285",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1671753600000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "128 Blair Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110285",
+        "LATITUDE": 35.224520999999996,
+        "LONGITUDE": -86.100875,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14168399999994,
+          35.28048000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110129",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1670976000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "322 Ake Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110129",
+        "LATITUDE": 35.28048,
+        "LONGITUDE": -86.141684,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05036699999994,
+          35.22257300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053453",
+        "PERMITTEE_NAME": "Nissan North America, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762427539000,
+        "EFFECTIVE_DATE": 1762427539000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "520 Nissan Powertrain Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053453",
+        "LATITUDE": 35.222573,
+        "LONGITUDE": -86.050367,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07899999999995,
+          35.19700000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051438",
+        "PERMITTEE_NAME": "Zanini Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "840 Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051438",
+        "LATITUDE": 35.197,
+        "LONGITUDE": -86.07900000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13507799999996,
+          35.115316000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053475",
+        "PERMITTEE_NAME": "Evans Log & Lumber Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764892800000,
+        "EFFECTIVE_DATE": 1764892800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "361 YARBROUGH LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053475",
+        "LATITUDE": 35.115316,
+        "LONGITUDE": -86.135078,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08682999999996,
+          35.19086000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056540",
+        "PERMITTEE_NAME": "Baxter Enterprises LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "466 Baxter Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056540",
+        "LATITUDE": 35.19086,
+        "LONGITUDE": -86.08682999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.26465099999996,
+          35.054768000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054536",
+        "PERMITTEE_NAME": "Thompson Appalachian Hardwoods, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765756800000,
+        "EFFECTIVE_DATE": 1765756800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "100 HARLESS DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054536",
+        "LATITUDE": 35.054767999999996,
+        "LONGITUDE": -86.264651,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13880799999998,
+          35.282186000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056241",
+        "PERMITTEE_NAME": "DN Ventures LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "813 N MAIN ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056241",
+        "LATITUDE": 35.282185999999996,
+        "LONGITUDE": -86.138808,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04944399999994,
+          35.16416700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054324",
+        "PERMITTEE_NAME": "DiversaTech Plastics Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "3830 Cowan Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054324",
+        "LATITUDE": 35.164167,
+        "LONGITUDE": -86.049444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.35372699999994,
+          35.025337000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054588",
+        "PERMITTEE_NAME": "Lester Ashley dba Elora Pallet Shop",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1773058149000,
+        "EFFECTIVE_DATE": 1773058149000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "641 DONALDSON GROVE ROAD  FORMERLY 471 LIMESTONE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054588",
+        "LATITUDE": 35.025337,
+        "LONGITUDE": -86.35372699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09958299999994,
+          35.22521700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056889",
+        "PERMITTEE_NAME": "Tinsley Asphalt Products, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761826836000,
+        "EFFECTIVE_DATE": 1761826836000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "481 AEDC ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056889",
+        "LATITUDE": 35.225217,
+        "LONGITUDE": -86.099583,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91722199999998,
+          35.25611100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-07082",
+        "PERMITTEE_NAME": "Tennessee Wastewater Systems, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1380585600000,
+        "EFFECTIVE_DATE": 1383264000000,
+        "EXPIRATION_DATE": 1538265600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Off East Roarks Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-07082",
+        "LATITUDE": 35.256111,
+        "LONGITUDE": -85.917222,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10579899999999,
+          35.29606300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-13027",
+        "PERMITTEE_NAME": "Donald R. Coulson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "346 Elk River DriveLot #17",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-13027",
+        "LATITUDE": 35.296063,
+        "LONGITUDE": -86.10579899999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88444399999997,
+          35.17333300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267009",
+        "PERMITTEE_NAME": "Mont Milner Rainbow Camp",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1790726400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1849910400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94nw Two Mile Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267009",
+        "LATITUDE": 35.173333,
+        "LONGITUDE": -85.884444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89230199999997,
+          35.22488100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267010",
+        "PERMITTEE_NAME": "St. Andrews School",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1699833600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1792108800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94nw Trib-mud Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267010",
+        "LATITUDE": 35.224880999999996,
+        "LONGITUDE": -85.892302,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87888899999996,
+          35.23416700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267011",
+        "PERMITTEE_NAME": "Cooley's Rift Homeowners Association",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1786492800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1815609600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94nw Trussel Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267011",
+        "LATITUDE": 35.234167,
+        "LONGITUDE": -85.878889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89527799999996,
+          35.168889000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267012",
+        "PERMITTEE_NAME": "Lake Eva Owners Control Committee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1755043200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1847232000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267012",
+        "LATITUDE": 35.168889,
+        "LONGITUDE": -85.89527799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89152699999994,
+          35.146667000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267015",
+        "PERMITTEE_NAME": "Myers Point Garden & Park Association, Inc. (Ina May)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1611532800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1705276800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94NW Trib-Laurel BranchNear 394 Myers Pt Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267015",
+        "LATITUDE": 35.146667,
+        "LONGITUDE": -85.891527,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88638899999995,
+          35.14500000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267018",
+        "PERMITTEE_NAME": "Myers Point Garden & Park Association, Inc. (Mercer Logan)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1611532800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1705276800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94NW Trib-Laurel Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267018",
+        "LATITUDE": 35.145,
+        "LONGITUDE": -85.886389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88888899999995,
+          35.18611100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267001",
+        "PERMITTEE_NAME": "Sewanee Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1785196800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1815609600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94nw Bethel Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267001",
+        "LATITUDE": 35.186111,
+        "LONGITUDE": -85.88888899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90083299999998,
+          35.20138900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267002",
+        "PERMITTEE_NAME": "Sewanee Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1785196800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1815609600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94nw Barnes Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267002",
+        "LATITUDE": 35.201389,
+        "LONGITUDE": -85.90083299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93166699999995,
+          35.209444000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267003",
+        "PERMITTEE_NAME": "The University of The South (Cheston)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1701302400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1792022400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94NW Trib-Wiggins Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267003",
+        "LATITUDE": 35.209444,
+        "LONGITUDE": -85.93166699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87138899999997,
+          35.18472200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "267004",
+        "PERMITTEE_NAME": "The University of The South",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1784764800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1815609600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "94ne Bethel Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:267004",
+        "LATITUDE": 35.184722,
+        "LONGITUDE": -85.871389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01922699999994,
+          35.16904400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059132",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "201-205 Front Street North\r\n215 North Front Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059132",
+        "LATITUDE": 35.169044,
+        "LONGITUDE": -86.019227,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09551499999998,
+          35.23122700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059351",
+        "PERMITTEE_NAME": "Jimmy Henley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762732800000,
+        "EFFECTIVE_DATE": 1762732800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "ACROSS FROM 1172 AEDC ROAD (PARCEL 045 043.08, AND A PORTION OF 045 043.05)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059351",
+        "LATITUDE": 35.231227,
+        "LONGITUDE": -86.09551499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05919999999998,
+          35.29940000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR191611",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "SR-127 at LM 6.21",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR191611",
+        "LATITUDE": 35.2994,
+        "LONGITUDE": -86.0592,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.29978299999999,
+          35.17941200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.087",
+        "PERMITTEE_NAME": "Reggie Dotson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1534291200000,
+        "EFFECTIVE_DATE": 1534291200000,
+        "EXPIRATION_DATE": 1691971200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "140 Dotson Bend Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.087",
+        "LATITUDE": 35.179412,
+        "LONGITUDE": -86.29978299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13448999999997,
+          35.19319000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.006",
+        "PERMITTEE_NAME": "Twin Creeks Marina & Resort, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1614556800000,
+        "EFFECTIVE_DATE": 1614038400000,
+        "EXPIRATION_DATE": 1714435200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Lynchburg Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.006",
+        "LATITUDE": 35.19319,
+        "LONGITUDE": -86.13449,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.28823999999997,
+          35.17616000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.212",
+        "PERMITTEE_NAME": "Melanie Smith Howard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1631145600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "2125 Vanzant Bend Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.212",
+        "LATITUDE": 35.176159999999996,
+        "LONGITUDE": -86.28824,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.30328899999995,
+          35.12724900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.198",
+        "PERMITTEE_NAME": "Kevin Pickett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1631145600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Franklin",
+        "SITE_LOCATION": "Six Mile Board Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.198",
+        "LATITUDE": 35.127249,
+        "LONGITUDE": -86.30328899999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

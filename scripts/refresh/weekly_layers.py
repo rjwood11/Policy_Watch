@@ -4,6 +4,7 @@ import argparse
 import json
 import math
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -16,28 +17,14 @@ WEEKLY_DIR = PUBLIC_DATA / "weekly"
 TDEC_PERMITS_URL = "https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query"
 ECHO_CWA_SERVICES_URL = "https://echodata.epa.gov/echo/cwa_rest_services"
 ECHO_RESPONSE_SET = 1000
-ECHO_QUERY_COLUMNS = ",".join(
-    str(column)
-    for column in [
-        1,  # CWPName
-        2,  # SourceID
-        9,  # RegistryID
-        24,  # FacLat
-        25,  # FacLong
-        46,  # PermitName
-        98,  # CWPSNCStatus
-        99,  # CWPVioStatus
-        100,  # CWPSNCStatusDate
-        101,  # CWPQtrsWithNC
-        102,  # CWPViolStatus
-        103,  # CWPQtrsWithSNC
-        192,  # CWPSNCEventDesc
-        195,  # CWP13qtrsComplHistory
-        204,  # ViolFlag
-        205,  # CurrVioFlag
-        215,  # EffExceeds
-        230,  # VioLastYear
-    ]
+# EPA inserts columns in its numbered catalog. Request the full current range,
+# then retain named fields; validate those fields so catalog changes fail safely.
+ECHO_QUERY_COLUMNS = ",".join(str(column) for column in range(1, 351))
+ECHO_FIELDS = (
+    "CWPName", "SourceID", "RegistryID", "FacLat", "FacLong", "PermitName", "CWPStatus",
+    "CWPSNCStatus", "CWPVioStatus", "CWPSNCStatusDate", "CWPQtrsWithNC", "CWPViolStatus",
+    "CWPQtrsWithSNC", "CWPSNCEventDesc", "CWP13qtrsComplHistory", "ViolFlag", "CurrVioFlag",
+    "CurrSvFlag", "EffExceeds", "VioLastYear",
 )
 
 FeatureCollection = dict[str, Any]
@@ -83,8 +70,8 @@ def request_json(
     url: str,
     *,
     params: dict[str, str],
-    timeout: int = 120,
-    attempts: int = 5,
+    timeout: int = 45,
+    attempts: int = 3,
 ) -> Any:
     last_error: Exception | None = None
 
@@ -319,7 +306,9 @@ def facilities_to_feature_collection(payload: Any) -> FeatureCollection:
 
     for facility in facilities if isinstance(facilities, list) else []:
         if not isinstance(facility, dict):
-            continue
+            raise ValueError("EPA ECHO returned an invalid facility")
+        if not {"FacLat", "FacLong", "CWPQtrsWithNC"}.issubset(facility):
+            raise ValueError("EPA ECHO column catalog changed; required coordinates or compliance fields are missing")
         try:
             lon = float(str(facility.get("FacLong") or ""))
             lat = float(str(facility.get("FacLat") or ""))
@@ -330,7 +319,7 @@ def facilities_to_feature_collection(payload: Any) -> FeatureCollection:
         features.append(
             {
                 "type": "Feature",
-                "properties": facility,
+                "properties": {key: facility.get(key) for key in ECHO_FIELDS},
                 "geometry": {"type": "Point", "coordinates": [lon, lat]},
             }
         )
@@ -341,6 +330,12 @@ def facilities_to_feature_collection(payload: Any) -> FeatureCollection:
 def echo_facility_collection(payload: Any) -> FeatureCollection:
     if isinstance(payload, dict) and payload.get("type") == "FeatureCollection" and isinstance(payload.get("features"), list):
         return payload
+    if not isinstance(payload, dict) or not (
+        isinstance(payload.get("Facilities"), list)
+        or isinstance((echo_results(payload) or {}).get("Facilities"), list)
+        or str((echo_results(payload) or {}).get("QueryRows", "")) == "0"
+    ):
+        raise ValueError("EPA ECHO did not return facility records or a confirmed empty result")
     return facilities_to_feature_collection(payload)
 
 
@@ -407,12 +402,18 @@ def fetch_paged_geojson(
             "resultRecordCount": str(page_size),
         }
         payload = request_json(session, url, params=params)
-        page_features = payload.get("features", []) if isinstance(payload, dict) else []
+        if not isinstance(payload, dict) or payload.get("type") != "FeatureCollection" or not isinstance(payload.get("features"), list):
+            raise ValueError(f"Invalid ArcGIS response from {url}: {str(payload)[:300]}")
+        page_features = payload["features"]
         features.extend(page_features)
 
-        exceeded_limit = bool(payload.get("exceededTransferLimit")) if isinstance(payload, dict) else False
-        if len(page_features) < page_size or not exceeded_limit:
+        exceeded_limit = bool(payload.get("exceededTransferLimit") or payload.get("properties", {}).get("exceededTransferLimit"))
+        if not exceeded_limit and len(page_features) < page_size:
             break
+        if not page_features:
+            raise ValueError(f"ArcGIS pagination stopped before completion: {url}")
+    else:
+        raise ValueError(f"ArcGIS response exceeded {max_pages} pages: {url}")
 
     return {"type": "FeatureCollection", "features": features}
 
@@ -519,14 +520,21 @@ def update_source_metadata(
     *,
     only_when_changed: bool = False,
 ) -> None:
-    tdec_ok = any(
-        result["tdec"]["status"] == "ok" and (not only_when_changed or bool(result["tdec"].get("changed")))
-        for result in results
-    )
-    echo_ok = any(
-        result["echo"]["status"] == "ok" and (not only_when_changed or bool(result["echo"].get("changed")))
-        for result in results
-    )
+    def complete(source: str) -> bool:
+        return bool(results) and all(result[source]["status"] == "ok" for result in results) and (
+            not only_when_changed or any(result[source].get("changed") for result in results)
+        )
+
+    tdec_ok = complete("tdec")
+    echo_ok = complete("echo")
+
+    # Preserve each county's successful date even when another county fails.
+    previous = read_json(WEEKLY_DIR / "manifest.json") if (WEEKLY_DIR / "manifest.json").exists() else {}
+    previous_counties = {county["slug"]: county for county in previous.get("counties", [])}
+    for result in results:
+        for key in ("tdec", "echo"):
+            old = previous_counties.get(result["slug"], {}).get(key, {})
+            result[key]["lastSuccessfulRefresh"] = refresh_date if result[key]["status"] == "ok" else old.get("lastSuccessfulRefresh")
 
     last_updated_path = METADATA_DIR / "last-updated.json"
     if last_updated_path.exists():
@@ -541,6 +549,10 @@ def update_source_metadata(
     if sources_path.exists():
         sources = read_json(sources_path)
         for source in sources:
+            key = {"TDEC DWR public water resources permits": "tdec", "EPA ECHO CWA permit compliance": "echo"}.get(source.get("dataset"))
+            if key and any(result[key]["status"] != "skipped" for result in results):
+                source["lastChecked"] = refresh_date
+                source["refreshStatus"] = "Current" if complete(key) else "Partial refresh; some counties retain older data"
             if source.get("dataset") == "TDEC DWR public water resources permits" and tdec_ok:
                 source["refreshFrequency"] = "Weekly cache"
                 source["lastUpdated"] = refresh_date
@@ -560,6 +572,19 @@ def update_source_metadata(
 
 def write_manifest(refresh_date: str, results: list[dict[str, Any]]) -> None:
     generated_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    previous_path = WEEKLY_DIR / "manifest.json"
+    previous = read_json(previous_path) if previous_path.exists() else {}
+    merged = {county["slug"]: county for county in previous.get("counties", [])}
+    for result in results:
+        old = merged.get(result["slug"], {})
+        for source in ("tdec", "echo"):
+            if result[source]["status"] == "skipped" and source in old:
+                result[source] = old[source]
+            else:
+                result[source]["lastSuccessfulRefresh"] = (
+                    refresh_date if result[source]["status"] == "ok" else old.get(source, {}).get("lastSuccessfulRefresh")
+                )
+        merged[result["slug"]] = result
     write_json(
         WEEKLY_DIR / "manifest.json",
         {
@@ -575,7 +600,7 @@ def write_manifest(refresh_date: str, results: list[dict[str, Any]]) -> None:
                     "url": f"{ECHO_CWA_SERVICES_URL}.get_facilities",
                 },
             },
-            "counties": results,
+            "counties": sorted(merged.values(), key=lambda county: county["slug"]),
         },
     )
 
@@ -610,6 +635,8 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Only update source metadata dates when a selected cache file changed.",
     )
+    parser.add_argument("--workers", type=int, choices=range(1, 9), default=4,
+                        help="Concurrent county downloads (1-8; default 4).")
     return parser.parse_args()
 
 
@@ -633,30 +660,32 @@ def main() -> None:
 
     WEEKLY_DIR.mkdir(parents=True, exist_ok=True)
     results: list[dict[str, Any]] = []
-    for index, county in enumerate(counties, start=1):
-        name = str(county["name"])
-        slug = str(county["slug"])
-        print(f"[{index}/{len(counties)}] Refreshing {name} County ({slug})")
-        result = refresh_county(session, county, sources)
-        results.append(result)
-        print(
-            "  TDEC: {tdec_status} ({tdec_count}); ECHO: {echo_status} ({echo_count})".format(
-                tdec_status=result["tdec"]["status"],
-                tdec_count=result["tdec"]["features"],
-                echo_status=result["echo"]["status"],
-                echo_count=result["echo"]["features"],
-            )
-        )
+    def download(county):
+        # Each worker owns its session; requests.Session is not shared across threads.
+        with requests.Session() as worker_session:
+            worker_session.headers.update(session.headers)
+            return refresh_county(worker_session, county, sources)
 
-    write_manifest(args.date, results)
+    with ThreadPoolExecutor(max_workers=args.workers) as executor:
+        for index, result in enumerate(executor.map(download, counties), start=1):
+            results.append(result)
+            print(
+                "[{index}/{total}] {name}: TDEC {tdec_status} ({tdec_count}); ECHO {echo_status} ({echo_count})".format(
+                    index=index, total=len(counties), name=result["name"],
+                    tdec_status=result["tdec"]["status"], tdec_count=result["tdec"]["features"],
+                    echo_status=result["echo"]["status"], echo_count=result["echo"]["features"],
+                ), flush=True,
+            )
+
     if not args.county:
         update_source_metadata(args.date, results, only_when_changed=args.metadata_if_changed)
+    write_manifest(args.date, results)
 
     failures = [
         f"{result['slug']}:{source}"
         for result in results
         for source in ["tdec", "echo"]
-        if source in sources and result[source]["status"] not in {"ok", "stale"}
+        if source in sources and result[source]["status"] != "ok"
     ]
     if failures:
         print(f"Weekly refresh completed with {len(failures)} source failure(s): {', '.join(failures[:20])}")

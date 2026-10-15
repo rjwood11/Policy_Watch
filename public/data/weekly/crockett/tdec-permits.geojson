@@ -1,0 +1,785 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14639999999997,
+          35.79540000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122621",
+        "PERMITTEE_NAME": "Crockett Mills Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Hwy 188, and various roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122621",
+        "LATITUDE": 35.7954,
+        "LONGITUDE": -89.1464,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08609999999999,
+          35.71280000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123197",
+        "PERMITTEE_NAME": "The Pictsweet Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "10 Pictsweet Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123197",
+        "LATITUDE": 35.7128,
+        "LONGITUDE": -89.0861,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08609999999999,
+          35.71280000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123110",
+        "PERMITTEE_NAME": "The Pictsweet Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "10 Pictsweet Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123110",
+        "LATITUDE": 35.7128,
+        "LONGITUDE": -89.0861,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08609999999999,
+          35.71280000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.100",
+        "PERMITTEE_NAME": "The Pictsweet Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1763942400000,
+        "EFFECTIVE_DATE": 1763942400000,
+        "EXPIRATION_DATE": 1795478400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "10 Pictsweet Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.100",
+        "LATITUDE": 35.7128,
+        "LONGITUDE": -89.0861,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08609999999999,
+          35.71280000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123114",
+        "PERMITTEE_NAME": "The Pictsweet Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "10 Pictsweet Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123114",
+        "LATITUDE": 35.7128,
+        "LONGITUDE": -89.0861,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05453199999994,
+          35.83470900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.019",
+        "PERMITTEE_NAME": "Rob Caldwell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1775952000000,
+        "EFFECTIVE_DATE": 1776038400000,
+        "EXPIRATION_DATE": 1807488000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "7371 Hwy 152",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.019",
+        "LATITUDE": 35.834709,
+        "LONGITUDE": -89.054532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11696299999994,
+          35.77956500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830286",
+        "PERMITTEE_NAME": "Alamo Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1707782400000,
+        "EFFECTIVE_DATE": 1707868800000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "376 S. Bells St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830286",
+        "LATITUDE": 35.779565,
+        "LONGITUDE": -89.116963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09452699999997,
+          35.74697400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.266",
+        "PERMITTEE_NAME": "Direct Customer Solutions (Jackson Two)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765238400000,
+        "EFFECTIVE_DATE": 1765238400000,
+        "EXPIRATION_DATE": 1922918400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "US Highway 412 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.266",
+        "LATITUDE": 35.746974,
+        "LONGITUDE": -89.094527,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08890099999996,
+          35.712267000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.014",
+        "PERMITTEE_NAME": "TN Department of Transportation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774224000000,
+        "EFFECTIVE_DATE": 1774224000000,
+        "EXPIRATION_DATE": 1805673600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "SR-76; Industrial Access Support serving Project Mallard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.014",
+        "LATITUDE": 35.712267,
+        "LONGITUDE": -89.08890099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.98873699999996,
+          35.773829000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123044",
+        "PERMITTEE_NAME": "William Griffin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Poplar Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123044",
+        "LATITUDE": 35.773829,
+        "LONGITUDE": -88.988737,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.12906599999997,
+          35.78038200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123067",
+        "PERMITTEE_NAME": "Hitachi Energy USA Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "1133 S CAVALIER DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123067",
+        "LATITUDE": 35.780381999999996,
+        "LONGITUDE": -89.129066,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08609999999999,
+          35.71280000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123089",
+        "PERMITTEE_NAME": "The Pictsweet Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "10 Pictsweet Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123089",
+        "LATITUDE": 35.7128,
+        "LONGITUDE": -89.0861,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08890099999996,
+          35.712267000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192334",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "SR-76; Industrial Access Support serving Project Mallard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192334",
+        "LATITUDE": 35.712267,
+        "LONGITUDE": -89.08890099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.12499999999994,
+          35.773900000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122838",
+        "PERMITTEE_NAME": "RAN Management Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "2563 Highway 421 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122838",
+        "LATITUDE": 35.773900000000005,
+        "LONGITUDE": -89.125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08890099999996,
+          35.712267000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.059",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1737072000000,
+        "EFFECTIVE_DATE": 1737072000000,
+        "EXPIRATION_DATE": 1894752000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "SR-76; Industrial Access Support serving Project Mallard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.059",
+        "LATITUDE": 35.712267,
+        "LONGITUDE": -89.08890099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.00144399999994,
+          35.81739100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122544",
+        "PERMITTEE_NAME": "Joseph's Farm LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Salem Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122544",
+        "LATITUDE": 35.817391,
+        "LONGITUDE": -89.00144399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.12906599999997,
+          35.78038200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051468",
+        "PERMITTEE_NAME": "Hitachi Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762473600000,
+        "EFFECTIVE_DATE": 1762473600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "1133 S CAVALIER DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051468",
+        "LATITUDE": 35.780381999999996,
+        "LONGITUDE": -89.129066,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08526999999998,
+          35.70555000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120602",
+        "PERMITTEE_NAME": "Cobb Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Webb Street extended; Bells",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120602",
+        "LATITUDE": 35.705549999999995,
+        "LONGITUDE": -89.08527,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08692299999996,
+          35.73039400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120634",
+        "PERMITTEE_NAME": "Cobb Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Porter Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120634",
+        "LATITUDE": 35.730394,
+        "LONGITUDE": -89.086923,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08526999999998,
+          35.70555000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120596",
+        "PERMITTEE_NAME": "Cobb Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Webb Street extended; Bells",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120596",
+        "LATITUDE": 35.705549999999995,
+        "LONGITUDE": -89.08527,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08547599999997,
+          35.733870000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120428",
+        "PERMITTEE_NAME": "Roger Cobb",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Bell Meade Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120428",
+        "LATITUDE": 35.733869999999996,
+        "LONGITUDE": -89.085476,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.13972199999995,
+          35.792500000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120929",
+        "PERMITTEE_NAME": "Mallard Cove, L.P.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "North of SR-188 and west of County Farm Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120929",
+        "LATITUDE": 35.792500000000004,
+        "LONGITUDE": -89.13972199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24666599999995,
+          35.89222200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00001",
+        "PERMITTEE_NAME": "TCB Farms, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1784764800000,
+        "EFFECTIVE_DATE": 1784764800000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "834 East Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00001",
+        "LATITUDE": 35.892222,
+        "LONGITUDE": -89.24666599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.98388899999998,
+          35.82750000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "177001",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1726790400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1789430400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "437sw Forked Deer River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:177001",
+        "LATITUDE": 35.8275,
+        "LONGITUDE": -88.98388899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01722199999995,
+          35.72361100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "177006",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1731888000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "430NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:177006",
+        "LATITUDE": 35.723611,
+        "LONGITUDE": -89.01722199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01888899999994,
+          35.79888900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "177007",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1730851200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1822694400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "429se Sand Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:177007",
+        "LATITUDE": 35.798888999999996,
+        "LONGITUDE": -89.018889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99956399999996,
+          35.805356000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059440",
+        "PERMITTEE_NAME": "Paul Douglas",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "932 Aubrey Fergerson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059440",
+        "LATITUDE": 35.805355999999996,
+        "LONGITUDE": -88.99956399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99956399999996,
+          35.805356000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122262",
+        "PERMITTEE_NAME": "Green Earth Waste Services, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "932 Aubrey Fergerson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122262",
+        "LATITUDE": 35.805355999999996,
+        "LONGITUDE": -88.99956399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11188999999996,
+          35.801010000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122328",
+        "PERMITTEE_NAME": "Danny Marbury",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Hwy 54",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122328",
+        "LATITUDE": 35.80101,
+        "LONGITUDE": -89.11189,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11581499999994,
+          35.77533900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122493",
+        "PERMITTEE_NAME": "Kitzman Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Crockett",
+        "SITE_LOCATION": "Woody Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122493",
+        "LATITUDE": 35.775338999999995,
+        "LONGITUDE": -89.115815,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

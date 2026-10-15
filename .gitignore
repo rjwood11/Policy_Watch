@@ -21,3 +21,5 @@ public/data/weekly/*
 !public/data/weekly/*/
 public/data/weekly/*/*
 !public/data/weekly/*/echo-violations.geojson
+!public/data/weekly/*/tdec-permits.geojson
+!public/data/weekly/manifest.json

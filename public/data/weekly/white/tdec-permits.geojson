@@ -1,0 +1,1747 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.32051999999999,
+          35.95163300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.43",
+        "PERMITTEE_NAME": "Susan Roe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747267200000,
+        "EFFECTIVE_DATE": 1747267200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "170 Short Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.43",
+        "LATITUDE": 35.951633,
+        "LONGITUDE": -85.32052,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.53065099999998,
+          35.825856000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172722",
+        "PERMITTEE_NAME": "Quebeck-Walling Public Utilities District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "McMinnville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172722",
+        "LATITUDE": 35.825856,
+        "LONGITUDE": -85.53065099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45041199999997,
+          35.94257200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.196",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "State Route 84, Log Mile 1.02",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.196",
+        "LATITUDE": 35.942572,
+        "LONGITUDE": -85.450412,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45092799999998,
+          35.821777000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.166",
+        "PERMITTEE_NAME": "Amanda Dodson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "449 Alton Adcock Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.166",
+        "LATITUDE": 35.821777,
+        "LONGITUDE": -85.45092799999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48938899999996,
+          35.96534600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172852",
+        "PERMITTEE_NAME": "J&S Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "801 N Spring Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172852",
+        "LATITUDE": 35.965346,
+        "LONGITUDE": -85.489389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46764999999994,
+          35.92665000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.52",
+        "PERMITTEE_NAME": "Matt Stennett- Middle TN Natural Gas",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788825600000,
+        "EFFECTIVE_DATE": 1788825600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "10 S Carter Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.52",
+        "LATITUDE": 35.926649999999995,
+        "LONGITUDE": -85.46764999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48680299999995,
+          35.954225000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172873",
+        "PERMITTEE_NAME": "Donnie Suits- Capital Communities",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Mose Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172873",
+        "LATITUDE": 35.954225,
+        "LONGITUDE": -85.486803,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62776499999995,
+          35.96225700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830293",
+        "PERMITTEE_NAME": "Compliance Engineering Company of the South LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1746403200000,
+        "EFFECTIVE_DATE": 1746403200000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "8525 Smithville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830293",
+        "LATITUDE": 35.962257,
+        "LONGITUDE": -85.627765,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57552999999996,
+          35.804580000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.18",
+        "PERMITTEE_NAME": "Andy Haston",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1772582400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "1779 Rogers Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.18",
+        "LATITUDE": 35.80458,
+        "LONGITUDE": -85.57553,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.44551399999995,
+          35.91813500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172849",
+        "PERMITTEE_NAME": "State of Tennessee Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "798 Country Club Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172849",
+        "LATITUDE": 35.918135,
+        "LONGITUDE": -85.445514,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58230999999995,
+          35.892963000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.130",
+        "PERMITTEE_NAME": "Don Gentilcore- WMWC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765843200000,
+        "EFFECTIVE_DATE": 1765843200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "6010 GUM SPRINGS MOUNTAIN RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.130",
+        "LATITUDE": 35.892963,
+        "LONGITUDE": -85.58230999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54219999999998,
+          36.053600000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.81",
+        "PERMITTEE_NAME": "Tony Maggart II - O'Connor Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752019200000,
+        "EFFECTIVE_DATE": 1752019200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "South Bunker Hill Road and Mack Floyd Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.81",
+        "LATITUDE": 36.0536,
+        "LONGITUDE": -85.54220000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59482499999996,
+          36.04417500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172497",
+        "PERMITTEE_NAME": "State of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "4000 Burgess Falls Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172497",
+        "LATITUDE": 36.044174999999996,
+        "LONGITUDE": -85.594825,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47669999999994,
+          35.93500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172739",
+        "PERMITTEE_NAME": "City of Sparta",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "123 MOORE ST SPARTA SPLASH PAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172739",
+        "LATITUDE": 35.935,
+        "LONGITUDE": -85.47670000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50699999999995,
+          36.03880000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.224",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "SR-111, Replace Culvert, M22LTR2_C93_SMLSTR_J&B_SR-111_LM15.76",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.224",
+        "LATITUDE": 36.0388,
+        "LONGITUDE": -85.507,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58230999999995,
+          35.892963000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.109",
+        "PERMITTEE_NAME": "White County Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "6010 GUM SPRINGS MOUNTAIN RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.109",
+        "LATITUDE": 35.892963,
+        "LONGITUDE": -85.58230999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46561299999996,
+          35.834415000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172704",
+        "PERMITTEE_NAME": "Joel Passons",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "3186 east gooseneck road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172704",
+        "LATITUDE": 35.834415,
+        "LONGITUDE": -85.46561299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.34900499999998,
+          36.004448000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.111",
+        "PERMITTEE_NAME": "Timothy Watkins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1758844800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "1363 Cove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.111",
+        "LATITUDE": 36.004448,
+        "LONGITUDE": -85.34900499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48645599999998,
+          35.90165900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054441",
+        "PERMITTEE_NAME": "Cooper Recycling, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761091200000,
+        "EFFECTIVE_DATE": 1761091200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "1500 MCMINNVILLE HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054441",
+        "LATITUDE": 35.901658999999995,
+        "LONGITUDE": -85.48645599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51453999999995,
+          35.84627500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.33",
+        "PERMITTEE_NAME": "Quebeck-Walling Utility District- Johnathan Demps",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743033600000,
+        "EFFECTIVE_DATE": 1743033600000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "McMinnville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.33",
+        "LATITUDE": 35.846275,
+        "LONGITUDE": -85.51454,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57888599999995,
+          35.91364100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.090",
+        "PERMITTEE_NAME": "MRW Environmental, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1690243200000,
+        "EFFECTIVE_DATE": 1690243200000,
+        "EXPIRATION_DATE": 1848009600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Old Kentucky Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.090",
+        "LATITUDE": 35.913641,
+        "LONGITUDE": -85.578886,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51749599999994,
+          35.833875000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.120",
+        "PERMITTEE_NAME": "Quebeck-Walling Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1499817600000,
+        "EFFECTIVE_DATE": 1499990400000,
+        "EXPIRATION_DATE": 1657584000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Numerous locations within the Quebeck-Walling Water System",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.120",
+        "LATITUDE": 35.833875,
+        "LONGITUDE": -85.517496,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.32087699999994,
+          35.94687300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.33",
+        "PERMITTEE_NAME": "Richard Girard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1684108800000,
+        "EFFECTIVE_DATE": 1684108800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "168 Arc Lane ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.33",
+        "LATITUDE": 35.946873,
+        "LONGITUDE": -85.320877,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47667199999995,
+          35.93261300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172506",
+        "PERMITTEE_NAME": "Circle K",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "488 West Bockman Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172506",
+        "LATITUDE": 35.932612999999996,
+        "LONGITUDE": -85.476672,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57888599999995,
+          35.91364100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172507",
+        "PERMITTEE_NAME": "MRW Environmental, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Old Kentucky Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172507",
+        "LATITUDE": 35.913641,
+        "LONGITUDE": -85.578886,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48972199999997,
+          35.929167000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172525",
+        "PERMITTEE_NAME": "Wal-Mart Real Estate Business Trust",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "202 Sam Walton Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172525",
+        "LATITUDE": 35.929167,
+        "LONGITUDE": -85.489722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57526999999999,
+          36.023408000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172641",
+        "PERMITTEE_NAME": "Madison Steele",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Clog Valley Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172641",
+        "LATITUDE": 36.023407999999996,
+        "LONGITUDE": -85.57526999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58230999999995,
+          35.892963000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172729",
+        "PERMITTEE_NAME": "WMWC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "6010 GUM SPRINGS MOUNTAIN RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172729",
+        "LATITUDE": 35.892963,
+        "LONGITUDE": -85.58230999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48649999999998,
+          35.93880000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172731",
+        "PERMITTEE_NAME": "White County Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "107 Mose Drive\r\nAKA 120 Medic Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172731",
+        "LATITUDE": 35.9388,
+        "LONGITUDE": -85.4865,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51930999999996,
+          35.98102600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172515",
+        "PERMITTEE_NAME": "Jeremy Johnson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Duck Pond Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172515",
+        "LATITUDE": 35.981026,
+        "LONGITUDE": -85.51930999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52999999999997,
+          36.05666700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172565",
+        "PERMITTEE_NAME": "Upper Cumberland Regional Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "750 Airport Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172565",
+        "LATITUDE": 36.056667,
+        "LONGITUDE": -85.53,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61939999999998,
+          36.02770000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172563",
+        "PERMITTEE_NAME": "MUBA Ventures, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "387 Cane Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172563",
+        "LATITUDE": 36.0277,
+        "LONGITUDE": -85.6194,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46774999999997,
+          35.93839600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172590",
+        "PERMITTEE_NAME": "Bob Young",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "329 RIVERVIEW DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172590",
+        "LATITUDE": 35.938396,
+        "LONGITUDE": -85.46775,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.34517999999997,
+          35.960500000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172486",
+        "PERMITTEE_NAME": "TBTNLP, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Coal Bank Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172486",
+        "LATITUDE": 35.9605,
+        "LONGITUDE": -85.34518,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51299999999998,
+          36.08000000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172392",
+        "PERMITTEE_NAME": "Titan Timberwalk Holdings, LLC ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Lovelady Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172392",
+        "LATITUDE": 36.08,
+        "LONGITUDE": -85.513,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45661099999995,
+          35.92412000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172446",
+        "PERMITTEE_NAME": "Swami Property Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "315 East Bockman Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172446",
+        "LATITUDE": 35.924119999999995,
+        "LONGITUDE": -85.456611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48478699999998,
+          35.92511500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172300",
+        "PERMITTEE_NAME": "Lynn Hickey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Off Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172300",
+        "LATITUDE": 35.925115,
+        "LONGITUDE": -85.484787,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.34635799999995,
+          35.92963000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172330",
+        "PERMITTEE_NAME": "Aviagen, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "Old Bon Air Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172330",
+        "LATITUDE": 35.929629999999996,
+        "LONGITUDE": -85.346358,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.49477699999994,
+          35.922453000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059912",
+        "PERMITTEE_NAME": "CMH Homes, Inc. dba House Smart Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757548800000,
+        "EFFECTIVE_DATE": 1757548800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "942 Fred Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059912",
+        "LATITUDE": 35.922453,
+        "LONGITUDE": -85.494777,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47311699999995,
+          35.94769100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110265",
+        "PERMITTEE_NAME": "Denny Gentry DBA Sparta Block and Tank Supply",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1704153600000,
+        "EFFECTIVE_DATE": 1704153600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "380 North Spring Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110265",
+        "LATITUDE": 35.947691,
+        "LONGITUDE": -85.473117,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46586999999994,
+          35.82625000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053723",
+        "PERMITTEE_NAME": "WestRock CP, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "7676 Spencer Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053723",
+        "LATITUDE": 35.82625,
+        "LONGITUDE": -85.46587,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50639499999994,
+          36.04166900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051289",
+        "PERMITTEE_NAME": "Kyle Scott DBA Scott's Auto Salvage and Sales",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "5840 ROBERTS MATTHEWS HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051289",
+        "LATITUDE": 36.041669,
+        "LONGITUDE": -85.506395,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48439999999994,
+          35.92700000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053557",
+        "PERMITTEE_NAME": "United Parcel Service, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756425600000,
+        "EFFECTIVE_DATE": 1756425600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "630 Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053557",
+        "LATITUDE": 35.927,
+        "LONGITUDE": -85.48440000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55799999999994,
+          36.06800000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056529",
+        "PERMITTEE_NAME": "Mahan's Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767052800000,
+        "EFFECTIVE_DATE": 1767052800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "367 Mahan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056529",
+        "LATITUDE": 36.068000000000005,
+        "LONGITUDE": -85.558,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47357299999999,
+          35.952161000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054379",
+        "PERMITTEE_NAME": "THK Rhythm North America Co., LTD.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762473600000,
+        "EFFECTIVE_DATE": 1762473600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "549 VISTA DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054379",
+        "LATITUDE": 35.952161,
+        "LONGITUDE": -85.473573,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46859999999998,
+          35.946318000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056347",
+        "PERMITTEE_NAME": "Sparta Metal Processing LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768473450000,
+        "EFFECTIVE_DATE": 1768473450000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "327 TURNTABLE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056347",
+        "LATITUDE": 35.946318,
+        "LONGITUDE": -85.46860000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48616099999998,
+          35.91662100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053634",
+        "PERMITTEE_NAME": "BASF Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "200 Iris Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053634",
+        "LATITUDE": 35.916621,
+        "LONGITUDE": -85.486161,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55604999999997,
+          35.815900000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054281",
+        "PERMITTEE_NAME": "Savage Lumber Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "9136 McMinnville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054281",
+        "LATITUDE": 35.8159,
+        "LONGITUDE": -85.55605,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58230999999995,
+          35.892963000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056713",
+        "PERMITTEE_NAME": "WMWC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761239114000,
+        "EFFECTIVE_DATE": 1761239114000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "6010 GUM SPRINGS MOUNTAIN RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056713",
+        "LATITUDE": 35.892963,
+        "LONGITUDE": -85.58230999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57817299999994,
+          35.953666000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058579",
+        "PERMITTEE_NAME": "Terrepower",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1773187200000,
+        "EFFECTIVE_DATE": 1773187200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "5687 SMITHVILLE HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058579",
+        "LATITUDE": 35.953666,
+        "LONGITUDE": -85.57817299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48938899999996,
+          35.96534600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058577",
+        "PERMITTEE_NAME": "INCA PRODUCTS ACQUISITION CORP.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "801 N Spring Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058577",
+        "LATITUDE": 35.965346,
+        "LONGITUDE": -85.489389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45900899999998,
+          35.91194600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058752",
+        "PERMITTEE_NAME": "Charles Kevin Vaughn dba Big Daddy's Auto Sales & Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "360 Hargis Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058752",
+        "LATITUDE": 35.911946,
+        "LONGITUDE": -85.459009,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48416699999996,
+          35.96277800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171763",
+        "PERMITTEE_NAME": "Ray LeBlanc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "North Spring Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171763",
+        "LATITUDE": 35.962778,
+        "LONGITUDE": -85.484167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.31833299999994,
+          35.96027800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937002",
+        "PERMITTEE_NAME": "Earl Johnson, Melissa Legg, and Joan Selser",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1756944000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1847232000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332ne Trib-doe Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937002",
+        "LATITUDE": 35.960277999999995,
+        "LONGITUDE": -85.318333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.33055599999994,
+          35.88333300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937003",
+        "PERMITTEE_NAME": "Bondecroft Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332ne Billy's Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937003",
+        "LATITUDE": 35.883333,
+        "LONGITUDE": -85.330556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.32333299999993,
+          35.950278000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937004",
+        "PERMITTEE_NAME": "Thousand Oaks Association",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332ne Blue Spring Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937004",
+        "LATITUDE": 35.950278,
+        "LONGITUDE": -85.32333299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.34495899999996,
+          35.91959300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937005",
+        "PERMITTEE_NAME": "Camp Belle Aire POA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1734307200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818288000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332NE Trib-Little Lost Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937005",
+        "LATITUDE": 35.919593,
+        "LONGITUDE": -85.344959,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35194399999995,
+          35.96833300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937006",
+        "PERMITTEE_NAME": "Kee Acres Subdivision",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1734307200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818288000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937006",
+        "LATITUDE": 35.968333,
+        "LONGITUDE": -85.351944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46242899999999,
+          35.93215900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937009",
+        "PERMITTEE_NAME": "City of Sparta",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332nw Calfkiller River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937009",
+        "LATITUDE": 35.932159,
+        "LONGITUDE": -85.462429,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47203699999994,
+          35.92799900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059105",
+        "PERMITTEE_NAME": "Premier Ag Co-op, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761224270000,
+        "EFFECTIVE_DATE": 1761224270000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "19 DEPOT STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059105",
+        "LATITUDE": 35.927999,
+        "LONGITUDE": -85.472037,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.26499999999999,
+          35.87250000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937012",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1789603200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1875830400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332se Jenny's Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937012",
+        "LATITUDE": 35.8725,
+        "LONGITUDE": -85.265,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.27611099999996,
+          35.88277800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937015",
+        "PERMITTEE_NAME": "Mr. and Mrs. Ron Mitchell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1781136000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1873497600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332ne Trib-clifty Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937015",
+        "LATITUDE": 35.882778,
+        "LONGITUDE": -85.276111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38333299999994,
+          35.93444400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937019",
+        "PERMITTEE_NAME": "Rimrock Mesa 1 Association",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1766361600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1857859200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332nw Wildcat Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937019",
+        "LATITUDE": 35.934444,
+        "LONGITUDE": -85.383333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.49997899999994,
+          35.90876300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051421",
+        "PERMITTEE_NAME": "Tennetek, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "1785 SULLIVAN KNOWLES ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051421",
+        "LATITUDE": 35.908763,
+        "LONGITUDE": -85.499979,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50639499999994,
+          36.04166900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172160",
+        "PERMITTEE_NAME": "Scott's Auto Salvage and Sales",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "5840 ROBERTS MATTHEWS HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172160",
+        "LATITUDE": 36.041669,
+        "LONGITUDE": -85.506395,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47088599999995,
+          35.95212800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059667",
+        "PERMITTEE_NAME": "Altium Healthcare, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756944000000,
+        "EFFECTIVE_DATE": 1756944000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "600 Vista Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059667",
+        "LATITUDE": 35.952128,
+        "LONGITUDE": -85.470886,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.27888899999994,
+          35.87527800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "937013",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1789603200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1875830400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "White",
+        "SITE_LOCATION": "332ne Polly Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:937013",
+        "LATITUDE": 35.875278,
+        "LONGITUDE": -85.27888899999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

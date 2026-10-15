@@ -1,0 +1,2085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75839999999994,
+          36.38540000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.142",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1784160000000,
+        "EFFECTIVE_DATE": 1784160000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "SR-34 (US-421) @ LM 21.14",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.142",
+        "LATITUDE": 36.385400000000004,
+        "LONGITUDE": -81.75840000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84198899999996,
+          36.453183000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.086",
+        "PERMITTEE_NAME": "Doe Mountain Recreation Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1783900800000,
+        "EFFECTIVE_DATE": 1783900800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "1203 Harbin Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.086",
+        "LATITUDE": 36.453182999999996,
+        "LONGITUDE": -81.841989,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79139299999997,
+          36.48981300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.048",
+        "PERMITTEE_NAME": "FGT Forge QOZB LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "N Church Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.048",
+        "LATITUDE": 36.489813,
+        "LONGITUDE": -81.791393,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78061699999995,
+          36.43219400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110525",
+        "PERMITTEE_NAME": "Loven Ready Mix, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1790208000000,
+        "EFFECTIVE_DATE": 1790208000000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "315 Prison Camp Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110525",
+        "LATITUDE": 36.432193999999996,
+        "LONGITUDE": -81.78061699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79139299999997,
+          36.48981300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162526",
+        "PERMITTEE_NAME": "FGT Forge QOZB, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "N Church Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162526",
+        "LATITUDE": 36.489813,
+        "LONGITUDE": -81.791393,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.87944399999998,
+          36.44536900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162516",
+        "PERMITTEE_NAME": "Phoenix Needle Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162516",
+        "LATITUDE": 36.445369,
+        "LONGITUDE": -81.87944399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84198899999996,
+          36.453183000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162552",
+        "PERMITTEE_NAME": "Doe Mountain Recreation Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "1203 Harbin Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162552",
+        "LATITUDE": 36.453182999999996,
+        "LONGITUDE": -81.841989,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.91613499999994,
+          36.43507200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.021",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770595200000,
+        "EFFECTIVE_DATE": 1770595200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "SR-67, From near LM 0.00 to near LM 18.00 (Hurricane Helene)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.021",
+        "LATITUDE": 36.435072,
+        "LONGITUDE": -81.916135,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79976899999997,
+          36.39483300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162502",
+        "PERMITTEE_NAME": "Douglas Wilford",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "1324 Sandy Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162502",
+        "LATITUDE": 36.394833,
+        "LONGITUDE": -81.799769,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73339999999996,
+          36.46620000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.046",
+        "PERMITTEE_NAME": "Sam Tester for Rebecca Felton Property",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776124800000,
+        "EFFECTIVE_DATE": 1776124800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "4156 Forge Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.046",
+        "LATITUDE": 36.4662,
+        "LONGITUDE": -81.7334,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96983299999994,
+          36.319863000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162391",
+        "PERMITTEE_NAME": "Vineyard Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Mealcamp Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162391",
+        "LATITUDE": 36.319863,
+        "LONGITUDE": -81.969833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75839999999994,
+          36.38540000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192461",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "SR-34 (US-421) @ LM 21.14",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192461",
+        "LATITUDE": 36.385400000000004,
+        "LONGITUDE": -81.75840000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74129499999998,
+          36.556174000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.083",
+        "PERMITTEE_NAME": "Richard Trenthem",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1659484800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "825 Gentry Cemetery Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.083",
+        "LATITUDE": 36.556174,
+        "LONGITUDE": -81.741295,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93993199999994,
+          36.31822900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162230",
+        "PERMITTEE_NAME": "Eagle Ridge Land, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Draft Rd and High Country Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162230",
+        "LATITUDE": 36.318228999999995,
+        "LONGITUDE": -81.939932,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92219999999998,
+          36.529900000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.239-26",
+        "PERMITTEE_NAME": "Natural Resources Conservation Service",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Shady Valley Wetland Restoration Plan-Brickyard Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.239-26",
+        "LATITUDE": 36.529900000000005,
+        "LONGITUDE": -81.9222,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93559999999997,
+          36.427500000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.186-22",
+        "PERMITTEE_NAME": "Town of Mountain City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1684972800000,
+        "EFFECTIVE_DATE": 1684972800000,
+        "EXPIRATION_DATE": 1842739200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Doe Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.186-22",
+        "LATITUDE": 36.4275,
+        "LONGITUDE": -81.93560000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82079999999996,
+          36.399902000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.288",
+        "PERMITTEE_NAME": "Joe Stanley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1792627200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "1595 Crackers Neck Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.288",
+        "LATITUDE": 36.399902,
+        "LONGITUDE": -81.8208,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80139999999994,
+          36.475400000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.269",
+        "PERMITTEE_NAME": "Town of Mountain City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "154 Butler Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.269",
+        "LATITUDE": 36.4754,
+        "LONGITUDE": -81.8014,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.90832299999994,
+          36.39385400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.039",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773014400000,
+        "EFFECTIVE_DATE": 1773014400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Mile 4.4 SR-167, LM 20.98",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.039",
+        "LATITUDE": 36.393854,
+        "LONGITUDE": -81.908323,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76796299999995,
+          36.503302000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.037",
+        "PERMITTEE_NAME": "Matthew Koerner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773360000000,
+        "EFFECTIVE_DATE": 1773360000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "100 Red Brush Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.037",
+        "LATITUDE": 36.503302,
+        "LONGITUDE": -81.767963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79139299999997,
+          36.48981300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.004",
+        "PERMITTEE_NAME": "FGT QOZB LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1767744000000,
+        "EFFECTIVE_DATE": 1767744000000,
+        "EXPIRATION_DATE": 1799193600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "N Church Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.004",
+        "LATITUDE": 36.489813,
+        "LONGITUDE": -81.791393,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84839999999997,
+          36.39590000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.251",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Slimp Branch Road, Bridge over Roan Creek, LM 0.34",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.251",
+        "LATITUDE": 36.395900000000005,
+        "LONGITUDE": -81.8484,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80880699999994,
+          36.479932000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162441",
+        "PERMITTEE_NAME": "Jerry Jordan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "383 TN-34",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162441",
+        "LATITUDE": 36.479932,
+        "LONGITUDE": -81.808807,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.89384299999995,
+          36.37551700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.238",
+        "PERMITTEE_NAME": "Johnson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747958400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Little Dry Run Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.238",
+        "LATITUDE": 36.375516999999995,
+        "LONGITUDE": -81.89384299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80984499999994,
+          36.48022100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.254",
+        "PERMITTEE_NAME": "Brent Snyder Repair of Eroding Banks and Shorelines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749513600000,
+        "EFFECTIVE_DATE": 1749513600000,
+        "EXPIRATION_DATE": 1901836800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "268 Sunset Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.254",
+        "LATITUDE": 36.480221,
+        "LONGITUDE": -81.809845,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84198899999996,
+          36.453183000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.059",
+        "PERMITTEE_NAME": "Doe Mountain Recreation Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747612800000,
+        "EXPIRATION_DATE": 1779062400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "1203 Harbin Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.059",
+        "LATITUDE": 36.453182999999996,
+        "LONGITUDE": -81.841989,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74939199999994,
+          36.59809300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.269",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "SR-91 - From near LM 7.5 to near 14.3 (Hurricane Helene)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.269",
+        "LATITUDE": 36.598093,
+        "LONGITUDE": -81.749392,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.88030099999997,
+          36.45290000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.268",
+        "PERMITTEE_NAME": "Town of Mountain City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754956800000,
+        "EFFECTIVE_DATE": 1754956800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Sprucey Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.268",
+        "LATITUDE": 36.4529,
+        "LONGITUDE": -81.880301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74841099999998,
+          36.36576300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.256",
+        "PERMITTEE_NAME": "Tim Brown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1750118400000,
+        "EFFECTIVE_DATE": 1750118400000,
+        "EXPIRATION_DATE": 1901836800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "578 Drakes Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.256",
+        "LATITUDE": 36.365763,
+        "LONGITUDE": -81.74841099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95189999999997,
+          36.28770000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162426",
+        "PERMITTEE_NAME": "Baker's Construction Services, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Highway 321",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162426",
+        "LATITUDE": 36.2877,
+        "LONGITUDE": -81.95190000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83801099999994,
+          36.459944000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162351",
+        "PERMITTEE_NAME": "Greer Brothers Enterprises, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Harbin Hill Rd E of 1201",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162351",
+        "LATITUDE": 36.459944,
+        "LONGITUDE": -81.838011,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.91719999999998,
+          36.335300000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162352",
+        "PERMITTEE_NAME": "Vineyard Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Big Dry Run Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162352",
+        "LATITUDE": 36.335300000000004,
+        "LONGITUDE": -81.91720000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79853099999997,
+          36.45777300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162297",
+        "PERMITTEE_NAME": "James Phipps",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "South Shady St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162297",
+        "LATITUDE": 36.457772999999996,
+        "LONGITUDE": -81.798531,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.87833499999994,
+          36.44416700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162432",
+        "PERMITTEE_NAME": "Larry Potter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162432",
+        "LATITUDE": 36.444167,
+        "LONGITUDE": -81.87833499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.86762999999996,
+          36.38595000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.264",
+        "PERMITTEE_NAME": "John Shull",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1638230400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "5700 Roan Creek Road,\r\n310 Big Dry Run Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.264",
+        "LATITUDE": 36.38595,
+        "LONGITUDE": -81.86762999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92699999999996,
+          36.524200000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.072",
+        "PERMITTEE_NAME": "Brushy Fork Environmental Consulting Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1712275200000,
+        "EFFECTIVE_DATE": 1712102400000,
+        "EXPIRATION_DATE": 1869782400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Shady Valley School, 423 HWY 133",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.072",
+        "LATITUDE": 36.5242,
+        "LONGITUDE": -81.927,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.88177199999996,
+          36.44800200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053050",
+        "PERMITTEE_NAME": "TN Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758758400000,
+        "EFFECTIVE_DATE": 1758758400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "378 INDUSTRIAL PARK RD NA",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053050",
+        "LATITUDE": 36.448001999999995,
+        "LONGITUDE": -81.881772,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84839999999997,
+          36.39590000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192328",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Slimp Branch Road, Bridge over Roan Creek, LM 0.34",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192328",
+        "LATITUDE": 36.395900000000005,
+        "LONGITUDE": -81.8484,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85866299999998,
+          36.39467600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.229",
+        "PERMITTEE_NAME": "Marion Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1766966400000,
+        "EFFECTIVE_DATE": 1766966400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "341 Conville Ln Unit 2",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.229",
+        "LATITUDE": 36.394676,
+        "LONGITUDE": -81.85866299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76979999999998,
+          36.41960000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.218",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1732060800000,
+        "EFFECTIVE_DATE": 1732060800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "SR-34 / US 421 S, LM 17.5-24.8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.218",
+        "LATITUDE": 36.4196,
+        "LONGITUDE": -81.7698,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79979999999995,
+          36.46430000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.228",
+        "PERMITTEE_NAME": "Town of Mountain City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747785600000,
+        "EXPIRATION_DATE": 1779235200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Crossroads Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.228",
+        "LATITUDE": 36.4643,
+        "LONGITUDE": -81.7998,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98299999999995,
+          36.33030000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162365",
+        "PERMITTEE_NAME": "Vineyard Ridge, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Dry Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162365",
+        "LATITUDE": 36.3303,
+        "LONGITUDE": -81.983,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.02161399999994,
+          36.36944900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.317",
+        "PERMITTEE_NAME": "Scott Robinson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1677024000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "932 Copley Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.317",
+        "LATITUDE": 36.369448999999996,
+        "LONGITUDE": -82.021614,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96129999999994,
+          36.31660000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162321",
+        "PERMITTEE_NAME": "Vineyard Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "1197 SUGAR GROVE CHURCH RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162321",
+        "LATITUDE": 36.3166,
+        "LONGITUDE": -81.96130000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.86268999999999,
+          36.390337000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162341",
+        "PERMITTEE_NAME": "Farmhouse Acres",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Stout Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162341",
+        "LATITUDE": 36.390336999999995,
+        "LONGITUDE": -81.86269,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97033899999997,
+          36.343203000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.271",
+        "PERMITTEE_NAME": "WIlliam R. Troyer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1677456000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "167 Eagle Crest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.271",
+        "LATITUDE": 36.343202999999995,
+        "LONGITUDE": -81.970339,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.86361999999997,
+          36.37703000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.309",
+        "PERMITTEE_NAME": "Patti Young   ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1675382400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Mill Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.309",
+        "LATITUDE": 36.37703,
+        "LONGITUDE": -81.86362,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74735099999998,
+          36.55550200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.313",
+        "PERMITTEE_NAME": "Marilyn Mitchell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1674000000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "1361 Gentry Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.313",
+        "LATITUDE": 36.555502,
+        "LONGITUDE": -81.747351,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83169799999996,
+          36.49035600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.316",
+        "PERMITTEE_NAME": "James Cornett ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1675728000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "147 Liberty Church Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.316",
+        "LATITUDE": 36.490356,
+        "LONGITUDE": -81.831698,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98014999999998,
+          36.33078000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162271",
+        "PERMITTEE_NAME": "Vineyard Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Dry Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162271",
+        "LATITUDE": 36.33078,
+        "LONGITUDE": -81.98015,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.90756099999999,
+          36.44462500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.285",
+        "PERMITTEE_NAME": "Terry Snyder",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1670284800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "6433 Hwy 67 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.285",
+        "LATITUDE": 36.444624999999995,
+        "LONGITUDE": -81.907561,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93993199999994,
+          36.31822900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162177",
+        "PERMITTEE_NAME": "Eagle Ridge Land LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Draft Rd and High Country Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162177",
+        "LATITUDE": 36.318228999999995,
+        "LONGITUDE": -81.939932,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92219999999998,
+          36.529900000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.239",
+        "PERMITTEE_NAME": "Natural Resources Conservation Service",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1643155200000,
+        "EFFECTIVE_DATE": 1643155200000,
+        "EXPIRATION_DATE": 1800835200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Shady Valley Wetland Restoration Plan-Brickyard Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.239",
+        "LATITUDE": 36.529900000000005,
+        "LONGITUDE": -81.9222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97309499999994,
+          36.29221800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.265",
+        "PERMITTEE_NAME": "Patricia S. Holbrook",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1642118400000,
+        "EFFECTIVE_DATE": 1642118400000,
+        "EXPIRATION_DATE": 1799798400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "101 Norris Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.265",
+        "LATITUDE": 36.292218,
+        "LONGITUDE": -81.973095,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94791299999997,
+          36.30976100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162142",
+        "PERMITTEE_NAME": "Eagle Ridge Land LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "450 Cowan Town Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162142",
+        "LATITUDE": 36.309761,
+        "LONGITUDE": -81.947913,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95800699999995,
+          36.328445000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162216",
+        "PERMITTEE_NAME": "Waterfront Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Dry Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162216",
+        "LATITUDE": 36.328444999999995,
+        "LONGITUDE": -81.958007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82472199999995,
+          36.503611000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162170",
+        "PERMITTEE_NAME": "Mountain Youth Academy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "332 Hospital Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162170",
+        "LATITUDE": 36.503611,
+        "LONGITUDE": -81.824722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95800699999995,
+          36.328445000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162153",
+        "PERMITTEE_NAME": "Eagle Ridge Land LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Dry Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162153",
+        "LATITUDE": 36.328444999999995,
+        "LONGITUDE": -81.958007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78383499999995,
+          36.53253600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053382",
+        "PERMITTEE_NAME": "New River Hardwoods, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "4343 Highway 91 North ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053382",
+        "LATITUDE": 36.532536,
+        "LONGITUDE": -81.783835,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77833299999998,
+          36.52805600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051093",
+        "PERMITTEE_NAME": "New River Hardwoods, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "350 Dry Stone Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051093",
+        "LATITUDE": 36.528056,
+        "LONGITUDE": -81.77833299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77308899999997,
+          36.42517900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055921",
+        "PERMITTEE_NAME": "Maymead, Inc. - Asphalt Plant",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770940800000,
+        "EFFECTIVE_DATE": 1770940800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "720 Prison Camp Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055921",
+        "LATITUDE": 36.425179,
+        "LONGITUDE": -81.773089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.02194399999996,
+          36.375556000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054495",
+        "PERMITTEE_NAME": "Shoun Lumber, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "147 George Shoun Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054495",
+        "LATITUDE": 36.375555999999996,
+        "LONGITUDE": -82.02194399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75115599999998,
+          36.36082600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160659",
+        "PERMITTEE_NAME": "Jim Phipps",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "11878 Hwy 421 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160659",
+        "LATITUDE": 36.360825999999996,
+        "LONGITUDE": -81.751156,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74404399999997,
+          36.382344000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160956",
+        "PERMITTEE_NAME": "Fred Fishback",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "C. Snyder Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160956",
+        "LATITUDE": 36.382343999999996,
+        "LONGITUDE": -81.744044,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78123299999999,
+          36.426033000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160989",
+        "PERMITTEE_NAME": "Roan Valley, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Mountain City",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160989",
+        "LATITUDE": 36.426033,
+        "LONGITUDE": -81.781233,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74261699999994,
+          36.34606700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161080",
+        "PERMITTEE_NAME": "Jody Bumgardner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Highway 421 near stateline in Trade",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161080",
+        "LATITUDE": 36.346067,
+        "LONGITUDE": -81.742617,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95694399999996,
+          36.33527800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161020",
+        "PERMITTEE_NAME": "Trickett and Crowe Property Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "900 Dry Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161020",
+        "LATITUDE": 36.335277999999995,
+        "LONGITUDE": -81.956944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79499999999996,
+          36.47750000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161199",
+        "PERMITTEE_NAME": "Johnson County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "End of Fairview Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161199",
+        "LATITUDE": 36.4775,
+        "LONGITUDE": -81.795,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71347199999997,
+          36.34550000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161122",
+        "PERMITTEE_NAME": "Surgartree Properties, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Near NC/TN line of Sunalei Preserve",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161122",
+        "LATITUDE": 36.3455,
+        "LONGITUDE": -81.713472,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75884399999995,
+          36.37518000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161456",
+        "PERMITTEE_NAME": "Appalachian Materials, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "119 Fire Department Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161456",
+        "LATITUDE": 36.37518,
+        "LONGITUDE": -81.758844,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75884399999995,
+          36.37518000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058490",
+        "PERMITTEE_NAME": "Appalachian Materials, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "119 Fire Department Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058490",
+        "LATITUDE": 36.37518,
+        "LONGITUDE": -81.758844,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.90932399999997,
+          36.39821000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161661",
+        "PERMITTEE_NAME": "Doe Mountain Recreational Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Roan Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161661",
+        "LATITUDE": 36.39821,
+        "LONGITUDE": -81.909324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80045999999999,
+          36.46172000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS14.274",
+        "PERMITTEE_NAME": "Town of Mountain City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1432598400000,
+        "EFFECTIVE_DATE": 1432598400000,
+        "EXPIRATION_DATE": 1590364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Intersection of Village Square Lane and Goose Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS14.274",
+        "LATITUDE": 36.46172,
+        "LONGITUDE": -81.80046,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80345899999998,
+          36.468863000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.119",
+        "PERMITTEE_NAME": "Adam Williams - Brushy Fork Environmental Consulting, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1444348800000,
+        "EFFECTIVE_DATE": 1444348800000,
+        "EXPIRATION_DATE": 1602115200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Mountain City",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.119",
+        "LATITUDE": 36.468863,
+        "LONGITUDE": -81.80345899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.03336899999994,
+          36.348178000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162060",
+        "PERMITTEE_NAME": "Mountain Ridge Real Estate Holdings LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "810 Cove Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162060",
+        "LATITUDE": 36.348178,
+        "LONGITUDE": -82.033369,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77695299999993,
+          36.42886200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.069",
+        "PERMITTEE_NAME": "Brushy Fork Environmental Consulting",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1465862400000,
+        "EFFECTIVE_DATE": 1465862400000,
+        "EXPIRATION_DATE": 1623542400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "Mountain City",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.069",
+        "LATITUDE": 36.428861999999995,
+        "LONGITUDE": -81.77695299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.90756099999999,
+          36.44462500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.200",
+        "PERMITTEE_NAME": "Terry Snyder",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1492387200000,
+        "EFFECTIVE_DATE": 1492387200000,
+        "EXPIRATION_DATE": 1650067200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "6433 Hwy 67 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.200",
+        "LATITUDE": 36.444624999999995,
+        "LONGITUDE": -81.907561,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94310299999995,
+          36.53362800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162067",
+        "PERMITTEE_NAME": "Tillman Infrastructure, Inc. c/o Carnell Hart",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "11088 US-421",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162067",
+        "LATITUDE": 36.533628,
+        "LONGITUDE": -81.943103,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.89819999999997,
+          36.38290000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.137",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1591660800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "SR-167, Bank Stabilization & Channel Lining near LM 5.68",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.137",
+        "LATITUDE": 36.3829,
+        "LONGITUDE": -81.8982,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76118999999994,
+          36.45070300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.125",
+        "PERMITTEE_NAME": "John Mast",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1626912000000,
+        "EFFECTIVE_DATE": 1626912000000,
+        "EXPIRATION_DATE": 1784592000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Johnson",
+        "SITE_LOCATION": "1841 Forge Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.125",
+        "LATITUDE": 36.450703,
+        "LONGITUDE": -81.76119,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

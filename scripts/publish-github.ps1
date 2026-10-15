@@ -8,7 +8,8 @@ $ErrorActionPreference = 'Stop'
 Set-Location (Split-Path -Parent $PSScriptRoot)
 
 function Invoke-Git {
-    & git @args
+    # Publishing must never pause inside Git's interactive pager ("END").
+    & git --no-pager @args
     if ($LASTEXITCODE -ne 0) { throw "git $($args -join ' ') failed (exit $LASTEXITCODE)." }
 }
 
@@ -81,7 +82,7 @@ try {
     if ($diffResult -eq 1) {
         Write-Host ''
         Write-Host 'Changes ready for this commit:'
-        Invoke-Git diff --cached --stat
+        Invoke-Git diff --cached --shortstat
         if (-not $Message) {
             Write-Host ''
             Write-Host 'Enter a short description, for example: Add adaptive legends to county maps'

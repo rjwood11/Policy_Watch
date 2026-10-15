@@ -19,7 +19,7 @@ export function DataSourceTable({ sources }: { sources: DataSourceRecord[] }) {
               <th className="px-3 py-3 font-medium">Purpose</th>
               <th className="px-3 py-3 font-medium">Source</th>
               <th className="px-3 py-3 font-medium">Refresh</th>
-              <th className="px-3 py-3 font-medium">Updated</th>
+              <th className="px-3 py-3 font-medium">Last refreshed</th>
               <th className="px-3 py-3 font-medium">Notes</th>
             </tr>
           </thead>
@@ -39,8 +39,16 @@ export function DataSourceTable({ sources }: { sources: DataSourceRecord[] }) {
                     <span>{source.sourceName}</span>
                   )}
                 </td>
-                <td className="px-3 py-3 text-ink/75">{source.refreshFrequency}</td>
-                <td className="px-3 py-3 text-ink/75">{source.lastUpdated}</td>
+                <td className="px-3 py-3 text-ink/75">
+                  <p>{source.refreshFrequency}</p>
+                  {source.refreshStatus && <p className="mt-2 text-xs">{source.refreshStatus}</p>}
+                </td>
+                <td className="px-3 py-3 text-ink/75">
+                  <time dateTime={source.lastUpdated}>{source.lastUpdated}</time>
+                  <p className="mt-2 text-xs text-ink/60">
+                    {source.lastChecked ? `Checked ${source.lastChecked}` : source.refreshStatus === "Local snapshot" ? "Manual update" : "Automatic check pending"}
+                  </p>
+                </td>
                 <td className="px-3 py-3 leading-5 text-ink/75">{source.notes}</td>
               </tr>
             ))}

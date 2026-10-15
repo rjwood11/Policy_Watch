@@ -1,0 +1,4347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35432499999996,
+          36.19222300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136802",
+        "PERMITTEE_NAME": "Bellwood Farms, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "W. Andrew Johnson Hwy. & S. Bellwood Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136802",
+        "LATITUDE": 36.192223,
+        "LONGITUDE": -83.354325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35569999999996,
+          36.19360000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136716",
+        "PERMITTEE_NAME": "CFT NV DEVELOPMENTS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "8512 W. Andrew Johnson Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136716",
+        "LATITUDE": 36.1936,
+        "LONGITUDE": -83.3557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29407899999995,
+          36.27025200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136829",
+        "PERMITTEE_NAME": "Manchester Realty, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Windswept Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136829",
+        "LATITUDE": 36.270252,
+        "LONGITUDE": -83.294079,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22517299999998,
+          36.13552000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.083",
+        "PERMITTEE_NAME": "Carlis Altizer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1751241600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5791 Spencer Hale Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.083",
+        "LATITUDE": 36.13552,
+        "LONGITUDE": -83.225173,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35351499999996,
+          36.18572100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138467",
+        "PERMITTEE_NAME": "Merchant's Crossing, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Merchants Greene Blvd & S Bellwood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138467",
+        "LATITUDE": 36.185721,
+        "LONGITUDE": -83.353515,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19309599999997,
+          36.15124600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056701",
+        "PERMITTEE_NAME": "Lakeway Sanitation & Recycling MSW, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1785110400000,
+        "EFFECTIVE_DATE": 1785110400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5155 Enka Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056701",
+        "LATITUDE": 36.151246,
+        "LONGITUDE": -83.193096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29228299999994,
+          36.13909800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138395",
+        "PERMITTEE_NAME": "Malar Contract Lighting, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1501 Progress Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138395",
+        "LATITUDE": 36.139098,
+        "LONGITUDE": -83.292283,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36011299999996,
+          36.19126700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138404",
+        "PERMITTEE_NAME": "MERCHANTS GREENE PARTNERS",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4331 ERICA GREENE CIRCL",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138404",
+        "LATITUDE": 36.191266999999996,
+        "LONGITUDE": -83.360113,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36935099999994,
+          36.17133600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138435",
+        "PERMITTEE_NAME": "CARLYLE CONSTRUCTION, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1400 Veterans Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138435",
+        "LATITUDE": 36.171336,
+        "LONGITUDE": -83.369351,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27952599999998,
+          36.25484000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138393",
+        "PERMITTEE_NAME": "Viruni LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2828 Cherokee Park Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138393",
+        "LATITUDE": 36.25484,
+        "LONGITUDE": -83.27952599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43808999999999,
+          36.168169000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138376",
+        "PERMITTEE_NAME": "Doyle Whitmill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1275 Greenbriar Subdivision",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138376",
+        "LATITUDE": 36.168169,
+        "LONGITUDE": -83.43809,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37379399999998,
+          36.16471900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138499",
+        "PERMITTEE_NAME": "CARLYLE CONSTRUCTION, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5252 ASPEN AVENUE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138499",
+        "LATITUDE": 36.164719,
+        "LONGITUDE": -83.37379399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33091899999994,
+          36.20591100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138349",
+        "PERMITTEE_NAME": "MDB HOLDINGS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2421 SANDSTONE DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138349",
+        "LATITUDE": 36.205911,
+        "LONGITUDE": -83.330919,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40285299999994,
+          36.17091800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138446",
+        "PERMITTEE_NAME": "DEL ZOTTO PRODUCTS OF TN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "6371 WEST ANDREW JOHNSON HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138446",
+        "LATITUDE": 36.170918,
+        "LONGITUDE": -83.402853,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35172899999998,
+          36.186033000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138493",
+        "PERMITTEE_NAME": "Merchants Crossing, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "S. Bellwoood Road Railroad to Veterans",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138493",
+        "LATITUDE": 36.186033,
+        "LONGITUDE": -83.35172899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29591899999997,
+          36.14022300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138328",
+        "PERMITTEE_NAME": "Koch Foods",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1620 Progress Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138328",
+        "LATITUDE": 36.140223,
+        "LONGITUDE": -83.295919,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25311499999998,
+          36.218538000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138231",
+        "PERMITTEE_NAME": "The Townes at Crockett Trace, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Crockett Trace Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138231",
+        "LATITUDE": 36.218537999999995,
+        "LONGITUDE": -83.253115,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30033599999996,
+          36.135462000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.178",
+        "PERMITTEE_NAME": "City of Morristown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Progress Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.178",
+        "LATITUDE": 36.135462,
+        "LONGITUDE": -83.300336,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30210899999997,
+          36.15098700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137609",
+        "PERMITTEE_NAME": "East Tennessee Turf & Landscape",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4050 SUBLETT RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137609",
+        "LATITUDE": 36.150987,
+        "LONGITUDE": -83.302109,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35432499999996,
+          36.19222300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137601",
+        "PERMITTEE_NAME": "CHM Bellwood, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "W. Andrew Johnson Hwy. & S. Bellwood Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137601",
+        "LATITUDE": 36.192223,
+        "LONGITUDE": -83.354325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21528999999998,
+          36.160446000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137534",
+        "PERMITTEE_NAME": "Summertown Metals",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4590 Enka Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137534",
+        "LATITUDE": 36.160446,
+        "LONGITUDE": -83.21529,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30689999999998,
+          36.20500000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136922",
+        "PERMITTEE_NAME": "Hawkeye Contracting LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Intersection of Martin Luther King and Morris Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136922",
+        "LATITUDE": 36.205,
+        "LONGITUDE": -83.3069,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33689099999998,
+          36.190274000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137556",
+        "PERMITTEE_NAME": "SOUTHERN CONSTRUCTORS INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "S SUGAR HOLLOW ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137556",
+        "LATITUDE": 36.190273999999995,
+        "LONGITUDE": -83.336891,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31109999999995,
+          36.201400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050059",
+        "PERMITTEE_NAME": "Koch Foods LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "308 Dr. M.L.K. Jr. Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050059",
+        "LATITUDE": 36.2014,
+        "LONGITUDE": -83.31110000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37797499999994,
+          36.21339300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137890",
+        "PERMITTEE_NAME": "Phillip Combs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1551 Kidwell Ridge Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137890",
+        "LATITUDE": 36.213392999999996,
+        "LONGITUDE": -83.37797499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36158099999994,
+          36.188101000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137973",
+        "PERMITTEE_NAME": "SAI HOTEL GROUP, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4369 VERDE XING",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137973",
+        "LATITUDE": 36.188100999999996,
+        "LONGITUDE": -83.361581,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29349999999994,
+          36.26270000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.089",
+        "PERMITTEE_NAME": "Joseph Malloy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747958400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3099 Bridgewater Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.089",
+        "LATITUDE": 36.2627,
+        "LONGITUDE": -83.29350000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30033599999996,
+          36.135462000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138124",
+        "PERMITTEE_NAME": "The Industrial Development Board of Morristown Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Progress Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138124",
+        "LATITUDE": 36.135462,
+        "LONGITUDE": -83.300336,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35908799999999,
+          36.17074400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138047",
+        "PERMITTEE_NAME": "Hollingshead Materials LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Maple Valley Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138047",
+        "LATITUDE": 36.170744,
+        "LONGITUDE": -83.359088,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39397299999996,
+          36.16677500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050111",
+        "PERMITTEE_NAME": "Colortech, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5712 Commerce Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050111",
+        "LATITUDE": 36.166775,
+        "LONGITUDE": -83.393973,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19196499999998,
+          36.18195000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138035",
+        "PERMITTEE_NAME": "CARLYLE CAPITAL, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1255 CHUCKY RIVER ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138035",
+        "LATITUDE": 36.18195,
+        "LONGITUDE": -83.191965,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34833299999997,
+          36.19361100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051294",
+        "PERMITTEE_NAME": "Norfolk Southern Railway Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765756800000,
+        "EFFECTIVE_DATE": 1765756800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "249 EAST MANLEY COURT CIRCLE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051294",
+        "LATITUDE": 36.193611,
+        "LONGITUDE": -83.348333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30593999999996,
+          36.20502000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137866",
+        "PERMITTEE_NAME": "CASEY'S GENERAL STORES, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1225 West Morris Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137866",
+        "LATITUDE": 36.20502,
+        "LONGITUDE": -83.30593999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29399999999998,
+          36.13970000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138117",
+        "PERMITTEE_NAME": "Morristown Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1659 Progress Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138117",
+        "LATITUDE": 36.139700000000005,
+        "LONGITUDE": -83.294,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19309599999997,
+          36.15124600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.037",
+        "PERMITTEE_NAME": "Lakeway Sanitation & Recycling MSW Landfill, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1745452800000,
+        "EFFECTIVE_DATE": 1745452800000,
+        "EXPIRATION_DATE": 1903132800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5155 Enka Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.037",
+        "LATITUDE": 36.151246,
+        "LONGITUDE": -83.193096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24153499999994,
+          36.11253900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.123",
+        "PERMITTEE_NAME": "Debra Holdway",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1754611200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "6384 Leapers Ferry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.123",
+        "LATITUDE": 36.112539,
+        "LONGITUDE": -83.241535,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32494899999995,
+          36.20711700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138333",
+        "PERMITTEE_NAME": "MDB HOLDINGS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2320 SANDSTONE DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138333",
+        "LATITUDE": 36.207117,
+        "LONGITUDE": -83.32494899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35908799999999,
+          36.17074400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110521",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Maple Valley Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110521",
+        "LATITUDE": 36.170744,
+        "LONGITUDE": -83.359088,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35694999999998,
+          36.184244000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138193",
+        "PERMITTEE_NAME": "Paradigm Oral Health",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Kuhn Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138193",
+        "LATITUDE": 36.184244,
+        "LONGITUDE": -83.35695,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26178999999996,
+          36.270507000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138179",
+        "PERMITTEE_NAME": "Crafted Milestone, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4153 Brights Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138179",
+        "LATITUDE": 36.270506999999995,
+        "LONGITUDE": -83.26178999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40617099999997,
+          36.16667800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138143",
+        "PERMITTEE_NAME": "P&C HOLDINGS of TN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "6663 WEST A.J. HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138143",
+        "LATITUDE": 36.166678,
+        "LONGITUDE": -83.406171,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35582299999999,
+          36.18359200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138294",
+        "PERMITTEE_NAME": "Philip Coyle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Merchants Greene Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138294",
+        "LATITUDE": 36.183592,
+        "LONGITUDE": -83.355823,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35055499999999,
+          36.17287200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138141",
+        "PERMITTEE_NAME": "Arrowhead Church, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4101 Maple Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138141",
+        "LATITUDE": 36.172872,
+        "LONGITUDE": -83.350555,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32979899999998,
+          36.20355900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138304",
+        "PERMITTEE_NAME": "GOODWILL INDUSTRIES - KNOXVILLE, INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2606 W Andrew Johnson Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138304",
+        "LATITUDE": 36.203559,
+        "LONGITUDE": -83.329799,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29390199999995,
+          36.250556000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138192",
+        "PERMITTEE_NAME": "CRAFTED MILESTONE, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2205 SPOUT SPRINGS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138192",
+        "LATITUDE": 36.250555999999996,
+        "LONGITUDE": -83.293902,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34880999999996,
+          36.19554100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138249",
+        "PERMITTEE_NAME": "Express Oil Change, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3825 W ANDREW JOHNSON HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138249",
+        "LATITUDE": 36.195541,
+        "LONGITUDE": -83.34881,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29778999999996,
+          36.222770000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051441",
+        "PERMITTEE_NAME": "Hardwoods of Morristown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1010 CHEROKEE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051441",
+        "LATITUDE": 36.22277,
+        "LONGITUDE": -83.29778999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31290399999995,
+          36.19663700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138189",
+        "PERMITTEE_NAME": "Vittorian DiLuzio",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Royal Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138189",
+        "LATITUDE": 36.196636999999996,
+        "LONGITUDE": -83.312904,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20197199999996,
+          36.24359400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138273",
+        "PERMITTEE_NAME": "Grasslands Environmental LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5563 Jeffrey Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138273",
+        "LATITUDE": 36.243594,
+        "LONGITUDE": -83.201972,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23510899999997,
+          36.19781100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2303.090",
+        "PERMITTEE_NAME": "Russellville Whitesburg Utility District",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2975 Fish Hatchery Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2303.090",
+        "LATITUDE": 36.197811,
+        "LONGITUDE": -83.235109,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40896299999997,
+          36.188956000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138125",
+        "PERMITTEE_NAME": "CARLYLE CAPITAL, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1490 COLLINSON FORD ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138125",
+        "LATITUDE": 36.188956,
+        "LONGITUDE": -83.408963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29390199999995,
+          36.250556000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138003",
+        "PERMITTEE_NAME": "CRAFTED MILESTONE, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2205 SPOUT SPRINGS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138003",
+        "LATITUDE": 36.250555999999996,
+        "LONGITUDE": -83.293902,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27071499999994,
+          36.24632100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138058",
+        "PERMITTEE_NAME": "SETH EWING",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1995 OLD LIBERTY HILL ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138058",
+        "LATITUDE": 36.246321,
+        "LONGITUDE": -83.270715,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28454899999997,
+          36.24782200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138060",
+        "PERMITTEE_NAME": "BUFFALO TRAIL STORAGE LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2561 BUFFALO TRAIL",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138060",
+        "LATITUDE": 36.247822,
+        "LONGITUDE": -83.284549,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39361099999996,
+          36.16472200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054491",
+        "PERMITTEE_NAME": "Petoskey Plastics, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761091200000,
+        "EFFECTIVE_DATE": 1761091200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5725 Commerce Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054491",
+        "LATITUDE": 36.164722,
+        "LONGITUDE": -83.39361099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23379999999997,
+          36.24320000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137946",
+        "PERMITTEE_NAME": "SUMMERS-TAYLOR, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4847 FRAZIER ROAD 4817 E ANDREW JOHNSON HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137946",
+        "LATITUDE": 36.2432,
+        "LONGITUDE": -83.2338,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39101499999998,
+          36.167346000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137915",
+        "PERMITTEE_NAME": "Colortech, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5705 COMMERCE BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137915",
+        "LATITUDE": 36.167345999999995,
+        "LONGITUDE": -83.391015,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20607899999999,
+          36.225810000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138107",
+        "PERMITTEE_NAME": "TERRY WOLFE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1405 SLOP CREEK ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138107",
+        "LATITUDE": 36.225809999999996,
+        "LONGITUDE": -83.206079,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35301599999997,
+          36.18045100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138046",
+        "PERMITTEE_NAME": "Motown Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Corner of  Merchants Greene Blvd and Veterans Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138046",
+        "LATITUDE": 36.180451,
+        "LONGITUDE": -83.353016,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32979899999998,
+          36.20355900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138085",
+        "PERMITTEE_NAME": "MDB Holdings",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2606 W Andrew Johnson Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138085",
+        "LATITUDE": 36.203559,
+        "LONGITUDE": -83.329799,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32031299999994,
+          36.20441400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051443",
+        "PERMITTEE_NAME": "Parman Energy Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766361600000,
+        "EFFECTIVE_DATE": 1766361600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "106 WESTERN AVENUE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051443",
+        "LATITUDE": 36.204414,
+        "LONGITUDE": -83.320313,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27281099999999,
+          36.18898200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137641",
+        "PERMITTEE_NAME": "James A. Bewley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2630 South Davy Crockett Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137641",
+        "LATITUDE": 36.188981999999996,
+        "LONGITUDE": -83.27281099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34161399999994,
+          36.192574000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137800",
+        "PERMITTEE_NAME": "Topsoil, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "200 S. Sugar Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137800",
+        "LATITUDE": 36.192574,
+        "LONGITUDE": -83.34161399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32979899999998,
+          36.20355900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137726",
+        "PERMITTEE_NAME": "MDB Holdings",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2606 W Andrew Johnson Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137726",
+        "LATITUDE": 36.203559,
+        "LONGITUDE": -83.329799,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29064399999999,
+          36.22184100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137778",
+        "PERMITTEE_NAME": "City of Morristown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "345 East 6th North Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137778",
+        "LATITUDE": 36.221841,
+        "LONGITUDE": -83.290644,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26432599999998,
+          36.24898300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137454",
+        "PERMITTEE_NAME": "Charlie Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2828 Reeds Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137454",
+        "LATITUDE": 36.248982999999996,
+        "LONGITUDE": -83.264326,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23629699999998,
+          36.235311000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.121",
+        "PERMITTEE_NAME": "City of Morristown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1727395200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4476 E. Morris Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.121",
+        "LATITUDE": 36.235310999999996,
+        "LONGITUDE": -83.236297,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36179999999996,
+          36.189400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137052",
+        "PERMITTEE_NAME": "AB HOTELS-MORRISTOWN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4301 EVAN GREENE PLAZA",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137052",
+        "LATITUDE": 36.1894,
+        "LONGITUDE": -83.3618,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22136099999994,
+          36.16832100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137638",
+        "PERMITTEE_NAME": "Taylor Ewing",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4357 OLD LOWLAND ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137638",
+        "LATITUDE": 36.168321,
+        "LONGITUDE": -83.221361,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24479899999994,
+          36.23018200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137062",
+        "PERMITTEE_NAME": "T. PHILLIP CARLYLE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3738 EAST MORRIS BLVD.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137062",
+        "LATITUDE": 36.230182,
+        "LONGITUDE": -83.244799,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29880599999996,
+          36.25885600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137928",
+        "PERMITTEE_NAME": "Manchester Realty, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Edgewater Sound",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137928",
+        "LATITUDE": 36.258856,
+        "LONGITUDE": -83.298806,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37439999999998,
+          36.186300000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137044",
+        "PERMITTEE_NAME": "Southeast Industrial, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4980 W Andrew Johnson Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137044",
+        "LATITUDE": 36.1863,
+        "LONGITUDE": -83.37440000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.34294799999998,
+          36.19991600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137155",
+        "PERMITTEE_NAME": "Mark Davenport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3432 West Andrew Johnson Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137155",
+        "LATITUDE": 36.199916,
+        "LONGITUDE": -83.34294799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22246099999995,
+          36.166754000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137402",
+        "PERMITTEE_NAME": "Morristown Utilities Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Old Lowland Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137402",
+        "LATITUDE": 36.166754,
+        "LONGITUDE": -83.222461,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31544999999994,
+          36.19388200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137344",
+        "PERMITTEE_NAME": "Carlyle Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Valley Home Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137344",
+        "LATITUDE": 36.193881999999995,
+        "LONGITUDE": -83.31545,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17584699999998,
+          36.12732900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.247",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1736726400000,
+        "EFFECTIVE_DATE": 1736812800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "SR-160",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.247",
+        "LATITUDE": 36.127328999999996,
+        "LONGITUDE": -83.17584699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35464199999996,
+          36.18954100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137774",
+        "PERMITTEE_NAME": "Morristown Utilities Systems",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "278 South Bellwood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137774",
+        "LATITUDE": 36.189541,
+        "LONGITUDE": -83.354642,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24890099999999,
+          36.22291500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137779",
+        "PERMITTEE_NAME": "City of Morristown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3100 LORINO PARK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137779",
+        "LATITUDE": 36.222915,
+        "LONGITUDE": -83.24890099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39566999999994,
+          36.17614000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137622",
+        "PERMITTEE_NAME": "The Avenue Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "6057 W ANDREW JOHNSON HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137622",
+        "LATITUDE": 36.17614,
+        "LONGITUDE": -83.39567,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40061999999995,
+          36.165396000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670734",
+        "PERMITTEE_NAME": "Precision Boilers (DE), LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1781481600000,
+        "EFFECTIVE_DATE": 1781481600000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5727 Superior Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670734",
+        "LATITUDE": 36.165396,
+        "LONGITUDE": -83.40061999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24069999999995,
+          36.195700000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137781",
+        "PERMITTEE_NAME": "Matthew Lacy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2766 FISH HATCHERY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137781",
+        "LATITUDE": 36.1957,
+        "LONGITUDE": -83.2407,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27442399999995,
+          36.23678600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137786",
+        "PERMITTEE_NAME": "J&K Industries, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2136 Reese Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137786",
+        "LATITUDE": 36.236785999999995,
+        "LONGITUDE": -83.274424,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40061999999995,
+          36.165396000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137662",
+        "PERMITTEE_NAME": "Logan Hickey",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5727 Superior Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137662",
+        "LATITUDE": 36.165396,
+        "LONGITUDE": -83.40061999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35426199999995,
+          36.18321600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137954",
+        "PERMITTEE_NAME": "Eastman Credit Union",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4123 Hubert Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137954",
+        "LATITUDE": 36.183216,
+        "LONGITUDE": -83.35426199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22077099999996,
+          36.28810500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.044",
+        "PERMITTEE_NAME": "Fall Creek Marina",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5656 Fall Creek Dock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.044",
+        "LATITUDE": 36.288105,
+        "LONGITUDE": -83.220771,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27652199999994,
+          36.17900600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137833",
+        "PERMITTEE_NAME": "Klich Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3020 S Davy Crockett Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137833",
+        "LATITUDE": 36.179006,
+        "LONGITUDE": -83.276522,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26164599999998,
+          36.23901700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137528",
+        "PERMITTEE_NAME": "Corey Wood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "North Davy Crockett Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137528",
+        "LATITUDE": 36.239017,
+        "LONGITUDE": -83.261646,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32591499999995,
+          36.24243900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136652",
+        "PERMITTEE_NAME": "Beau Austin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2885 Cherokee Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136652",
+        "LATITUDE": 36.242439,
+        "LONGITUDE": -83.325915,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33771699999994,
+          36.18252600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137407",
+        "PERMITTEE_NAME": "KAM Concrete Pumping",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "841 South Sugar Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137407",
+        "LATITUDE": 36.182525999999996,
+        "LONGITUDE": -83.337717,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35839999999996,
+          36.19500000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136919",
+        "PERMITTEE_NAME": "Fernando Herrera",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "North Bellwood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136919",
+        "LATITUDE": 36.195,
+        "LONGITUDE": -83.3584,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35432499999996,
+          36.19222300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136902",
+        "PERMITTEE_NAME": "Bellwood Farms, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "W. Andrew Johnson Hwy. & S. Bellwood Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136902",
+        "LATITUDE": 36.192223,
+        "LONGITUDE": -83.354325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35432499999996,
+          36.19222300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137419",
+        "PERMITTEE_NAME": "Bellwood Farms I, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "W. Andrew Johnson Hwy. & S. Bellwood Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137419",
+        "LATITUDE": 36.192223,
+        "LONGITUDE": -83.354325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29555699999997,
+          36.25656100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137512",
+        "PERMITTEE_NAME": "T. PHILLIP CARLYLE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1731 HILL TRAIL DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137512",
+        "LATITUDE": 36.256561,
+        "LONGITUDE": -83.295557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38729999999998,
+          36.176000000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137395",
+        "PERMITTEE_NAME": "City of Morristown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5233 OLD HIGHWAY 11E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137395",
+        "LATITUDE": 36.176,
+        "LONGITUDE": -83.38730000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36180799999994,
+          36.18868200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137360",
+        "PERMITTEE_NAME": "JPP Property Management dba JPP Holdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2500 VERDE CROSSING",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137360",
+        "LATITUDE": 36.188682,
+        "LONGITUDE": -83.361808,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26399999999995,
+          36.23700000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136895",
+        "PERMITTEE_NAME": "Land Star Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "S. Davy Crockett Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136895",
+        "LATITUDE": 36.237,
+        "LONGITUDE": -83.26400000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29673299999996,
+          36.156206000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137460",
+        "PERMITTEE_NAME": "Hamblen County-Morristown Solid Waste Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3849 Sublett Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137460",
+        "LATITUDE": 36.156206,
+        "LONGITUDE": -83.296733,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27909999999997,
+          36.218301000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137347",
+        "PERMITTEE_NAME": "Marathon Realty Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "170 S Liberty Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137347",
+        "LATITUDE": 36.218301,
+        "LONGITUDE": -83.2791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33999999999997,
+          36.194000000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110497",
+        "PERMITTEE_NAME": "ROCK SOLID CONCRETE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1692144000000,
+        "EFFECTIVE_DATE": 1692144000000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "169 South Sugar Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110497",
+        "LATITUDE": 36.194,
+        "LONGITUDE": -83.34,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23125599999997,
+          36.24190600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.170",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1707696000000,
+        "EFFECTIVE_DATE": 1707696000000,
+        "EXPIRATION_DATE": 1865462400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "From SR-32 in Morristown to Near East Morris Boulevard (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.170",
+        "LATITUDE": 36.241906,
+        "LONGITUDE": -83.231256,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30115899999998,
+          36.189185000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137495",
+        "PERMITTEE_NAME": "Gateway Partners, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Gov. Dewitt Clinton Senter Hwy  & Dr. MLK Jr. Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137495",
+        "LATITUDE": 36.189184999999995,
+        "LONGITUDE": -83.301159,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23125599999997,
+          36.24190600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192271",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "From SR-32 in Morristown to Near East Morris Boulevard (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192271",
+        "LATITUDE": 36.241906,
+        "LONGITUDE": -83.231256,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36057799999998,
+          36.19013400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137358",
+        "PERMITTEE_NAME": "Merchants Greene Partners",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4310 EVAN GREENE PLAZA",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137358",
+        "LATITUDE": 36.190134,
+        "LONGITUDE": -83.36057799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40539299999995,
+          36.168431000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137332",
+        "PERMITTEE_NAME": "Phillip Carlyle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "6655 West Andrew Johnson Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137332",
+        "LATITUDE": 36.168431,
+        "LONGITUDE": -83.40539299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31501199999997,
+          36.19700800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137406",
+        "PERMITTEE_NAME": "Complete Construction Management, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2120 S ECONOMY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137406",
+        "LATITUDE": 36.197008,
+        "LONGITUDE": -83.315012,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21439999999996,
+          36.24380000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136961",
+        "PERMITTEE_NAME": "Greenworks Tools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5320 East Morris Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136961",
+        "LATITUDE": 36.2438,
+        "LONGITUDE": -83.2144,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33442999999994,
+          36.203520000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137116",
+        "PERMITTEE_NAME": "Barak Zukerman for Cideco Development Company INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "412 West Economy Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137116",
+        "LATITUDE": 36.20352,
+        "LONGITUDE": -83.33443,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21789999999999,
+          36.16080000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137060",
+        "PERMITTEE_NAME": "MB&R Contractors Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4656 Old Lowland Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137060",
+        "LATITUDE": 36.1608,
+        "LONGITUDE": -83.2179,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30549699999995,
+          36.190897000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137151",
+        "PERMITTEE_NAME": "Tom Shampine",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Dr. Martin Luther King Jr. Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137151",
+        "LATITUDE": 36.190897,
+        "LONGITUDE": -83.305497,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37669999999997,
+          36.17360000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136858",
+        "PERMITTEE_NAME": "Safe Storage, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Alpha Valley Home Road at Howell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136858",
+        "LATITUDE": 36.1736,
+        "LONGITUDE": -83.3767,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36057799999998,
+          36.19013400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136938",
+        "PERMITTEE_NAME": "SHANNON GREENE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4310 EVAN GREENE PLAZA",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136938",
+        "LATITUDE": 36.190134,
+        "LONGITUDE": -83.36057799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25510199999997,
+          36.225524000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137158",
+        "PERMITTEE_NAME": "Parth Patel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2970 Millers Point Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137158",
+        "LATITUDE": 36.225524,
+        "LONGITUDE": -83.255102,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38479999999998,
+          36.17780000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136892",
+        "PERMITTEE_NAME": "Precision Construction Solutions LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "West Andrew Johnson Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136892",
+        "LATITUDE": 36.177800000000005,
+        "LONGITUDE": -83.3848,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30099999999999,
+          36.191500000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136731",
+        "PERMITTEE_NAME": "Hamblen County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1120 Gateway Service Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136731",
+        "LATITUDE": 36.191500000000005,
+        "LONGITUDE": -83.301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30039999999997,
+          36.259100000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136821",
+        "PERMITTEE_NAME": "Manchester Realty, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Windswept Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136821",
+        "LATITUDE": 36.259100000000004,
+        "LONGITUDE": -83.30040000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20833699999997,
+          36.15443600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059913",
+        "PERMITTEE_NAME": "Northeast Forest Products LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1633564800000,
+        "EFFECTIVE_DATE": 1633564800000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4901 Enka Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059913",
+        "LATITUDE": 36.154436,
+        "LONGITUDE": -83.208337,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35432499999996,
+          36.19222300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136721",
+        "PERMITTEE_NAME": "Bellwood Farms, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "W. Andrew Johnson Hwy. & S. Bellwood Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136721",
+        "LATITUDE": 36.192223,
+        "LONGITUDE": -83.354325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21181399999995,
+          36.16615900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050031",
+        "PERMITTEE_NAME": "Harrison Construction Co",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769558400000,
+        "EFFECTIVE_DATE": 1769558400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4385 MCCLISTER ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050031",
+        "LATITUDE": 36.166159,
+        "LONGITUDE": -83.21181399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21259399999997,
+          36.25150600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050178",
+        "PERMITTEE_NAME": "MAHLE Engine Components USA, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761004800000,
+        "EFFECTIVE_DATE": 1761004800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "ONE MAHLE DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050178",
+        "LATITUDE": 36.251506,
+        "LONGITUDE": -83.212594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20556399999998,
+          36.173039000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051047",
+        "PERMITTEE_NAME": "Summers-Taylor Materials",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4396-4410 MCCLISTER ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051047",
+        "LATITUDE": 36.173038999999996,
+        "LONGITUDE": -83.205564,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39050799999995,
+          36.17089500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050076",
+        "PERMITTEE_NAME": "Howmet Casting and Services, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5650 Commerce Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050076",
+        "LATITUDE": 36.170895,
+        "LONGITUDE": -83.390508,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31099999999998,
+          36.206000000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110049",
+        "PERMITTEE_NAME": "Apac Atlantic, Inc,",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1674518400000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1527 West First North Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110049",
+        "LATITUDE": 36.206,
+        "LONGITUDE": -83.311,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38555999999994,
+          36.16809000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050393",
+        "PERMITTEE_NAME": "Vallourec Heat Exchanger Tubes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5501 Air Park Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050393",
+        "LATITUDE": 36.16809,
+        "LONGITUDE": -83.38556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33694399999996,
+          36.18833300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110290",
+        "PERMITTEE_NAME": "Ready Mix USA, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1669939200000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "663 South Sugar Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110290",
+        "LATITUDE": 36.188333,
+        "LONGITUDE": -83.336944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15501499999993,
+          36.29310000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050430",
+        "PERMITTEE_NAME": "Koch Tennessee Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1701 Needmore Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050430",
+        "LATITUDE": 36.2931,
+        "LONGITUDE": -83.15501499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20377099999996,
+          36.24263600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053410",
+        "PERMITTEE_NAME": "Bodycote Thermal Processing, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5550 Jeffrey Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053410",
+        "LATITUDE": 36.242636,
+        "LONGITUDE": -83.203771,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39101499999998,
+          36.167346000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050853",
+        "PERMITTEE_NAME": "Alex Rom-Roginski",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5705 COMMERCE BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050853",
+        "LATITUDE": 36.167345999999995,
+        "LONGITUDE": -83.391015,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29134699999997,
+          36.14938900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051267",
+        "PERMITTEE_NAME": "Lakeway Sanitation & Recycling C&D, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760572800000,
+        "EFFECTIVE_DATE": 1760572800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4601 Sublett Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051267",
+        "LATITUDE": 36.149389,
+        "LONGITUDE": -83.291347,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32333299999993,
+          36.20694400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056592",
+        "PERMITTEE_NAME": "Forenta L.P.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1093392000000,
+        "EFFECTIVE_DATE": 1092268800000,
+        "EXPIRATION_DATE": 1167523200000,
+        "TERMINATION_DATE": 1305244800000,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "185 Cold Creek Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056592",
+        "LATITUDE": 36.206944,
+        "LONGITUDE": -83.32333299999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21185899999995,
+          36.24276800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053570",
+        "PERMITTEE_NAME": "Iatric Manufacturing Solutions LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759968000000,
+        "EFFECTIVE_DATE": 1759968000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "328 HAMBLEN AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053570",
+        "LATITUDE": 36.242768,
+        "LONGITUDE": -83.21185899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20454799999999,
+          36.25155500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051802",
+        "PERMITTEE_NAME": "Clayton Supply, Inc. dba Clayton Supply Morristown I/Clayton Supply Morristown II",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762041600000,
+        "EFFECTIVE_DATE": 1762041600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5649 East Morris Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051802",
+        "LATITUDE": 36.251554999999996,
+        "LONGITUDE": -83.204548,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28019099999995,
+          36.14650000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051677",
+        "PERMITTEE_NAME": "Seven Wheels, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764547200000,
+        "EFFECTIVE_DATE": 1764547200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5050 S. DAVY CROCKETT PARKWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051677",
+        "LATITUDE": 36.1465,
+        "LONGITUDE": -83.280191,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20455099999998,
+          36.24694100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051862",
+        "PERMITTEE_NAME": "Pioneer Plastics Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "325 Desoto Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051862",
+        "LATITUDE": 36.246941,
+        "LONGITUDE": -83.204551,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40180399999997,
+          36.164427000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055060",
+        "PERMITTEE_NAME": "JW Allen / Rich Products Plant 2",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771545600000,
+        "EFFECTIVE_DATE": 1771545600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5961 COMMERCE BLVD.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055060",
+        "LATITUDE": 36.164426999999996,
+        "LONGITUDE": -83.401804,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20099999999996,
+          36.25100000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053639",
+        "PERMITTEE_NAME": "Meritor Heavy Vehicle Systems, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1 ROCKWELL DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053639",
+        "LATITUDE": 36.251000000000005,
+        "LONGITUDE": -83.20100000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39778399999994,
+          36.16141200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054181",
+        "PERMITTEE_NAME": "Tuff Torq Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759276800000,
+        "EFFECTIVE_DATE": 1759276800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5943 Commerce Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054181",
+        "LATITUDE": 36.161412,
+        "LONGITUDE": -83.397784,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40058799999997,
+          36.17278900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053670",
+        "PERMITTEE_NAME": "Inteplast Films Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1 INTEPLAST DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053670",
+        "LATITUDE": 36.172789,
+        "LONGITUDE": -83.400588,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29673299999996,
+          36.156206000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS077763",
+        "PERMITTEE_NAME": "Hamblen County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1671408000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3849 Sublett Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS077763",
+        "LATITUDE": 36.156206,
+        "LONGITUDE": -83.296733,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29353699999996,
+          36.21478600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS076031",
+        "PERMITTEE_NAME": "City of Morristown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1670544000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "100 West First North Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS076031",
+        "LATITUDE": 36.214786,
+        "LONGITUDE": -83.293537,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27916599999998,
+          36.14861100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051534",
+        "PERMITTEE_NAME": "International Paper Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5032 South Davy Crockett Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051534",
+        "LATITUDE": 36.148610999999995,
+        "LONGITUDE": -83.27916599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32222199999995,
+          36.20165900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051977",
+        "PERMITTEE_NAME": "Jeffrey Chain, L.P.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762560000000,
+        "EFFECTIVE_DATE": 1762560000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2307 Maden Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051977",
+        "LATITUDE": 36.201659,
+        "LONGITUDE": -83.322222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30138899999997,
+          36.179167000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051372",
+        "PERMITTEE_NAME": "G & G Auto Parts",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1014854400000,
+        "EFFECTIVE_DATE": 1014940800000,
+        "EXPIRATION_DATE": 1167523200000,
+        "TERMINATION_DATE": 1305244800000,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2538 Sulphur Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051372",
+        "LATITUDE": 36.179167,
+        "LONGITUDE": -83.301389,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30769999999995,
+          36.175400000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051384",
+        "PERMITTEE_NAME": "David Greene (dba) Jack's Greene Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1826 Roe Junction Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051384",
+        "LATITUDE": 36.1754,
+        "LONGITUDE": -83.3077,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20771299999996,
+          36.248019000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051837",
+        "PERMITTEE_NAME": "Iconex, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1781568000000,
+        "EFFECTIVE_DATE": 1781568000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5512 East Morris Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051837",
+        "LATITUDE": 36.248019,
+        "LONGITUDE": -83.207713,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20974199999995,
+          36.15026400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-06011",
+        "PERMITTEE_NAME": "Lakeway Recycling and Sanitation, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1311897600000,
+        "EFFECTIVE_DATE": 1314835200000,
+        "EXPIRATION_DATE": 1469923200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4901 Enka highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-06011",
+        "LATITUDE": 36.150264,
+        "LONGITUDE": -83.20974199999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37210999999996,
+          36.17772000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056870",
+        "PERMITTEE_NAME": "Colgate-Palmolive Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765756800000,
+        "EFFECTIVE_DATE": 1765756800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "200 CENTENNIAL CT",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056870",
+        "LATITUDE": 36.17772,
+        "LONGITUDE": -83.37210999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29591899999997,
+          36.14022300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056885",
+        "PERMITTEE_NAME": "Koch Foods LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1620 Progress Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056885",
+        "LATITUDE": 36.140223,
+        "LONGITUDE": -83.295919,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20499399999994,
+          36.17268900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110332",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1703548800000,
+        "EFFECTIVE_DATE": 1703548800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "4375 McClister Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110332",
+        "LATITUDE": 36.172689,
+        "LONGITUDE": -83.204994,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29709799999995,
+          36.20886100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056845",
+        "PERMITTEE_NAME": "UFP STRUCTURAL PACKAGING, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758672000000,
+        "EFFECTIVE_DATE": 1758672000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "530 West Morris Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056845",
+        "LATITUDE": 36.208861,
+        "LONGITUDE": -83.29709799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29790799999995,
+          36.15496100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058169",
+        "PERMITTEE_NAME": "Hamblen County-Morristown Solid Waste Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769385600000,
+        "EFFECTIVE_DATE": 1769385600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "3849 SUBLETT RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058169",
+        "LATITUDE": 36.154961,
+        "LONGITUDE": -83.29790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29849999999999,
+          36.14713000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR133808",
+        "PERMITTEE_NAME": "City of Morristown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "East Tennessee Progress Center; corner of Witt Road and Sublett Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR133808",
+        "LATITUDE": 36.14713,
+        "LONGITUDE": -83.2985,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33999999999997,
+          36.177500000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR191383",
+        "PERMITTEE_NAME": "Blalock Construction CNM089 Borrow Area Part 1",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Avery Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR191383",
+        "LATITUDE": 36.1775,
+        "LONGITUDE": -83.34,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39138899999995,
+          36.19305600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "327002",
+        "PERMITTEE_NAME": "Panther Lake P.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1623024000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1684108800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "163NW Panther Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:327002",
+        "LATITUDE": 36.193056,
+        "LONGITUDE": -83.39138899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16803599999997,
+          36.257408000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.381",
+        "PERMITTEE_NAME": "David L Moore",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1458518400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1616198400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "6930 Stagecoach Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.381",
+        "LATITUDE": 36.257408,
+        "LONGITUDE": -83.168036,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27355099999994,
+          36.25230800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.153",
+        "PERMITTEE_NAME": "Morristown Utility Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1510531200000,
+        "EFFECTIVE_DATE": 1510531200000,
+        "EXPIRATION_DATE": 1668211200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Along Brights Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.153",
+        "LATITUDE": 36.252308,
+        "LONGITUDE": -83.273551,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39869999999996,
+          36.17590000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136090",
+        "PERMITTEE_NAME": "H&S Real Estate LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "6242 West Andrew Johnson Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136090",
+        "LATITUDE": 36.1759,
+        "LONGITUDE": -83.3987,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.28339099999994,
+          36.18777700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053520",
+        "PERMITTEE_NAME": "Morristown Shredder, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756252800000,
+        "EFFECTIVE_DATE": 1756252800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "2540 Old Highway 25e",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053520",
+        "LATITUDE": 36.187777,
+        "LONGITUDE": -83.283391,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35489999999999,
+          36.18270000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135428",
+        "PERMITTEE_NAME": "John Bell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Corner of Merchants Green Blvd & Veterans Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135428",
+        "LATITUDE": 36.182700000000004,
+        "LONGITUDE": -83.3549,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29555699999997,
+          36.25656100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135751",
+        "PERMITTEE_NAME": "T. Phillip Carlyle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1731 HILL TRAIL DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135751",
+        "LATITUDE": 36.256561,
+        "LONGITUDE": -83.295557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19309599999997,
+          36.15124600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135882",
+        "PERMITTEE_NAME": "Lakeway Sanitation & Recycling MSW Landfill, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5155 Enka Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135882",
+        "LATITUDE": 36.151246,
+        "LONGITUDE": -83.193096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29799999999994,
+          36.21430000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136205",
+        "PERMITTEE_NAME": "Hamblen County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "W 3rd North Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136205",
+        "LATITUDE": 36.2143,
+        "LONGITUDE": -83.298,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29407899999995,
+          36.27025200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136242",
+        "PERMITTEE_NAME": "Lake Developers II, LLC ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Windswept Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136242",
+        "LATITUDE": 36.270252,
+        "LONGITUDE": -83.294079,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25819999999999,
+          36.235700000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136335",
+        "PERMITTEE_NAME": "Shannon W. Greene",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "758 Morelock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136335",
+        "LATITUDE": 36.2357,
+        "LONGITUDE": -83.2582,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37939999999998,
+          36.184300000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136619",
+        "PERMITTEE_NAME": "Interstate Battery of East Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "5262 W Andrew Johnson Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136619",
+        "LATITUDE": 36.1843,
+        "LONGITUDE": -83.3794,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11249999999995,
+          36.238500000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.148",
+        "PERMITTEE_NAME": "Brushy Fork Environmental Consulting",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1627862400000,
+        "EFFECTIVE_DATE": 1627862400000,
+        "EXPIRATION_DATE": 1785542400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "1835 Ralph Ray Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.148",
+        "LATITUDE": 36.2385,
+        "LONGITUDE": -83.1125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19859999999994,
+          36.264500000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136371",
+        "PERMITTEE_NAME": "Russellville-Whitesburg UD",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Three Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136371",
+        "LATITUDE": 36.264500000000005,
+        "LONGITUDE": -83.1986,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43699999999995,
+          36.19760000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136509",
+        "PERMITTEE_NAME": "P & C HOLDINGS OF TENNESSEE, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hamblen",
+        "SITE_LOCATION": "Lowe Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136509",
+        "LATITUDE": 36.1976,
+        "LONGITUDE": -83.437,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

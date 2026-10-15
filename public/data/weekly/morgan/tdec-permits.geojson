@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50449999999995,
+          36.12500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.162",
+        "PERMITTEE_NAME": "Frozen Head State Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1791331200000,
+        "EFFECTIVE_DATE": 1791331200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "964 Flat Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.162",
+        "LATITUDE": 36.125,
+        "LONGITUDE": -84.50450000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48093199999994,
+          36.068479000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138527",
+        "PERMITTEE_NAME": "Mr. Charles R. Hamby",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "3826 Knoxville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138527",
+        "LATITUDE": 36.068478999999996,
+        "LONGITUDE": -84.480932,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56869999999998,
+          36.031300000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.119",
+        "PERMITTEE_NAME": "Scenic 7 LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1784592000000,
+        "EFFECTIVE_DATE": 1784592000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1737 Camp Austin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.119",
+        "LATITUDE": 36.0313,
+        "LONGITUDE": -84.5687,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56869999999998,
+          36.031300000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138314",
+        "PERMITTEE_NAME": "Andrew Hawthorne",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1737 Camp Austin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138314",
+        "LATITUDE": 36.0313,
+        "LONGITUDE": -84.5687,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67319299999997,
+          35.945906000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138406",
+        "PERMITTEE_NAME": "Fred Stout",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "3384 Airport Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138406",
+        "LATITUDE": 35.945906,
+        "LONGITUDE": -84.673193,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57161199999996,
+          36.107390000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.151",
+        "PERMITTEE_NAME": "Resource Environmental Solutions, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787529600000,
+        "EFFECTIVE_DATE": 1787529600000,
+        "EXPIRATION_DATE": 1945209600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "Letory Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.151",
+        "LATITUDE": 36.107389999999995,
+        "LONGITUDE": -84.571612,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48277999999993,
+          36.070250000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137517",
+        "PERMITTEE_NAME": "Cumberland Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "Cassell Road & Knoxville Highway (SR-62)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137517",
+        "LATITUDE": 36.07025,
+        "LONGITUDE": -84.48277999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42093999999997,
+          36.02766900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.166",
+        "PERMITTEE_NAME": "Morgan County School District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1720 Coal Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.166",
+        "LATITUDE": 36.027668999999996,
+        "LONGITUDE": -84.42094,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55443799999995,
+          36.097113000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137964",
+        "PERMITTEE_NAME": "ENRICHMENT FEDERAL CREDIT UNION",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1824 KNOXVILLE HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137964",
+        "LATITUDE": 36.097113,
+        "LONGITUDE": -84.55443799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56869999999998,
+          36.031300000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.065",
+        "PERMITTEE_NAME": "Andrew Hawthorne",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1775606400000,
+        "EFFECTIVE_DATE": 1775606400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1737 Camp Austin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.065",
+        "LATITUDE": 36.0313,
+        "LONGITUDE": -84.5687,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56869999999998,
+          36.031300000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.064",
+        "PERMITTEE_NAME": "Andrew Hawthorne",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1775606400000,
+        "EFFECTIVE_DATE": 1775606400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1737 Camp Austin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.064",
+        "LATITUDE": 36.0313,
+        "LONGITUDE": -84.5687,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52141199999994,
+          36.06400000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.205",
+        "PERMITTEE_NAME": "Tennessee Mitigation Fund",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1736121600000,
+        "EFFECTIVE_DATE": 1736121600000,
+        "EXPIRATION_DATE": 1893801600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": " Petit Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.205",
+        "LATITUDE": 36.064,
+        "LONGITUDE": -84.521412,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50449999999995,
+          36.12500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138033",
+        "PERMITTEE_NAME": "State of Tennessee Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "964 Flat Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138033",
+        "LATITUDE": 36.125,
+        "LONGITUDE": -84.50450000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90444399999996,
+          36.19444400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "657007",
+        "PERMITTEE_NAME": "Dr. Richard D. Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1453852800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1544572800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "116NW Bucklick Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:657007",
+        "LATITUDE": 36.194444,
+        "LONGITUDE": -84.904444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44791999999995,
+          36.100906000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137300",
+        "PERMITTEE_NAME": "Brushy Mountain Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "9182 Highway 116",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137300",
+        "LATITUDE": 36.100905999999995,
+        "LONGITUDE": -84.44792,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44709999999998,
+          36.10190000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192146",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "9314 Petros Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192146",
+        "LATITUDE": 36.1019,
+        "LONGITUDE": -84.4471,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44509999999997,
+          36.09740000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.248",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1633046400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "SR-116 (Petros Hwy.), Bridge over Stockstill Creek, LM 2.26 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.248",
+        "LATITUDE": 36.0974,
+        "LONGITUDE": -84.44510000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58009499999997,
+          36.10510900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136573",
+        "PERMITTEE_NAME": "Brian Langley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "Longview Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136573",
+        "LATITUDE": 36.105109,
+        "LONGITUDE": -84.580095,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54870399999999,
+          36.095519000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056666",
+        "PERMITTEE_NAME": "Heraeus Precious Metals North America, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1975 Knoxville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056666",
+        "LATITUDE": 36.095518999999996,
+        "LONGITUDE": -84.548704,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55666699999995,
+          36.083611000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB028622",
+        "PERMITTEE_NAME": "Wartburg STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "3035 Morgan County Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB028622",
+        "LATITUDE": 36.083611,
+        "LONGITUDE": -84.55666699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81219999999996,
+          36.28470000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00170",
+        "PERMITTEE_NAME": "Dry Creek Pedigree Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoDE",
+        "ISSUANCE_DATE": 1501113600000,
+        "EFFECTIVE_DATE": 1501113600000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": 1529971200000,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "370 Cobb Road (FKA 191 Curt Leach Road)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00170",
+        "LATITUDE": 36.2847,
+        "LONGITUDE": -84.8122,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44388899999996,
+          36.10305600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "657001",
+        "PERMITTEE_NAME": "Cumberland Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "129sw Crooked Fork Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:657001",
+        "LATITUDE": 36.103055999999995,
+        "LONGITUDE": -84.443889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81638899999996,
+          36.241667000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "657002",
+        "PERMITTEE_NAME": "H&S Partnership",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1771286400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1865808000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "116ne Trib-stowers Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:657002",
+        "LATITUDE": 36.241667,
+        "LONGITUDE": -84.816389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90555599999999,
+          36.18944400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "657008",
+        "PERMITTEE_NAME": "Dr. Richard D. Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1453852800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1544572800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "116nw Bucklick Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:657008",
+        "LATITUDE": 36.189444,
+        "LONGITUDE": -84.90555599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54916699999995,
+          36.09111100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "657009",
+        "PERMITTEE_NAME": "Plateau Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1770854400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "122SE Trib-Flat Fork",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:657009",
+        "LATITUDE": 36.091111,
+        "LONGITUDE": -84.549167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55083299999995,
+          36.10333300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "657010",
+        "PERMITTEE_NAME": "Larry W. Wilson and Joseph Armes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1633305600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1694736000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "122SE Trib-Flat Fork Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:657010",
+        "LATITUDE": 36.103333,
+        "LONGITUDE": -84.550833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47265999999996,
+          36.019754000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058996",
+        "PERMITTEE_NAME": "R & R Lumber Company, Inc. 10-15",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "147 R & R Sawmill Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058996",
+        "LATITUDE": 36.019754,
+        "LONGITUDE": -84.47265999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44582999999994,
+          36.09496000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.208",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1435622400000,
+        "EFFECTIVE_DATE": 1435622400000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "SR-116, near Petros",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.208",
+        "LATITUDE": 36.09496,
+        "LONGITUDE": -84.44583,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59638899999999,
+          36.10027800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059280",
+        "PERMITTEE_NAME": "Tennessee Coatings, Incorporated dba Ellison Surface Technologies, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1237 Knoxville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059280",
+        "LATITUDE": 36.100277999999996,
+        "LONGITUDE": -84.596389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49359999999996,
+          35.97290000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.187",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1571097600000,
+        "EFFECTIVE_DATE": 1571097600000,
+        "EXPIRATION_DATE": 1728950400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "SR-29 (US-27) Near Harriman in Roane County to south of Whetstone Rd in Morgan County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.187",
+        "LATITUDE": 35.9729,
+        "LONGITUDE": -84.4936,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54870399999999,
+          36.095519000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136157",
+        "PERMITTEE_NAME": "Industrial Development Board of Morgan County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1975 Knoxville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136157",
+        "LATITUDE": 36.095518999999996,
+        "LONGITUDE": -84.548704,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54870399999999,
+          36.095519000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.133",
+        "PERMITTEE_NAME": "Heraeus Metal Processing, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1585872000000,
+        "EFFECTIVE_DATE": 1585872000000,
+        "EXPIRATION_DATE": 1743552000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "1975 Knoxville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.133",
+        "LATITUDE": 36.095518999999996,
+        "LONGITUDE": -84.548704,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44509999999997,
+          36.09740000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.192-21",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1615248000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Morgan",
+        "SITE_LOCATION": "SR-116 (Petros Hwy.), Bridge over Stockstill Creek, LM 2.26 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.192-21",
+        "LATITUDE": 36.0974,
+        "LONGITUDE": -84.44510000000001,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

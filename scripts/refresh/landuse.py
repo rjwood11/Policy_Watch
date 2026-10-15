@@ -62,15 +62,19 @@ def download_subset(counties: gpd.GeoDataFrame, force: bool) -> None:
         return
     bounds = counties.total_bounds
     params = {
-        "service": "WCS", "version": "1.0.0", "request": "GetCoverage",
-        "coverage": COVERAGE, "crs": "EPSG:3857", "response_crs": "EPSG:3857",
-        "bbox": ",".join(str(value) for value in bounds),
-        "resx": RESOLUTION, "resy": RESOLUTION, "format": "GeoTIFF",
-        "time": f"{YEAR}-01-01T00:00:00Z", "interpolation": "nearest neighbor",
+        "service": "WCS", "version": "2.0.1", "request": "GetCoverage",
+        "coverageId": COVERAGE.replace(":", "__"),
+        "subsettingCrs": "http://www.opengis.net/def/crs/EPSG/0/3857",
+        "outputCrs": "http://www.opengis.net/def/crs/EPSG/0/3857",
+        "subset": [f"X({bounds[0]},{bounds[2]})", f"Y({bounds[1]},{bounds[3]})", f'time("{YEAR}-01-01T00:00:00Z")'],
+        "scaleSize": f"i({int(np.ceil((bounds[2] - bounds[0]) / RESOLUTION))}),j({int(np.ceil((bounds[3] - bounds[1]) / RESOLUTION))})",
+        "format": "image/tiff", "interpolation": "http://www.opengis.net/def/interpolation/OGC/1/nearest-neighbor",
     }
     print(f"Downloading Tennessee-only {YEAR} Annual NLCD at coarse resolution...", flush=True)
     response = requests.get(SOURCE_URL, params=params, timeout=180)
     response.raise_for_status()
+    if not response.content.startswith((b"II", b"MM")):
+        raise ValueError(f"USGS did not return a GeoTIFF; previous imagery retained: {response.text[:900]}")
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     temp_path = CACHE_PATH.with_suffix(".tmp.tif")
     with MemoryFile(response.content) as memory:
@@ -96,11 +100,11 @@ def write_source_metadata(manifest: dict) -> None:
     sources.append({
         "dataset": "Land use / land cover",
         "purpose": "Basic county land-cover context with category explanations on hover.",
-        "sourceName": f"USGS Annual NLCD {YEAR}, Collection 1.2",
+        "sourceName": f"USGS Annual NLCD {manifest['year']}",
         "sourceUrl": "https://www.usgs.gov/centers/eros/science/annual-nlcd-data-access",
         "refreshFrequency": "Annual source release; regenerate with npm run data:build-landuse",
         "lastUpdated": manifest["retrievedAt"],
-        "notes": "Tennessee-only WCS subset, nearest-neighbor sampled at 300 Web Mercator meters (approximately 240–250 ground meters), grouped into broad classes and masked to county boundaries. Local compressed PNGs are loaded only when enabled. Small features can be omitted; this is land cover, not zoning or an official urban/rural classification. The source observation year is 2025.",
+        "notes": f"Tennessee-only WCS subset, nearest-neighbor sampled at 300 Web Mercator meters (approximately 240–250 ground meters), grouped into broad classes and masked to county boundaries. Local compressed PNGs are loaded only when enabled. Small features can be omitted; this is land cover, not zoning or an official urban/rural classification. The source observation year is {manifest['year']}.",
     })
     path.write_text(json.dumps(sources, indent=2) + "\n", encoding="utf8")
 

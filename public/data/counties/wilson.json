@@ -3,7 +3,7 @@
   "name": "Wilson",
   "region": "Middle Tennessee",
   "population": 158805,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -153,7 +153,7 @@
     {
       "category": "Not Supporting",
       "label": "Not supporting",
-      "miles": 134.7
+      "miles": 134.8
     },
     {
       "category": "Not Supporting (Evaluated)",
@@ -166,7 +166,7 @@
     {
       "cause": "impaired_biota",
       "label": "Impaired biological community",
-      "miles": 134.7,
+      "miles": 134.8,
       "assessmentUnits": 24
     },
     {

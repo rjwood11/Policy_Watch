@@ -1,0 +1,1331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57699799999995,
+          35.66055000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.36",
+        "PERMITTEE_NAME": "Johnny R Graham",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782432000000,
+        "EFFECTIVE_DATE": 1782432000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "10730 Rocky River Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.36",
+        "LATITUDE": 35.66055,
+        "LONGITUDE": -85.576998,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172879",
+        "PERMITTEE_NAME": "Isha Foundation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1791244800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172879",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45910699999996,
+          35.75863900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172809",
+        "PERMITTEE_NAME": "Jeremiah Martin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Lemont and Yates Mountain Rd @ Mile 15 SR-111",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172809",
+        "LATITUDE": 35.758638999999995,
+        "LONGITUDE": -85.459107,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45546999999993,
+          35.61699900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.24",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1777334400000,
+        "EFFECTIVE_DATE": 1777334400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Belview Circle, Spencer, TN 38585",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.24",
+        "LATITUDE": 35.616999,
+        "LONGITUDE": -85.45546999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58546899999999,
+          35.67770400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.046",
+        "PERMITTEE_NAME": "Katrina Hillis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787270400000,
+        "EFFECTIVE_DATE": 1787270400000,
+        "EXPIRATION_DATE": 1944950400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "12164 Rocky River Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.046",
+        "LATITUDE": 35.677704,
+        "LONGITUDE": -85.58546899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.031",
+        "PERMITTEE_NAME": "Isha Foundation, INC. - Saran Subramanian",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1769990400000,
+        "EFFECTIVE_DATE": 1770076800000,
+        "EXPIRATION_DATE": 1927670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.031",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172592",
+        "PERMITTEE_NAME": "Isha Foundation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172592",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56281999999999,
+          35.552242000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.43",
+        "PERMITTEE_NAME": "Saran Subramanian",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "118 Seva Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.43",
+        "LATITUDE": 35.552242,
+        "LONGITUDE": -85.56282,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172345",
+        "PERMITTEE_NAME": "ISHA Foundation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172345",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46242899999999,
+          35.82142200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.080",
+        "PERMITTEE_NAME": "City of Spencer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1723161600000,
+        "EFFECTIVE_DATE": 1723161600000,
+        "EXPIRATION_DATE": 1880841600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "River Bend Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.080",
+        "LATITUDE": 35.821422,
+        "LONGITUDE": -85.462429,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.32319999999999,
+          35.344400000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-22017",
+        "PERMITTEE_NAME": "IRM Utility, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "South of Karl Hillis and Rocky River Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-22017",
+        "LATITUDE": 35.3444,
+        "LONGITUDE": -85.3232,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.33398899999997,
+          35.74956300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172814",
+        "PERMITTEE_NAME": "Incredible Tiny Homes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1791158400000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "3435 Mooneyham Lonewood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172814",
+        "LATITUDE": 35.749562999999995,
+        "LONGITUDE": -85.333989,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46369699999997,
+          35.730458000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172772",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Highway 111",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172772",
+        "LATITUDE": 35.730458,
+        "LONGITUDE": -85.463697,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172789",
+        "PERMITTEE_NAME": "Saravana Subramanian",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172789",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54203099999995,
+          35.70736300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172826",
+        "PERMITTEE_NAME": "Kenlynne Mulroy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "7419 Baker Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172826",
+        "LATITUDE": 35.707363,
+        "LONGITUDE": -85.542031,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56281999999999,
+          35.552242000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172513",
+        "PERMITTEE_NAME": "Isha Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Hills Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172513",
+        "LATITUDE": 35.552242,
+        "LONGITUDE": -85.56282,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30455299999994,
+          35.66981700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.085",
+        "PERMITTEE_NAME": "Cumberland River Compact",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761264000000,
+        "EXPIRATION_DATE": 1919376000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "STATE HIGHWAY 111",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.085",
+        "LATITUDE": 35.669817,
+        "LONGITUDE": -85.304553,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43829999999997,
+          35.55638000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-25031",
+        "PERMITTEE_NAME": "ISHA Foundation",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "State Hwy 8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-25031",
+        "LATITUDE": 35.55638,
+        "LONGITUDE": -84.4383,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30455299999994,
+          35.66981700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172777",
+        "PERMITTEE_NAME": "HGS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "STATE HIGHWAY 111",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172777",
+        "LATITUDE": 35.669817,
+        "LONGITUDE": -85.304553,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56281999999999,
+          35.552242000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.108",
+        "PERMITTEE_NAME": "ISHA Foundation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772496000000,
+        "EFFECTIVE_DATE": 1772496000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Hills Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.108",
+        "LATITUDE": 35.552242,
+        "LONGITUDE": -85.56282,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172790",
+        "PERMITTEE_NAME": "Saravanan Subramanian",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172790",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54390199999995,
+          35.57195800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172523",
+        "PERMITTEE_NAME": "September Bloom, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "18988 Highway 8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172523",
+        "LATITUDE": 35.571957999999995,
+        "LONGITUDE": -85.543902,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46369699999997,
+          35.730458000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.79",
+        "PERMITTEE_NAME": "Anthony Pelham  - Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752019200000,
+        "EFFECTIVE_DATE": 1752019200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Highway 111",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.79",
+        "LATITUDE": 35.730458,
+        "LONGITUDE": -85.463697,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.43549199999995,
+          35.80731300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.195",
+        "PERMITTEE_NAME": "Barbara Harder",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691107200000,
+        "EFFECTIVE_DATE": 1691107200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "376 Hidden River Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.195",
+        "LATITUDE": 35.807313,
+        "LONGITUDE": -85.435492,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.43633999999997,
+          35.80779000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.249",
+        "PERMITTEE_NAME": "Mark Allen Cash",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1698192000000,
+        "EFFECTIVE_DATE": 1698192000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "84 Hidden River Lane ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.249",
+        "LATITUDE": 35.80779,
+        "LONGITUDE": -85.43634,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46889499999997,
+          35.63105100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.221",
+        "PERMITTEE_NAME": "Water & Land Solutions, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1746057600000,
+        "EFFECTIVE_DATE": 1746057600000,
+        "EXPIRATION_DATE": 1903824000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Piney Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.221",
+        "LATITUDE": 35.631051,
+        "LONGITUDE": -85.46889499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.33745399999998,
+          35.69980700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172617",
+        "PERMITTEE_NAME": "Brian London",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Highway 30 / 455 London Farm Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172617",
+        "LATITUDE": 35.699807,
+        "LONGITUDE": -85.337454,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56489999999997,
+          35.56810000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110507",
+        "PERMITTEE_NAME": "September Bloom, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1717113600000,
+        "EFFECTIVE_DATE": 1717113600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "118 Seva Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110507",
+        "LATITUDE": 35.5681,
+        "LONGITUDE": -85.56490000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35839999999996,
+          35.662100000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172517",
+        "PERMITTEE_NAME": "TDEC Bureau of Parks and Conservation, Fall Creek Falls State Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "PARK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172517",
+        "LATITUDE": 35.6621,
+        "LONGITUDE": -85.3584,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52533499999998,
+          35.64857500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.20",
+        "PERMITTEE_NAME": "Kenneth Grist",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1679875200000,
+        "EFFECTIVE_DATE": 1679875200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": 1743984000000,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "480 Welchland Camp Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.20",
+        "LATITUDE": 35.648575,
+        "LONGITUDE": -85.525335,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46159999999998,
+          35.80840000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.160",
+        "PERMITTEE_NAME": "Middle TN Natural Gas Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1502150400000,
+        "EFFECTIVE_DATE": 1502150400000,
+        "EXPIRATION_DATE": 1659916800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Van Buren County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.160",
+        "LATITUDE": 35.8084,
+        "LONGITUDE": -85.4616,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35839999999996,
+          35.662100000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172562",
+        "PERMITTEE_NAME": "Steven Fox",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "PARK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172562",
+        "LATITUDE": 35.6621,
+        "LONGITUDE": -85.3584,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54957999999993,
+          35.79164600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172566",
+        "PERMITTEE_NAME": "Kara Youngblood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "1565 Tandys Knob Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172566",
+        "LATITUDE": 35.791646,
+        "LONGITUDE": -85.54957999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35839999999996,
+          35.662100000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.128",
+        "PERMITTEE_NAME": "Steven Fox",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1704153600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "PARK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.128",
+        "LATITUDE": 35.6621,
+        "LONGITUDE": -85.3584,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.304",
+        "PERMITTEE_NAME": "ISHA Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1701043200000,
+        "EFFECTIVE_DATE": 1700611200000,
+        "EXPIRATION_DATE": 1858377600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.304",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.31125499999996,
+          35.70082400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172428",
+        "PERMITTEE_NAME": "Josh clark ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Austin Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172428",
+        "LATITUDE": 35.700824,
+        "LONGITUDE": -85.311255,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.33745399999998,
+          35.69980700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172405",
+        "PERMITTEE_NAME": "Brian London",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Highway 30 / 455 London Farm Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172405",
+        "LATITUDE": 35.699807,
+        "LONGITUDE": -85.337454,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.29698399999995,
+          35.73272700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172321",
+        "PERMITTEE_NAME": "Christopher M Vick",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "508 Holly Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172321",
+        "LATITUDE": 35.732727,
+        "LONGITUDE": -85.296984,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45529999999997,
+          35.73012300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053905",
+        "PERMITTEE_NAME": "Camcar LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756857600000,
+        "EFFECTIVE_DATE": 1756857600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "502 Industry Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053905",
+        "LATITUDE": 35.730123,
+        "LONGITUDE": -85.45530000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.44861099999997,
+          35.69977200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR170977",
+        "PERMITTEE_NAME": "Stone Creek Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Golden Pointe Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR170977",
+        "LATITUDE": 35.699771999999996,
+        "LONGITUDE": -85.448611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57249999999999,
+          35.56750000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171599",
+        "PERMITTEE_NAME": "ISHA Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "Off SR-8 near Curtistown",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171599",
+        "LATITUDE": 35.5675,
+        "LONGITUDE": -85.5725,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.40639999999996,
+          35.77670000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR191569",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "SR-285 at LM 4.34 to LM 4.68",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR191569",
+        "LATITUDE": 35.7767,
+        "LONGITUDE": -85.4064,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35694399999994,
+          35.66277800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "887001",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1786924800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818288000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "103ne Falls Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:887001",
+        "LATITUDE": 35.662777999999996,
+        "LONGITUDE": -85.356944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46888899999999,
+          35.76666700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "887002",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1736985600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1799971200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "332sw Caney Fork River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:887002",
+        "LATITUDE": 35.766667,
+        "LONGITUDE": -85.46888899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.31166699999994,
+          35.72388900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "887003",
+        "PERMITTEE_NAME": "Long Branch Lakes at Fall Creek Falls",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1725321600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818374400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "103NE Camps Gulf Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:887003",
+        "LATITUDE": 35.723889,
+        "LONGITUDE": -85.311667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.29416699999996,
+          35.730000000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "887004",
+        "PERMITTEE_NAME": "Long Branch Lakes at Fall Creek Falls",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1725321600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818374400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "103NE Long Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:887004",
+        "LATITUDE": 35.730000000000004,
+        "LONGITUDE": -85.294167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.28333299999997,
+          35.80138900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "887005",
+        "PERMITTEE_NAME": "B.S.A. Middle Tennessee Council",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1780963200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1873497600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "332SE Trib-Bee Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:887005",
+        "LATITUDE": 35.801389,
+        "LONGITUDE": -85.283333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172063",
+        "PERMITTEE_NAME": "ISHA Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172063",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.49823799999996,
+          35.802268000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.125",
+        "PERMITTEE_NAME": "Middle Tennessee Natural Gas Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1563753600000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "1003 Cummingsville and Sparkman Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.125",
+        "LATITUDE": 35.802268,
+        "LONGITUDE": -85.498238,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45789999999994,
+          35.75010000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172272",
+        "PERMITTEE_NAME": "Family Dollar ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "250 Taft Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172272",
+        "LATITUDE": 35.7501,
+        "LONGITUDE": -85.45790000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54790799999995,
+          35.54154900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172265",
+        "PERMITTEE_NAME": "Isha Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Van Buren",
+        "SITE_LOCATION": "951 Isha Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172265",
+        "LATITUDE": 35.541548999999996,
+        "LONGITUDE": -85.54790799999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.02126899999996,
+          35.390030000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.046",
+        "PERMITTEE_NAME": "Tom Cate",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747872000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "150 River Place Ct",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.046",
+        "LATITUDE": 35.390029999999996,
+        "LONGITUDE": -85.02126899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80730499999999,
+          35.49079300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114656",
+        "PERMITTEE_NAME": "Inconceivable Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "15120 Highway 58",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114656",
+        "LATITUDE": 35.490793,
+        "LONGITUDE": -84.807305,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69811799999997,
+          35.70020900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.083",
+        "PERMITTEE_NAME": "Dennis Barker",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "301 Cottage Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.083",
+        "LATITUDE": 35.700209,
+        "LONGITUDE": -84.698118,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90147899999994,
+          35.361285000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.138",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782691200000,
+        "EFFECTIVE_DATE": 1782691200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Hiwassee River Mile 8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.138",
+        "LATITUDE": 35.361284999999995,
+        "LONGITUDE": -84.901479,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74001899999996,
+          35.657069000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.067",
+        "PERMITTEE_NAME": "Kelvin & Susan Hampton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1789344000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "159 Sam's Boat Dock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.067",
+        "LATITUDE": 35.657069,
+        "LONGITUDE": -84.74001899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66160399999995,
+          35.68554800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114714",
+        "PERMITTEE_NAME": "Southeast Mitigation LLC/Nuveen Natural Capital",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Highway 58 and Mitchell Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114714",
+        "LATITUDE": 35.685548,
+        "LONGITUDE": -84.661604,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81159999999994,
+          35.45380000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114707",
+        "PERMITTEE_NAME": "Thanh Tin Farm, LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Nopone Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114707",
+        "LATITUDE": 35.4538,
+        "LONGITUDE": -84.8116,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66160399999995,
+          35.68554800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.284",
+        "PERMITTEE_NAME": "Davey Mitigation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1775779200000,
+        "EFFECTIVE_DATE": 1775779200000,
+        "EXPIRATION_DATE": 1933459200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Highway 58 and Mitchell Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.284",
+        "LATITUDE": 35.685548,
+        "LONGITUDE": -84.661604,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75820099999999,
+          35.63412000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114501",
+        "PERMITTEE_NAME": "Stream Mitigation Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Peakland Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114501",
+        "LATITUDE": 35.634119999999996,
+        "LONGITUDE": -84.758201,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79458799999998,
+          35.54712600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114560",
+        "PERMITTEE_NAME": "Ann Terry",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "2549 River Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114560",
+        "LATITUDE": 35.547126,
+        "LONGITUDE": -84.79458799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79311399999995,
+          35.54918200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114558",
+        "PERMITTEE_NAME": "Darryl & Susan Meredith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "2599 River Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114558",
+        "LATITUDE": 35.549182,
+        "LONGITUDE": -84.793114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69673199999994,
+          35.61137100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114080",
+        "PERMITTEE_NAME": "Wayne Lewis",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "4196 Highway 68 E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114080",
+        "LATITUDE": 35.611371,
+        "LONGITUDE": -84.696732,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89210199999997,
+          35.37581300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.341",
+        "PERMITTEE_NAME": "Tracy Sneed",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1717372800000,
+        "EFFECTIVE_DATE": 1717372800000,
+        "EXPIRATION_DATE": 1875052800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "139 Lake Haven Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.341",
+        "LATITUDE": 35.375813,
+        "LONGITUDE": -84.892102,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95173999999997,
+          35.31786000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114088",
+        "PERMITTEE_NAME": "Triple Branch Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "HWY 58 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114088",
+        "LATITUDE": 35.317859999999996,
+        "LONGITUDE": -84.95174,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74167899999998,
+          35.65396700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.172",
+        "PERMITTEE_NAME": "Alan Dantzler",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1732147200000,
+        "EFFECTIVE_DATE": 1732147200000,
+        "EXPIRATION_DATE": 1889827200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "1991 SR-304",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.172",
+        "LATITUDE": 35.653967,
+        "LONGITUDE": -84.74167899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80527299999994,
+          35.51400200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.035",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1725321600000,
+        "EFFECTIVE_DATE": 1725321600000,
+        "EXPIRATION_DATE": 1725235200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "210 Goodfield Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.035",
+        "LATITUDE": 35.514002,
+        "LONGITUDE": -84.805273,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75820099999999,
+          35.63412000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.069",
+        "PERMITTEE_NAME": "Stream Mitigation Development, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1753056000000,
+        "EFFECTIVE_DATE": 1752796800000,
+        "EXPIRATION_DATE": 1910563200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Peakland Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.069",
+        "LATITUDE": 35.634119999999996,
+        "LONGITUDE": -84.758201,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92609199999998,
+          35.35622100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.163",
+        "PERMITTEE_NAME": "Lynn Nickoley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1714521600000,
+        "EFFECTIVE_DATE": 1714521600000,
+        "EXPIRATION_DATE": 1872288000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "198 Kimbrough Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.163",
+        "LATITUDE": 35.356221,
+        "LONGITUDE": -84.926092,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70633899999996,
+          35.73162000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.161",
+        "PERMITTEE_NAME": "Beth Kochoian",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1718064000000,
+        "EFFECTIVE_DATE": 1718064000000,
+        "EXPIRATION_DATE": 1875744000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "2340 Indian Shadows Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.161",
+        "LATITUDE": 35.73162,
+        "LONGITUDE": -84.706339,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89972299999994,
+          35.36585800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-22015",
+        "PERMITTEE_NAME": "Tennessee Wastewater Systems, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "1331 Hiwassee Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-22015",
+        "LATITUDE": 35.365857999999996,
+        "LONGITUDE": -84.899723,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69869999999997,
+          35.700000000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.075",
+        "PERMITTEE_NAME": "Dwight Hixson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1643846400000,
+        "EFFECTIVE_DATE": 1643846400000,
+        "EXPIRATION_DATE": 1801526400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "250 Cottage Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.075",
+        "LATITUDE": 35.7,
+        "LONGITUDE": -84.6987,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73299599999996,
+          35.669242000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.327",
+        "PERMITTEE_NAME": "Wayne E Tipps",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1647388800000,
+        "EFFECTIVE_DATE": 1647388800000,
+        "EXPIRATION_DATE": 1805068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "237 Brady Point Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.327",
+        "LATITUDE": 35.669242,
+        "LONGITUDE": -84.732996,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73133099999995,
+          35.61943000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110173",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1745452800000,
+        "EFFECTIVE_DATE": 1745452800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "1768 Highway 68 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110173",
+        "LATITUDE": 35.61943,
+        "LONGITUDE": -84.731331,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80666699999995,
+          35.48944400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053719",
+        "PERMITTEE_NAME": "Solomon Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764633600000,
+        "EFFECTIVE_DATE": 1764633600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "201 Polymer Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053719",
+        "LATITUDE": 35.489444,
+        "LONGITUDE": -84.80666699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80846599999995,
+          35.51633400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051406",
+        "PERMITTEE_NAME": "Jennings Used Truck Sales & Parts, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765324800000,
+        "EFFECTIVE_DATE": 1765324800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "4832 STATE HIGHWAY 30 W PO BOX 995",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051406",
+        "LATITUDE": 35.516334,
+        "LONGITUDE": -84.808466,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.97055599999999,
+          35.34027800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "617001",
+        "PERMITTEE_NAME": "N.I.R.A. Rod & Gun Club",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1740614400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "119sw Coppinger Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:617001",
+        "LATITUDE": 35.340278,
+        "LONGITUDE": -84.970556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98064599999998,
+          35.43066600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.144",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1476835200000,
+        "EFFECTIVE_DATE": 1476835200000,
+        "EXPIRATION_DATE": 1634515200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Tennessee River Mile 501.4L",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.144",
+        "LATITUDE": 35.430665999999995,
+        "LONGITUDE": -84.980646,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85998799999999,
+          35.52159400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.131",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1562544000000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "McKinley Branch off of Hwy 30",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.131",
+        "LATITUDE": 35.521594,
+        "LONGITUDE": -84.859988,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70263399999999,
+          35.722372000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.113",
+        "PERMITTEE_NAME": "Edward Nall",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1575417600000,
+        "EFFECTIVE_DATE": 1575417600000,
+        "EXPIRATION_DATE": 1733184000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Leffew Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.113",
+        "LATITUDE": 35.722372,
+        "LONGITUDE": -84.70263399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88852099999997,
+          35.48253200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.273",
+        "PERMITTEE_NAME": "Dennis Epperson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1605052800000,
+        "EFFECTIVE_DATE": 1605052800000,
+        "EXPIRATION_DATE": 1762732800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "371 Dogwood Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.273",
+        "LATITUDE": 35.482532,
+        "LONGITUDE": -84.888521,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70263399999999,
+          35.722372000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.243",
+        "PERMITTEE_NAME": "John and Beverly Clifton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1607904000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "Leffew Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.243",
+        "LATITUDE": 35.722372,
+        "LONGITUDE": -84.70263399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95149299999997,
+          35.31025500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670649",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1778112000000,
+        "EFFECTIVE_DATE": 1778112000000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "490 SR- 58 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670649",
+        "LATITUDE": 35.310255,
+        "LONGITUDE": -84.951493,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89972299999994,
+          35.36585800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.090",
+        "PERMITTEE_NAME": "Pangle Point Homeowners Association",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1646697600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Meigs",
+        "SITE_LOCATION": "1331 Hiwassee Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.090",
+        "LATITUDE": 35.365857999999996,
+        "LONGITUDE": -84.899723,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "name": "Knox",
   "region": "East Tennessee",
   "population": 494148,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -42,11 +42,11 @@
     "TN-02"
   ],
   "streamMiles": {
-    "impaired": 361.1,
+    "impaired": 360.9,
     "fullAttainment": 70.9,
     "notAssessed": 248.7,
     "otherAssessed": 0.0,
-    "total": 680.8
+    "total": 680.6
   },
   "rankings": {
     "population": {
@@ -155,7 +155,7 @@
     {
       "category": "Not Supporting",
       "label": "Not supporting",
-      "miles": 359.1
+      "miles": 358.8
     },
     {
       "category": "Not Supporting (Evaluated)",
@@ -163,12 +163,12 @@
       "miles": 2.1
     }
   ],
-  "impairmentSummary": "The local 2026 303(d) county summary shows about 361.1 river miles in not supporting categories, 70.9 fully supporting miles, and 248.7 not assessed miles in Knox County.",
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 360.9 river miles in not supporting categories, 70.9 fully supporting miles, and 248.7 not assessed miles in Knox County.",
   "impairmentCauses": [
     {
       "cause": "impaired_biota",
       "label": "Impaired biological community",
-      "miles": 346.6,
+      "miles": 346.3,
       "assessmentUnits": 38
     },
     {
@@ -198,7 +198,7 @@
     {
       "cause": "metals_other_than_mercury",
       "label": "Metals other than mercury",
-      "miles": 5.2,
+      "miles": 4.9,
       "assessmentUnits": 2
     }
   ],
@@ -346,7 +346,7 @@
     {
       "key": "impaired-river-miles",
       "label": "Impaired river miles",
-      "value": "361.1",
+      "value": "360.9",
       "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
       "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
       "sourceDataset": "2026 303(d) impairment layer",

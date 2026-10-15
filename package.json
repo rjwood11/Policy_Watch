@@ -11,6 +11,7 @@
     "launch:dev": "next dev -H 127.0.0.1",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "data:refresh-weekly": "python -m scripts.refresh.weekly_layers",
+    "data:refresh-online": "python -u -m scripts.refresh.online_sources",
     "data:refresh-echo": "python -m scripts.refresh.weekly_layers --source echo --metadata-if-changed",
     "data:refresh-superfund": "python -m scripts.refresh.superfund",
     "data:build-landuse": "python -m scripts.refresh.landuse",

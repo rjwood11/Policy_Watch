@@ -1,0 +1,2839 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21349699999996,
+          36.35198200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.177",
+        "PERMITTEE_NAME": "ATMOS Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743120000000,
+        "EFFECTIVE_DATE": 1743120000000,
+        "EXPIRATION_DATE": 1774569600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "629 Broad St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.177",
+        "LATITUDE": 36.351982,
+        "LONGITUDE": -82.21349699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15967999999998,
+          36.36869400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.075",
+        "PERMITTEE_NAME": "Lucky Dog Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748563200000,
+        "EFFECTIVE_DATE": 1748563200000,
+        "EXPIRATION_DATE": 1906243200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "650 TN-91",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.075",
+        "LATITUDE": 36.368694,
+        "LONGITUDE": -82.15968,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17579999999998,
+          36.31350000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.209",
+        "PERMITTEE_NAME": "Siam Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748995200000,
+        "EFFECTIVE_DATE": 1748995200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "113 Chambers Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.209",
+        "LATITUDE": 36.313500000000005,
+        "LONGITUDE": -82.17580000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.12494199999998,
+          36.334599000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.030",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1740960000000,
+        "EFFECTIVE_DATE": 1740960000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "744 Wilbur Dam Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.030",
+        "LATITUDE": 36.334599,
+        "LONGITUDE": -82.12494199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21335199999999,
+          36.356418000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.082",
+        "PERMITTEE_NAME": "City of Elizabethton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782432000000,
+        "EFFECTIVE_DATE": 1782432000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Watauga Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.082",
+        "LATITUDE": 36.356418,
+        "LONGITUDE": -82.213352,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21335199999999,
+          36.356418000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162536",
+        "PERMITTEE_NAME": "City of Elizabethton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Watauga Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162536",
+        "LATITUDE": 36.356418,
+        "LONGITUDE": -82.213352,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18731999999994,
+          36.26046000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.049",
+        "PERMITTEE_NAME": "Angela Odom",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1782259200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "3440 Gap Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.049",
+        "LATITUDE": 36.260459999999995,
+        "LONGITUDE": -82.18732,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.07559999999995,
+          36.18330000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.101",
+        "PERMITTEE_NAME": "Carter County Highway Dept",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1790208000000,
+        "EFFECTIVE_DATE": 1790208000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "McMahan-Gibbs Road Bridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.101",
+        "LATITUDE": 36.1833,
+        "LONGITUDE": -82.07560000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.03397499999994,
+          36.178262000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.079",
+        "PERMITTEE_NAME": "Johnny Ledford",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1781222400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Shell Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.079",
+        "LATITUDE": 36.178262,
+        "LONGITUDE": -82.033975,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.08512999999994,
+          36.16000800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.078",
+        "PERMITTEE_NAME": "Zibe Dowdy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780963200000,
+        "EFFECTIVE_DATE": 1780963200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "290 HEATON CREEK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.078",
+        "LATITUDE": 36.160008,
+        "LONGITUDE": -82.08512999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98393199999998,
+          36.25816800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162509",
+        "PERMITTEE_NAME": "Carter County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Poga Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162509",
+        "LATITUDE": 36.258168,
+        "LONGITUDE": -81.983932,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.09875499999998,
+          36.31411500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.030",
+        "PERMITTEE_NAME": "Watauga Lakeshore Resort and Marina",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1772582400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Highway 321",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.030",
+        "LATITUDE": 36.314115,
+        "LONGITUDE": -82.098755,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22599999999994,
+          36.34920000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162529",
+        "PERMITTEE_NAME": "Silver Lake Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "W Doe Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162529",
+        "LATITUDE": 36.3492,
+        "LONGITUDE": -82.226,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.05852999999996,
+          36.42792300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.313",
+        "PERMITTEE_NAME": "Carter County Highway Dept.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Freezeland Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.313",
+        "LATITUDE": 36.427923,
+        "LONGITUDE": -82.05852999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.14066099999997,
+          36.391061000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162559",
+        "PERMITTEE_NAME": "Jerry Hayes Jr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1791158400000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "178 Hayes Mtn Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162559",
+        "LATITUDE": 36.391061,
+        "LONGITUDE": -82.140661,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25679999999994,
+          36.32530000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162542",
+        "PERMITTEE_NAME": "Richard Tetrick",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Gap Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162542",
+        "LATITUDE": 36.3253,
+        "LONGITUDE": -82.2568,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17509999999999,
+          36.289000000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.088",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779408000000,
+        "EFFECTIVE_DATE": 1779408000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "SR-37 Bridge Repair at Log Mile 16.96",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.088",
+        "LATITUDE": 36.289,
+        "LONGITUDE": -82.1751,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21187099999997,
+          36.347593000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.090",
+        "PERMITTEE_NAME": "Atmos Energy Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1785888000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Upstream Elizabethton Covered Bridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.090",
+        "LATITUDE": 36.347592999999996,
+        "LONGITUDE": -82.211871,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16509099999996,
+          36.28644500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.295",
+        "PERMITTEE_NAME": "Arnett Builders",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "433 US 321",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.295",
+        "LATITUDE": 36.286445,
+        "LONGITUDE": -82.16509099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24040099999996,
+          36.31360300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.264b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762992000000,
+        "EFFECTIVE_DATE": 1762992000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1042 Gap Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.264b",
+        "LATITUDE": 36.313603,
+        "LONGITUDE": -82.24040099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.14559999999994,
+          36.38360000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162539",
+        "PERMITTEE_NAME": "Burleson Construction Company",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "119 Robinson Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162539",
+        "LATITUDE": 36.3836,
+        "LONGITUDE": -82.1456,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17359999999996,
+          36.26970000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162223",
+        "PERMITTEE_NAME": "Doe River Gorge Ministries, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "220 Doe River Gorge Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162223",
+        "LATITUDE": 36.2697,
+        "LONGITUDE": -82.17360000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.03048099999995,
+          36.170732000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.080",
+        "PERMITTEE_NAME": "Johnny Ledford",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1781136000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "195 Perkins Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.080",
+        "LATITUDE": 36.170732,
+        "LONGITUDE": -82.030481,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.11671299999995,
+          36.33802200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192362",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "751 Wilbur Dam Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192362",
+        "LATITUDE": 36.338021999999995,
+        "LONGITUDE": -82.11671299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.04827999999998,
+          36.14464000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.262",
+        "PERMITTEE_NAME": "TN Division of Natural Areas",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752451200000,
+        "EFFECTIVE_DATE": 1752451200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Left Prong Hampton Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.262",
+        "LATITUDE": 36.144639999999995,
+        "LONGITUDE": -82.04827999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.00816199999997,
+          36.26252200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162510",
+        "PERMITTEE_NAME": "Hidden Harmony LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "530 HEATON BRANCH RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162510",
+        "LATITUDE": 36.262522,
+        "LONGITUDE": -82.008162,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21179999999998,
+          36.34730100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.008",
+        "PERMITTEE_NAME": "William E  Carter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1773100800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Elizabethton Covered Bridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.008",
+        "LATITUDE": 36.347301,
+        "LONGITUDE": -82.21180000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.04827999999998,
+          36.14464000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.257",
+        "PERMITTEE_NAME": "TN Division of Natural Areas",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1750636800000,
+        "EFFECTIVE_DATE": 1750636800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Left Prong Hampton Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.257",
+        "LATITUDE": 36.144639999999995,
+        "LONGITUDE": -82.04827999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17598299999997,
+          36.27650300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.208",
+        "PERMITTEE_NAME": "Carter County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760054400000,
+        "EXPIRATION_DATE": 1917734400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "766 First Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.208",
+        "LATITUDE": 36.276503,
+        "LONGITUDE": -82.175983,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.02017999999998,
+          36.17953400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.270",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "SR-37 From near LM 0.00 to near LM 3.10",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.270",
+        "LATITUDE": 36.179534,
+        "LONGITUDE": -82.02018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.11314099999998,
+          36.17697500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.267",
+        "PERMITTEE_NAME": "Roan Mountain State Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1757980800000,
+        "EFFECTIVE_DATE": 1757980800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1000 Miller Farmstead Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.267",
+        "LATITUDE": 36.176975,
+        "LONGITUDE": -82.113141,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20413799999994,
+          36.32645300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051995",
+        "PERMITTEE_NAME": "Snap-On Tools Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "2195 State Line Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051995",
+        "LATITUDE": 36.326453,
+        "LONGITUDE": -82.204138,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19356999999997,
+          36.30926000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.264",
+        "PERMITTEE_NAME": "Valley Forge Free Will Baptist Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1753228800000,
+        "EXPIRATION_DATE": 1784678400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1503 River View Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.264",
+        "LATITUDE": 36.30926,
+        "LONGITUDE": -82.19357,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17639999999994,
+          36.22908000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192431",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "110 1ST AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192431",
+        "LATITUDE": 36.229079999999996,
+        "LONGITUDE": -82.1764,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.11671299999995,
+          36.33802200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.017",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1769990400000,
+        "EFFECTIVE_DATE": 1769990400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "751 Wilbur Dam Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.017",
+        "LATITUDE": 36.338021999999995,
+        "LONGITUDE": -82.11671299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.04845399999994,
+          36.43869500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.075",
+        "PERMITTEE_NAME": "Peter Scalf",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780617600000,
+        "EFFECTIVE_DATE": 1780617600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "2364 Highway 91",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.075",
+        "LATITUDE": 36.438694999999996,
+        "LONGITUDE": -82.04845399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.08700699999997,
+          36.17110400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.052",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774224000000,
+        "EFFECTIVE_DATE": 1774224000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "SR-143, From near 7.70 to near LM 11.00 (Hurricane Helene)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.052",
+        "LATITUDE": 36.171104,
+        "LONGITUDE": -82.087007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96355099999994,
+          36.246796000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162519",
+        "PERMITTEE_NAME": "Carter County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Poga Rd Bridge 2 over Elk River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162519",
+        "LATITUDE": 36.246795999999996,
+        "LONGITUDE": -81.963551,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28272299999998,
+          36.34568800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192464",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "720 Smalling Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192464",
+        "LATITUDE": 36.345687999999996,
+        "LONGITUDE": -82.28272299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17639999999994,
+          36.22908000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.066",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1775001600000,
+        "EFFECTIVE_DATE": 1775001600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "110 1ST AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.066",
+        "LATITUDE": 36.229079999999996,
+        "LONGITUDE": -82.1764,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.13009999999997,
+          36.18200000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162294",
+        "PERMITTEE_NAME": "Ripshin Lake Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Ripshin Lake Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162294",
+        "LATITUDE": 36.182,
+        "LONGITUDE": -82.1301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.14289999999994,
+          36.36080000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR24.162a",
+        "PERMITTEE_NAME": "First Utility District of Carter County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749513600000,
+        "EFFECTIVE_DATE": 1749513600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Blue Springs Road, Liberty Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR24.162a",
+        "LATITUDE": 36.360800000000005,
+        "LONGITUDE": -82.1429,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15910499999995,
+          36.179846000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162296",
+        "PERMITTEE_NAME": "Scott and Tamlyn Willard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "126 Paul Smith Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162296",
+        "LATITUDE": 36.179846,
+        "LONGITUDE": -82.159105,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.23195499999997,
+          36.35149900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075124",
+        "PERMITTEE_NAME": "Carter County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1677456000000,
+        "EFFECTIVE_DATE": 1677628800000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "801 Elk Avenue\r\nCarter County Courthouse",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075124",
+        "LATITUDE": 36.351499,
+        "LONGITUDE": -82.231955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16107999999997,
+          36.28664500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.246",
+        "PERMITTEE_NAME": "Carter Co Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1586908800000,
+        "EFFECTIVE_DATE": 1586822400000,
+        "EXPIRATION_DATE": 1744502400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Swimming Pool Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.246",
+        "LATITUDE": 36.286645,
+        "LONGITUDE": -82.16108,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24040099999996,
+          36.31360300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.264",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1042 Gap Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.264",
+        "LATITUDE": 36.313603,
+        "LONGITUDE": -82.24040099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.07919599999997,
+          36.41375700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.263",
+        "PERMITTEE_NAME": "Stoney Creek Volunteer Fire Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752537600000,
+        "EFFECTIVE_DATE": 1752537600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1824 Highway 91",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.263",
+        "LATITUDE": 36.413757,
+        "LONGITUDE": -82.079196,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.14289999999994,
+          36.36080000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR24.162b",
+        "PERMITTEE_NAME": "First Utility District of Carter County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786060800000,
+        "EFFECTIVE_DATE": 1786060800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Blue Springs Road, Liberty Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR24.162b",
+        "LATITUDE": 36.360800000000005,
+        "LONGITUDE": -82.1429,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.08638599999995,
+          36.148205000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.209",
+        "PERMITTEE_NAME": "Michael Benson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759449600000,
+        "EFFECTIVE_DATE": 1759449600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "286 Heaton Ridge Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.209",
+        "LATITUDE": 36.148205,
+        "LONGITUDE": -82.08638599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25435499999998,
+          36.34726900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162488",
+        "PERMITTEE_NAME": "TDEC Division of Remediation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1651 W ELK AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162488",
+        "LATITUDE": 36.347269,
+        "LONGITUDE": -82.25435499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98393199999998,
+          36.25816800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.286",
+        "PERMITTEE_NAME": "Carter County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1760659200000,
+        "EXPIRATION_DATE": 1792108800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Poga Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.286",
+        "LATITUDE": 36.258168,
+        "LONGITUDE": -81.983932,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.99269999999996,
+          36.273900000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162413",
+        "PERMITTEE_NAME": "Baker Construction Services, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "176 Poga Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162413",
+        "LATITUDE": 36.273900000000005,
+        "LONGITUDE": -81.9927,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.04954499999997,
+          36.19106700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162393",
+        "PERMITTEE_NAME": "Redi Mart Roan Mountain",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Highway 19E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162393",
+        "LATITUDE": 36.191067,
+        "LONGITUDE": -82.049545,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15967999999998,
+          36.36869400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162394",
+        "PERMITTEE_NAME": "Lucky Dog Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "650 TN-91",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162394",
+        "LATITUDE": 36.368694,
+        "LONGITUDE": -82.15968,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25701399999997,
+          36.37688900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.060B",
+        "PERMITTEE_NAME": "Jimmy Posey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1685491200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "919 Big Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.060B",
+        "LATITUDE": 36.376889,
+        "LONGITUDE": -83.257014,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20649999999995,
+          36.33800000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162427",
+        "PERMITTEE_NAME": "Construction Consultants INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1321 US Hwy 19E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162427",
+        "LATITUDE": 36.338,
+        "LONGITUDE": -82.2065,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15375299999994,
+          36.28527900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2406.094",
+        "PERMITTEE_NAME": "Duvall, Linda",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1731456000000,
+        "EFFECTIVE_DATE": 1731456000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "629 Swimming Pool Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2406.094",
+        "LATITUDE": 36.285278999999996,
+        "LONGITUDE": -82.153753,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21348299999994,
+          36.351852000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.093",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747958400000,
+        "EFFECTIVE_DATE": 1747958400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "from SR-11 (US-41) to Lake Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.093",
+        "LATITUDE": 36.351852,
+        "LONGITUDE": -82.213483,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29270099999997,
+          36.27740000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.028",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1740441600000,
+        "EFFECTIVE_DATE": 1727481600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "SR-361",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.028",
+        "LATITUDE": 36.2774,
+        "LONGITUDE": -82.292701,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.99009999999998,
+          36.27690000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.222",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1732060800000,
+        "EFFECTIVE_DATE": 1732060800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "SR-159 replace bridge over Elk River @ LM 7.23",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.222",
+        "LATITUDE": 36.276900000000005,
+        "LONGITUDE": -81.9901,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18197999999995,
+          36.36511400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162429",
+        "PERMITTEE_NAME": "Northeast State Community College",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "386 TN-91",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162429",
+        "LATITUDE": 36.365114,
+        "LONGITUDE": -82.18198,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24331499999994,
+          36.348033000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162400",
+        "PERMITTEE_NAME": "Rhetson Companies, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "980 OVER MOUNTAIN DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162400",
+        "LATITUDE": 36.348033,
+        "LONGITUDE": -82.243315,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28272299999998,
+          36.34568800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.167",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1738713600000,
+        "EFFECTIVE_DATE": 1738627200000,
+        "EXPIRATION_DATE": 1896307200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "720 Smalling Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.167",
+        "LATITUDE": 36.345687999999996,
+        "LONGITUDE": -82.28272299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29861099999994,
+          36.29722200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162364",
+        "PERMITTEE_NAME": "Carter County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Intersection of Buffalo Creek Rd and Gov Alfred Taylor Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162364",
+        "LATITUDE": 36.297222,
+        "LONGITUDE": -82.298611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16050499999994,
+          36.37230200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162318",
+        "PERMITTEE_NAME": "Hunter Elementary School",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "145 Hope St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162318",
+        "LATITUDE": 36.372302,
+        "LONGITUDE": -82.160505,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26969199999996,
+          36.23905700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162284",
+        "PERMITTEE_NAME": "Dean Mayes",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Sciota Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162284",
+        "LATITUDE": 36.239056999999995,
+        "LONGITUDE": -82.26969199999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.07336999999995,
+          36.19856100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.256",
+        "PERMITTEE_NAME": "Brushy Fork Environmental Consulting Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1706054400000,
+        "EFFECTIVE_DATE": 1706140800000,
+        "EXPIRATION_DATE": 1863907200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "HWY 143 + Gap Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.256",
+        "LATITUDE": 36.198561,
+        "LONGITUDE": -82.07337,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18195299999996,
+          36.27275400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162266",
+        "PERMITTEE_NAME": "Jake Fink",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "123 Streets Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162266",
+        "LATITUDE": 36.272754,
+        "LONGITUDE": -82.181953,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44999999999999,
+          36.210000000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.311",
+        "PERMITTEE_NAME": "Floyd Carr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1638921600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Dry Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.311",
+        "LATITUDE": 36.21,
+        "LONGITUDE": -82.45,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25701399999997,
+          36.37688900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.060",
+        "PERMITTEE_NAME": "Jimmy Posey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1685491200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "919 Big Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.060",
+        "LATITUDE": 36.376889,
+        "LONGITUDE": -83.257014,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27789999999999,
+          36.25890000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162290",
+        "PERMITTEE_NAME": "South Elizabethton Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Laurels RD/Big Springs Rd/Intersection of Gap Creek And Coal Chute Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162290",
+        "LATITUDE": 36.258900000000004,
+        "LONGITUDE": -82.2779,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17749999999995,
+          36.36320000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162240",
+        "PERMITTEE_NAME": "Whitehead Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Smokey Mtn Place",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162240",
+        "LATITUDE": 36.3632,
+        "LONGITUDE": -82.17750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.23919999999998,
+          36.345300000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162275",
+        "PERMITTEE_NAME": "Northeast Community Credit Union",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "980 Jason Witten Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162275",
+        "LATITUDE": 36.3453,
+        "LONGITUDE": -82.23920000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29376099999996,
+          36.36091700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.312",
+        "PERMITTEE_NAME": "Kristina Smith",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "121 S. 9th Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.312",
+        "LATITUDE": 36.360917,
+        "LONGITUDE": -82.29376099999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25435499999998,
+          36.34726900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.084",
+        "PERMITTEE_NAME": "TDEC Division of Remediation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1657843200000,
+        "EFFECTIVE_DATE": 1768521600000,
+        "EXPIRATION_DATE": 1815523200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1651 W ELK AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.084",
+        "LATITUDE": 36.347269,
+        "LONGITUDE": -82.25435499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.13554999999997,
+          36.38299900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.194",
+        "PERMITTEE_NAME": "Johnny Blankenship ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1629849600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "172 Danner Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.194",
+        "LATITUDE": 36.382999,
+        "LONGITUDE": -82.13555,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28556199999997,
+          36.331458000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.249",
+        "PERMITTEE_NAME": "Bobby Lee Townsend",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1644192000000,
+        "EFFECTIVE_DATE": 1644192000000,
+        "EXPIRATION_DATE": 1801872000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "224 Taylor Town Road\r\n228 Taylor Town Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.249",
+        "LATITUDE": 36.331458,
+        "LONGITUDE": -82.285562,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30047099999996,
+          36.37648400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051048",
+        "PERMITTEE_NAME": "Summers Taylor Materials",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "350 W. 4TH AVE., Watauga, TN. 37694 WEST OF PINEY FLATS ROAD - (LOCATION PER CARTER COUNTY TAX RECORD)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051048",
+        "LATITUDE": 36.376484,
+        "LONGITUDE": -82.300471,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21595899999994,
+          36.35052300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050222",
+        "PERMITTEE_NAME": "The Mapes Piano String Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1 Wire Mill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050222",
+        "LATITUDE": 36.350522999999995,
+        "LONGITUDE": -82.215959,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22132599999998,
+          36.35271400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050273",
+        "PERMITTEE_NAME": "Tri City Plating Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "705 North Lynn Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050273",
+        "LATITUDE": 36.352714,
+        "LONGITUDE": -82.22132599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20853499999998,
+          36.37811900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053506",
+        "PERMITTEE_NAME": "Norris Used Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752019200000,
+        "EFFECTIVE_DATE": 1752019200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "154 SAPPHIRE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053506",
+        "LATITUDE": 36.378119,
+        "LONGITUDE": -82.208535,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15185499999995,
+          36.22900500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050504",
+        "PERMITTEE_NAME": "ROAN MOUNTAIN SALVAGE, INC.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1658188800000,
+        "EFFECTIVE_DATE": 1658188800000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "6802 Highway 19",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050504",
+        "LATITUDE": 36.229005,
+        "LONGITUDE": -82.151855,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32174799999996,
+          36.275266000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050882",
+        "PERMITTEE_NAME": "Borla Performance Industries LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "500 Borla Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050882",
+        "LATITUDE": 36.275265999999995,
+        "LONGITUDE": -82.321748,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18388899999997,
+          36.36166700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054010",
+        "PERMITTEE_NAME": "Star Building Systems",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "151 JUDGE DON LEWIS BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054010",
+        "LATITUDE": 36.361667,
+        "LONGITUDE": -82.183889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.05249999999995,
+          36.19472200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053604",
+        "PERMITTEE_NAME": "New River Hardwoods, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "136 MILLER HOLLOW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053604",
+        "LATITUDE": 36.194722,
+        "LONGITUDE": -82.05250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22944399999994,
+          36.28888900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053842",
+        "PERMITTEE_NAME": "Richard Birchfield dba South Elizabethton Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "116 BIRCHFIELD LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053842",
+        "LATITUDE": 36.288889,
+        "LONGITUDE": -82.229444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21430899999996,
+          36.34711800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075281",
+        "PERMITTEE_NAME": "City of Elizabethton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1670198400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "136 South Sycamore",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075281",
+        "LATITUDE": 36.347118,
+        "LONGITUDE": -82.214309,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21518699999996,
+          36.37172700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160649",
+        "PERMITTEE_NAME": "Terry Montgomery",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Lacey Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160649",
+        "LATITUDE": 36.371727,
+        "LONGITUDE": -82.215187,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.06944399999998,
+          36.16611100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160602",
+        "PERMITTEE_NAME": "Wayne Holtsclaw",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1000' north of intersection of Sugar Hollow Road and Dark Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160602",
+        "LATITUDE": 36.166111,
+        "LONGITUDE": -82.06944399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97499999999997,
+          36.29167000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160560",
+        "PERMITTEE_NAME": "DBA Waverly Development Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "877 Sugar Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160560",
+        "LATITUDE": 36.291669999999996,
+        "LONGITUDE": -81.97500000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24583299999995,
+          36.34733300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160714",
+        "PERMITTEE_NAME": "The Commonwealth-Elizabethton Partners",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Intersection of OverMountain Dr. & Militia Ct",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160714",
+        "LATITUDE": 36.347333,
+        "LONGITUDE": -82.24583299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.08904199999995,
+          36.14058300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160691",
+        "PERMITTEE_NAME": "Mark Forbes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "1000 ft Northwest of Mckinley Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160691",
+        "LATITUDE": 36.140583,
+        "LONGITUDE": -82.08904199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.23383599999994,
+          36.35500100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056865",
+        "PERMITTEE_NAME": "Hilton Recycling",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1789344000000,
+        "EFFECTIVE_DATE": 1789344000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "405 CHEROKEE PARK DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056865",
+        "LATITUDE": 36.355001,
+        "LONGITUDE": -82.233836,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.12769999999995,
+          36.383200000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161042",
+        "PERMITTEE_NAME": "Highlands Land Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Price Road and DC Campbell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161042",
+        "LATITUDE": 36.3832,
+        "LONGITUDE": -82.1277,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.08245999999997,
+          36.132600000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161359",
+        "PERMITTEE_NAME": "Mark Forbes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "North side of Highway 143 in Roan Mountain west of Rustic Cabin Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161359",
+        "LATITUDE": 36.132600000000004,
+        "LONGITUDE": -82.08246,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26169999999996,
+          36.38310000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161461",
+        "PERMITTEE_NAME": "Pete Slagle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "239 Cripple Creek Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161461",
+        "LATITUDE": 36.3831,
+        "LONGITUDE": -82.2617,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18778999999995,
+          36.36116300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058586",
+        "PERMITTEE_NAME": "Colorworks, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764547200000,
+        "EFFECTIVE_DATE": 1764547200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "151 Iodent Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058586",
+        "LATITUDE": 36.361163,
+        "LONGITUDE": -82.18778999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17035999999996,
+          36.36088100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161852",
+        "PERMITTEE_NAME": "Kent Edens",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Southgate Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161852",
+        "LATITUDE": 36.360881,
+        "LONGITUDE": -82.17036,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25209999999998,
+          36.322200000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161909",
+        "PERMITTEE_NAME": "Three Arrows Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Just south of 676 Gap Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161909",
+        "LATITUDE": 36.3222,
+        "LONGITUDE": -82.2521,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.14299999999997,
+          36.36090000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161981",
+        "PERMITTEE_NAME": "First Utility District of Carter County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "On Blue Springs Road just after Bishop Hollow Rd. and before Campbell Rash Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161981",
+        "LATITUDE": 36.3609,
+        "LONGITUDE": -82.143,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.13828299999994,
+          36.349533000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161972",
+        "PERMITTEE_NAME": "John Allen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "168 C. Grindstaff Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161972",
+        "LATITUDE": 36.349533,
+        "LONGITUDE": -82.138283,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25906399999997,
+          36.32945200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161991",
+        "PERMITTEE_NAME": "Carter County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Intersection of Gap Creek Rd and Mary Patton Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161991",
+        "LATITUDE": 36.329451999999996,
+        "LONGITUDE": -82.259064,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17769999999996,
+          36.27430000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162007",
+        "PERMITTEE_NAME": "Barabra and Joe Bonasia",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Highway 19-E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162007",
+        "LATITUDE": 36.274300000000004,
+        "LONGITUDE": -82.1777,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31067299999995,
+          36.27329400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.197",
+        "PERMITTEE_NAME": "Kayla Coleman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1630281600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "471 Okolona Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.197",
+        "LATITUDE": 36.273294,
+        "LONGITUDE": -82.310673,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.13009999999997,
+          36.18200000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "107001",
+        "PERMITTEE_NAME": "Ripshin Lake Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1784505600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1815609600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Ripshin Lake Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:107001",
+        "LATITUDE": 36.182,
+        "LONGITUDE": -82.1301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21356999999995,
+          36.358280000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162057",
+        "PERMITTEE_NAME": "Charles Keith Renfro",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "502 Lovers Lane (NOI states 205 Lovers Lane)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162057",
+        "LATITUDE": 36.35828,
+        "LONGITUDE": -82.21356999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22358799999995,
+          36.35675700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.029",
+        "PERMITTEE_NAME": "City of Elizabethton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1616112000000,
+        "EFFECTIVE_DATE": 1615939200000,
+        "EXPIRATION_DATE": 1773619200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "Lovers Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.029",
+        "LATITUDE": 36.356757,
+        "LONGITUDE": -82.22358799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.07919999999996,
+          36.171700000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162143",
+        "PERMITTEE_NAME": "Scott Tipton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "107 Sugar Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162143",
+        "LATITUDE": 36.1717,
+        "LONGITUDE": -82.0792,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15280999999999,
+          36.364730000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.199",
+        "PERMITTEE_NAME": "Allen Dejoode",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1628121600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carter",
+        "SITE_LOCATION": "234 Blue Springs Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.199",
+        "LATITUDE": 36.36473,
+        "LONGITUDE": -82.15281,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

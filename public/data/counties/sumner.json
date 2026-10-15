@@ -3,7 +3,7 @@
   "name": "Sumner",
   "region": "Middle Tennessee",
   "population": 204424,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -37,11 +37,11 @@
     "TN-06"
   ],
   "streamMiles": {
-    "impaired": 187.2,
+    "impaired": 187.1,
     "fullAttainment": 77.0,
     "notAssessed": 388.3,
     "otherAssessed": 0.0,
-    "total": 652.5
+    "total": 652.4
   },
   "rankings": {
     "population": {
@@ -115,10 +115,10 @@
       "basis": "Ranked by designated scenic river miles, high to low."
     },
     "waterServiceAreas": {
-      "rank": 20,
+      "rank": 31,
       "total": 95,
-      "tieCount": 12,
-      "display": "tied 20th of 95 Tennessee counties",
+      "tieCount": 10,
+      "display": "tied 31st of 95 Tennessee counties",
       "basis": "Ranked by overlapping public water service areas, high to low."
     },
     "waterStressTractShare": {
@@ -150,7 +150,7 @@
     {
       "category": "Not Supporting",
       "label": "Not supporting",
-      "miles": 181.1
+      "miles": 181.0
     },
     {
       "category": "Not Supporting (Evaluated)",
@@ -158,30 +158,30 @@
       "miles": 6.1
     }
   ],
-  "impairmentSummary": "The local 2026 303(d) county summary shows about 187.2 river miles in not supporting categories, 77.0 fully supporting miles, and 388.3 not assessed miles in Sumner County.",
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 187.1 river miles in not supporting categories, 77.0 fully supporting miles, and 388.3 not assessed miles in Sumner County.",
   "impairmentCauses": [
     {
       "cause": "impaired_biota",
       "label": "Impaired biological community",
-      "miles": 187.2,
+      "miles": 187.1,
       "assessmentUnits": 24
     },
     {
       "cause": "habitat_alterations",
       "label": "Habitat alteration",
-      "miles": 144.7,
+      "miles": 144.6,
       "assessmentUnits": 19
     },
     {
       "cause": "pathogens",
       "label": "Pathogens / bacteria",
-      "miles": 135.9,
+      "miles": 135.7,
       "assessmentUnits": 18
     },
     {
       "cause": "sediment",
       "label": "Sediment / siltation",
-      "miles": 73.2,
+      "miles": 73.1,
       "assessmentUnits": 10
     },
     {
@@ -345,7 +345,7 @@
     {
       "key": "impaired-river-miles",
       "label": "Impaired river miles",
-      "value": "187.2",
+      "value": "187.1",
       "definition": "Approximate river miles intersecting county boundaries in 2026 not supporting impairment categories.",
       "caveat": "Line segments are spatially intersected with county boundaries, so shared waters can contribute to multiple counties.",
       "sourceDataset": "2026 303(d) impairment layer",
@@ -422,7 +422,7 @@
     "names": []
   },
   "waterServiceSummary": {
-    "serviceAreas": 12,
+    "serviceAreas": 11,
     "names": [
       "WHITE HOUSE UTILITY DISTRICT",
       "CASTALIAN SPRINGS-BETHPAGE U.D",

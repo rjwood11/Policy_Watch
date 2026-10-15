@@ -1,0 +1,2865 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81884399999996,
+          35.69486000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.14",
+        "PERMITTEE_NAME": "Warren County Highway Department - Levie Glenn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1739232000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Woodland Creek Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.14",
+        "LATITUDE": 35.69486,
+        "LONGITUDE": -85.818844,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.92920699999996,
+          35.62734900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.54",
+        "PERMITTEE_NAME": "Kelle D. Cantrell- West Warren-Viola Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788134400000,
+        "EFFECTIVE_DATE": 1788134400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Caney Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.54",
+        "LATITUDE": 35.627348999999995,
+        "LONGITUDE": -85.92920699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63337199999995,
+          35.609533000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172881",
+        "PERMITTEE_NAME": "Jaymen Patel- V&J Properties llc",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "8580 Harrison Ferry Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172881",
+        "LATITUDE": 35.609533,
+        "LONGITUDE": -85.633372,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91622099999995,
+          35.826887000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172854",
+        "PERMITTEE_NAME": "Wildlands Engineering, Inc. ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "2254 Osement Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172854",
+        "LATITUDE": 35.826887,
+        "LONGITUDE": -85.916221,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84613299999995,
+          35.63759100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051574",
+        "PERMITTEE_NAME": "Truck Universe Auto Collision and Sales, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1779408000000,
+        "EFFECTIVE_DATE": 1779408000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "5416 MANCHESTER HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051574",
+        "LATITUDE": 35.637591,
+        "LONGITUDE": -85.846133,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80649999999997,
+          35.652000000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172863",
+        "PERMITTEE_NAME": "WINTERS CONSTRUCTION, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "S. Chancery St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172863",
+        "LATITUDE": 35.652,
+        "LONGITUDE": -85.8065,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77162999999996,
+          35.74884000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172612",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Bluff Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172612",
+        "LATITUDE": 35.74884,
+        "LONGITUDE": -85.77163,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62119999999999,
+          35.79970000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.040a",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772409600000,
+        "EFFECTIVE_DATE": 1772409600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "SR-287, Bridge over Collins River, LM 39.48",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.040a",
+        "LATITUDE": 35.7997,
+        "LONGITUDE": -85.6212,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62119999999999,
+          35.79970000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.040b",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772409600000,
+        "EFFECTIVE_DATE": 1772409600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "SR-287, Bridge over Collins River, LM 39.48",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.040b",
+        "LATITUDE": 35.7997,
+        "LONGITUDE": -85.6212,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85861899999998,
+          35.58712900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.03",
+        "PERMITTEE_NAME": "Barron Crawford- US Fish and Wildlife Service",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771804800000,
+        "EFFECTIVE_DATE": 1771804800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Denton Carr Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.03",
+        "LATITUDE": 35.587129,
+        "LONGITUDE": -85.85861899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88733399999995,
+          35.76035900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.28",
+        "PERMITTEE_NAME": "Clinton Newman",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "424 Peden Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.28",
+        "LATITUDE": 35.760359,
+        "LONGITUDE": -85.887334,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82927099999995,
+          35.75581400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.30",
+        "PERMITTEE_NAME": "Warren",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779235200000,
+        "EFFECTIVE_DATE": 1779235200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Robert Smith Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.30",
+        "LATITUDE": 35.755814,
+        "LONGITUDE": -85.82927099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67095699999999,
+          35.694042000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172823",
+        "PERMITTEE_NAME": "TN Dept of Env & Conservation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "C CARDWELL RD 324",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172823",
+        "LATITUDE": 35.694041999999996,
+        "LONGITUDE": -85.670957,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59520599999996,
+          35.75378200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2207.044",
+        "PERMITTEE_NAME": "PETNLP, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1657238400000,
+        "EXPIRATION_DATE": 1744070400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Goodbar Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2207.044",
+        "LATITUDE": 35.753782,
+        "LONGITUDE": -85.59520599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90967999999998,
+          35.60622900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172412",
+        "PERMITTEE_NAME": "West Warren - Viola Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Hwy 55",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172412",
+        "LATITUDE": 35.606229,
+        "LONGITUDE": -85.90968,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60430199999996,
+          35.54130100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.134",
+        "PERMITTEE_NAME": "ISHA Foundation, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Hill Creek Rd off of SR-8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.134",
+        "LATITUDE": 35.541301,
+        "LONGITUDE": -85.60430199999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93368899999996,
+          35.651883000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.29",
+        "PERMITTEE_NAME": "Lynn Cantrell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1713830400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "3771 Jacksboro Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.29",
+        "LATITUDE": 35.651883,
+        "LONGITUDE": -85.933689,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55447999999996,
+          35.733610000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172581",
+        "PERMITTEE_NAME": "Ronald Anderson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "398 Mullican Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172581",
+        "LATITUDE": 35.73361,
+        "LONGITUDE": -85.55448,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77666699999997,
+          35.67444400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172736",
+        "PERMITTEE_NAME": "McMinnville Water Treatment Plant - Ricky Morton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "200 Bell Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172736",
+        "LATITUDE": 35.674444,
+        "LONGITUDE": -85.77666699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90667299999996,
+          35.606670000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172728",
+        "PERMITTEE_NAME": "Amnon Shreibman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Manchester Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172728",
+        "LATITUDE": 35.60667,
+        "LONGITUDE": -85.906673,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77349799999996,
+          35.69116500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.86",
+        "PERMITTEE_NAME": "Grant Swallows - Warren County School System",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1753920000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "504 N. Chancery St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.86",
+        "LATITUDE": 35.691165,
+        "LONGITUDE": -85.77349799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63555399999996,
+          35.76149700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172770",
+        "PERMITTEE_NAME": "Victaulic Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "4279 OLD ROCK ISLAND RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172770",
+        "LATITUDE": 35.761497,
+        "LONGITUDE": -85.635554,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78765399999997,
+          35.66603900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172774",
+        "PERMITTEE_NAME": "Leif Swanson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Wagner St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172774",
+        "LATITUDE": 35.666039,
+        "LONGITUDE": -85.78765399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78218999999996,
+          35.71278200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.91",
+        "PERMITTEE_NAME": "Kartesh Patel - Dhyni, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "655 Needmore Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.91",
+        "LATITUDE": 35.712782,
+        "LONGITUDE": -85.78219,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94042399999995,
+          35.62753800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172771",
+        "PERMITTEE_NAME": "Lien Nguyen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Caney Branch Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172771",
+        "LATITUDE": 35.627538,
+        "LONGITUDE": -85.940424,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67763899999994,
+          35.76377700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172791",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Mason Grissom Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172791",
+        "LATITUDE": 35.763777,
+        "LONGITUDE": -85.677639,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85134199999999,
+          35.71334900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172878",
+        "PERMITTEE_NAME": "James Thomas Higgins III",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "546 Bethany Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172878",
+        "LATITUDE": 35.713349,
+        "LONGITUDE": -85.851342,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.92920699999996,
+          35.62734900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172876",
+        "PERMITTEE_NAME": "West Warren - Viola Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Caney Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172876",
+        "LATITUDE": 35.627348999999995,
+        "LONGITUDE": -85.92920699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79127999999997,
+          35.704233000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172829",
+        "PERMITTEE_NAME": "McMinnville Electric System",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "1035 Old Smithville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172829",
+        "LATITUDE": 35.704232999999995,
+        "LONGITUDE": -85.79128,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69858199999999,
+          35.552504000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054395",
+        "PERMITTEE_NAME": "PRO-PACK OF TN., INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767744000000,
+        "EFFECTIVE_DATE": 1767744000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "11289 BEERSHEBA HWY PO BOX 131",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054395",
+        "LATITUDE": 35.552504,
+        "LONGITUDE": -85.698582,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88209999999998,
+          35.62160000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172874",
+        "PERMITTEE_NAME": "Simco Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Manchester Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172874",
+        "LATITUDE": 35.6216,
+        "LONGITUDE": -85.88210000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78764699999994,
+          35.702297000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172842",
+        "PERMITTEE_NAME": "Stowers Machinery Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "934 Old Smithville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172842",
+        "LATITUDE": 35.702297,
+        "LONGITUDE": -85.78764699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77429999999998,
+          35.67305500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172501",
+        "PERMITTEE_NAME": "Southern Investment Group LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "173 Cemetery Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172501",
+        "LATITUDE": 35.673055,
+        "LONGITUDE": -85.77430000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77722599999998,
+          35.767866000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.110",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1899763200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Bluff Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.110",
+        "LATITUDE": 35.767866,
+        "LONGITUDE": -85.777226,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67763899999994,
+          35.76377700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.112",
+        "PERMITTEE_NAME": "Anthony Pelham- Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Mason Grissom Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.112",
+        "LATITUDE": 35.763777,
+        "LONGITUDE": -85.677639,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89273899999995,
+          35.63755100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.71",
+        "PERMITTEE_NAME": "Becky Sanchez",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691452800000,
+        "EFFECTIVE_DATE": 1691452800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Cooper Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.71",
+        "LATITUDE": 35.637550999999995,
+        "LONGITUDE": -85.89273899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77722599999998,
+          35.767866000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172788",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Bluff Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172788",
+        "LATITUDE": 35.767866,
+        "LONGITUDE": -85.777226,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83375499999994,
+          35.53430000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.32",
+        "PERMITTEE_NAME": "West Warren- Viola Utility District- Kelle Cantrell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743033600000,
+        "EFFECTIVE_DATE": 1743033600000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Mt. Zion Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.32",
+        "LATITUDE": 35.5343,
+        "LONGITUDE": -85.833755,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78268899999995,
+          35.71308700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172769",
+        "PERMITTEE_NAME": "Dhyni, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "2292 SMITHVILLE HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172769",
+        "LATITUDE": 35.713087,
+        "LONGITUDE": -85.78268899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78348499999998,
+          35.69229900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.76",
+        "PERMITTEE_NAME": "Nolan Ming - City of McMinnville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1753660800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "206 & 208 Potter Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.76",
+        "LATITUDE": 35.692299,
+        "LONGITUDE": -85.783485,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91622099999995,
+          35.826887000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.249",
+        "PERMITTEE_NAME": "Wildlands Engineering, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "2254 Osement Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.249",
+        "LATITUDE": 35.826887,
+        "LONGITUDE": -85.916221,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88316199999997,
+          35.63832700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050788",
+        "PERMITTEE_NAME": "Global Auto Salvage LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758758400000,
+        "EFFECTIVE_DATE": 1758758400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "255 Henegar Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050788",
+        "LATITUDE": 35.638327,
+        "LONGITUDE": -85.883162,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77349799999996,
+          35.69116500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172756",
+        "PERMITTEE_NAME": "Warren County School System",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "504 N. Chancery St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172756",
+        "LATITUDE": 35.691165,
+        "LONGITUDE": -85.77349799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78348499999998,
+          35.69229900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172749",
+        "PERMITTEE_NAME": "City of McMinnville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "206 & 208 Potter Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172749",
+        "LATITUDE": 35.692299,
+        "LONGITUDE": -85.783485,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68974099999997,
+          35.620494000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.102",
+        "PERMITTEE_NAME": "Warren County Highway Department - Levie Glenn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755129600000,
+        "EFFECTIVE_DATE": 1755129600000,
+        "EXPIRATION_DATE": 1912982400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Turners Bend Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.102",
+        "LATITUDE": 35.620494,
+        "LONGITUDE": -85.689741,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81884399999996,
+          35.69486000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.103",
+        "PERMITTEE_NAME": "Warren County Highway Department - Levie Glenn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755129600000,
+        "EFFECTIVE_DATE": 1755129600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Woodland Creek Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.103",
+        "LATITUDE": 35.69486,
+        "LONGITUDE": -85.818844,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77162999999996,
+          35.74884000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.48",
+        "PERMITTEE_NAME": "Anthony Pelham",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1719964800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Bluff Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.48",
+        "LATITUDE": 35.74884,
+        "LONGITUDE": -85.77163,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83176599999996,
+          35.64317200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050225",
+        "PERMITTEE_NAME": "C.F.C. RECYCLING, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "4530 Manchester Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050225",
+        "LATITUDE": 35.643172,
+        "LONGITUDE": -85.831766,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76133199999998,
+          35.68006600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.173",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764892800000,
+        "EFFECTIVE_DATE": 1764892800000,
+        "EXPIRATION_DATE": 1922572800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "200 Cope Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.173",
+        "LATITUDE": 35.680066,
+        "LONGITUDE": -85.761332,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80523399999998,
+          35.68818600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172764",
+        "PERMITTEE_NAME": "Natasha Cooper",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Myers Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172764",
+        "LATITUDE": 35.688186,
+        "LONGITUDE": -85.805234,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84370499999994,
+          35.74659400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172082",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Short Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172082",
+        "LATITUDE": 35.746594,
+        "LONGITUDE": -85.843705,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60423699999996,
+          35.594021000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.39",
+        "PERMITTEE_NAME": "Srinivas Jasti",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1721606400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "300 Grady's Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.39",
+        "LATITUDE": 35.594021,
+        "LONGITUDE": -85.604237,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60134999999997,
+          35.75592000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172629",
+        "PERMITTEE_NAME": "Ryan Edmonds",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Hidden River Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172629",
+        "LATITUDE": 35.755919999999996,
+        "LONGITUDE": -85.60135,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82287899999994,
+          35.69925000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.05",
+        "PERMITTEE_NAME": "Benaiah Kimming",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1705968000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "3157 Nashville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.05",
+        "LATITUDE": 35.69925,
+        "LONGITUDE": -85.822879,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74548699999997,
+          35.70150600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172664",
+        "PERMITTEE_NAME": "TCAT McMinnville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "241 VO TECH DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172664",
+        "LATITUDE": 35.701505999999995,
+        "LONGITUDE": -85.745487,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78385599999996,
+          35.71005300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172643",
+        "PERMITTEE_NAME": "Mac Morales",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Northwood Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172643",
+        "LATITUDE": 35.710052999999995,
+        "LONGITUDE": -85.783856,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87159399999996,
+          35.71967700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172585",
+        "PERMITTEE_NAME": "Jaymin Patel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "6406 Senator Jerry Cooper Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172585",
+        "LATITUDE": 35.719677,
+        "LONGITUDE": -85.871594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87389999999994,
+          35.74819000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.246",
+        "PERMITTEE_NAME": "James Patterson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1740096000000,
+        "EFFECTIVE_DATE": 1740096000000,
+        "EXPIRATION_DATE": 1897776000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "H. Knight Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.246",
+        "LATITUDE": 35.74819,
+        "LONGITUDE": -85.8739,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77815999999996,
+          35.69217000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172431",
+        "PERMITTEE_NAME": "Coffee County Bank ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "569 North Chancery Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172431",
+        "LATITUDE": 35.69217,
+        "LONGITUDE": -85.77816,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89729399999999,
+          35.60742000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.18",
+        "PERMITTEE_NAME": "Warren County Solid Waste",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1680739200000,
+        "EFFECTIVE_DATE": 1680739200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Sunny Acres Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.18",
+        "LATITUDE": 35.60742,
+        "LONGITUDE": -85.897294,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.60423699999996,
+          35.594021000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172595",
+        "PERMITTEE_NAME": "Srinivas Jasti",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "300 Grady's Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172595",
+        "LATITUDE": 35.594021,
+        "LONGITUDE": -85.604237,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88208499999996,
+          35.62947600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.314",
+        "PERMITTEE_NAME": "Bridgestone Americas Tire Operation, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1727654400000,
+        "EFFECTIVE_DATE": 1727654400000,
+        "EXPIRATION_DATE": 1885334400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "725 Bridgestone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.314",
+        "LATITUDE": 35.629476,
+        "LONGITUDE": -85.88208499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77899999999994,
+          35.698000000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172514",
+        "PERMITTEE_NAME": "Caney Fork Electric Cooperative",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "920 SMITHVILLE HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172514",
+        "LATITUDE": 35.698,
+        "LONGITUDE": -85.77900000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88582999999994,
+          35.59341600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.15",
+        "PERMITTEE_NAME": "Mitchell Robinson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1709683200000,
+        "EFFECTIVE_DATE": 1709683200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Beacon Light Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.15",
+        "LATITUDE": 35.593416,
+        "LONGITUDE": -85.88583,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88769999999994,
+          35.713610000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-23034",
+        "PERMITTEE_NAME": "Tennessee Wastewater Systems Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "3444 Old Nashville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-23034",
+        "LATITUDE": 35.713609999999996,
+        "LONGITUDE": -85.88770000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83279299999998,
+          35.64354400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050727",
+        "PERMITTEE_NAME": "Capital Waste Services LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761661461000,
+        "EFFECTIVE_DATE": 1761661461000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "4392 MANCHESTER HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050727",
+        "LATITUDE": 35.643544,
+        "LONGITUDE": -85.832793,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83279299999998,
+          35.64354400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-23040",
+        "PERMITTEE_NAME": "Capital Waste Services LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "4392 MANCHESTER HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-23040",
+        "LATITUDE": 35.643544,
+        "LONGITUDE": -85.832793,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81069999999994,
+          35.69610000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172470",
+        "PERMITTEE_NAME": "Eric Cason",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "2418 Old Nashville Hwy/US Hwy 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172470",
+        "LATITUDE": 35.6961,
+        "LONGITUDE": -85.8107,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88208499999996,
+          35.62947600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172487",
+        "PERMITTEE_NAME": "Bridgestone Americas Tire Operations",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "725 Bridgestone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172487",
+        "LATITUDE": 35.629476,
+        "LONGITUDE": -85.88208499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59920799999998,
+          35.59457100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172429",
+        "PERMITTEE_NAME": "Srinivas Jasti and Veera Venkata Jasti",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "500 Eagle Nest Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172429",
+        "LATITUDE": 35.594570999999995,
+        "LONGITUDE": -85.59920799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89802499999996,
+          35.60779800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172472",
+        "PERMITTEE_NAME": "David Cathey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "310 Sunny Acres Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172472",
+        "LATITUDE": 35.607797999999995,
+        "LONGITUDE": -85.89802499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78451999999999,
+          35.704900000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172435",
+        "PERMITTEE_NAME": "Fred Hall, Donald Hillis, and Ryan Lorance",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "New Smithville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172435",
+        "LATITUDE": 35.7049,
+        "LONGITUDE": -85.78452,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84370499999994,
+          35.74659400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172348",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Short Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172348",
+        "LATITUDE": 35.746594,
+        "LONGITUDE": -85.843705,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61311199999994,
+          35.75458700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172325",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Goodbar Road and Hidden River Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172325",
+        "LATITUDE": 35.754587,
+        "LONGITUDE": -85.613112,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86975999999999,
+          35.61770000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172298",
+        "PERMITTEE_NAME": "Bhumik Patel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Harvest Farm Lake Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172298",
+        "LATITUDE": 35.6177,
+        "LONGITUDE": -85.86976,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96511999999996,
+          35.75634000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.052",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1647907200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "SR-1 Maintenance, LM 0.08 - LM 0.18,",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.052",
+        "LATITUDE": 35.75634,
+        "LONGITUDE": -85.96512,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88368999999994,
+          35.726406000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172344",
+        "PERMITTEE_NAME": "Doan Vo & Truman Le",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "US-70s W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172344",
+        "LATITUDE": 35.726406,
+        "LONGITUDE": -85.88369,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88406999999995,
+          35.61657100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110487",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1667260800000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "33 Fingerbluff Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110487",
+        "LATITUDE": 35.616571,
+        "LONGITUDE": -85.88407,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63222999999994,
+          35.79284000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172301",
+        "PERMITTEE_NAME": "Sadie Wang ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Off of Watson Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172301",
+        "LATITUDE": 35.79284,
+        "LONGITUDE": -85.63222999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63469399999997,
+          35.80546700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0027456",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": 1647302400000,
+        "EFFECTIVE_DATE": 1651363200000,
+        "EXPIRATION_DATE": 1809043200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "1778 Rock Island Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0027456",
+        "LATITUDE": 35.805467,
+        "LONGITUDE": -85.634694,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84488599999997,
+          35.63600700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110053",
+        "PERMITTEE_NAME": "imi Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1670630400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "5445 Manchester Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110053",
+        "LATITUDE": 35.636007,
+        "LONGITUDE": -85.844886,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76197999999994,
+          35.690720000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050227",
+        "PERMITTEE_NAME": "Cumberland Lumber & Manufacturing Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766154772000,
+        "EFFECTIVE_DATE": 1766154772000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "202 Red Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050227",
+        "LATITUDE": 35.69072,
+        "LONGITUDE": -85.76198,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81079999999997,
+          35.694300000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051146",
+        "PERMITTEE_NAME": "Turner Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "2429 NASHVILLE HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051146",
+        "LATITUDE": 35.6943,
+        "LONGITUDE": -85.8108,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74185199999994,
+          35.70283800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050487",
+        "PERMITTEE_NAME": "Newell Brands Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765497600000,
+        "EFFECTIVE_DATE": 1765497600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "150 CADILLAC LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050487",
+        "LATITUDE": 35.702838,
+        "LONGITUDE": -85.741852,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88208499999996,
+          35.62947600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053210",
+        "PERMITTEE_NAME": "Bridgestone Americas Tire Operations, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756857600000,
+        "EFFECTIVE_DATE": 1756857600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "725 Bridgestone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053210",
+        "LATITUDE": 35.629476,
+        "LONGITUDE": -85.88208499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89027799999997,
+          35.62083300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053002",
+        "PERMITTEE_NAME": "Yorozu Automotive Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1757289600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "395 Mountain View Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053002",
+        "LATITUDE": 35.620833,
+        "LONGITUDE": -85.890278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77250699999996,
+          35.68139700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS077623",
+        "PERMITTEE_NAME": "City of McMinnville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1669075200000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "101 East Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS077623",
+        "LATITUDE": 35.681397,
+        "LONGITUDE": -85.77250699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89469099999997,
+          35.78729800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056061",
+        "PERMITTEE_NAME": "Green Hill Auto Salvage, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "4810 West Green Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056061",
+        "LATITUDE": 35.787298,
+        "LONGITUDE": -85.894691,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63006199999995,
+          35.75448000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110316",
+        "PERMITTEE_NAME": "Superior Ready Mix Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1667520000000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "10144 Sparta Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110316",
+        "LATITUDE": 35.75448,
+        "LONGITUDE": -85.630062,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70227799999998,
+          35.71237700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058582",
+        "PERMITTEE_NAME": "Tinsley Asphalt Products, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "390 Spencer Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058582",
+        "LATITUDE": 35.712377,
+        "LONGITUDE": -85.70227799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76754399999999,
+          35.69650400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059122",
+        "PERMITTEE_NAME": "Durham School Services - Collierville, TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "126 MIDDLE SCHOOL DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059122",
+        "LATITUDE": 35.696504,
+        "LONGITUDE": -85.767544,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69779999999997,
+          35.77740000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.353",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1465516800000,
+        "EFFECTIVE_DATE": 1465516800000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "SR-288 Over Collins River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.353",
+        "LATITUDE": 35.7774,
+        "LONGITUDE": -85.6978,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61888899999997,
+          35.66916700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "897002",
+        "PERMITTEE_NAME": "Overton Mountain Development Partnership",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1782172800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1876176000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "328ne Trib-chestnut Hollow Br",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:897002",
+        "LATITUDE": 35.669167,
+        "LONGITUDE": -85.618889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77709999999996,
+          35.674780000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "897005",
+        "PERMITTEE_NAME": "City of McMinnville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1820966400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "92NE Barren Fork",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:897005",
+        "LATITUDE": 35.67478,
+        "LONGITUDE": -85.7771,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86583299999995,
+          35.614167000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "897006",
+        "PERMITTEE_NAME": "Harvest Farms Lake Owners Assoc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1783296000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1813017600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "92se Crowfoot Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:897006",
+        "LATITUDE": 35.614167,
+        "LONGITUDE": -85.865833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86055599999997,
+          35.62388900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "897008",
+        "PERMITTEE_NAME": "McMinnville Country Club",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1768435200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1828828800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "92SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:897008",
+        "LATITUDE": 35.623889,
+        "LONGITUDE": -85.860556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61944399999999,
+          35.67055600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "897010",
+        "PERMITTEE_NAME": "Overton Mountain Development Partnership",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1782259200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1876176000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "328ne Chestnut Hollow Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:897010",
+        "LATITUDE": 35.670556,
+        "LONGITUDE": -85.619444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58466699999997,
+          35.58063100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171912",
+        "PERMITTEE_NAME": "ISHA Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "ISHA Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171912",
+        "LATITUDE": 35.580631,
+        "LONGITUDE": -85.584667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80329999999998,
+          35.68810000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172053",
+        "PERMITTEE_NAME": "Donald and Latesha Hillis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Myers Lane, Old Shelbyville Road, and Wilson Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172053",
+        "LATITUDE": 35.6881,
+        "LONGITUDE": -85.80330000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86014699999998,
+          35.536271000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.309",
+        "PERMITTEE_NAME": "Samuel McColloch",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "10500 Viola Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.309",
+        "LATITUDE": 35.536271,
+        "LONGITUDE": -85.860147,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70227799999998,
+          35.71237700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.173",
+        "PERMITTEE_NAME": "Tinsley Asphalt, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1537488000000,
+        "EFFECTIVE_DATE": 1537488000000,
+        "EXPIRATION_DATE": 1695168000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "390 Spencer Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.173",
+        "LATITUDE": 35.712377,
+        "LONGITUDE": -85.70227799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58466699999997,
+          35.58063100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-19016",
+        "PERMITTEE_NAME": "IRM Utility, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1585612800000,
+        "EFFECTIVE_DATE": 1585699200000,
+        "EXPIRATION_DATE": 1743379200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "ISHA Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-19016",
+        "LATITUDE": 35.580631,
+        "LONGITUDE": -85.584667,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84370499999994,
+          35.74659400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.056",
+        "PERMITTEE_NAME": "Warren County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1583366400000,
+        "EFFECTIVE_DATE": 1583366400000,
+        "EXPIRATION_DATE": 1741046400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Short Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.056",
+        "LATITUDE": 35.746594,
+        "LONGITUDE": -85.843705,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69779999999997,
+          35.77740000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.353-21",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1623715200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "SR-288 Over Collins River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.353-21",
+        "LATITUDE": 35.7774,
+        "LONGITUDE": -85.6978,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82189999999997,
+          35.641500000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172211",
+        "PERMITTEE_NAME": "Waymon Hale",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Vervilla Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172211",
+        "LATITUDE": 35.6415,
+        "LONGITUDE": -85.8219,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79059999999998,
+          35.69620000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.273",
+        "PERMITTEE_NAME": "Independence Living, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1617667200000,
+        "EFFECTIVE_DATE": 1617667200000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "Hyde Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.273",
+        "LATITUDE": 35.696200000000005,
+        "LONGITUDE": -85.7906,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83983099999995,
+          35.703666000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.140",
+        "PERMITTEE_NAME": "Warren County Memorial Airport Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1602374400000,
+        "EFFECTIVE_DATE": 1602201600000,
+        "EXPIRATION_DATE": 1759881600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "48 West Airport Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.140",
+        "LATITUDE": 35.703666,
+        "LONGITUDE": -85.83983099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69251499999996,
+          35.636227000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.176",
+        "PERMITTEE_NAME": "Alex Nafe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1637020800000,
+        "EFFECTIVE_DATE": 1637020800000,
+        "EXPIRATION_DATE": 1794700800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "691 Collins Run",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.176",
+        "LATITUDE": 35.636227,
+        "LONGITUDE": -85.692515,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63555299999996,
+          35.76149600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053727",
+        "PERMITTEE_NAME": "Victaulic Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "4279 OLD ROCK ISLAND ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053727",
+        "LATITUDE": 35.761496,
+        "LONGITUDE": -85.635553,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91381499999994,
+          35.603192000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172249",
+        "PERMITTEE_NAME": "Perman Engineering ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Warren",
+        "SITE_LOCATION": "East of First National Bank on Manchester Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172249",
+        "LATITUDE": 35.603192,
+        "LONGITUDE": -85.913815,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

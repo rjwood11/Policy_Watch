@@ -1,0 +1,655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55256399999996,
+          36.32748000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.004",
+        "PERMITTEE_NAME": "James Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1653955200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "1755 Sparkman Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.004",
+        "LATITUDE": 36.32748,
+        "LONGITUDE": -87.55256399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66585999999995,
+          36.338130000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.007",
+        "PERMITTEE_NAME": "Fred Richardson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1653955200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "12 Cave Orchard Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.007",
+        "LATITUDE": 36.33813,
+        "LONGITUDE": -87.66586,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66104099999995,
+          36.29007900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.003",
+        "PERMITTEE_NAME": "Laura Bea Sullivan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1647907200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "1375 Bateman Branch Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.003",
+        "LATITUDE": 36.290079,
+        "LONGITUDE": -87.661041,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65963599999998,
+          36.35890400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR249226",
+        "PERMITTEE_NAME": "Johnsonville TVA Employees Credit Union",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Hwy 149",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR249226",
+        "LATITUDE": 36.358903999999995,
+        "LONGITUDE": -87.65963599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60678899999994,
+          36.296325000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR248804",
+        "PERMITTEE_NAME": "Montgomery G. Turner Sr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "10080 TN-49",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR248804",
+        "LATITUDE": 36.296324999999996,
+        "LONGITUDE": -87.60678899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83129999999994,
+          36.26030000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2504.229",
+        "PERMITTEE_NAME": "Houston County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756771200000,
+        "EFFECTIVE_DATE": 1756771200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Whiteoak Road over Whiteoak Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2504.229",
+        "LATITUDE": 36.2603,
+        "LONGITUDE": -87.8313,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67076499999996,
+          36.366730000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR246823",
+        "PERMITTEE_NAME": "City of Erin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Buckeye Road & Old Scott Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR246823",
+        "LATITUDE": 36.36673,
+        "LONGITUDE": -87.670765,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.82742299999995,
+          36.258650000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.139",
+        "PERMITTEE_NAME": "Carl Wayne Miller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1568678400000,
+        "EFFECTIVE_DATE": 1568678400000,
+        "EXPIRATION_DATE": 1726444800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Lewis Branch Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.139",
+        "LATITUDE": 36.258649999999996,
+        "LONGITUDE": -87.827423,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66944499999994,
+          36.294751000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.241",
+        "PERMITTEE_NAME": "Sunoco Logistics Engineering",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773273600000,
+        "EFFECTIVE_DATE": 1773273600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Old Ike Ross Hollow Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.241",
+        "LATITUDE": 36.294751,
+        "LONGITUDE": -87.669445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.80967999999996,
+          36.311840000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.282",
+        "PERMITTEE_NAME": "Clint Reynolds",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1670198400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "4147 Highway 147",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.282",
+        "LATITUDE": 36.31184,
+        "LONGITUDE": -87.80968,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67076499999996,
+          36.366730000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2304.130",
+        "PERMITTEE_NAME": "City of Erin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1683676800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Buckeye Road & Old Scott Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2304.130",
+        "LATITUDE": 36.36673,
+        "LONGITUDE": -87.670765,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74862599999994,
+          36.306681000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00366",
+        "PERMITTEE_NAME": "Redman Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1898467200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "286 Limekiln Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00366",
+        "LATITUDE": 36.306681,
+        "LONGITUDE": -87.748626,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.82742299999995,
+          36.258650000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.001",
+        "PERMITTEE_NAME": "Carl Wayne Miller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1677801600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Lewis Branch Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.001",
+        "LATITUDE": 36.258649999999996,
+        "LONGITUDE": -87.827423,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60913399999998,
+          36.30450200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.013",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1674432000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "75 Feet South from Jim Clark Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.013",
+        "LATITUDE": 36.304502,
+        "LONGITUDE": -87.609134,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89913899999999,
+          36.31404800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.073",
+        "PERMITTEE_NAME": "Retus Powell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1681430400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "9588 TN-147",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.073",
+        "LATITUDE": 36.314048,
+        "LONGITUDE": -87.89913899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72164099999998,
+          36.31396300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.108",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1652313600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "251 Mobley Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.108",
+        "LATITUDE": 36.313963,
+        "LONGITUDE": -87.72164099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.73333299999996,
+          36.31666700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050126",
+        "PERMITTEE_NAME": "Ralph Largent Sawmill, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "243 Sawmill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050126",
+        "LATITUDE": 36.316666999999995,
+        "LONGITUDE": -87.733333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65358999999995,
+          36.36685300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110238",
+        "PERMITTEE_NAME": "IMI Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1700524800000,
+        "EFFECTIVE_DATE": 1700611200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "165 Industrial Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110238",
+        "LATITUDE": 36.366853,
+        "LONGITUDE": -87.65359,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76444399999997,
+          36.32111100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "427002",
+        "PERMITTEE_NAME": "City of Tennessee Ridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1741737600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "29SE South Fork Hurricane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:427002",
+        "LATITUDE": 36.321110999999995,
+        "LONGITUDE": -87.764444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66247199999998,
+          36.20247200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.195",
+        "PERMITTEE_NAME": "John Goodrum",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1483315200000,
+        "EFFECTIVE_DATE": 1483315200000,
+        "EXPIRATION_DATE": 1640995200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Erin",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.195",
+        "LATITUDE": 36.202472,
+        "LONGITUDE": -87.662472,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86209999999994,
+          36.32030000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.160",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1466380800000,
+        "EFFECTIVE_DATE": 1466380800000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "SR-147 MM 5.0",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.160",
+        "LATITUDE": 36.3203,
+        "LONGITUDE": -87.8621,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94752299999999,
+          36.304962000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR241663",
+        "PERMITTEE_NAME": "Houston County, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Danville Loop at HWY 147",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR241663",
+        "LATITUDE": 36.304961999999996,
+        "LONGITUDE": -87.94752299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65471999999994,
+          36.31575000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059635",
+        "PERMITTEE_NAME": "Robert A. Wright dba Wrights Farm",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "7956 Highway 13",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059635",
+        "LATITUDE": 36.31575,
+        "LONGITUDE": -87.65472,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94752299999999,
+          36.304962000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.259",
+        "PERMITTEE_NAME": "Houston County",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "Danville Loop at HWY 147",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.259",
+        "LATITUDE": 36.304961999999996,
+        "LONGITUDE": -87.94752299999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65409499999998,
+          36.36725100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR244709",
+        "PERMITTEE_NAME": "City of Erin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Houston",
+        "SITE_LOCATION": "187 Industrial Park Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR244709",
+        "LATITUDE": 36.367250999999996,
+        "LONGITUDE": -87.654095,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

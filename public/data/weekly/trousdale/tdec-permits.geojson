@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15398099999999,
+          36.38802400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172347",
+        "PERMITTEE_NAME": "Carl W. and Barbara S. Robbins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Crestview Court",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172347",
+        "LATITUDE": 36.388024,
+        "LONGITUDE": -86.153981,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17666599999995,
+          36.460555000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670751",
+        "PERMITTEE_NAME": "Columbia Gulf Transmission, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1777420800000,
+        "EFFECTIVE_DATE": 1777593600000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Hartsville Compressor Station",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670751",
+        "LATITUDE": 36.460555,
+        "LONGITUDE": -86.176666,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09929999999997,
+          36.36120000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172719",
+        "PERMITTEE_NAME": "Tennessee Central Economic Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Trousdale Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172719",
+        "LATITUDE": 36.361200000000004,
+        "LONGITUDE": -86.0993,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25882899999993,
+          36.39439600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670778",
+        "PERMITTEE_NAME": "Columbia Gulf Transmission, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1778716800000,
+        "EFFECTIVE_DATE": 1778716800000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "450 Bass Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670778",
+        "LATITUDE": 36.394396,
+        "LONGITUDE": -86.25882899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15049999999997,
+          36.37240000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670788",
+        "PERMITTEE_NAME": "EAST TENNESSEE NATURAL GAS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1776211200000,
+        "EFFECTIVE_DATE": 1776211200000,
+        "EXPIRATION_DATE": 1809043200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Lock 6 Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670788",
+        "LATITUDE": 36.3724,
+        "LONGITUDE": -86.15050000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20159999999998,
+          36.38020000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670787",
+        "PERMITTEE_NAME": "East Tennessee Natural Gas, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1776384000000,
+        "EFFECTIVE_DATE": 1776384000000,
+        "EXPIRATION_DATE": 1809043200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "680 Boat Dock Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670787",
+        "LATITUDE": 36.3802,
+        "LONGITUDE": -86.2016,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13319999999999,
+          36.366300000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172596",
+        "PERMITTEE_NAME": "Jones Brothers Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Lock Six Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172596",
+        "LATITUDE": 36.3663,
+        "LONGITUDE": -86.1332,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10635399999995,
+          36.39825700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172616",
+        "PERMITTEE_NAME": "Craig Moreland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Highway 10",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172616",
+        "LATITUDE": 36.398257,
+        "LONGITUDE": -86.106354,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25591999999995,
+          36.303570000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.72",
+        "PERMITTEE_NAME": "Michael Bobel - Tennessee Wildlife Resources Agency",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1750204800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Hwy 231 N, Lock 5 Refuge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.72",
+        "LATITUDE": 36.30357,
+        "LONGITUDE": -86.25591999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15462099999996,
+          36.41028300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.56",
+        "PERMITTEE_NAME": "Anthony Natale",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1749427200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "1035 Halltown Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.56",
+        "LATITUDE": 36.410283,
+        "LONGITUDE": -86.15462099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18843399999997,
+          36.403699000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172751",
+        "PERMITTEE_NAME": "Johnny Farley - J&M Rental Solutions",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "297 West McMurry Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172751",
+        "LATITUDE": 36.403698999999996,
+        "LONGITUDE": -86.188434,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17749999999995,
+          36.37500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.119",
+        "PERMITTEE_NAME": "Hartsville-Trousdale County Water/Sewer Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1757289600000,
+        "EXPIRATION_DATE": 1914969600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "17 Water Plant Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.119",
+        "LATITUDE": 36.375,
+        "LONGITUDE": -86.17750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18965999999995,
+          36.394930000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192418",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Linear Project - start at tap point near structure 527 on L5110",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192418",
+        "LATITUDE": 36.394929999999995,
+        "LONGITUDE": -86.18965999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05479999999994,
+          36.251100000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.21",
+        "PERMITTEE_NAME": "Carroll Carman",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "40 Linda Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.21",
+        "LATITUDE": 36.2511,
+        "LONGITUDE": -86.0548,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12129999999996,
+          36.376900000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192221",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "SR-141, North of SR-10 to Near the Intersection of Cedar Bluff Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192221",
+        "LATITUDE": 36.3769,
+        "LONGITUDE": -86.1213,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14359999999994,
+          36.38830000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172665",
+        "PERMITTEE_NAME": "State of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "716 MCMURRY BLVD E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172665",
+        "LATITUDE": 36.3883,
+        "LONGITUDE": -86.1436,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16474199999999,
+          36.39233900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172652",
+        "PERMITTEE_NAME": "Trousdale County Schools (Dr Clint Satterfield, Director of Schools)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "200 E. Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172652",
+        "LATITUDE": 36.392339,
+        "LONGITUDE": -86.16474199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21384999999998,
+          36.356183000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172631",
+        "PERMITTEE_NAME": "Terry Wayne Lynn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "6450 Beasleys Bend Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172631",
+        "LATITUDE": 36.356183,
+        "LONGITUDE": -86.21385,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10091599999998,
+          36.362179000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059589",
+        "PERMITTEE_NAME": "Weldon/IPS",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "100 TROUSDALE WAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059589",
+        "LATITUDE": 36.362179,
+        "LONGITUDE": -86.100916,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12129999999996,
+          36.376900000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.219",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1706054400000,
+        "EFFECTIVE_DATE": 1769126400000,
+        "EXPIRATION_DATE": 1840147200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "SR-141, North of SR-10 to Near the Intersection of Cedar Bluff Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.219",
+        "LATITUDE": 36.3769,
+        "LONGITUDE": -86.1213,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13319999999999,
+          36.366300000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172570",
+        "PERMITTEE_NAME": "Jones Bros. Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Lock Six Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172570",
+        "LATITUDE": 36.3663,
+        "LONGITUDE": -86.1332,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09794999999997,
+          36.34301100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.339",
+        "PERMITTEE_NAME": "Tennessee Central Economic Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1712102400000,
+        "EFFECTIVE_DATE": 1712102400000,
+        "EXPIRATION_DATE": 1869782400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "176 Tennessee Central Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.339",
+        "LATITUDE": 36.343011,
+        "LONGITUDE": -86.09795,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09696299999996,
+          36.352945000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172445",
+        "PERMITTEE_NAME": "Tennessee Central Economic Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Sumner Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172445",
+        "LATITUDE": 36.352945,
+        "LONGITUDE": -86.096963,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15770499999996,
+          36.400735000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051422",
+        "PERMITTEE_NAME": "Mueller Refrigeration Products Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "121 Rogers Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051422",
+        "LATITUDE": 36.400735,
+        "LONGITUDE": -86.15770499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17728999999997,
+          36.375766000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB030899",
+        "PERMITTEE_NAME": "Hartsville STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1756771200000,
+        "EFFECTIVE_DATE": 1756771200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "20 Water Plant Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB030899",
+        "LATITUDE": 36.375766,
+        "LONGITUDE": -86.17729,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25799999999998,
+          36.37640000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172018",
+        "PERMITTEE_NAME": "Gene Carman III",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Intersection of Armstrong Road and HWY 231",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172018",
+        "LATITUDE": 36.376400000000004,
+        "LONGITUDE": -86.25800000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14108899999997,
+          36.38832400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172046",
+        "PERMITTEE_NAME": "Beasley Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "East McMurry Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172046",
+        "LATITUDE": 36.388324,
+        "LONGITUDE": -86.141089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16293599999995,
+          36.395800000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110460",
+        "PERMITTEE_NAME": "Garrott Brothers Continuous Mix, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1668556800000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "105 PLANTERS ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110460",
+        "LATITUDE": 36.3958,
+        "LONGITUDE": -86.162936,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16196199999996,
+          36.39746500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172280",
+        "PERMITTEE_NAME": "Harper Avenue Cottages",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "Harper Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172280",
+        "LATITUDE": 36.397465,
+        "LONGITUDE": -86.161962,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18185699999998,
+          36.40388200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172292",
+        "PERMITTEE_NAME": "Gene Carman-Gregory Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "W McMurry Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172292",
+        "LATITUDE": 36.403881999999996,
+        "LONGITUDE": -86.181857,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17619399999995,
+          36.356058000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.006",
+        "PERMITTEE_NAME": "Dan Parker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1626652800000,
+        "EFFECTIVE_DATE": 1626652800000,
+        "EXPIRATION_DATE": 1784332800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "152 Dr. Smith Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.006",
+        "LATITUDE": 36.356058,
+        "LONGITUDE": -86.176194,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09614999999997,
+          36.34776100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172228",
+        "PERMITTEE_NAME": "Carson Jones",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Trousdale",
+        "SITE_LOCATION": "70 McKee Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172228",
+        "LATITUDE": 36.347761,
+        "LONGITUDE": -86.09615,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

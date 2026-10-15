@@ -1,0 +1,3931 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53964899999994,
+          35.93492900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059969",
+        "PERMITTEE_NAME": "Railcar Service Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765152000000,
+        "EFFECTIVE_DATE": 1765152000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "663 EMORY DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059969",
+        "LATITUDE": 35.934929,
+        "LONGITUDE": -84.539649,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41803299999998,
+          35.90421900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136813",
+        "PERMITTEE_NAME": "Primos Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "North of 100 Foxberry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136813",
+        "LATITUDE": 35.904219,
+        "LONGITUDE": -84.418033,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50179999999995,
+          35.97010000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192347",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "SR-29 @ SR-61",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192347",
+        "LATITUDE": 35.9701,
+        "LONGITUDE": -84.5018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57777699999997,
+          35.91666600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051169",
+        "PERMITTEE_NAME": "NORFOLK SOUTHERN RAILWAY COMPANY",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760659200000,
+        "EFFECTIVE_DATE": 1760659200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "120 OLD VALLEY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051169",
+        "LATITUDE": 35.916666,
+        "LONGITUDE": -84.577777,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30032199999994,
+          35.93516200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137910",
+        "PERMITTEE_NAME": "US Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1 Bethel Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137910",
+        "LATITUDE": 35.935162,
+        "LONGITUDE": -84.300322,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34949999999998,
+          36.033600000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051171",
+        "PERMITTEE_NAME": "Lynn Bumgardner",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1745193600000,
+        "EFFECTIVE_DATE": 1745193600000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "727 OLD HARRIMAN HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051171",
+        "LATITUDE": 36.0336,
+        "LONGITUDE": -84.3495,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54673499999996,
+          35.88968900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137933",
+        "PERMITTEE_NAME": "United Hospitality Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1817 Roane State Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137933",
+        "LATITUDE": 35.889689,
+        "LONGITUDE": -84.546735,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31002299999994,
+          35.931193000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.166",
+        "PERMITTEE_NAME": "UT-Battelle, LLC/ US DOE",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1 Bethel Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.166",
+        "LATITUDE": 35.931193,
+        "LONGITUDE": -84.310023,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39309999999995,
+          35.93150000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.112",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC (UCOR)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782691200000,
+        "EFFECTIVE_DATE": 1782691200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "652 Enrichment Street, Building K-1652",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.112",
+        "LATITUDE": 35.9315,
+        "LONGITUDE": -84.3931,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50256999999993,
+          35.89525400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0082507",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 SWAN POND RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0082507",
+        "LATITUDE": 35.895254,
+        "LONGITUDE": -84.50256999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51722199999995,
+          35.896637000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192455",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road TVA Kingston Fossil Plant",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192455",
+        "LATITUDE": 35.896637,
+        "LONGITUDE": -84.51722199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49179999999996,
+          35.885200000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.153",
+        "PERMITTEE_NAME": "City of Kingston",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1470 N Kentucky Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.153",
+        "LATITUDE": 35.885200000000005,
+        "LONGITUDE": -84.4918,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48955599999994,
+          35.90077500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.100",
+        "PERMITTEE_NAME": "James T. & Sarah M. Harrison",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780617600000,
+        "EFFECTIVE_DATE": 1780617600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "123 Emory Point Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.100",
+        "LATITUDE": 35.900774999999996,
+        "LONGITUDE": -84.489556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34888399999994,
+          35.84765500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138455",
+        "PERMITTEE_NAME": "Anthony and Juana Canna, private owners",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "229 Haven Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138455",
+        "LATITUDE": 35.847654999999996,
+        "LONGITUDE": -84.348884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34479099999999,
+          35.966962000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138424",
+        "PERMITTEE_NAME": "Empire Project Management, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Cherry Oak Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138424",
+        "LATITUDE": 35.966961999999995,
+        "LONGITUDE": -84.344791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30619999999999,
+          35.91450000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.103",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC (UCOR)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1781222400000,
+        "EFFECTIVE_DATE": 1781222400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1 Bethel Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.103",
+        "LATITUDE": 35.914500000000004,
+        "LONGITUDE": -84.3062,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42121499999996,
+          35.91666800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138461",
+        "PERMITTEE_NAME": "Primos Land Company LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "At the End of Roseberry Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138461",
+        "LATITUDE": 35.916668,
+        "LONGITUDE": -84.42121499999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39997799999998,
+          35.96290800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138442",
+        "PERMITTEE_NAME": "Turnkey Technical Services, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "383 Poplar Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138442",
+        "LATITUDE": 35.962908,
+        "LONGITUDE": -84.39997799999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37049999999994,
+          35.957100000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138497",
+        "PERMITTEE_NAME": "Oak Ridge Industrial Development Board",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Horizon Center Industrial Park, Renovare Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138497",
+        "LATITUDE": 35.957100000000004,
+        "LONGITUDE": -84.3705,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28802899999994,
+          35.91965400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138158",
+        "PERMITTEE_NAME": "UT-Battelle, LLC on behalf of the US Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Melton Valley Haul Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138158",
+        "LATITUDE": 35.919654,
+        "LONGITUDE": -84.288029,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39034199999998,
+          35.93204300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.038",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772150400000,
+        "EFFECTIVE_DATE": 1772150400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "807 Heritage Center",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.038",
+        "LATITUDE": 35.932043,
+        "LONGITUDE": -84.39034199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34651699999995,
+          35.89617100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138170",
+        "PERMITTEE_NAME": "Veteran Enterprises & Technical Services, LLC (VETS)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "492 Sam Rayburn Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138170",
+        "LATITUDE": 35.896170999999995,
+        "LONGITUDE": -84.34651699999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50256999999993,
+          35.89525400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.078",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787097600000,
+        "EFFECTIVE_DATE": 1787097600000,
+        "EXPIRATION_DATE": 1944777600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 SWAN POND RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.078",
+        "LATITUDE": 35.895254,
+        "LONGITUDE": -84.50256999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40244299999995,
+          35.93722600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138187",
+        "PERMITTEE_NAME": "Kairos Power, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "760 Perimeter Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138187",
+        "LATITUDE": 35.937225999999995,
+        "LONGITUDE": -84.40244299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70620799999995,
+          35.84712300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050068",
+        "PERMITTEE_NAME": "Glenn's Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1775692800000,
+        "EFFECTIVE_DATE": 1775692800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "110 HWY 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050068",
+        "LATITUDE": 35.847122999999996,
+        "LONGITUDE": -84.70620799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40244299999995,
+          35.93722600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.052",
+        "PERMITTEE_NAME": "Kairos Power, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1776211200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "760 Perimeter Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.052",
+        "LATITUDE": 35.937225999999995,
+        "LONGITUDE": -84.40244299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67628899999994,
+          35.81783200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.094",
+        "PERMITTEE_NAME": "Tim Schroeder",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1751846400000,
+        "EFFECTIVE_DATE": 1751846400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "115 Overlook Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.094",
+        "LATITUDE": 35.817831999999996,
+        "LONGITUDE": -84.676289,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65953699999994,
+          35.881804000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138168",
+        "PERMITTEE_NAME": "AutoZone Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1110 N GATEWAY AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138168",
+        "LATITUDE": 35.881803999999995,
+        "LONGITUDE": -84.659537,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34479099999999,
+          35.966962000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138255",
+        "PERMITTEE_NAME": "VT Investors, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Cherry Oak Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138255",
+        "LATITUDE": 35.966961999999995,
+        "LONGITUDE": -84.344791,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40513999999996,
+          35.932210000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.170",
+        "PERMITTEE_NAME": "ALEUT Federal LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Perimeter Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.170",
+        "LATITUDE": 35.93221,
+        "LONGITUDE": -84.40514,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39034199999998,
+          35.93204300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.179",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764115200000,
+        "EFFECTIVE_DATE": 1764115200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "807 Heritage Center",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.179",
+        "LATITUDE": 35.932043,
+        "LONGITUDE": -84.39034199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40052299999996,
+          35.930315000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138285",
+        "PERMITTEE_NAME": "R-50, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Perimeter Road and 6th Street: 900 Enrichment Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138285",
+        "LATITUDE": 35.930315,
+        "LONGITUDE": -84.40052299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55181299999998,
+          35.89414500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138313",
+        "PERMITTEE_NAME": "Charles Dayton Greer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "0 Roane State Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138313",
+        "LATITUDE": 35.894145,
+        "LONGITUDE": -84.551813,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31538299999994,
+          35.934083000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192422",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1 BETHEL VALLEY RD TVA BETHEL VALLEY, TN 161KV SWITCHING STATION",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192422",
+        "LATITUDE": 35.934083,
+        "LONGITUDE": -84.315383,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31001299999997,
+          35.93119000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.033",
+        "PERMITTEE_NAME": "Oak Ridge National Laboratory",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1770595200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1 Bethel Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.033",
+        "LATITUDE": 35.93119,
+        "LONGITUDE": -84.310013,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50179999999995,
+          35.97010000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.304",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1766016000000,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "SR-29 @ SR-61",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.304",
+        "LATITUDE": 35.9701,
+        "LONGITUDE": -84.5018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43954699999995,
+          35.79708400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.104",
+        "PERMITTEE_NAME": "Mitigate TN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1656028800000,
+        "EFFECTIVE_DATE": 1656028800000,
+        "EXPIRATION_DATE": 1813708800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Little Dogwood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.104",
+        "LATITUDE": 35.797084,
+        "LONGITUDE": -84.43954699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51722199999995,
+          35.896637000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192457",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road TVA Kingston Fossil Plant",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192457",
+        "LATITUDE": 35.896637,
+        "LONGITUDE": -84.51722199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38904699999995,
+          35.92695900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138513",
+        "PERMITTEE_NAME": "Oklo Recycling TN, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "200 Heritage Center Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138513",
+        "LATITUDE": 35.926959,
+        "LONGITUDE": -84.38904699999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40244299999995,
+          35.93722600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137907",
+        "PERMITTEE_NAME": "Kairos Power, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "760 Perimeter Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137907",
+        "LATITUDE": 35.937225999999995,
+        "LONGITUDE": -84.40244299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61384499999997,
+          35.90102200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.181",
+        "PERMITTEE_NAME": "SolAmerica Energy LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1769644800000,
+        "EFFECTIVE_DATE": 1769644800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Bell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.181",
+        "LATITUDE": 35.901022,
+        "LONGITUDE": -84.613845,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35249999999996,
+          35.962500000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138293",
+        "PERMITTEE_NAME": "Roane County ETC, LLC c/o  Lawler-wood NSPC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "3607 OAK RIDGE TPKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138293",
+        "LATITUDE": 35.9625,
+        "LONGITUDE": -84.3525,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61384499999997,
+          35.90102200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137972",
+        "PERMITTEE_NAME": "SolAmerica Energy Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Bell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137972",
+        "LATITUDE": 35.901022,
+        "LONGITUDE": -84.613845,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38970199999994,
+          35.906626000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.112",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749513600000,
+        "EFFECTIVE_DATE": 1749513600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Bear Creek Valley",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.112",
+        "LATITUDE": 35.906625999999996,
+        "LONGITUDE": -84.389702,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51871399999999,
+          35.89821100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670756",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1777593600000,
+        "EFFECTIVE_DATE": 1777593600000,
+        "EXPIRATION_DATE": 1814313600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670756",
+        "LATITUDE": 35.898210999999996,
+        "LONGITUDE": -84.518714,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30277699999994,
+          35.91714300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137959",
+        "PERMITTEE_NAME": "U.S. Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "One Bethel Valley Rd PO Box 2008",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137959",
+        "LATITUDE": 35.917142999999996,
+        "LONGITUDE": -84.30277699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40389999999996,
+          35.93250000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137985",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "461 W. Outer Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137985",
+        "LATITUDE": 35.932500000000005,
+        "LONGITUDE": -84.40390000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43419999999998,
+          35.87770000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137872",
+        "PERMITTEE_NAME": "Harrison Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "730 Gallaher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137872",
+        "LATITUDE": 35.877700000000004,
+        "LONGITUDE": -84.4342,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45742899999999,
+          35.96156600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.163",
+        "PERMITTEE_NAME": "East Tennessee Natural Gas, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Mullins Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.163",
+        "LATITUDE": 35.961566,
+        "LONGITUDE": -84.45742899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45742899999999,
+          35.96156600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.164",
+        "PERMITTEE_NAME": "East Tennessee Natural Gas, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Mullins Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.164",
+        "LATITUDE": 35.961566,
+        "LONGITUDE": -84.45742899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29409399999997,
+          35.92696700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138136",
+        "PERMITTEE_NAME": "UT-Battelle, LLC on behalf of the US Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Melton Valley Drive at HPRR Access Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138136",
+        "LATITUDE": 35.926967,
+        "LONGITUDE": -84.294094,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55150799999996,
+          35.92716200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.221",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Pansy Hill Drive, Bridge over Emory River, LM 0.28",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.221",
+        "LATITUDE": 35.927161999999996,
+        "LONGITUDE": -84.551508,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57439999999997,
+          35.94220000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.020",
+        "PERMITTEE_NAME": "Harriman Utilities Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743724800000,
+        "EFFECTIVE_DATE": 1743724800000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "SR-299 and Gallaher View Road to Snow Hill Road, Powers Loop Road, and Crab Orchard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.020",
+        "LATITUDE": 35.9422,
+        "LONGITUDE": -84.5744,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40244299999995,
+          35.93722600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110516",
+        "PERMITTEE_NAME": "Barnard Construction Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1745884800000,
+        "EFFECTIVE_DATE": 1745884800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "760 Perimeter Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110516",
+        "LATITUDE": 35.937225999999995,
+        "LONGITUDE": -84.40244299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54132999999996,
+          35.82249800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137927",
+        "PERMITTEE_NAME": "Meadowlake Airpark, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "153 Angler Cove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137927",
+        "LATITUDE": 35.822497999999996,
+        "LONGITUDE": -84.54133,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51871399999999,
+          35.89821100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.141",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755648000000,
+        "EFFECTIVE_DATE": 1755648000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.141",
+        "LATITUDE": 35.898210999999996,
+        "LONGITUDE": -84.518714,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39673399999998,
+          35.94093600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.143",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789516800000,
+        "EFFECTIVE_DATE": 1789516800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2010 Highway 58 N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.143",
+        "LATITUDE": 35.940936,
+        "LONGITUDE": -84.396734,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41448099999997,
+          35.92166000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138223",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "350 Powerhouse Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138223",
+        "LATITUDE": 35.921659999999996,
+        "LONGITUDE": -84.414481,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41448099999997,
+          35.92166000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.042",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771545600000,
+        "EFFECTIVE_DATE": 1771545600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "350 Powerhouse Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.042",
+        "LATITUDE": 35.921659999999996,
+        "LONGITUDE": -84.414481,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48859999999996,
+          35.874600000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138454",
+        "PERMITTEE_NAME": "Ladd Landing, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Hightower St. @ Ladd Landing Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138454",
+        "LATITUDE": 35.8746,
+        "LONGITUDE": -84.4886,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41803299999998,
+          35.90421900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138212",
+        "PERMITTEE_NAME": "Primos Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "North of 100 Foxberry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138212",
+        "LATITUDE": 35.904219,
+        "LONGITUDE": -84.418033,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30431499999997,
+          35.93077800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.041",
+        "PERMITTEE_NAME": "UT-Battelle, LLC on behalf of US DOE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772668800000,
+        "EFFECTIVE_DATE": 1772668800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "One Bethel Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.041",
+        "LATITUDE": 35.930778,
+        "LONGITUDE": -84.304315,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36057799999998,
+          35.964657000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138220",
+        "PERMITTEE_NAME": "TRISO-X",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "170 Renovare Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138220",
+        "LATITUDE": 35.964656999999995,
+        "LONGITUDE": -84.36057799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30032199999994,
+          35.93516200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138459",
+        "PERMITTEE_NAME": "UT-Battelle, LLC on behalf of US Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1 Bethel Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138459",
+        "LATITUDE": 35.935162,
+        "LONGITUDE": -84.300322,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39034199999998,
+          35.93204300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138156",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "807 Heritage Center",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138156",
+        "LATITUDE": 35.932043,
+        "LONGITUDE": -84.39034199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34479099999999,
+          35.966962000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138062",
+        "PERMITTEE_NAME": "VT Investors LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Cherry Oak Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138062",
+        "LATITUDE": 35.966961999999995,
+        "LONGITUDE": -84.344791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34651699999995,
+          35.89617100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138169",
+        "PERMITTEE_NAME": "Veteran Enterprises & Technical Services, LLC (VETS)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "492 Sam Rayburn Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138169",
+        "LATITUDE": 35.896170999999995,
+        "LONGITUDE": -84.34651699999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53201999999999,
+          35.89773400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138434",
+        "PERMITTEE_NAME": "Roane Central Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Swan Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138434",
+        "LATITUDE": 35.897734,
+        "LONGITUDE": -84.53202,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51871399999999,
+          35.89821100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192275",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192275",
+        "LATITUDE": 35.898210999999996,
+        "LONGITUDE": -84.518714,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55059999999997,
+          35.89060000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136521",
+        "PERMITTEE_NAME": "Branchwater Development of Tennessee LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Roane State Highway & Tyler Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136521",
+        "LATITUDE": 35.8906,
+        "LONGITUDE": -84.5506,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49599999999998,
+          35.86940000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137719",
+        "PERMITTEE_NAME": "A.J. Canizales",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "0 Lawnville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137719",
+        "LATITUDE": 35.8694,
+        "LONGITUDE": -84.49600000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34479099999999,
+          35.966962000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138092",
+        "PERMITTEE_NAME": "Sharon and Ronald McConathy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Cherry Oak Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138092",
+        "LATITUDE": 35.966961999999995,
+        "LONGITUDE": -84.344791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38299999999998,
+          35.89340000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192379",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1520 Bear Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192379",
+        "LATITUDE": 35.8934,
+        "LONGITUDE": -84.38300000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34479099999999,
+          35.966962000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138073",
+        "PERMITTEE_NAME": "Wendy and Brian Mitcheltree",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Cherry Oak Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138073",
+        "LATITUDE": 35.966961999999995,
+        "LONGITUDE": -84.344791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40769999999998,
+          35.94018200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051203",
+        "PERMITTEE_NAME": "Oak Ridge Environmental Waste Operations Center",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758844800000,
+        "EFFECTIVE_DATE": 1758844800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "930 Perimeter Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051203",
+        "LATITUDE": 35.940182,
+        "LONGITUDE": -84.4077,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52518599999996,
+          35.86174100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138093",
+        "PERMITTEE_NAME": "Herman Radke",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1204 S Kentucky St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138093",
+        "LATITUDE": 35.861740999999995,
+        "LONGITUDE": -84.52518599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51722199999995,
+          35.896637000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192387",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road TVA Kingston Fossil Plant",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192387",
+        "LATITUDE": 35.896637,
+        "LONGITUDE": -84.51722199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.69660199999998,
+          35.89191200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.027",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1745798400000,
+        "EFFECTIVE_DATE": 1745798400000,
+        "EXPIRATION_DATE": 1903478400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "I-40 E, I-65, I-155",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.027",
+        "LATITUDE": 35.891912,
+        "LONGITUDE": -84.696602,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30320099999994,
+          35.91611400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137831",
+        "PERMITTEE_NAME": "US Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "High Flux Isotope Reactor Access Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137831",
+        "LATITUDE": 35.916114,
+        "LONGITUDE": -84.303201,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66129099999995,
+          35.841016000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137654",
+        "PERMITTEE_NAME": "Bobby & Patricia Powers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "228 Serenity Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137654",
+        "LATITUDE": 35.841015999999996,
+        "LONGITUDE": -84.66129099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52235599999995,
+          35.964353000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137476",
+        "PERMITTEE_NAME": "Emory Creek, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Harriman Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137476",
+        "LATITUDE": 35.964352999999996,
+        "LONGITUDE": -84.522356,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50000999999997,
+          35.94333000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050707",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760572800000,
+        "EFFECTIVE_DATE": 1760572800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "260 QUARRY ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050707",
+        "LATITUDE": 35.943329999999996,
+        "LONGITUDE": -84.50001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39420699999994,
+          35.931749000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137257",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC (UCOR)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "652 ENRICHMENT ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137257",
+        "LATITUDE": 35.931748999999996,
+        "LONGITUDE": -84.394207,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41803299999998,
+          35.90421900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137250",
+        "PERMITTEE_NAME": "Primos Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "North of 100 Foxberry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137250",
+        "LATITUDE": 35.904219,
+        "LONGITUDE": -84.418033,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68160599999999,
+          35.82737400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.206",
+        "PERMITTEE_NAME": "Jeffrey G. Freitag",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1734393600000,
+        "EFFECTIVE_DATE": 1734393600000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Crystal Springs Road, Lot 3",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.206",
+        "LATITUDE": 35.827374,
+        "LONGITUDE": -84.681606,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54575099999994,
+          35.94044500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110511",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1727222400000,
+        "EFFECTIVE_DATE": 1727136000000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "130 Mayberry Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110511",
+        "LATITUDE": 35.940445,
+        "LONGITUDE": -84.545751,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49179999999996,
+          35.885200000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.161",
+        "PERMITTEE_NAME": "City of Kingston",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1470 N Kentucky Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.161",
+        "LATITUDE": 35.885200000000005,
+        "LONGITUDE": -84.4918,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50256999999993,
+          35.89525400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.083",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1737936000000,
+        "EFFECTIVE_DATE": 1737936000000,
+        "EXPIRATION_DATE": 1895702400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 SWAN POND RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.083",
+        "LATITUDE": 35.895254,
+        "LONGITUDE": -84.50256999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45443999999998,
+          35.946830000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137681",
+        "PERMITTEE_NAME": "Cumberland Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Dickey Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137681",
+        "LATITUDE": 35.94683,
+        "LONGITUDE": -84.45443999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54799699999995,
+          35.896881000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.189",
+        "PERMITTEE_NAME": "QuikTrip Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1740700800000,
+        "EFFECTIVE_DATE": 1740700800000,
+        "EXPIRATION_DATE": 1898380800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "550 Pine Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.189",
+        "LATITUDE": 35.896881,
+        "LONGITUDE": -84.547997,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40244299999995,
+          35.93722600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137752",
+        "PERMITTEE_NAME": "Kairos Power, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "760 Perimeter Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137752",
+        "LATITUDE": 35.937225999999995,
+        "LONGITUDE": -84.40244299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34949999999998,
+          36.033600000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137812",
+        "PERMITTEE_NAME": "Lynn Bumgardner",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "727 OLD HARRIMAN HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137812",
+        "LATITUDE": 36.0336,
+        "LONGITUDE": -84.3495,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42121499999996,
+          35.91666800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137797",
+        "PERMITTEE_NAME": "Primos Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "At the End of Roseberry Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137797",
+        "LATITUDE": 35.916668,
+        "LONGITUDE": -84.42121499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34599999999995,
+          35.889760000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058842",
+        "PERMITTEE_NAME": "Sam Weaver",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767052800000,
+        "EFFECTIVE_DATE": 1767052800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "240 SAM RAYBURN PARKWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058842",
+        "LATITUDE": 35.889759999999995,
+        "LONGITUDE": -84.346,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.60259899999994,
+          35.80646800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2303.182",
+        "PERMITTEE_NAME": "Kenneth \"Ken\" Vorgert",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1696464000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1970 University Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2303.182",
+        "LATITUDE": 35.806467999999995,
+        "LONGITUDE": -84.602599,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36057799999998,
+          35.964657000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136931",
+        "PERMITTEE_NAME": "TRISO-X, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "170 Renovare Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136931",
+        "LATITUDE": 35.964656999999995,
+        "LONGITUDE": -84.36057799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41803299999998,
+          35.90421900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137172",
+        "PERMITTEE_NAME": "Primos Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "North of 100 Foxberry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137172",
+        "LATITUDE": 35.904219,
+        "LONGITUDE": -84.418033,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52262299999995,
+          35.96344800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137286",
+        "PERMITTEE_NAME": "Emory Creek, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Harriman Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137286",
+        "LATITUDE": 35.963448,
+        "LONGITUDE": -84.522623,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34701599999994,
+          35.88317500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137313",
+        "PERMITTEE_NAME": "Laurel Properties Partnership",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2434 Buttermilk Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137313",
+        "LATITUDE": 35.883175,
+        "LONGITUDE": -84.347016,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51871399999999,
+          35.89821100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137486",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137486",
+        "LATITUDE": 35.898210999999996,
+        "LONGITUDE": -84.518714,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41099999999994,
+          35.91500000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050692",
+        "PERMITTEE_NAME": "Carbon Rivers, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "350 Powerhouse Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050692",
+        "LATITUDE": 35.915,
+        "LONGITUDE": -84.411,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35044099999999,
+          35.89535100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137342",
+        "PERMITTEE_NAME": "Roane County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Sam Rayburn Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137342",
+        "LATITUDE": 35.895351,
+        "LONGITUDE": -84.35044099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34002799999996,
+          35.89205400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050766",
+        "PERMITTEE_NAME": "Cobalt Boats LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "450 Hamilton Industrial Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050766",
+        "LATITUDE": 35.892054,
+        "LONGITUDE": -84.34002799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36547499999995,
+          36.03329400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137075",
+        "PERMITTEE_NAME": "Joe Hubbard, Owner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "5755 Harriman Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137075",
+        "LATITUDE": 36.033294,
+        "LONGITUDE": -84.36547499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40860599999996,
+          35.97403700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136893",
+        "PERMITTEE_NAME": "Cumberland Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Old Harriman Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136893",
+        "LATITUDE": 35.974036999999996,
+        "LONGITUDE": -84.40860599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34491399999996,
+          35.88300000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137077",
+        "PERMITTEE_NAME": "Skelly's Towing (Mike Skelly)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2417 Buttermilk Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137077",
+        "LATITUDE": 35.883,
+        "LONGITUDE": -84.344914,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35000699999995,
+          35.88926800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136963",
+        "PERMITTEE_NAME": "Rocky Top Coating Shop",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "108 Pawnook Farm Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136963",
+        "LATITUDE": 35.889268,
+        "LONGITUDE": -84.35000699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41803299999998,
+          35.90421900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137003",
+        "PERMITTEE_NAME": "Primos Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "North of 100 Foxberry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137003",
+        "LATITUDE": 35.904219,
+        "LONGITUDE": -84.418033,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59976799999998,
+          35.83663100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.329",
+        "PERMITTEE_NAME": "Patrick Powers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1646006400000,
+        "EFFECTIVE_DATE": 1645315200000,
+        "EXPIRATION_DATE": 1802995200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "620 DeArmond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.329",
+        "LATITUDE": 35.836631,
+        "LONGITUDE": -84.599768,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54976499999998,
+          35.88925900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137012",
+        "PERMITTEE_NAME": "DK Properties II, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2015 ROANE STATE HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137012",
+        "LATITUDE": 35.889258999999996,
+        "LONGITUDE": -84.549765,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64283399999994,
+          35.89198700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051755",
+        "PERMITTEE_NAME": "COMMERCIAL METALS COMPANY dba CMC Recycling",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "284 Cardiff Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051755",
+        "LATITUDE": 35.891987,
+        "LONGITUDE": -84.642834,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.72496999999998,
+          35.75510500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.112",
+        "PERMITTEE_NAME": "Mitigate TN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1664409600000,
+        "EFFECTIVE_DATE": 1664409600000,
+        "EXPIRATION_DATE": 1822089600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "900 Smokey Run Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.112",
+        "LATITUDE": 35.755105,
+        "LONGITUDE": -84.72497,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43419999999998,
+          35.87770000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110093",
+        "PERMITTEE_NAME": "Harrison Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1674432000000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "730 Gallaher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110093",
+        "LATITUDE": 35.877700000000004,
+        "LONGITUDE": -84.4342,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61699999999996,
+          35.89700000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110094",
+        "PERMITTEE_NAME": "Harrison Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1675123200000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2412 South Roane Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110094",
+        "LATITUDE": 35.897,
+        "LONGITUDE": -84.617,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39303399999994,
+          35.93303000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0002950",
+        "PERMITTEE_NAME": "U.S. Department of Energy (DOE)",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": 1643932800000,
+        "EFFECTIVE_DATE": 1648771200000,
+        "EXPIRATION_DATE": 1806451200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2010 Highway 58, Oak Ridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0002950",
+        "LATITUDE": 35.933029999999995,
+        "LONGITUDE": -84.393034,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36671599999994,
+          36.030102000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110030",
+        "PERMITTEE_NAME": "C & C Ready Mix, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1701820800000,
+        "EFFECTIVE_DATE": 1701820800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "5710 Harriman Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110030",
+        "LATITUDE": 36.030102,
+        "LONGITUDE": -84.366716,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43717599999997,
+          35.87786900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050321",
+        "PERMITTEE_NAME": "Diversified Scientific Services, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770940800000,
+        "EFFECTIVE_DATE": 1770940800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "657 Gallaher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050321",
+        "LATITUDE": 35.877869,
+        "LONGITUDE": -84.437176,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65466099999998,
+          35.88827200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051031",
+        "PERMITTEE_NAME": "Teijin Carbon America, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764633600000,
+        "EFFECTIVE_DATE": 1764633600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "121 Cardiff Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051031",
+        "LATITUDE": 35.888272,
+        "LONGITUDE": -84.65466099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51871399999999,
+          35.89821100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051787",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051787",
+        "LATITUDE": 35.898210999999996,
+        "LONGITUDE": -84.518714,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62892899999997,
+          35.895628000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054009",
+        "PERMITTEE_NAME": "Adams Products an Oldcastle Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "600 CARDIFF VALLEY ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054009",
+        "LATITUDE": 35.895627999999995,
+        "LONGITUDE": -84.628929,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62027799999998,
+          35.89777800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051819",
+        "PERMITTEE_NAME": "Golden Pond Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2404 South Roane Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051819",
+        "LATITUDE": 35.897777999999995,
+        "LONGITUDE": -84.620278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62137599999994,
+          35.89921900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053845",
+        "PERMITTEE_NAME": "SA Recycling, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2408 South Roane Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053845",
+        "LATITUDE": 35.899218999999995,
+        "LONGITUDE": -84.621376,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54575099999994,
+          35.94044500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054318",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "130 Mayberry Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054318",
+        "LATITUDE": 35.940445,
+        "LONGITUDE": -84.545751,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53583299999997,
+          35.940833000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB025437",
+        "PERMITTEE_NAME": "Harriman STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757635200000,
+        "EFFECTIVE_DATE": 1757635200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "504 Bullard Ford Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB025437",
+        "LATITUDE": 35.940833,
+        "LONGITUDE": -84.535833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58049999999997,
+          35.88330000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR133883",
+        "PERMITTEE_NAME": "Ahler Family Partnership, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Pine Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR133883",
+        "LATITUDE": 35.8833,
+        "LONGITUDE": -84.5805,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33589999999998,
+          35.88077000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058338",
+        "PERMITTEE_NAME": "Crete Carrier Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2229 Buttermilk Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058338",
+        "LATITUDE": 35.88077,
+        "LONGITUDE": -84.33590000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47193499999997,
+          35.78912400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.242",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1444176000000,
+        "EFFECTIVE_DATE": 1444176000000,
+        "EXPIRATION_DATE": 1601942400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Left Bank of Tennessee River Mile 575",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.242",
+        "LATITUDE": 35.789124,
+        "LONGITUDE": -84.471935,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41881299999994,
+          35.89278500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059355",
+        "PERMITTEE_NAME": "Clinch River Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756166400000,
+        "EFFECTIVE_DATE": 1756166400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1221 Gallaher Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059355",
+        "LATITUDE": 35.892784999999996,
+        "LONGITUDE": -84.418813,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37061399999999,
+          36.025382000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058902",
+        "PERMITTEE_NAME": "Winrock Truck Parts and Equipment, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1780963200000,
+        "EFFECTIVE_DATE": 1780963200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "5535 HARRIMAN HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058902",
+        "LATITUDE": 36.025382,
+        "LONGITUDE": -84.37061399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50739599999997,
+          35.74194200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.249",
+        "PERMITTEE_NAME": "Tennessee Mitigation Fund",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1627257600000,
+        "EFFECTIVE_DATE": 1627257600000,
+        "EXPIRATION_DATE": 1784937600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "1664 Loudon Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.249",
+        "LATITUDE": 35.741942,
+        "LONGITUDE": -84.507396,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51722199999995,
+          35.896637000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.099",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1578873600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1736640000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "714 Swan Pond Road TVA Kingston Fossil Plant",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.099",
+        "LATITUDE": 35.896637,
+        "LONGITUDE": -84.51722199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43940999999995,
+          35.872100000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059989",
+        "PERMITTEE_NAME": "Waste Services of Tennessee, LLC dba Kingston Hauling",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "125 FARMER ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059989",
+        "LATITUDE": 35.8721,
+        "LONGITUDE": -84.43941,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50979999999998,
+          35.73820000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.046",
+        "PERMITTEE_NAME": "Blue Ridge Waterways, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1587686400000,
+        "EFFECTIVE_DATE": 1587686400000,
+        "EXPIRATION_DATE": 1745366400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "176 Paint Rock Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.046",
+        "LATITUDE": 35.7382,
+        "LONGITUDE": -84.5098,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66359999999997,
+          35.89640000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.010",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1581552000000,
+        "EFFECTIVE_DATE": 1581552000000,
+        "EXPIRATION_DATE": 1739318400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "I-40 WB near MM 342",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.010",
+        "LATITUDE": 35.8964,
+        "LONGITUDE": -84.6636,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64579999999995,
+          35.89880000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.117",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1589846400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "I-40 EB near MM 342 to near MM 344 (Slope Stabilization) ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.117",
+        "LATITUDE": 35.8988,
+        "LONGITUDE": -84.64580000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43462099999994,
+          35.91594900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.028",
+        "PERMITTEE_NAME": "Preserve Marina, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1592524800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "127 Pineberry East Road, Rarity Ridge Phase V",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.028",
+        "LATITUDE": 35.915949,
+        "LONGITUDE": -84.43462099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55439999999999,
+          35.92909000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.118",
+        "PERMITTEE_NAME": "City of Harriman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1592265600000,
+        "EFFECTIVE_DATE": 1592265600000,
+        "EXPIRATION_DATE": 1749945600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "301 Emory Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.118",
+        "LATITUDE": 35.929089999999995,
+        "LONGITUDE": -84.5544,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58364099999994,
+          35.88055300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110423",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1745452800000,
+        "EFFECTIVE_DATE": 1745452800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "348 Poland Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110423",
+        "LATITUDE": 35.880553,
+        "LONGITUDE": -84.583641,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.71835699999997,
+          35.76207900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.039",
+        "PERMITTEE_NAME": "David James Morgan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1630454400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "350 Kirkham Drove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.039",
+        "LATITUDE": 35.762079,
+        "LONGITUDE": -84.718357,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35601999999994,
+          35.96153000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2003.249",
+        "PERMITTEE_NAME": "Consolidated Nuclear Security, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "3771 Oak Ridge Turnpike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2003.249",
+        "LATITUDE": 35.961529999999996,
+        "LONGITUDE": -84.35602,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48152599999997,
+          35.93018900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.031",
+        "PERMITTEE_NAME": "Jonathan & Ginny Hafner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1624233600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "543 Dickey Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.031",
+        "LATITUDE": 35.930189,
+        "LONGITUDE": -84.481526,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35601999999994,
+          35.96153000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136307",
+        "PERMITTEE_NAME": "Oak Ridge Institue for Global Nuclear Security (ORIGNS)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "3771 Oak Ridge Turnpike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136307",
+        "LATITUDE": 35.961529999999996,
+        "LONGITUDE": -84.35602,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.65932699999996,
+          35.820321000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.209",
+        "PERMITTEE_NAME": "Carlos Torres",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "688 New Hope Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.209",
+        "LATITUDE": 35.820321,
+        "LONGITUDE": -84.65932699999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67968299999995,
+          35.81625800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.113",
+        "PERMITTEE_NAME": "Mario Gallione",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1591056000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "114 Turkey Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.113",
+        "LATITUDE": 35.816258,
+        "LONGITUDE": -84.679683,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58259999999996,
+          35.836200000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136183",
+        "PERMITTEE_NAME": "Clif Moyers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "360 De Armond Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136183",
+        "LATITUDE": 35.836200000000005,
+        "LONGITUDE": -84.5826,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42121499999996,
+          35.91666800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136300",
+        "PERMITTEE_NAME": "Primos Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "At the End of Roseberry Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136300",
+        "LATITUDE": 35.916668,
+        "LONGITUDE": -84.42121499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44391399999995,
+          35.75689300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.058",
+        "PERMITTEE_NAME": "Brett J. Thompson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1615334400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "278 Marble View Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.058",
+        "LATITUDE": 35.756893,
+        "LONGITUDE": -84.44391399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34153799999996,
+          35.88888000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136414",
+        "PERMITTEE_NAME": "Hamilton Equipment Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Hamilton Industrial Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136414",
+        "LATITUDE": 35.88888,
+        "LONGITUDE": -84.341538,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34479099999999,
+          35.966962000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135870",
+        "PERMITTEE_NAME": "VT Investors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Cherry Oak Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135870",
+        "LATITUDE": 35.966961999999995,
+        "LONGITUDE": -84.344791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34050899999994,
+          35.88331000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059887",
+        "PERMITTEE_NAME": "Duracap Asphalt Paving Co",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "2293 Buttermilk Road West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059887",
+        "LATITUDE": 35.88331,
+        "LONGITUDE": -84.340509,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68069999999994,
+          35.83310000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136411",
+        "PERMITTEE_NAME": "Blue Ridge Development LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Roane",
+        "SITE_LOCATION": "Pump House Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136411",
+        "LATITUDE": 35.8331,
+        "LONGITUDE": -84.6807,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

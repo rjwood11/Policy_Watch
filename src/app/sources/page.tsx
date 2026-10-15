@@ -14,6 +14,15 @@ export default function SourcesPage() {
           Refresh dates and source links for the county, watershed, water-quality, permitting,
           screening, and district datasets.
         </p>
+        <p className="mt-3 max-w-3xl text-sm leading-7 text-ink/75">
+          Online datasets are checked every Saturday at 2:00 a.m. Central Time. Land cover is
+          checked on the first Saturday of each month. Last refreshed is the date data was
+          successfully downloaded and incorporated, which can differ from the agency&apos;s
+          publication or observation year. Checked records the latest attempt; failed refreshes
+          retain previous data. Live services are queried when used, and local snapshots require
+          manual replacement. County geography, Census indicators, watersheds, and districts are
+          rebuilt together; unavailable optional overlays retain their previous data.
+        </p>
       </div>
       <section className="grid gap-4 md:grid-cols-3 xl:grid-cols-6">
         {Object.entries(lastUpdated).map(([key, value]) => (

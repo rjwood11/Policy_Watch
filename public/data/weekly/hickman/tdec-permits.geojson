@@ -1,0 +1,1617 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27155599999998,
+          35.77870900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2208.3498",
+        "PERMITTEE_NAME": "Phil Stanfill",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "9600 Primm Springs",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2208.3498",
+        "LATITUDE": 35.778709,
+        "LONGITUDE": -87.27155599999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33773699999995,
+          35.75513500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.036",
+        "PERMITTEE_NAME": "Wilma Orton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1646697600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "2895 Hwy S E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.036",
+        "LATITUDE": 35.755134999999996,
+        "LONGITUDE": -87.33773699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.47769999999997,
+          35.79840000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.034",
+        "PERMITTEE_NAME": "Christopher Thompson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "325 Hickman Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.034",
+        "LATITUDE": 35.7984,
+        "LONGITUDE": -87.4777,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65008299999994,
+          35.79853900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183296",
+        "PERMITTEE_NAME": "Clearwater Conservation Revival, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "764 Briar Pond Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183296",
+        "LATITUDE": 35.798539,
+        "LONGITUDE": -87.650083,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.44068399999998,
+          35.753638000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.121",
+        "PERMITTEE_NAME": "Town of Centerville",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Leatherwood Road, Swan Creek Road and Highway 50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.121",
+        "LATITUDE": 35.753637999999995,
+        "LONGITUDE": -87.44068399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34624999999994,
+          35.93168000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183402",
+        "PERMITTEE_NAME": "Tom Daugherty",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "15026 Lisbon Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183402",
+        "LATITUDE": 35.93168,
+        "LONGITUDE": -87.34625,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48836199999994,
+          35.98914800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192419",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "I-40 at SR-48",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192419",
+        "LATITUDE": 35.989148,
+        "LONGITUDE": -87.488362,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33548799999994,
+          35.94682400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056552",
+        "PERMITTEE_NAME": "Kamran Haidari dba Imperial Auto Salvage LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763856000000,
+        "EFFECTIVE_DATE": 1763856000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "9475 GOOSE BRANCH",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056552",
+        "LATITUDE": 35.946824,
+        "LONGITUDE": -87.335488,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64671299999998,
+          35.79516400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.169",
+        "PERMITTEE_NAME": "KCI Technologies",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "631 Briar Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.169",
+        "LATITUDE": 35.795164,
+        "LONGITUDE": -87.64671299999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.47145899999998,
+          35.772820000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.053",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1781222400000,
+        "EXPIRATION_DATE": 1938902400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "SR-50 (Minnie Pearl Memorial Highway), Bridge over Duck River, LM 17.18",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.053",
+        "LATITUDE": 35.772819999999996,
+        "LONGITUDE": -87.471459,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65008299999994,
+          35.79853900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.144",
+        "PERMITTEE_NAME": "Clearwater Conservation Revival, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1740355200000,
+        "EFFECTIVE_DATE": 1740182400000,
+        "EXPIRATION_DATE": 1897862400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "764 Briar Pond Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.144",
+        "LATITUDE": 35.798539,
+        "LONGITUDE": -87.650083,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.28249999999997,
+          35.92820000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183314",
+        "PERMITTEE_NAME": "Silicon Ranch Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "N Lick Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183314",
+        "LATITUDE": 35.928200000000004,
+        "LONGITUDE": -87.2825,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48836199999994,
+          35.98914800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.010",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771891200000,
+        "EFFECTIVE_DATE": 1771804800000,
+        "EXPIRATION_DATE": 1929484800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "I-40 at SR-48",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.010",
+        "LATITUDE": 35.989148,
+        "LONGITUDE": -87.488362,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.53742199999994,
+          35.70649400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4061",
+        "PERMITTEE_NAME": "William Leighton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1757548800000,
+        "EFFECTIVE_DATE": 1757548800000,
+        "EXPIRATION_DATE": 1788998400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Wades Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4061",
+        "LATITUDE": 35.706494,
+        "LONGITUDE": -87.53742199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62037999999995,
+          35.76448000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4065",
+        "PERMITTEE_NAME": "Hickman County Highway Dept",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1757462400000,
+        "EFFECTIVE_DATE": 1757462400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Dewey Wright Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4065",
+        "LATITUDE": 35.76448,
+        "LONGITUDE": -87.62038,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.29946599999994,
+          35.94691300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183307",
+        "PERMITTEE_NAME": "Freedom Packaging",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "10313 Industrial Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183307",
+        "LATITUDE": 35.946912999999995,
+        "LONGITUDE": -87.299466,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.45947499999994,
+          35.77442700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183321",
+        "PERMITTEE_NAME": "THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "110 GENERAL AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183321",
+        "LATITUDE": 35.774426999999996,
+        "LONGITUDE": -87.459475,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33707499999997,
+          35.954769000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670650",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1778630400000,
+        "EFFECTIVE_DATE": 1778630400000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "North of CR 1854 and .53 miles west of the intersection of Missionary Ridge Road and Old Highway 46",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670650",
+        "LATITUDE": 35.954769,
+        "LONGITUDE": -87.337075,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48898599999995,
+          35.90381600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4156",
+        "PERMITTEE_NAME": "Donald Cash",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788307200000,
+        "EFFECTIVE_DATE": 1788307200000,
+        "EXPIRATION_DATE": 1819756800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "4599 Hwy 48N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4156",
+        "LATITUDE": 35.903816,
+        "LONGITUDE": -87.488986,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.37889999999999,
+          35.88130000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4089",
+        "PERMITTEE_NAME": "Dry Fork LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1763596800000,
+        "EFFECTIVE_DATE": 1763596800000,
+        "EXPIRATION_DATE": 1795046400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "6419 Old Mill Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4089",
+        "LATITUDE": 35.8813,
+        "LONGITUDE": -87.3789,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70879999999994,
+          35.87290000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.074",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1781740800000,
+        "EFFECTIVE_DATE": 1781740800000,
+        "EXPIRATION_DATE": 1939420800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "I-40 @ SR-50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.074",
+        "LATITUDE": 35.8729,
+        "LONGITUDE": -87.70880000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.44068399999998,
+          35.753638000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183457",
+        "PERMITTEE_NAME": "Town of Centerville",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Leatherwood Road, Swan Creek Road and Highway 50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183457",
+        "LATITUDE": 35.753637999999995,
+        "LONGITUDE": -87.44068399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65421799999996,
+          35.829199000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4059",
+        "PERMITTEE_NAME": "David Flowers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1757289600000,
+        "EXPIRATION_DATE": 1788739200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Wrights Bend Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4059",
+        "LATITUDE": 35.829198999999996,
+        "LONGITUDE": -87.654218,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30448699999994,
+          35.95318400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183298",
+        "PERMITTEE_NAME": "WILLBROOK INVESTMENTS LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "10016 HIGHWAY 46",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183298",
+        "LATITUDE": 35.953184,
+        "LONGITUDE": -87.304487,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.47458499999999,
+          35.73267800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.051",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754438400000,
+        "EFFECTIVE_DATE": 1754438400000,
+        "EXPIRATION_DATE": 1912118400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "SR-100, Culvert over Indian Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.051",
+        "LATITUDE": 35.732678,
+        "LONGITUDE": -87.47458499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50056699999999,
+          35.91462800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183082",
+        "PERMITTEE_NAME": "Hickman County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "2567 Hidden Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183082",
+        "LATITUDE": 35.914628,
+        "LONGITUDE": -87.50056699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.40400999999997,
+          35.75054600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.013",
+        "PERMITTEE_NAME": "Brian Rosson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1742947200000,
+        "EFFECTIVE_DATE": 1742947200000,
+        "EXPIRATION_DATE": 1900627200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Existing Pond 1259 TN-50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.013",
+        "LATITUDE": 35.750546,
+        "LONGITUDE": -87.40401,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63070299999998,
+          35.78310300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.235",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1736812800000,
+        "EFFECTIVE_DATE": 1736812800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "SR-438, (799 Hwy 438) \u2013 LM 8.23",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.235",
+        "LATITUDE": 35.783103,
+        "LONGITUDE": -87.630703,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.53001999999998,
+          35.84264100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.234",
+        "PERMITTEE_NAME": "E. Wayne Prince",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1693267200000,
+        "EFFECTIVE_DATE": 1692835200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "3733 Prince Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.234",
+        "LATITUDE": 35.842641,
+        "LONGITUDE": -87.53002,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.47341299999994,
+          35.77574000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.258",
+        "PERMITTEE_NAME": "Tim Johnston",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1695686400000,
+        "EFFECTIVE_DATE": 1695600000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "South Central TN - Duck River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.258",
+        "LATITUDE": 35.77574,
+        "LONGITUDE": -87.473413,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50500699999998,
+          35.978747000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.117",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1704326400000,
+        "EFFECTIVE_DATE": 1704326400000,
+        "EXPIRATION_DATE": 1862092800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "I-40 at LM 1.65",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.117",
+        "LATITUDE": 35.978747,
+        "LONGITUDE": -87.50500699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.44769999999994,
+          35.835000000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182907",
+        "PERMITTEE_NAME": "Micaiah Byler",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Intersection of Industrial Road and Rivers Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182907",
+        "LATITUDE": 35.835,
+        "LONGITUDE": -87.4477,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30018399999994,
+          35.947861000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182945",
+        "PERMITTEE_NAME": "Rinker Holdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "HWY 46 and E. Green Cemetery Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182945",
+        "LATITUDE": 35.947860999999996,
+        "LONGITUDE": -87.300184,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.47237299999995,
+          35.97824500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.341",
+        "PERMITTEE_NAME": "Steve Caldwell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1640736000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "7505 Plunders Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.341",
+        "LATITUDE": 35.978245,
+        "LONGITUDE": -87.47237299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48985599999997,
+          35.96963900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.346",
+        "PERMITTEE_NAME": "Steve Petty",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1642982400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Garners Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.346",
+        "LATITUDE": 35.969639,
+        "LONGITUDE": -87.48985599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63554599999998,
+          35.811885000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.339",
+        "PERMITTEE_NAME": "James Anthony Bennett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1645574400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Nickel Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.339",
+        "LATITUDE": 35.811885,
+        "LONGITUDE": -87.63554599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.25013199999995,
+          35.93202500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182826",
+        "PERMITTEE_NAME": "Storage For Us, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "6699 Hwy 100",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182826",
+        "LATITUDE": 35.932024999999996,
+        "LONGITUDE": -87.250132,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.36055699999997,
+          35.85128800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059993",
+        "PERMITTEE_NAME": "PEERY ENTERPRISES, L.P.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770163200000,
+        "EFFECTIVE_DATE": 1770163200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "HWY#100+MCOYRIDGE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059993",
+        "LATITUDE": 35.851288,
+        "LONGITUDE": -87.360557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50089999999994,
+          35.87080000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.253",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1630022400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "SR-230 at Log Mile 11.46",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.253",
+        "LATITUDE": 35.8708,
+        "LONGITUDE": -87.5009,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.47804599999995,
+          35.771742000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110221",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1670976000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "315 Burnace T Bates Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110221",
+        "LATITUDE": 35.771741999999996,
+        "LONGITUDE": -87.47804599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20698999999996,
+          35.95790200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110250",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1672099200000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "11249 Spencer Mill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110250",
+        "LATITUDE": 35.957902,
+        "LONGITUDE": -87.20698999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.45601299999998,
+          35.82845700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056375",
+        "PERMITTEE_NAME": "Stud Welding, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "2296 Skyview Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056375",
+        "LATITUDE": 35.828457,
+        "LONGITUDE": -87.456013,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42915399999998,
+          35.81607900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053119",
+        "PERMITTEE_NAME": "Fabrication Specialities Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759968000000,
+        "EFFECTIVE_DATE": 1759968000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "2898 Crestridge Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053119",
+        "LATITUDE": 35.816078999999995,
+        "LONGITUDE": -87.429154,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33601599999997,
+          35.87372400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056340",
+        "PERMITTEE_NAME": "AAA Auto Salvage Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752019200000,
+        "EFFECTIVE_DATE": 1752105600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "6142 Primm Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056340",
+        "LATITUDE": 35.873723999999996,
+        "LONGITUDE": -87.336016,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.47189399999996,
+          35.78399500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB024937",
+        "PERMITTEE_NAME": "Centerville STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757548800000,
+        "EFFECTIVE_DATE": 1757548800000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "110 Lawson Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB024937",
+        "LATITUDE": 35.783995,
+        "LONGITUDE": -87.47189399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69019899999995,
+          35.831709000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB058190",
+        "PERMITTEE_NAME": "TDOC Turney Center STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1757289600000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Route 1",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB058190",
+        "LATITUDE": 35.831709,
+        "LONGITUDE": -87.69019899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.41789999999997,
+          35.752000000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.123",
+        "PERMITTEE_NAME": "Town of Centerville, Centerville Water Works",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "769 TN-50",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.123",
+        "LATITUDE": 35.752,
+        "LONGITUDE": -87.4179,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26305599999995,
+          35.90416700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "417003",
+        "PERMITTEE_NAME": "Tennessee Conference U.M.C",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1742947200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805068800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "49ne Trib-barren Fork Lick Cr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:417003",
+        "LATITUDE": 35.904167,
+        "LONGITUDE": -87.26305599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.53166699999997,
+          35.918333000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "417010",
+        "PERMITTEE_NAME": "Hidden Valley Lakes Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1582156800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1673740800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "40ne Trib-beaver Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:417010",
+        "LATITUDE": 35.918333,
+        "LONGITUDE": -87.531667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.51666699999998,
+          35.92305600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "417011",
+        "PERMITTEE_NAME": "Hidden Valley Lakes Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1708905600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1771113600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "40NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:417011",
+        "LATITUDE": 35.923055999999995,
+        "LONGITUDE": -87.516667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50638899999996,
+          35.916667000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "417012",
+        "PERMITTEE_NAME": "Hidden Valley Lakes Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1708905600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1771113600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "40ne Trib-beaver Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:417012",
+        "LATITUDE": 35.916667,
+        "LONGITUDE": -87.506389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66589499999998,
+          35.74403200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.307",
+        "PERMITTEE_NAME": "John G. Pope etux",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "932 Arnold Cemetery Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.307",
+        "LATITUDE": 35.744032,
+        "LONGITUDE": -87.66589499999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.44920899999994,
+          35.79608200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182920",
+        "PERMITTEE_NAME": "Town of Centerville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Hwy 100 Defeated Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182920",
+        "LATITUDE": 35.796082,
+        "LONGITUDE": -87.449209,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.35080999999997,
+          35.757074000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.081",
+        "PERMITTEE_NAME": "Gantt Neill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1566172800000,
+        "EFFECTIVE_DATE": 1566172800000,
+        "EXPIRATION_DATE": 1635638400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Stephenson Road Centerville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.081",
+        "LATITUDE": 35.757073999999996,
+        "LONGITUDE": -87.35081,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.28770199999997,
+          35.81373800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.192",
+        "PERMITTEE_NAME": "Charles Nash",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1548201600000,
+        "EFFECTIVE_DATE": 1547683200000,
+        "EXPIRATION_DATE": 1705363200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "8199 Fort Cooper Hollow Rd, Hickman County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.192",
+        "LATITUDE": 35.813738,
+        "LONGITUDE": -87.287702,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50064999999995,
+          35.972469000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.233",
+        "PERMITTEE_NAME": "Brian Chester",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1589414400000,
+        "EFFECTIVE_DATE": 1589328000000,
+        "EXPIRATION_DATE": 1747008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "3077 Garners Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.233",
+        "LATITUDE": 35.972469,
+        "LONGITUDE": -87.50065,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.38205999999997,
+          35.78570400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.302",
+        "PERMITTEE_NAME": "Jason Potts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1672876800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Orton Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.302",
+        "LATITUDE": 35.785703999999996,
+        "LONGITUDE": -87.38206,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42868099999998,
+          35.83145900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.186",
+        "PERMITTEE_NAME": "Allison-Barrett Enterprises, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1598227200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "1768 TN-100",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.186",
+        "LATITUDE": 35.831458999999995,
+        "LONGITUDE": -87.428681,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.52387999999996,
+          35.82297200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.231",
+        "PERMITTEE_NAME": "Danny Rochelle",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1581984000000,
+        "EFFECTIVE_DATE": 1582156800000,
+        "EXPIRATION_DATE": 1739923200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Easley Bend Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.231",
+        "LATITUDE": 35.822972,
+        "LONGITUDE": -87.52387999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.51043599999997,
+          35.70110400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.113",
+        "PERMITTEE_NAME": "Paul Johnston",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1622764800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Near the Intersection of Hwy 100 & Hwy 48",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.113",
+        "LATITUDE": 35.701104,
+        "LONGITUDE": -87.510436,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50089999999994,
+          35.67640000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.131",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1620777600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "SR-48, Emergency Culvert Replacement at LM 4.4",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.131",
+        "LATITUDE": 35.6764,
+        "LONGITUDE": -87.5009,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64866299999994,
+          35.80389800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182533",
+        "PERMITTEE_NAME": "Heritage Property Charitable Trust",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hickman",
+        "SITE_LOCATION": "Hwy 50 (N of WD Armstrong Rd)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182533",
+        "LATITUDE": 35.803898,
+        "LONGITUDE": -87.648663,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

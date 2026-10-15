@@ -1,0 +1,5179 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88895999999994,
+          35.202620000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670668",
+        "PERMITTEE_NAME": "Chattanooga Gas Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1778544000000,
+        "EFFECTIVE_DATE": 1778544000000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Georgetown Road NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670668",
+        "LATITUDE": 35.202619999999996,
+        "LONGITUDE": -84.88896,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82149999999996,
+          35.224600000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.030",
+        "PERMITTEE_NAME": "Riverstone Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747699200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "North Lee Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.030",
+        "LATITUDE": 35.2246,
+        "LONGITUDE": -84.8215,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91739999999999,
+          35.15050000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.040",
+        "PERMITTEE_NAME": "Bradley County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747785600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Pleasant Grove Place SW over Candies Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.040",
+        "LATITUDE": 35.1505,
+        "LONGITUDE": -84.9174,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95024699999999,
+          35.15308100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114431",
+        "PERMITTEE_NAME": "The Pryor Bacon Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "200 Pleasant Grove Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114431",
+        "LATITUDE": 35.153081,
+        "LONGITUDE": -84.95024699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79131399999994,
+          35.276897000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114629",
+        "PERMITTEE_NAME": "Thunder Road TN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "938 Lauderdale Memorial Highway NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114629",
+        "LATITUDE": 35.276897,
+        "LONGITUDE": -84.791314,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91097499999995,
+          35.08585400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114647",
+        "PERMITTEE_NAME": "Bradley County Parks and Recreation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4854 Blue Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114647",
+        "LATITUDE": 35.085854,
+        "LONGITUDE": -84.910975,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95024699999999,
+          35.15308100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.135",
+        "PERMITTEE_NAME": "The Pryor Bacon Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786924800000,
+        "EFFECTIVE_DATE": 1786924800000,
+        "EXPIRATION_DATE": 1944604800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "200 Pleasant Grove Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.135",
+        "LATITUDE": 35.153081,
+        "LONGITUDE": -84.95024699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93549999999999,
+          35.146600000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.070",
+        "PERMITTEE_NAME": "Stone Lake Developing LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1791763200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Stone Lake Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.070",
+        "LATITUDE": 35.1466,
+        "LONGITUDE": -84.9355,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94759999999997,
+          35.167340000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.062",
+        "PERMITTEE_NAME": "Bill Sanders",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1787184000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Withrow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.062",
+        "LATITUDE": 35.167339999999996,
+        "LONGITUDE": -84.94760000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79139999999995,
+          35.27680000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.034-26",
+        "PERMITTEE_NAME": "South Mouse Creek Mitigation Bank, LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-308 Lauderdale Memorial Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.034-26",
+        "LATITUDE": 35.2768,
+        "LONGITUDE": -84.79140000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93549999999999,
+          35.146600000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.045",
+        "PERMITTEE_NAME": "Stone Lake Developing LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1782864000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Stone Lake Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.045",
+        "LATITUDE": 35.1466,
+        "LONGITUDE": -84.9355,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82559999999995,
+          35.16698100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.050",
+        "PERMITTEE_NAME": "City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1783468800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2929 Michigan Avenue Rd NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.050",
+        "LATITUDE": 35.166981,
+        "LONGITUDE": -84.82560000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88840599999997,
+          35.232728000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114638",
+        "PERMITTEE_NAME": "Bradley County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "5350 Freewill Rd. NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114638",
+        "LATITUDE": 35.232728,
+        "LONGITUDE": -84.88840599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88399999999996,
+          35.22960000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.064",
+        "PERMITTEE_NAME": "Berry Allison Properties GP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1788825600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Georgetown Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.064",
+        "LATITUDE": 35.229600000000005,
+        "LONGITUDE": -84.884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88139999999999,
+          35.18980000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192434",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-60, From Near Vista Street to Near Guthrie Street Northwest in Cleveland",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192434",
+        "LATITUDE": 35.1898,
+        "LONGITUDE": -84.8814,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87609999999995,
+          35.186000000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.037",
+        "PERMITTEE_NAME": "The City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1778112000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "25th St NW & Peerless Rd NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.037",
+        "LATITUDE": 35.186,
+        "LONGITUDE": -84.87610000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76939999999996,
+          35.26640000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114582",
+        "PERMITTEE_NAME": "Kevin Mowery",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "8212/8298 N LEE HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114582",
+        "LATITUDE": 35.266400000000004,
+        "LONGITUDE": -84.7694,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85501399999998,
+          35.170296000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.028",
+        "PERMITTEE_NAME": "Bent Tree Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1779235200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2310 Williams St. NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.028",
+        "LATITUDE": 35.170296,
+        "LONGITUDE": -84.855014,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94759999999997,
+          35.167340000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114612",
+        "PERMITTEE_NAME": "Bill Sanders",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Withrow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114612",
+        "LATITUDE": 35.167339999999996,
+        "LONGITUDE": -84.94760000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87171699999999,
+          35.25448700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114602",
+        "PERMITTEE_NAME": "Boys & Girls Club of the Ocoee Region",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "6934 Eureka Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114602",
+        "LATITUDE": 35.254487,
+        "LONGITUDE": -84.87171699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79346099999998,
+          35.21715800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114541",
+        "PERMITTEE_NAME": "Cleveland Municipal Airport Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "251 DRY VALLEY RD NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114541",
+        "LATITUDE": 35.217158,
+        "LONGITUDE": -84.793461,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92411099999998,
+          35.13963800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051019",
+        "PERMITTEE_NAME": "Bradley Tank & Pipe, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763769600000,
+        "EFFECTIVE_DATE": 1763769600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "185 BOSS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051019",
+        "LATITUDE": 35.139638,
+        "LONGITUDE": -84.924111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94899099999998,
+          35.17453400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.036",
+        "PERMITTEE_NAME": "Nicola Santore",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1777507200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "261 Harris Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.036",
+        "LATITUDE": 35.174534,
+        "LONGITUDE": -84.94899099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89262599999995,
+          35.22686600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.119",
+        "PERMITTEE_NAME": "Chattanooga Gas Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1763337600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Freewill Rd NW & Bigsby Creek Rd instersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.119",
+        "LATITUDE": 35.226866,
+        "LONGITUDE": -84.89262599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93549999999999,
+          35.146600000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.076",
+        "PERMITTEE_NAME": "Stone Lake Developing LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1791158400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Stone Lake Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.076",
+        "LATITUDE": 35.1466,
+        "LONGITUDE": -84.9355,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92189999999994,
+          35.14700000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.014",
+        "PERMITTEE_NAME": "Duane Goff",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1771804800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Pleasant Grove Church Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.014",
+        "LATITUDE": 35.147,
+        "LONGITUDE": -84.92190000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96605899999997,
+          35.15615500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670718",
+        "PERMITTEE_NAME": "Chattanooga Gas Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1778630400000,
+        "EFFECTIVE_DATE": 1778630400000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "282 Natures Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670718",
+        "LATITUDE": 35.156155,
+        "LONGITUDE": -84.966059,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98833299999995,
+          35.065833000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111709.01",
+        "PERMITTEE_NAME": "Jerry & Karen Arnold",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "West side of Johnston Road south of Johnston Woods Subdivision",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111709.01",
+        "LATITUDE": 35.065833,
+        "LONGITUDE": -84.988333,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98833299999995,
+          35.065833000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111709.02",
+        "PERMITTEE_NAME": "Tom Williamson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "West side of Johnston Road south of Johnston Woods Subdivision",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111709.02",
+        "LATITUDE": 35.065833,
+        "LONGITUDE": -84.988333,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98589999999996,
+          35.14570000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113899",
+        "PERMITTEE_NAME": "TTW, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1250 Bancroft Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113899",
+        "LATITUDE": 35.145700000000005,
+        "LONGITUDE": -84.9859,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92566299999999,
+          35.146356000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.243",
+        "PERMITTEE_NAME": "Cleveland Ford",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1712102400000,
+        "EFFECTIVE_DATE": 1712102400000,
+        "EXPIRATION_DATE": 1869782400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2496 S Lee Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.243",
+        "LATITUDE": 35.146356,
+        "LONGITUDE": -84.925663,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86165999999997,
+          35.11906600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050787",
+        "PERMITTEE_NAME": "Aware LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767599054000,
+        "EFFECTIVE_DATE": 1767599054000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2815 DALTON PIKE SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050787",
+        "LATITUDE": 35.119066,
+        "LONGITUDE": -84.86166,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88279999999997,
+          35.21750000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.102-24",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1711497600000,
+        "EFFECTIVE_DATE": 1722211200000,
+        "EXPIRATION_DATE": 1879891200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-60, from north of I-75 to SR-306",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.102-24",
+        "LATITUDE": 35.2175,
+        "LONGITUDE": -84.8828,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79784899999999,
+          35.28293300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113871",
+        "PERMITTEE_NAME": "Stephen Carter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Mouse Creek Rd. NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113871",
+        "LATITUDE": 35.282933,
+        "LONGITUDE": -84.797849,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80158599999999,
+          35.152517000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114583",
+        "PERMITTEE_NAME": "Construction Brothers, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Old Parksville Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114583",
+        "LATITUDE": 35.152516999999996,
+        "LONGITUDE": -84.801586,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88840599999997,
+          35.232728000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114439",
+        "PERMITTEE_NAME": "Bradley County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "5350 Freewill Rd. NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114439",
+        "LATITUDE": 35.232728,
+        "LONGITUDE": -84.88840599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90889999999996,
+          35.17240000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.042",
+        "PERMITTEE_NAME": "Kinder Morgan/Products (SE) Pipeline Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1783641600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3255-3327 Harrison Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.042",
+        "LATITUDE": 35.1724,
+        "LONGITUDE": -84.9089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88239099999998,
+          35.247637000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114646",
+        "PERMITTEE_NAME": "Bradley County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "6065 Eureka Rd Northwest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114646",
+        "LATITUDE": 35.247637,
+        "LONGITUDE": -84.882391,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79359999999997,
+          35.16700000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.059",
+        "PERMITTEE_NAME": "Meadowcrest Barry Payne Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1750204800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Benton Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.059",
+        "LATITUDE": 35.167,
+        "LONGITUDE": -84.7936,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83488599999998,
+          35.25441200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059640",
+        "PERMITTEE_NAME": "Hooper & Sons Excavation, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "6494 MOUSE CREEK ROAD NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059640",
+        "LATITUDE": 35.254411999999995,
+        "LONGITUDE": -84.834886,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87721099999999,
+          35.32648700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.105",
+        "PERMITTEE_NAME": "Alan & Athena Pendergrass",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "00 No Pone Valley Rd NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.105",
+        "LATITUDE": 35.326487,
+        "LONGITUDE": -84.877211,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88139999999999,
+          35.18980000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.130",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758585600000,
+        "EFFECTIVE_DATE": 1774224000000,
+        "EXPIRATION_DATE": 1916265600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-60, From Near Vista Street to Near Guthrie Street Northwest in Cleveland",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.130",
+        "LATITUDE": 35.1898,
+        "LONGITUDE": -84.8814,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91160999999994,
+          35.135110000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059035",
+        "PERMITTEE_NAME": "Steve Williams Borrow Pit",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756252800000,
+        "EFFECTIVE_DATE": 1756252800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Holloway Road SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059035",
+        "LATITUDE": 35.13511,
+        "LONGITUDE": -84.91161,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96354099999996,
+          35.142634000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051363",
+        "PERMITTEE_NAME": "CANNON AUTOMOTIVE SOLUTIONS - BOWLING GREEN, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "121 INNOVATION DR SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051363",
+        "LATITUDE": 35.142634,
+        "LONGITUDE": -84.96354099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83183699999995,
+          35.168957000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051369",
+        "PERMITTEE_NAME": "Cormetech, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3000 20TH ST. NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051369",
+        "LATITUDE": 35.168957,
+        "LONGITUDE": -84.831837,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93385299999994,
+          35.18491000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114467",
+        "PERMITTEE_NAME": "HL MANAGEMENT SERVICE LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3089 Harrison Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114467",
+        "LATITUDE": 35.184909999999995,
+        "LONGITUDE": -84.933853,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90859999999998,
+          35.19730000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.069",
+        "PERMITTEE_NAME": "Chattanooga Gas Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1788912000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Freewill Rd NW near Lakewood Dr NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.069",
+        "LATITUDE": 35.1973,
+        "LONGITUDE": -84.9086,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87609999999995,
+          35.186000000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.039",
+        "PERMITTEE_NAME": "The City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1778112000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "25th St NW & Peerless Rd NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.039",
+        "LATITUDE": 35.186,
+        "LONGITUDE": -84.87610000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83375599999994,
+          35.15476300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.041",
+        "PERMITTEE_NAME": "Mesana Investments LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1779840000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "486 Durkee Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.041",
+        "LATITUDE": 35.154762999999996,
+        "LONGITUDE": -84.833756,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83375599999994,
+          35.15476300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.094",
+        "PERMITTEE_NAME": "Mesana Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1761004800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "486 Durkee Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.094",
+        "LATITUDE": 35.154762999999996,
+        "LONGITUDE": -84.833756,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78466399999996,
+          35.307079000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051388",
+        "PERMITTEE_NAME": "Innovative Water Care LLC, a Solenis company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1200 OLD LOWER RIVER RD. NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051388",
+        "LATITUDE": 35.307079,
+        "LONGITUDE": -84.78466399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90468199999998,
+          35.204755000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670785",
+        "PERMITTEE_NAME": "Chattanooga Gas Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1774396800000,
+        "EFFECTIVE_DATE": 1775001600000,
+        "EXPIRATION_DATE": 1777507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2495 Overbrook Cir NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670785",
+        "LATITUDE": 35.204755,
+        "LONGITUDE": -84.904682,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94759999999997,
+          35.167340000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.032",
+        "PERMITTEE_NAME": "Bill Sanders",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1781481600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Withrow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.032",
+        "LATITUDE": 35.167339999999996,
+        "LONGITUDE": -84.94760000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85970699999996,
+          35.238353000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114550",
+        "PERMITTEE_NAME": "Todd Duggan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Ridgedale Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114550",
+        "LATITUDE": 35.238353,
+        "LONGITUDE": -84.859707,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84767399999998,
+          35.15306100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051434",
+        "PERMITTEE_NAME": "The Scrap Yard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770854400000,
+        "EFFECTIVE_DATE": 1770854400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "426 OLD POWERLINE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051434",
+        "LATITUDE": 35.153061,
+        "LONGITUDE": -84.847674,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93385299999994,
+          35.18491000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.125",
+        "PERMITTEE_NAME": "HL Management Services LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1765238400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3089 Harrison Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.125",
+        "LATITUDE": 35.184909999999995,
+        "LONGITUDE": -84.933853,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80435099999994,
+          35.28717100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051433",
+        "PERMITTEE_NAME": "Linde Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763078400000,
+        "EFFECTIVE_DATE": 1763078400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "201 Haney Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051433",
+        "LATITUDE": 35.287171,
+        "LONGITUDE": -84.804351,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82068799999996,
+          35.15332900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114660",
+        "PERMITTEE_NAME": "Bradley County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "443 Minnis Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114660",
+        "LATITUDE": 35.153329,
+        "LONGITUDE": -84.82068799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82662099999999,
+          35.145890000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670784",
+        "PERMITTEE_NAME": "Chattanooga Gas Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1774396800000,
+        "EFFECTIVE_DATE": 1775001600000,
+        "EXPIRATION_DATE": 1777507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "46 Minnis Rd NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670784",
+        "LATITUDE": 35.14589,
+        "LONGITUDE": -84.826621,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90904699999999,
+          35.13034600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051454",
+        "PERMITTEE_NAME": "Earthworks Grading, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767744000000,
+        "EFFECTIVE_DATE": 1767744000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "INDUSTRIAL WAY SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051454",
+        "LATITUDE": 35.130345999999996,
+        "LONGITUDE": -84.909047,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96276199999994,
+          35.14536000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670782",
+        "PERMITTEE_NAME": "Chattanooga Gas Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1774915200000,
+        "EFFECTIVE_DATE": 1774915200000,
+        "EXPIRATION_DATE": 1777507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4550 Cherokee Gateway Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670782",
+        "LATITUDE": 35.14536,
+        "LONGITUDE": -84.962762,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.00599599999998,
+          35.08048000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114058",
+        "PERMITTEE_NAME": "Mike Hills",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1274 (10780) Pine Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114058",
+        "LATITUDE": 35.08048,
+        "LONGITUDE": -85.005996,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94696899999997,
+          35.16081500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192394",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Linear Project -start at structure E9 on L5044 (35.1608153076, -84.9469693252)\r\n182 Pleasant Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192394",
+        "LATITUDE": 35.160815,
+        "LONGITUDE": -84.946969,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85495699999996,
+          35.170341000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114512",
+        "PERMITTEE_NAME": "City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2310 WILLIAMS ST NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114512",
+        "LATITUDE": 35.170341,
+        "LONGITUDE": -84.854957,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87651299999999,
+          35.12978300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.070",
+        "PERMITTEE_NAME": "Extraco Banks, Trustee: c/o SCIP of Texas, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1750896000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1500 Fritz St. SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.070",
+        "LATITUDE": 35.129782999999996,
+        "LONGITUDE": -84.876513,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80435099999994,
+          35.28717100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670761",
+        "PERMITTEE_NAME": "LINDE ENGINEERING NORTH AMERICA LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1750809600000,
+        "EFFECTIVE_DATE": 1750809600000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "201 Haney Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670761",
+        "LATITUDE": 35.287171,
+        "LONGITUDE": -84.804351,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85405399999996,
+          35.17082700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.106",
+        "PERMITTEE_NAME": "Hillpointe LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": " Williams St NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.106",
+        "LATITUDE": 35.170826999999996,
+        "LONGITUDE": -84.85405399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96863299999995,
+          35.13649900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114520",
+        "PERMITTEE_NAME": "The Industrial Development Board of the County of Bradley and City of Cleveland, TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Innovation Dr SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114520",
+        "LATITUDE": 35.136499,
+        "LONGITUDE": -84.968633,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82149999999996,
+          35.224600000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.029",
+        "PERMITTEE_NAME": "Riverstone Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747699200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "North Lee Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.029",
+        "LATITUDE": 35.2246,
+        "LONGITUDE": -84.8215,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80333299999995,
+          35.211944000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051718",
+        "PERMITTEE_NAME": "WestRock Cleveland Recycle Fiber",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757548800000,
+        "EFFECTIVE_DATE": 1757548800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1175 Tasso Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051718",
+        "LATITUDE": 35.211943999999995,
+        "LONGITUDE": -84.803333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82916699999998,
+          35.12916700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056676",
+        "PERMITTEE_NAME": "APAC-ATLANTIC, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3854 Bates Pike SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056676",
+        "LATITUDE": 35.129166999999995,
+        "LONGITUDE": -84.829167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79359999999997,
+          35.16700000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114465",
+        "PERMITTEE_NAME": "Barry Payne",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Benton Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114465",
+        "LATITUDE": 35.167,
+        "LONGITUDE": -84.7936,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89703999999995,
+          35.19028300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.067",
+        "PERMITTEE_NAME": "Real Life Village",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1750982400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2500 Legacy Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.067",
+        "LATITUDE": 35.190283,
+        "LONGITUDE": -84.89703999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81083299999995,
+          35.052770000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114503",
+        "PERMITTEE_NAME": "Douglas B. Caywood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Browning Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114503",
+        "LATITUDE": 35.052769999999995,
+        "LONGITUDE": -84.810833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79409999999996,
+          35.13400900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114509",
+        "PERMITTEE_NAME": "CTMC Developments",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "McCalanahan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114509",
+        "LATITUDE": 35.134009,
+        "LONGITUDE": -84.7941,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82611099999997,
+          35.18416700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053327",
+        "PERMITTEE_NAME": "Georgia-Pacific Corrugated LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761004800000,
+        "EFFECTIVE_DATE": 1761004800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4200 OLD TASSO ROAD\r\n",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053327",
+        "LATITUDE": 35.184166999999995,
+        "LONGITUDE": -84.826111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88369999999998,
+          35.21240000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.097",
+        "PERMITTEE_NAME": "Johnny Evans",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Georgetown Rd NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.097",
+        "LATITUDE": 35.2124,
+        "LONGITUDE": -84.8837,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82199999999995,
+          35.14990000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114524",
+        "PERMITTEE_NAME": "Bradley County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "300 Minnis Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114524",
+        "LATITUDE": 35.1499,
+        "LONGITUDE": -84.822,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90259999999995,
+          35.13657000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051237",
+        "PERMITTEE_NAME": "United Packers of Chattanooga, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760918400000,
+        "EFFECTIVE_DATE": 1760918400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "174 Refreshment Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051237",
+        "LATITUDE": 35.13657,
+        "LONGITUDE": -84.9026,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82078499999994,
+          35.16991900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.107",
+        "PERMITTEE_NAME": "Brady Umberger",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1745 31st Street NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.107",
+        "LATITUDE": 35.169919,
+        "LONGITUDE": -84.820785,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75989999999996,
+          35.133200000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050306",
+        "PERMITTEE_NAME": "McKinney Excavating, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754956800000,
+        "EFFECTIVE_DATE": 1754956800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Waterlevel Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050306",
+        "LATITUDE": 35.1332,
+        "LONGITUDE": -84.7599,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96046399999994,
+          35.15440200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.182a",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1729555200000,
+        "EFFECTIVE_DATE": 1729555200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "PLEASANT GROVE RD SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.182a",
+        "LATITUDE": 35.154402,
+        "LONGITUDE": -84.960464,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74569999999994,
+          35.262200000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114003",
+        "PERMITTEE_NAME": "William Thomas  ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "507 Upper River Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114003",
+        "LATITUDE": 35.2622,
+        "LONGITUDE": -84.7457,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80979999999994,
+          35.192000000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114348",
+        "PERMITTEE_NAME": "LynnCo Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "193 Wilkinson Rd. NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114348",
+        "LATITUDE": 35.192,
+        "LONGITUDE": -84.80980000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83849999999995,
+          35.213400000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114325",
+        "PERMITTEE_NAME": "Cleveland Utilities Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Kings Den Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114325",
+        "LATITUDE": 35.2134,
+        "LONGITUDE": -84.83850000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79920099999998,
+          35.125740000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2401.136",
+        "PERMITTEE_NAME": "Ben Bulba",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4718 Bates Pike SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2401.136",
+        "LATITUDE": 35.12574,
+        "LONGITUDE": -84.799201,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47089999999997,
+          35.18500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.211",
+        "PERMITTEE_NAME": "Wacker Polysilicon North America, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1742860800000,
+        "EFFECTIVE_DATE": 1742860800000,
+        "EXPIRATION_DATE": 1900540800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "553 McBryant Road North West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.211",
+        "LATITUDE": 35.185,
+        "LONGITUDE": -84.4709,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85461999999995,
+          35.08638000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.030",
+        "PERMITTEE_NAME": "Trewhitt Reserve, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1665360000000,
+        "EFFECTIVE_DATE": 1665360000000,
+        "EXPIRATION_DATE": 1823040000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Trewhitt Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.030",
+        "LATITUDE": 35.08638,
+        "LONGITUDE": -84.85462,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94440999999995,
+          35.28119000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114161",
+        "PERMITTEE_NAME": "Markietta Munck",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "8650 Georgetown Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114161",
+        "LATITUDE": 35.281189999999995,
+        "LONGITUDE": -84.94440999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90838299999996,
+          35.22598300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114144",
+        "PERMITTEE_NAME": "Solid Ground Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Sourwood Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114144",
+        "LATITUDE": 35.225983,
+        "LONGITUDE": -84.908383,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76919999999996,
+          35.13140000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114254",
+        "PERMITTEE_NAME": "HBA and Partners, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Osment Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114254",
+        "LATITUDE": 35.1314,
+        "LONGITUDE": -84.7692,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80374599999999,
+          35.28540400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114223",
+        "PERMITTEE_NAME": "Samson Controls, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Lauderdale Memorial Hwy at Haney Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114223",
+        "LATITUDE": 35.285404,
+        "LONGITUDE": -84.80374599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83849999999995,
+          35.213400000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.207",
+        "PERMITTEE_NAME": "Cleveland Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1739923200000,
+        "EFFECTIVE_DATE": 1739923200000,
+        "EXPIRATION_DATE": 1897603200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Kings Den Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.207",
+        "LATITUDE": 35.2134,
+        "LONGITUDE": -84.83850000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96046399999994,
+          35.15440200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.182",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1729555200000,
+        "EFFECTIVE_DATE": 1729555200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "PLEASANT GROVE RD SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.182",
+        "LATITUDE": 35.154402,
+        "LONGITUDE": -84.960464,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89966799999996,
+          35.131684000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051111",
+        "PERMITTEE_NAME": "Newly Weds Foods, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761091200000,
+        "EFFECTIVE_DATE": 1761091200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "187 INDUSTRIAL LN SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051111",
+        "LATITUDE": 35.131684,
+        "LONGITUDE": -84.89966799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81181199999997,
+          35.233037000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114432",
+        "PERMITTEE_NAME": "Kevin Sabany",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "898 Jenkins Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114432",
+        "LATITUDE": 35.233036999999996,
+        "LONGITUDE": -84.81181199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83529999999996,
+          35.15500000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.223",
+        "PERMITTEE_NAME": "Three Point Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1757289600000,
+        "EFFECTIVE_DATE": 1756857600000,
+        "EXPIRATION_DATE": 1914537600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "327, 363, 401 Durkee Road SE & 0 Old Powerline Road SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.223",
+        "LATITUDE": 35.155,
+        "LONGITUDE": -84.8353,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83475999999996,
+          35.15331500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110495",
+        "PERMITTEE_NAME": "Summers Taylor Materials",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1675641600000,
+        "EFFECTIVE_DATE": 1677628800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "178 Durkee Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110495",
+        "LATITUDE": 35.153315,
+        "LONGITUDE": -84.83476,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76453499999997,
+          35.13169300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114238",
+        "PERMITTEE_NAME": "Mi Casa Construction / Rob Renner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Finnell Ave SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114238",
+        "LATITUDE": 35.131693,
+        "LONGITUDE": -84.764535,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77333299999998,
+          35.146667000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2501.043",
+        "PERMITTEE_NAME": "Ocoee Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1750723200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Old Parksville Rd NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2501.043",
+        "LATITUDE": 35.146667,
+        "LONGITUDE": -84.773333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85488199999998,
+          35.200262000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114130",
+        "PERMITTEE_NAME": "City of Cleveland ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4031 Keith St NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114130",
+        "LATITUDE": 35.200261999999995,
+        "LONGITUDE": -84.85488199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95509999999996,
+          35.15530000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114286",
+        "PERMITTEE_NAME": "Bill Sanders",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "380 Pleasant Grove Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114286",
+        "LATITUDE": 35.155300000000004,
+        "LONGITUDE": -84.9551,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80059999999997,
+          35.30460000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192259",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Bridge over South Mouse Creek LM 13.09",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192259",
+        "LATITUDE": 35.3046,
+        "LONGITUDE": -84.8006,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91354099999995,
+          35.25879400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114138",
+        "PERMITTEE_NAME": "Mark Peppler",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "6649 Georgetown Road NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114138",
+        "LATITUDE": 35.258794,
+        "LONGITUDE": -84.913541,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77199999999993,
+          35.29600000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114218",
+        "PERMITTEE_NAME": "Wright Industrial Group LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "677 Old Lower River Road NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114218",
+        "LATITUDE": 35.296,
+        "LONGITUDE": -84.772,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83009999999996,
+          35.19010000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114101",
+        "PERMITTEE_NAME": "First Baptist Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1275 Stuart Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114101",
+        "LATITUDE": 35.1901,
+        "LONGITUDE": -84.8301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82472999999999,
+          35.15334000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.223",
+        "PERMITTEE_NAME": "River Stone Construction LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691712000000,
+        "EFFECTIVE_DATE": 1691712000000,
+        "EXPIRATION_DATE": 1849478400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Minnis Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.223",
+        "LATITUDE": 35.15334,
+        "LONGITUDE": -84.82473,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80059999999997,
+          35.30460000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.227",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1675641600000,
+        "EFFECTIVE_DATE": 1675641600000,
+        "EXPIRATION_DATE": 1833321600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Bridge over South Mouse Creek LM 13.09",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.227",
+        "LATITUDE": 35.3046,
+        "LONGITUDE": -84.8006,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92319999999995,
+          35.14610000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2201.106",
+        "PERMITTEE_NAME": "Duane Goff",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1669766400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Pleasant Grove Church Rd SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2201.106",
+        "LATITUDE": 35.146100000000004,
+        "LONGITUDE": -84.92320000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80517999999995,
+          35.15787300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113936",
+        "PERMITTEE_NAME": "Mike Crittenden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Old Parksville Road, NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113936",
+        "LATITUDE": 35.157872999999995,
+        "LONGITUDE": -84.80518,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80222199999997,
+          35.14277800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113903",
+        "PERMITTEE_NAME": "Teofil Kurochka",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Lyles Rd at intersection of Hwy 60 (Waterlevel Hwy)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113903",
+        "LATITUDE": 35.142778,
+        "LONGITUDE": -84.802222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70501799999994,
+          35.15242000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059928",
+        "PERMITTEE_NAME": "Simmons Metal Recycling, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1638144000000,
+        "EFFECTIVE_DATE": 1638144000000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4781 Hwy 411",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059928",
+        "LATITUDE": 35.15242,
+        "LONGITUDE": -84.705018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95024699999999,
+          35.15308100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113838",
+        "PERMITTEE_NAME": "John H. Brewer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "200 Pleasant Grove Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113838",
+        "LATITUDE": 35.153081,
+        "LONGITUDE": -84.95024699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86277999999999,
+          35.117530000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059998",
+        "PERMITTEE_NAME": "Steve Williams Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756252800000,
+        "EFFECTIVE_DATE": 1756252800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2950 TN-60",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059998",
+        "LATITUDE": 35.117529999999995,
+        "LONGITUDE": -84.86278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84094299999998,
+          35.14765500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-02015",
+        "PERMITTEE_NAME": "The Pantry - Kangaroo Express Store #3628 (AKA Circle K)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1456790400000,
+        "EFFECTIVE_DATE": 1459468800000,
+        "EXPIRATION_DATE": 1617148800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2890 Waterlevel Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-02015",
+        "LATITUDE": 35.147655,
+        "LONGITUDE": -84.840943,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79111099999994,
+          35.21916700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0004642",
+        "PERMITTEE_NAME": "Cleveland Utilities Authority (CUA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": 1665100800000,
+        "EFFECTIVE_DATE": 1698710400000,
+        "EXPIRATION_DATE": 1756598400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "481 Dry Valley Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0004642",
+        "LATITUDE": 35.219167,
+        "LONGITUDE": -84.791111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88999999999999,
+          35.23900000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.122",
+        "PERMITTEE_NAME": "Woodridge Properties GP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1502064000000,
+        "EFFECTIVE_DATE": 1502064000000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Hopewell Heights Section 2-Lot 14",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.122",
+        "LATITUDE": 35.239000000000004,
+        "LONGITUDE": -84.89,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88234999999997,
+          35.13888600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050036",
+        "PERMITTEE_NAME": "Pasco Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770163200000,
+        "EFFECTIVE_DATE": 1770163200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2020 KING EDWARD AVENUE, S.E.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050036",
+        "LATITUDE": 35.138886,
+        "LONGITUDE": -84.88235,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82999999999998,
+          35.18777700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050497",
+        "PERMITTEE_NAME": "ASCENT CHEMICALS CLEVELAND, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4325 Old Tasso Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050497",
+        "LATITUDE": 35.187777,
+        "LONGITUDE": -84.83,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83529999999996,
+          35.15500000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110039",
+        "PERMITTEE_NAME": "Bradley Concrete Construction, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1703030400000,
+        "EFFECTIVE_DATE": 1704067200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "340 Durkee Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110039",
+        "LATITUDE": 35.155,
+        "LONGITUDE": -84.8353,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85228999999998,
+          35.15461800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110231",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1672272000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1601 6th Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110231",
+        "LATITUDE": 35.154618,
+        "LONGITUDE": -84.85229,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81061699999998,
+          35.19533000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050869",
+        "PERMITTEE_NAME": "Formulated Solutions Cleveland, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759228737000,
+        "EFFECTIVE_DATE": 1759228737000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4207 Michigan Avenue Road North East",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050869",
+        "LATITUDE": 35.19533,
+        "LONGITUDE": -84.810617,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90469999999993,
+          35.131278000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053689",
+        "PERMITTEE_NAME": "Waste Connections of Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "386 INDUSTRIAL DR SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053689",
+        "LATITUDE": 35.131278,
+        "LONGITUDE": -84.9047,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81944399999998,
+          35.10361100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053705",
+        "PERMITTEE_NAME": "Central Asphalt, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765756800000,
+        "EFFECTIVE_DATE": 1765756800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "348 Ladd Springs Road SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053705",
+        "LATITUDE": 35.103611,
+        "LONGITUDE": -84.81944399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86481899999995,
+          35.31466900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054449",
+        "PERMITTEE_NAME": "Woodway Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3473 No Pone Rd NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054449",
+        "LATITUDE": 35.314668999999995,
+        "LONGITUDE": -84.864819,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84946099999996,
+          35.15209200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051094",
+        "PERMITTEE_NAME": "BALLARD AUTO PARTS, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771286400000,
+        "EFFECTIVE_DATE": 1771286400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2199 WATERLEVEL HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051094",
+        "LATITUDE": 35.152091999999996,
+        "LONGITUDE": -84.84946099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90874899999994,
+          35.13440000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053746",
+        "PERMITTEE_NAME": "Mueller Co. LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1772409600000,
+        "EFFECTIVE_DATE": 1772409600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "620 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053746",
+        "LATITUDE": 35.1344,
+        "LONGITUDE": -84.908749,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84528999999998,
+          35.147114000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051242",
+        "PERMITTEE_NAME": "Wampler's Used Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2435 Bates Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051242",
+        "LATITUDE": 35.147113999999995,
+        "LONGITUDE": -84.84528999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86826399999995,
+          35.19997200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051745",
+        "PERMITTEE_NAME": "Mars Incorporated, dba Mars Wrigley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3500 Peerless Road Northwest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051745",
+        "LATITUDE": 35.199971999999995,
+        "LONGITUDE": -84.868264,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90296099999995,
+          35.131988000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053549",
+        "PERMITTEE_NAME": "United Parcel Service Inc - Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "113 Industrial Drive SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053549",
+        "LATITUDE": 35.131988,
+        "LONGITUDE": -84.90296099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83759599999996,
+          35.154386000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051776",
+        "PERMITTEE_NAME": "Cormetech, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3300 Old Tasso Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051776",
+        "LATITUDE": 35.154385999999995,
+        "LONGITUDE": -84.83759599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83475999999996,
+          35.15331500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053899",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "178 Durkee Road NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053899",
+        "LATITUDE": 35.153315,
+        "LONGITUDE": -84.83476,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88861099999997,
+          35.13027800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053900",
+        "PERMITTEE_NAME": "Southeastern Farmers Cooperative",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769558400000,
+        "EFFECTIVE_DATE": 1769558400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2616 BLUE SPRINGS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053900",
+        "LATITUDE": 35.130278,
+        "LONGITUDE": -84.888611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86943299999996,
+          35.158652000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051686",
+        "PERMITTEE_NAME": "ADM Milling Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762387200000,
+        "EFFECTIVE_DATE": 1762387200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "430 Central Avenue NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051686",
+        "LATITUDE": 35.158652,
+        "LONGITUDE": -84.869433,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77339999999998,
+          35.303300000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051877",
+        "PERMITTEE_NAME": "Smoky Mountain Transfer Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759363200000,
+        "EFFECTIVE_DATE": 1759363200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "819 Old Lower River Road NW\r\n\r\nPO Box 465",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051877",
+        "LATITUDE": 35.3033,
+        "LONGITUDE": -84.77340000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96605899999997,
+          35.15615500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051890",
+        "PERMITTEE_NAME": "Santek Waste Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "282 Natures Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051890",
+        "LATITUDE": 35.156155,
+        "LONGITUDE": -84.966059,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91056699999996,
+          35.12581400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053606",
+        "PERMITTEE_NAME": "Polartec Tennessee Manufacturing, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759968000000,
+        "EFFECTIVE_DATE": 1759968000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "310 Industrial Drive, Southwest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053606",
+        "LATITUDE": 35.125814,
+        "LONGITUDE": -84.910567,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83926299999996,
+          35.17458800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053619",
+        "PERMITTEE_NAME": "Garrett Transportation I, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768232180000,
+        "EFFECTIVE_DATE": 1768232180000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3000 20TH STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053619",
+        "LATITUDE": 35.174588,
+        "LONGITUDE": -84.839263,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85413299999999,
+          35.20275600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053648",
+        "PERMITTEE_NAME": "Duracell Manufacturing Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760054400000,
+        "EFFECTIVE_DATE": 1760054400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "501 Mouse Creek Road NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053648",
+        "LATITUDE": 35.202756,
+        "LONGITUDE": -84.85413299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87643899999995,
+          35.160727000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS077771",
+        "PERMITTEE_NAME": "Bradley County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1674000000000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "155 Broad Street NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS077771",
+        "LATITUDE": 35.160727,
+        "LONGITUDE": -84.87643899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87969999999996,
+          35.17020000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075213",
+        "PERMITTEE_NAME": "City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1670198400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "PO Box 1519",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075213",
+        "LATITUDE": 35.1702,
+        "LONGITUDE": -84.8797,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79973399999994,
+          35.311168000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB024121",
+        "PERMITTEE_NAME": "Cleveland Utilities Authority (CUA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1756944000000,
+        "EFFECTIVE_DATE": 1756944000000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1860 Old Lower River Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB024121",
+        "LATITUDE": 35.311167999999995,
+        "LONGITUDE": -84.799734,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82903599999997,
+          35.18556700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056843",
+        "PERMITTEE_NAME": "Swing Transport, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "4295 OLD TASSO RD NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056843",
+        "LATITUDE": 35.185567,
+        "LONGITUDE": -84.829036,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82638899999995,
+          35.28111100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR111403",
+        "PERMITTEE_NAME": "4 Star, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Frontage Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR111403",
+        "LATITUDE": 35.281110999999996,
+        "LONGITUDE": -84.82638899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85166699999996,
+          35.16527800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058529",
+        "PERMITTEE_NAME": "Keasler, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1675 OVERHEAD BRIDGE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058529",
+        "LATITUDE": 35.165278,
+        "LONGITUDE": -84.85166699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83436699999999,
+          35.16131900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059021",
+        "PERMITTEE_NAME": "Whirlpool Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2525 Benton Pike NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059021",
+        "LATITUDE": 35.161319,
+        "LONGITUDE": -84.834367,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92599999999999,
+          35.13940000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR112512",
+        "PERMITTEE_NAME": "S&E Partnership",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2779 South Lee Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR112512",
+        "LATITUDE": 35.1394,
+        "LONGITUDE": -84.926,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76582599999995,
+          35.081942000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00333",
+        "PERMITTEE_NAME": "Tom Haynes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoDE",
+        "ISSUANCE_DATE": 1452124800000,
+        "EFFECTIVE_DATE": 1452124800000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": 1529971200000,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "266 Branam Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00333",
+        "LATITUDE": 35.081942,
+        "LONGITUDE": -84.76582599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81222499999996,
+          35.28252900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059181",
+        "PERMITTEE_NAME": "Amazon.com Services LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759795200000,
+        "EFFECTIVE_DATE": 1759795200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "225 Infinity Drive NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059181",
+        "LATITUDE": 35.282529,
+        "LONGITUDE": -84.812225,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96863299999995,
+          35.13649900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.050",
+        "PERMITTEE_NAME": "Bradley/Cleveland Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1494979200000,
+        "EFFECTIVE_DATE": 1494979200000,
+        "EXPIRATION_DATE": 1652659200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Innovation Dr SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.050",
+        "LATITUDE": 35.136499,
+        "LONGITUDE": -84.968633,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89850699999994,
+          35.15410000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.007",
+        "PERMITTEE_NAME": "Sandy Vest",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1491523200000,
+        "EFFECTIVE_DATE": 1501545600000,
+        "EXPIRATION_DATE": 1648684800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Boyd Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.007",
+        "LATITUDE": 35.1541,
+        "LONGITUDE": -84.898507,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79694399999994,
+          35.30136200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0081311",
+        "PERMITTEE_NAME": "Wacker Polysilicon North America, LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": 1651104000000,
+        "EFFECTIVE_DATE": 1651363200000,
+        "EXPIRATION_DATE": 1806451200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "553 Wacker Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0081311",
+        "LATITUDE": 35.301362,
+        "LONGITUDE": -84.796944,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81889999999999,
+          35.20220000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR112949",
+        "PERMITTEE_NAME": "River Stone Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Urbane Road in vicinity of the intersection of Mulberry Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR112949",
+        "LATITUDE": 35.202200000000005,
+        "LONGITUDE": -84.8189,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77526799999998,
+          35.13969000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR114569",
+        "PERMITTEE_NAME": "Wright Architecture,. LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "5557 WATER LEVEL HWY (HWY 64)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR114569",
+        "LATITUDE": 35.13969,
+        "LONGITUDE": -84.775268,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87008799999995,
+          35.35214800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113135",
+        "PERMITTEE_NAME": "TN Wildlife Resource Agency",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Georgetown",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113135",
+        "LATITUDE": 35.352148,
+        "LONGITUDE": -84.870088,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87599999999998,
+          35.186300000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.278",
+        "PERMITTEE_NAME": "City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1520553600000,
+        "EXPIRATION_DATE": 1617580800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "950 25th Street and Peerless Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.278",
+        "LATITUDE": 35.1863,
+        "LONGITUDE": -84.876,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85339999999997,
+          35.15940000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059438",
+        "PERMITTEE_NAME": "Hampton Backhoe Service, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766016000000,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1320 OVERHEAD BRIDGE ROAD NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059438",
+        "LATITUDE": 35.159400000000005,
+        "LONGITUDE": -84.85340000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.99199199999998,
+          35.15768000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.288",
+        "PERMITTEE_NAME": "Al Miller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1517529600000,
+        "EFFECTIVE_DATE": 1517529600000,
+        "EXPIRATION_DATE": 1675296000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1064 Banther Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.288",
+        "LATITUDE": 35.15768,
+        "LONGITUDE": -84.991992,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74333299999995,
+          35.15388900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "067001",
+        "PERMITTEE_NAME": "Anthony Paxton, Beverlee Engle and Roger Walden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1782345600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1813017600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "126nw Gatlin Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:067001",
+        "LATITUDE": 35.153889,
+        "LONGITUDE": -84.74333299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98611099999994,
+          35.03138900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "067006",
+        "PERMITTEE_NAME": "Tom Willumson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1686787200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1781481600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "120sw Candies Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:067006",
+        "LATITUDE": 35.031389,
+        "LONGITUDE": -84.986111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.84833299999997,
+          35.11638900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "067008",
+        "PERMITTEE_NAME": "The Wildwood Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1749600000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1813017600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "120se Wildwood Spring",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:067008",
+        "LATITUDE": 35.116389,
+        "LONGITUDE": -84.848333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95555599999994,
+          35.137222000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "067010",
+        "PERMITTEE_NAME": "Broad Street U.M.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1729814400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1823558400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "120nw Trib-Brymer Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:067010",
+        "LATITUDE": 35.137222,
+        "LONGITUDE": -84.955556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.71111099999996,
+          35.241111000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "067011",
+        "PERMITTEE_NAME": "Sarah Woodard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1468886400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1560556800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "126nw Parker Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:067011",
+        "LATITUDE": 35.241111,
+        "LONGITUDE": -84.711111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88187599999998,
+          35.13450800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051679",
+        "PERMITTEE_NAME": "Sequatchie Concrete Service, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "2180 Blythe Ave SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051679",
+        "LATITUDE": 35.134508,
+        "LONGITUDE": -84.88187599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93262999999996,
+          35.149320000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.333",
+        "PERMITTEE_NAME": "City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1526515200000,
+        "EFFECTIVE_DATE": 1526515200000,
+        "EXPIRATION_DATE": 1683590400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Intersection of Relocated Stone Lake Road and Pleasant Grove Church Road and SR-311",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.333",
+        "LATITUDE": 35.149319999999996,
+        "LONGITUDE": -84.93263,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83684599999998,
+          35.172600000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059476",
+        "PERMITTEE_NAME": "Mark Zius",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1787529600000,
+        "EFFECTIVE_DATE": 1787529600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3379 OLD TASSO RD NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059476",
+        "LATITUDE": 35.1726,
+        "LONGITUDE": -84.836846,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77333299999998,
+          35.146667000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0082139",
+        "PERMITTEE_NAME": "Ocoee Utility District",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "Individual",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Old Parksville Rd NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0082139",
+        "LATITUDE": 35.146667,
+        "LONGITUDE": -84.773333,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85874799999993,
+          35.211655000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.222",
+        "PERMITTEE_NAME": "LeConte Cleveland, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1563321600000,
+        "EFFECTIVE_DATE": 1617840000000,
+        "EXPIRATION_DATE": 1720483200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Undeveloped lot on Paul Huff Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.222",
+        "LATITUDE": 35.211655,
+        "LONGITUDE": -84.85874799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90029599999997,
+          35.250834000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.082",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1558051200000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-60 land mark 21.1",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.082",
+        "LATITUDE": 35.250834,
+        "LONGITUDE": -84.900296,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93870299999998,
+          35.13813000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2601.007",
+        "PERMITTEE_NAME": "Newman Farm Partners, 2025, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1770163200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Johnson School Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2601.007",
+        "LATITUDE": 35.13813,
+        "LONGITUDE": -84.93870299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78849999999994,
+          35.28720000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059576",
+        "PERMITTEE_NAME": "BULLINS ENVIRONMENTAL SOLUTIONS, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "241 Glendale Ln. NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059576",
+        "LATITUDE": 35.2872,
+        "LONGITUDE": -84.7885,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87794599999995,
+          35.16086400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.267",
+        "PERMITTEE_NAME": "City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1568592000000,
+        "EFFECTIVE_DATE": 1568678400000,
+        "EXPIRATION_DATE": 1726444800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "285 1st Street NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.267",
+        "LATITUDE": 35.160864,
+        "LONGITUDE": -84.877946,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82638899999995,
+          35.28111100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113280",
+        "PERMITTEE_NAME": "4 Star, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Frontage Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113280",
+        "LATITUDE": 35.281110999999996,
+        "LONGITUDE": -84.82638899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81961699999994,
+          35.18468400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059471",
+        "PERMITTEE_NAME": "VOGEL SEED & FERTILIZER, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3697 Michigan Ave. Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059471",
+        "LATITUDE": 35.184684,
+        "LONGITUDE": -84.819617,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86217099999999,
+          35.14957100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059482",
+        "PERMITTEE_NAME": "City of Cleveland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "355 HILL ST SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059482",
+        "LATITUDE": 35.149571,
+        "LONGITUDE": -84.86217099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89723499999997,
+          35.13551200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059483",
+        "PERMITTEE_NAME": "Jackson Furniture Industries; aka Goldstar",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "151 Goldstar Drive SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059483",
+        "LATITUDE": 35.135512,
+        "LONGITUDE": -84.897235,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95529999999997,
+          35.15500000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113286",
+        "PERMITTEE_NAME": "Bill Sanders, President, Trotters Place Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Pleasant Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113286",
+        "LATITUDE": 35.155,
+        "LONGITUDE": -84.95530000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81455799999998,
+          35.23185300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.009",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1548028800000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Lee Highway (SR-2) at Sunset Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.009",
+        "LATITUDE": 35.231853,
+        "LONGITUDE": -84.81455799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90669999999994,
+          35.25520000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.040",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1552608000000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "State 60 at LM 21.66",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.040",
+        "LATITUDE": 35.2552,
+        "LONGITUDE": -84.9067,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91033599999997,
+          35.13028700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059651",
+        "PERMITTEE_NAME": "Steve Williams Construction LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756166400000,
+        "EFFECTIVE_DATE": 1756166400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "250 Industrial Park Way, SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059651",
+        "LATITUDE": 35.130286999999996,
+        "LONGITUDE": -84.910336,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85189999999994,
+          35.12870000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.002",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1546992000000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-74, LM 11.28 and LM 11.5",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.002",
+        "LATITUDE": 35.1287,
+        "LONGITUDE": -84.8519,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89999999999998,
+          35.14670000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113319",
+        "PERMITTEE_NAME": "Rob Renner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Grand View Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113319",
+        "LATITUDE": 35.1467,
+        "LONGITUDE": -84.9,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90496899999994,
+          35.144791000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.259",
+        "PERMITTEE_NAME": "Tennessee Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1545868800000,
+        "EFFECTIVE_DATE": 1546214400000,
+        "EXPIRATION_DATE": 1703894400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1960 Westland Drive SW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.259",
+        "LATITUDE": 35.144791,
+        "LONGITUDE": -84.904969,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82140499999997,
+          35.183816000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.195",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1605657600000,
+        "EFFECTIVE_DATE": 1605225600000,
+        "EXPIRATION_DATE": 1762905600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Linear Transmission Project",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.195",
+        "LATITUDE": 35.183816,
+        "LONGITUDE": -84.821405,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82944599999996,
+          35.172138000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059757",
+        "PERMITTEE_NAME": "Cormetech, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762300800000,
+        "EFFECTIVE_DATE": 1762300800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "3075 20TH STREET NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059757",
+        "LATITUDE": 35.172138,
+        "LONGITUDE": -84.82944599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90194399999996,
+          35.15250000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051680",
+        "PERMITTEE_NAME": "Clonts Used Auto Parts",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "1307 Victory Street S.W.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051680",
+        "LATITUDE": 35.1525,
+        "LONGITUDE": -84.901944,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79139999999995,
+          35.27680000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.034",
+        "PERMITTEE_NAME": "South Mouse Creek Mitigation Bank, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1588204800000,
+        "EFFECTIVE_DATE": 1588032000000,
+        "EXPIRATION_DATE": 1745712000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-308 Lauderdale Memorial Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.034",
+        "LATITUDE": 35.2768,
+        "LONGITUDE": -84.79140000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47089999999997,
+          35.18500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.002-19",
+        "PERMITTEE_NAME": "Wacker Polysilicon North America, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1585094400000,
+        "EFFECTIVE_DATE": 1585094400000,
+        "EXPIRATION_DATE": 1742774400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "553 McBryant Road North West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.002-19",
+        "LATITUDE": 35.185,
+        "LONGITUDE": -84.4709,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80249999999995,
+          35.21290000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113540",
+        "PERMITTEE_NAME": "Tri-State Warehouses, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "North of Tasso Road (behind re-cycling center)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113540",
+        "LATITUDE": 35.212900000000005,
+        "LONGITUDE": -84.80250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77907599999998,
+          35.32348300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059776",
+        "PERMITTEE_NAME": "Steve Williams Construction LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756252800000,
+        "EFFECTIVE_DATE": 1756252800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "I-75 at Lamontville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059776",
+        "LATITUDE": 35.323482999999996,
+        "LONGITUDE": -84.77907599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90699999999998,
+          35.12230000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059783",
+        "PERMITTEE_NAME": "Pretium Packaging (Starplex Scientific Corp)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757980800000,
+        "EFFECTIVE_DATE": 1757980800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "705 Industrial Drive Southwest",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059783",
+        "LATITUDE": 35.1223,
+        "LONGITUDE": -84.90700000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85189999999994,
+          35.12870000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.002-21",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1611273600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-74, LM 11.28 and LM 11.5",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.002-21",
+        "LATITUDE": 35.1287,
+        "LONGITUDE": -84.8519,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91277799999995,
+          35.20666700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.263",
+        "PERMITTEE_NAME": "Epperson Homes LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1585180800000,
+        "EFFECTIVE_DATE": 1585008000000,
+        "EXPIRATION_DATE": 1742688000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Old Freewill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.263",
+        "LATITUDE": 35.206666999999996,
+        "LONGITUDE": -84.912778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90176099999996,
+          35.20122200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.120",
+        "PERMITTEE_NAME": "Pratt & Associates LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1628121600000,
+        "EFFECTIVE_DATE": 1628121600000,
+        "EXPIRATION_DATE": 1785801600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Candies Creek @ Freewill Road, Residential",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.120",
+        "LATITUDE": 35.201222,
+        "LONGITUDE": -84.901761,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85461999999995,
+          35.08638000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113700",
+        "PERMITTEE_NAME": "Trewhitt Reserve, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Trewhitt Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113700",
+        "LATITUDE": 35.08638,
+        "LONGITUDE": -84.85462,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82638899999995,
+          35.28111100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113620",
+        "PERMITTEE_NAME": "4 Star LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Frontage Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113620",
+        "LATITUDE": 35.281110999999996,
+        "LONGITUDE": -84.82638899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85489999999999,
+          35.16946000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.134",
+        "PERMITTEE_NAME": "U S Army Corps of Engineers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1650240000000,
+        "EFFECTIVE_DATE": 1717372800000,
+        "EXPIRATION_DATE": 1807920000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "Several Locations in Cleveland Tennessee",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.134",
+        "LATITUDE": 35.16946,
+        "LONGITUDE": -84.8549,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79559999999998,
+          35.142300000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.096-21",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1614902400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "SR-40 West of Cleveland",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.096-21",
+        "LATITUDE": 35.1423,
+        "LONGITUDE": -84.79560000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83129999999994,
+          35.32580000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR113712",
+        "PERMITTEE_NAME": "BB Marina & Campground LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Bradley",
+        "SITE_LOCATION": "262 Marina Drive NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR113712",
+        "LATITUDE": 35.3258,
+        "LONGITUDE": -84.8313,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

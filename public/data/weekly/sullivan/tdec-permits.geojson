@@ -1,0 +1,6037 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.14129999999994,
+          36.50060000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162221",
+        "PERMITTEE_NAME": "South Fork Utility District",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Morrell Creek Rd, Morrell Creek Ln, Riddle Creek Ln, Troublesome Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162221",
+        "LATITUDE": 36.5006,
+        "LONGITUDE": -82.1413,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60839999999996,
+          36.46020000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162192",
+        "PERMITTEE_NAME": "Vic Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "35 Acres adjacent to Derby Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162192",
+        "LATITUDE": 36.4602,
+        "LONGITUDE": -82.6084,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38795099999999,
+          36.48667900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162443",
+        "PERMITTEE_NAME": "The Glades at Hawley Rd General Partnership",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Hawley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162443",
+        "LATITUDE": 36.486678999999995,
+        "LONGITUDE": -82.387951,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48508099999998,
+          36.467621000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.171",
+        "PERMITTEE_NAME": "Richard Venable",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1743379200000,
+        "EXPIRATION_DATE": 1774828800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "105 Regency Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.171",
+        "LATITUDE": 36.467621,
+        "LONGITUDE": -82.485081,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31279999999998,
+          36.43200000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162449",
+        "PERMITTEE_NAME": "Horizon Properties Group, GP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Jonesboro Road (no street address assigned)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162449",
+        "LATITUDE": 36.432,
+        "LONGITUDE": -82.31280000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.58530299999995,
+          36.552805000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.209",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Fort Robinson Drive, LM 0.39",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.209",
+        "LATITUDE": 36.552805,
+        "LONGITUDE": -82.585303,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56179999999995,
+          36.53450000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.099",
+        "PERMITTEE_NAME": "Eastman Chemical Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1789689600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "RIVERPORT RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.099",
+        "LATITUDE": 36.5345,
+        "LONGITUDE": -82.5618,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43151299999994,
+          36.49239600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051609",
+        "PERMITTEE_NAME": "Black Ops",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "852 CENTENARY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051609",
+        "LATITUDE": 36.492396,
+        "LONGITUDE": -82.431513,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56406899999996,
+          36.51371000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192439",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "State Industrial Access Serving Eastman Chemical Company",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192439",
+        "LATITUDE": 36.513709999999996,
+        "LONGITUDE": -82.56406899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.58001899999994,
+          36.480016000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162528",
+        "PERMITTEE_NAME": "T1V Properties, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "3725 Sullivan Gardens Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162528",
+        "LATITUDE": 36.480016,
+        "LONGITUDE": -82.580019,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68884899999995,
+          36.46098600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.094",
+        "PERMITTEE_NAME": "East Tennessee Natural Gas, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787011200000,
+        "EFFECTIVE_DATE": 1787011200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Blairs Gap Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.094",
+        "LATITUDE": 36.460986,
+        "LONGITUDE": -82.68884899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56258099999997,
+          36.57719300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162553",
+        "PERMITTEE_NAME": "City of Kingsport, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "257 Walker Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162553",
+        "LATITUDE": 36.577193,
+        "LONGITUDE": -82.562581,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44267999999994,
+          36.44967500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.011",
+        "PERMITTEE_NAME": "Mary Dixon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768953600000,
+        "EFFECTIVE_DATE": 1768953600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "139 River Bridge Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.011",
+        "LATITUDE": 36.449675,
+        "LONGITUDE": -82.44268,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40196999999995,
+          36.57170200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.314",
+        "PERMITTEE_NAME": "Superior Stoneworks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "4725 US 11W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.314",
+        "LATITUDE": 36.571701999999995,
+        "LONGITUDE": -82.40196999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29392499999994,
+          36.436690000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051480",
+        "PERMITTEE_NAME": "Keith Sams",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1779148800000,
+        "EFFECTIVE_DATE": 1779148800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "112 TECHNOLOGY COURT",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051480",
+        "LATITUDE": 36.43669,
+        "LONGITUDE": -82.293925,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.49497999999994,
+          36.523569000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.052",
+        "PERMITTEE_NAME": "Daniel Stacy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779753600000,
+        "EFFECTIVE_DATE": 1779753600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1476 Cooks Valley Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.052",
+        "LATITUDE": 36.523568999999995,
+        "LONGITUDE": -82.49498,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57609699999995,
+          36.46094400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162555",
+        "PERMITTEE_NAME": "City of Kingsport, TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "568 POPLAR GROVE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162555",
+        "LATITUDE": 36.460944,
+        "LONGITUDE": -82.57609699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31911099999996,
+          36.581139000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054064",
+        "PERMITTEE_NAME": "Bays Truck Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765152000000,
+        "EFFECTIVE_DATE": 1765152000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2760 HIGHWAY 11 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054064",
+        "LATITUDE": 36.581139,
+        "LONGITUDE": -82.31911099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38825999999995,
+          36.43759400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.001",
+        "PERMITTEE_NAME": "Landon Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1767744000000,
+        "EFFECTIVE_DATE": 1767744000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "129 Pointe Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.001",
+        "LATITUDE": 36.437594,
+        "LONGITUDE": -82.38826,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.05891899999995,
+          36.56337600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2406.017",
+        "PERMITTEE_NAME": "Lacy Clay Bank Armoring",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1709251200000,
+        "EFFECTIVE_DATE": 1709251200000,
+        "EXPIRATION_DATE": 1775433600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2428 Hickory Tree Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2406.017",
+        "LATITUDE": 36.563376,
+        "LONGITUDE": -82.058919,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40519999999998,
+          36.48010000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162389",
+        "PERMITTEE_NAME": "Tri-Cities Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2525 Hwy 75",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162389",
+        "LATITUDE": 36.4801,
+        "LONGITUDE": -82.40520000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25539999999995,
+          36.50500000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162343",
+        "PERMITTEE_NAME": "Lizzo Real Estate Investments LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Old White Top Road (street address to be assigned later)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162343",
+        "LATITUDE": 36.505,
+        "LONGITUDE": -82.25540000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19842999999997,
+          36.52535000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192278",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Linear Project: starting: 281 Massengill Place and ending: 1076 Pleasant Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192278",
+        "LATITUDE": 36.525349999999996,
+        "LONGITUDE": -82.19843,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36138199999994,
+          36.42214700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.100",
+        "PERMITTEE_NAME": "Harold Alison",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789516800000,
+        "EFFECTIVE_DATE": 1789516800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1334 N Pickens Bridge Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.100",
+        "LATITUDE": 36.422146999999995,
+        "LONGITUDE": -82.36138199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60989999999998,
+          36.462600000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.035",
+        "PERMITTEE_NAME": "Vic Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773360000000,
+        "EFFECTIVE_DATE": 1773360000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Derby Drive (no street address assigned)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.035",
+        "LATITUDE": 36.4626,
+        "LONGITUDE": -82.60990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28591899999998,
+          36.437513000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051394",
+        "PERMITTEE_NAME": "Rubber Technology, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "700 INDUSTRIAL PARK ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051394",
+        "LATITUDE": 36.437512999999996,
+        "LONGITUDE": -82.28591899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66970599999996,
+          36.448972000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.243",
+        "PERMITTEE_NAME": "East Tennessee Natural Gas, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747958400000,
+        "EFFECTIVE_DATE": 1747958400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "OLD BLAIRS GAP RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.243",
+        "LATITUDE": 36.448972,
+        "LONGITUDE": -82.66970599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17197399999998,
+          36.561510000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051327",
+        "PERMITTEE_NAME": "Seaman Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "212 INDUSTRIAL DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051327",
+        "LATITUDE": 36.56151,
+        "LONGITUDE": -82.17197399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38851899999997,
+          36.53780700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162469",
+        "PERMITTEE_NAME": "Burwil Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "291 Overhill Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162469",
+        "LATITUDE": 36.537807,
+        "LONGITUDE": -82.388519,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57748799999996,
+          36.550650000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.239",
+        "PERMITTEE_NAME": "PlayCore Wisconsin Inc. dba GameTime",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1751414400000,
+        "EFFECTIVE_DATE": 1751414400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "841 W Industry Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.239",
+        "LATITUDE": 36.55065,
+        "LONGITUDE": -82.577488,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66970599999996,
+          36.448972000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.242",
+        "PERMITTEE_NAME": "East Tennessee Natural Gas, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747958400000,
+        "EFFECTIVE_DATE": 1747958400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "OLD BLAIRS GAP RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.242",
+        "LATITUDE": 36.448972,
+        "LONGITUDE": -82.66970599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56406899999996,
+          36.51371000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.179",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772064000000,
+        "EFFECTIVE_DATE": 1772064000000,
+        "EXPIRATION_DATE": 1929744000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "State Industrial Access Serving Eastman Chemical Company",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.179",
+        "LATITUDE": 36.513709999999996,
+        "LONGITUDE": -82.56406899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60763599999996,
+          36.47513100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.195",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "SR-347 at LM 5.77",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.195",
+        "LATITUDE": 36.475131,
+        "LONGITUDE": -82.607636,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55170799999996,
+          36.44381400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162496",
+        "PERMITTEE_NAME": "Land Star Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "420 Snapps Ferry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162496",
+        "LATITUDE": 36.443813999999996,
+        "LONGITUDE": -82.55170799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60763599999996,
+          36.47513100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192395",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "SR-347 at LM 5.77",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192395",
+        "LATITUDE": 36.475131,
+        "LONGITUDE": -82.607636,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56153399999994,
+          36.53857500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162549",
+        "PERMITTEE_NAME": "City of Kingsport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2016 BRICKYARD PARK DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162549",
+        "LATITUDE": 36.538575,
+        "LONGITUDE": -82.561534,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40196999999995,
+          36.57170200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162506",
+        "PERMITTEE_NAME": "Superior Stoneworks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "4725 US 11W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162506",
+        "LATITUDE": 36.571701999999995,
+        "LONGITUDE": -82.40196999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19140599999997,
+          36.52421400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.003",
+        "PERMITTEE_NAME": "South Fork Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1770336000000,
+        "EXPIRATION_DATE": 1801785600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Weaver Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.003",
+        "LATITUDE": 36.524214,
+        "LONGITUDE": -82.191406,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60989999999998,
+          36.462600000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162523",
+        "PERMITTEE_NAME": "Vic Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Derby Drive (no street address assigned)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162523",
+        "LATITUDE": 36.4626,
+        "LONGITUDE": -82.60990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52933599999994,
+          36.489096000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162527",
+        "PERMITTEE_NAME": "Tillman Ward",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1280 Moreland Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162527",
+        "LATITUDE": 36.489095999999996,
+        "LONGITUDE": -82.529336,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43710899999996,
+          36.571296000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162517",
+        "PERMITTEE_NAME": "Darrel E. Gillespie",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "East Stone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162517",
+        "LATITUDE": 36.571296,
+        "LONGITUDE": -82.43710899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.58001899999994,
+          36.480016000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.038",
+        "PERMITTEE_NAME": "T1V Properties, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "3725 Sullivan Gardens Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.038",
+        "LATITUDE": 36.480016,
+        "LONGITUDE": -82.580019,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56473599999998,
+          36.55662600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162556",
+        "PERMITTEE_NAME": "City of Kingsport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "657 LOVEDALE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162556",
+        "LATITUDE": 36.556626,
+        "LONGITUDE": -82.564736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56094199999995,
+          36.501216000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.040",
+        "PERMITTEE_NAME": "IMIC Hotels",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1775001600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Enterprise Place",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.040",
+        "LATITUDE": 36.501216,
+        "LONGITUDE": -82.560942,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39453599999996,
+          36.46039200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.311",
+        "PERMITTEE_NAME": "Homer Vandergriff",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "357 Goodman Cemetery Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.311",
+        "LATITUDE": 36.460392,
+        "LONGITUDE": -82.394536,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25234099999994,
+          36.422672000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051122",
+        "PERMITTEE_NAME": "George Gwinn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763856000000,
+        "EFFECTIVE_DATE": 1763856000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1391 Highway 19e",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051122",
+        "LATITUDE": 36.422672,
+        "LONGITUDE": -82.252341,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31349999999998,
+          36.53440000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162438",
+        "PERMITTEE_NAME": "Kristina Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "155 School Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162438",
+        "LATITUDE": 36.534400000000005,
+        "LONGITUDE": -82.3135,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29039999999998,
+          36.47130000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.134",
+        "PERMITTEE_NAME": "John Barrett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1603843200000,
+        "EFFECTIVE_DATE": 1603670400000,
+        "EXPIRATION_DATE": 1761350400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "230 Lakefront Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.134",
+        "LATITUDE": 36.4713,
+        "LONGITUDE": -82.2904,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40733299999994,
+          36.46988100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162470",
+        "PERMITTEE_NAME": "Tri-Cities Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2525 Highway 75",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162470",
+        "LATITUDE": 36.469881,
+        "LONGITUDE": -82.407333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50418099999996,
+          36.529738000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192380",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "From East Center Street in Kingsport  to East of Briarwood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192380",
+        "LATITUDE": 36.529738,
+        "LONGITUDE": -82.504181,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28521799999999,
+          36.58078800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2506.270",
+        "PERMITTEE_NAME": "Patrick Clark",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755648000000,
+        "EFFECTIVE_DATE": 1755648000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "366 Weber Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2506.270",
+        "LATITUDE": 36.580788,
+        "LONGITUDE": -82.285218,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42489999999998,
+          36.46610000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162451",
+        "PERMITTEE_NAME": "Kenneth Harp",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "TN Highway 75",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162451",
+        "LATITUDE": 36.466100000000004,
+        "LONGITUDE": -82.42490000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56611099999998,
+          36.59305600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054381",
+        "PERMITTEE_NAME": "Henard Metal Fabricators Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757462400000,
+        "EFFECTIVE_DATE": 1757462400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "241 East Carters Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054381",
+        "LATITUDE": 36.593056,
+        "LONGITUDE": -82.56611099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56406899999996,
+          36.51371000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.139",
+        "PERMITTEE_NAME": "Eastman Chemical Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760659200000,
+        "EFFECTIVE_DATE": 1760659200000,
+        "EXPIRATION_DATE": 1886803200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "State Industrial Access Serving Eastman Chemical Company",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.139",
+        "LATITUDE": 36.513709999999996,
+        "LONGITUDE": -82.56406899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60639999999995,
+          36.45980000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162450",
+        "PERMITTEE_NAME": "Baker's Construction Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Sullivan Gardens Pkwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162450",
+        "LATITUDE": 36.4598,
+        "LONGITUDE": -82.60640000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.14289699999995,
+          36.51316300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.231",
+        "PERMITTEE_NAME": "John Patrick Fulkrod",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1755734400000,
+        "EFFECTIVE_DATE": 1755734400000,
+        "EXPIRATION_DATE": 1913414400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "290 Sand Bar Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.231",
+        "LATITUDE": 36.513163,
+        "LONGITUDE": -82.14289699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51815899999997,
+          36.55156000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110140",
+        "PERMITTEE_NAME": "Byerley Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1728518400000,
+        "EFFECTIVE_DATE": 1728518400000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1929 Brookside Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110140",
+        "LATITUDE": 36.551559999999995,
+        "LONGITUDE": -82.518159,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.08244599999995,
+          36.52561700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2606.105",
+        "PERMITTEE_NAME": "Michael Hamlin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1791504000000,
+        "EFFECTIVE_DATE": 1791504000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2081 WILDERNESS TRAIL",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2606.105",
+        "LATITUDE": 36.525617,
+        "LONGITUDE": -82.08244599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29154199999994,
+          36.43554500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051393",
+        "PERMITTEE_NAME": "Microporous, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766016000000,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "596 Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051393",
+        "LATITUDE": 36.435545,
+        "LONGITUDE": -82.29154199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17909999999995,
+          36.55070000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR191394",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "SR-358 at Vance Tank Road - SIA Serving Reclaimed Resources ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR191394",
+        "LATITUDE": 36.5507,
+        "LONGITUDE": -82.1791,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54025599999994,
+          36.457340000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059242",
+        "PERMITTEE_NAME": "Federal Express Corporation (FedEx)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2200 Tri-Cities Crossing",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059242",
+        "LATITUDE": 36.457339999999995,
+        "LONGITUDE": -82.540256,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42547399999995,
+          36.514954000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162263",
+        "PERMITTEE_NAME": "Sullivan County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "899 Henry Harr Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162263",
+        "LATITUDE": 36.514953999999996,
+        "LONGITUDE": -82.425474,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50529999999998,
+          36.563600000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161093",
+        "PERMITTEE_NAME": "Dennis Place Condominiums",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "NW Corner of Forest Ridge Drive & John B. Dennis Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161093",
+        "LATITUDE": 36.5636,
+        "LONGITUDE": -82.5053,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.61446999999998,
+          36.44724000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.191",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1701388800000,
+        "EFFECTIVE_DATE": 1701216000000,
+        "EXPIRATION_DATE": 1858982400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "SR-93 South of Horse Creek to North of Derby Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.191",
+        "LATITUDE": 36.44724,
+        "LONGITUDE": -82.61447,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46505799999994,
+          36.451134000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162307",
+        "PERMITTEE_NAME": "Rockingham Boat & RV Storage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "5588 Fort Henry Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162307",
+        "LATITUDE": 36.451133999999996,
+        "LONGITUDE": -82.465058,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19842999999997,
+          36.52535000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.310",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1720396800000,
+        "EFFECTIVE_DATE": 1720396800000,
+        "EXPIRATION_DATE": 1878076800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Linear Project: starting: 281 Massengill Place and ending: 1076 Pleasant Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.310",
+        "LATITUDE": 36.525349999999996,
+        "LONGITUDE": -82.19843,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.05891899999995,
+          36.56337600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2406.019",
+        "PERMITTEE_NAME": "Lacy Clay Minor Road Crossing",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1709251200000,
+        "EFFECTIVE_DATE": 1709251200000,
+        "EXPIRATION_DATE": 1775433600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2428 Hickory Tree Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2406.019",
+        "LATITUDE": 36.563376,
+        "LONGITUDE": -82.058919,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46645999999998,
+          36.454311000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162419",
+        "PERMITTEE_NAME": "Kelly Bledsoe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "5501 FORT HENRY DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162419",
+        "LATITUDE": 36.454311,
+        "LONGITUDE": -82.46646,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40129999999994,
+          36.57040000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162414",
+        "PERMITTEE_NAME": "Colt Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "4700 Hwy 11-W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162414",
+        "LATITUDE": 36.5704,
+        "LONGITUDE": -82.4013,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50418099999996,
+          36.529738000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.117",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1726185600000,
+        "EFFECTIVE_DATE": 1726185600000,
+        "EXPIRATION_DATE": 1883865600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "From East Center Street in Kingsport  to East of Briarwood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.117",
+        "LATITUDE": 36.529738,
+        "LONGITUDE": -82.504181,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50709999999998,
+          36.57020000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162360",
+        "PERMITTEE_NAME": "Jody Stewart",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2900-3000 N John B Dennis Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162360",
+        "LATITUDE": 36.5702,
+        "LONGITUDE": -82.50710000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50299399999994,
+          36.495512000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162453",
+        "PERMITTEE_NAME": "Mark Kolarsky",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Fort Henry drive Hemlock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162453",
+        "LATITUDE": 36.495512,
+        "LONGITUDE": -82.502994,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32627999999994,
+          36.48013300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.178",
+        "PERMITTEE_NAME": "Tommy Flanary",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1731024000000,
+        "EFFECTIVE_DATE": 1731024000000,
+        "EXPIRATION_DATE": 1888704000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "224 Charlie Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.178",
+        "LATITUDE": 36.480132999999995,
+        "LONGITUDE": -82.32628,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24197999999996,
+          36.51627400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-24029",
+        "PERMITTEE_NAME": "Copperhead Ridge Glamping & RV Park LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1798 Sweet Knobs Trail",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-24029",
+        "LATITUDE": 36.516273999999996,
+        "LONGITUDE": -82.24198,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43054999999998,
+          36.54400000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162417",
+        "PERMITTEE_NAME": "Matt Means- M-Sqaured Renovations",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "135 Old Fall Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162417",
+        "LATITUDE": 36.544000000000004,
+        "LONGITUDE": -82.43055,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30499999999995,
+          36.444000000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162444",
+        "PERMITTEE_NAME": "Jordan Hodges",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Popular Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162444",
+        "LATITUDE": 36.444,
+        "LONGITUDE": -82.305,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33535399999994,
+          36.528336000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830289",
+        "PERMITTEE_NAME": "Wingfield Environmental, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1713312000000,
+        "EFFECTIVE_DATE": 1713312000000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "3686 Highway 126",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830289",
+        "LATITUDE": 36.528335999999996,
+        "LONGITUDE": -82.335354,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31699999999995,
+          36.45940000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162327",
+        "PERMITTEE_NAME": "Hunting Hills Farm LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Hunting Hill Road (to be determined)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162327",
+        "LATITUDE": 36.4594,
+        "LONGITUDE": -82.31700000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.61446999999998,
+          36.44724000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192268",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "SR-93 South of Horse Creek to North of Derby Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192268",
+        "LATITUDE": 36.44724,
+        "LONGITUDE": -82.61447,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41159999999996,
+          36.48950000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162353",
+        "PERMITTEE_NAME": "Jason Day",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2316 SR-75",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162353",
+        "LATITUDE": 36.4895,
+        "LONGITUDE": -82.4116,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20543299999997,
+          36.528287000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050814",
+        "PERMITTEE_NAME": "Tri-City Extrusion",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "136 LAMAR ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050814",
+        "LATITUDE": 36.528287,
+        "LONGITUDE": -82.205433,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40519999999998,
+          36.48010000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162388",
+        "PERMITTEE_NAME": "Tri Cities Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2525 Hwy 75",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162388",
+        "LATITUDE": 36.4801,
+        "LONGITUDE": -82.40520000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31441799999999,
+          36.41551100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162329",
+        "PERMITTEE_NAME": "Matthew Little",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Austin Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162329",
+        "LATITUDE": 36.415510999999995,
+        "LONGITUDE": -82.31441799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31672899999995,
+          36.486838000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.076",
+        "PERMITTEE_NAME": "Stoney Hale",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1707436800000,
+        "EFFECTIVE_DATE": 1707350400000,
+        "EXPIRATION_DATE": 1865116800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "227 Lake Vista Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.076",
+        "LATITUDE": 36.486838,
+        "LONGITUDE": -82.316729,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28623399999998,
+          36.58972600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110249",
+        "PERMITTEE_NAME": "Summers-Taylor Materials Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1699833600000,
+        "EFFECTIVE_DATE": 1699833600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1870 Highway 11 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110249",
+        "LATITUDE": 36.589726,
+        "LONGITUDE": -82.286234,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32580199999995,
+          36.50349600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162340",
+        "PERMITTEE_NAME": "Blountville Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Big Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162340",
+        "LATITUDE": 36.503496,
+        "LONGITUDE": -82.325802,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51693399999994,
+          36.54180500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.351",
+        "PERMITTEE_NAME": "City of Kingsport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1737936000000,
+        "EFFECTIVE_DATE": 1737936000000,
+        "EXPIRATION_DATE": 1895616000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Abandoned Lift Station at the Lovedale Dr/Sullivan St Intersection - Along Reedy Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.351",
+        "LATITUDE": 36.541805,
+        "LONGITUDE": -82.51693399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52241999999995,
+          36.55935000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162334",
+        "PERMITTEE_NAME": "Rodney Deel / City of Kingsport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Landfill Access Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162334",
+        "LATITUDE": 36.559349999999995,
+        "LONGITUDE": -82.52242,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50529999999998,
+          36.57510000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162231",
+        "PERMITTEE_NAME": "Richard Bowie",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "149 Brookside School Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162231",
+        "LATITUDE": 36.5751,
+        "LONGITUDE": -82.5053,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30028599999997,
+          36.55505100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162344",
+        "PERMITTEE_NAME": "Sullivan County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "999 Cross Community Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162344",
+        "LATITUDE": 36.555051,
+        "LONGITUDE": -82.300286,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29335299999997,
+          36.42836900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050252",
+        "PERMITTEE_NAME": "The Robinette Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "125 Corrugated Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050252",
+        "LATITUDE": 36.428368999999996,
+        "LONGITUDE": -82.293353,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30881699999998,
+          36.474887000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.311",
+        "PERMITTEE_NAME": "Jerry and Linda Poteat",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1687305600000,
+        "EFFECTIVE_DATE": 1687305600000,
+        "EXPIRATION_DATE": 1845072000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1140 Reynolds Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.311",
+        "LATITUDE": 36.474886999999995,
+        "LONGITUDE": -82.30881699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16595199999995,
+          36.49701300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.194",
+        "PERMITTEE_NAME": "Corey Roberts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1674604800000,
+        "EFFECTIVE_DATE": 1674604800000,
+        "EXPIRATION_DATE": 1832284800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1653 Bullock Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.194",
+        "LATITUDE": 36.497012999999995,
+        "LONGITUDE": -82.16595199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56954399999995,
+          36.545840000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050883",
+        "PERMITTEE_NAME": "Airgas USA, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "440 West Industry Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050883",
+        "LATITUDE": 36.54584,
+        "LONGITUDE": -82.569544,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31495399999994,
+          36.475288000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.286",
+        "PERMITTEE_NAME": "Jordan Blevins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1707177600000,
+        "EFFECTIVE_DATE": 1707177600000,
+        "EXPIRATION_DATE": 1864944000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1735 Enterprise RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.286",
+        "LATITUDE": 36.475288,
+        "LONGITUDE": -82.314954,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51694399999997,
+          36.48333300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161051F",
+        "PERMITTEE_NAME": "David Spears",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Moreland Drive and Shadyside Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161051F",
+        "LATITUDE": 36.483333,
+        "LONGITUDE": -82.516944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37839999999994,
+          36.397800000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.131",
+        "PERMITTEE_NAME": "Vivian Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1661299200000,
+        "EFFECTIVE_DATE": 1661299200000,
+        "EXPIRATION_DATE": 1818979200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1020 Bittmore Place",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.131",
+        "LATITUDE": 36.397800000000004,
+        "LONGITUDE": -82.3784,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55339999999995,
+          36.50870000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162205",
+        "PERMITTEE_NAME": "VIC DAVIS CONSTRUCTION, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1304 Southgate Place",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162205",
+        "LATITUDE": 36.508700000000005,
+        "LONGITUDE": -82.55340000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48839999999996,
+          36.47330000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162335",
+        "PERMITTEE_NAME": "Andy Shukla",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "4720 Fort Henry Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162335",
+        "LATITUDE": 36.4733,
+        "LONGITUDE": -82.4884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22443999999996,
+          36.42037000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.300",
+        "PERMITTEE_NAME": "Phillip Stanley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1643760000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "302 Keenburg Road, Bluff City",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.300",
+        "LATITUDE": 36.42037,
+        "LONGITUDE": -82.22444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31969999999995,
+          36.53580000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162166",
+        "PERMITTEE_NAME": "Richard Venable",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "SR-37",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162166",
+        "LATITUDE": 36.5358,
+        "LONGITUDE": -82.3197,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29069999999996,
+          36.42640000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161964",
+        "PERMITTEE_NAME": "Jerry Buchanan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "East Corner of Mountain View Rd and Tester Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161964",
+        "LATITUDE": 36.4264,
+        "LONGITUDE": -82.2907,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38729999999998,
+          36.44420000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162161",
+        "PERMITTEE_NAME": "Robert Burleson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Corner of Deerlick rd and Isley Privette Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162161",
+        "LATITUDE": 36.4442,
+        "LONGITUDE": -82.38730000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51611099999997,
+          36.43444400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160839",
+        "PERMITTEE_NAME": "James Birdwell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Fish Land -Washington and Sullivan Counties",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160839",
+        "LATITUDE": 36.434444,
+        "LONGITUDE": -82.516111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33220799999998,
+          36.52825100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050050",
+        "PERMITTEE_NAME": "Blountville Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1790208000000,
+        "EFFECTIVE_DATE": 1790208000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "3608 HWY 126",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050050",
+        "LATITUDE": 36.528251,
+        "LONGITUDE": -82.332208,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18629999999996,
+          36.54170000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050509",
+        "PERMITTEE_NAME": "Bristol Pipe and Tube, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764633600000,
+        "EFFECTIVE_DATE": 1764633600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "390 Bristol Metals Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050509",
+        "LATITUDE": 36.5417,
+        "LONGITUDE": -82.1863,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16877999999997,
+          36.56204100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050325",
+        "PERMITTEE_NAME": "Seaman Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "225 North Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050325",
+        "LATITUDE": 36.562041,
+        "LONGITUDE": -82.16878,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43329999999997,
+          36.58300000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161542",
+        "PERMITTEE_NAME": "Ron Zimmerman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Shipley Ferry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161542",
+        "LATITUDE": 36.583,
+        "LONGITUDE": -82.4333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27665899999994,
+          36.45755400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056117",
+        "PERMITTEE_NAME": "R. W. Edwards Equipment Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "123 Elizabethton Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056117",
+        "LATITUDE": 36.457554,
+        "LONGITUDE": -82.276659,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59899999999999,
+          36.55550000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053458",
+        "PERMITTEE_NAME": "W-L CONSTRUCTION & PAVING, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "404 Deneen Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053458",
+        "LATITUDE": 36.5555,
+        "LONGITUDE": -82.599,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46899999999994,
+          36.56740000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053459",
+        "PERMITTEE_NAME": "W-L CONSTRUCTION & PAVING, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "329 Wayne Construction Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053459",
+        "LATITUDE": 36.5674,
+        "LONGITUDE": -82.46900000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.58443999999997,
+          36.54472000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050444",
+        "PERMITTEE_NAME": "Silgan Containers Manufacturing Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751932800000,
+        "EFFECTIVE_DATE": 1751932800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "408 Tilthammer Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050444",
+        "LATITUDE": 36.54472,
+        "LONGITUDE": -82.58444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56186299999996,
+          36.51417900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110133",
+        "PERMITTEE_NAME": "Ready Mix USA, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1669593600000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1543 South Wilcox Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110133",
+        "LATITUDE": 36.514179,
+        "LONGITUDE": -82.561863,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42416599999996,
+          36.48944400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110145",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1701129600000,
+        "EFFECTIVE_DATE": 1701129600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "10351 Airport Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110145",
+        "LATITUDE": 36.489444,
+        "LONGITUDE": -82.424166,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17108899999994,
+          36.55315800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053158",
+        "PERMITTEE_NAME": "Seaman Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "461 INDUSTRIAL DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053158",
+        "LATITUDE": 36.553157999999996,
+        "LONGITUDE": -82.171089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28391999999997,
+          36.43839500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053171",
+        "PERMITTEE_NAME": "Modern Forge Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754352000000,
+        "EFFECTIVE_DATE": 1754352000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "501 Rock Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053171",
+        "LATITUDE": 36.438395,
+        "LONGITUDE": -82.28392,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27681799999993,
+          36.43552600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053325",
+        "PERMITTEE_NAME": "Tri-City Auto Parts, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767571200000,
+        "EFFECTIVE_DATE": 1767571200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "288 OLD MOUNTAIN VIEW RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053325",
+        "LATITUDE": 36.435525999999996,
+        "LONGITUDE": -82.27681799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40493099999998,
+          36.47761200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053496",
+        "PERMITTEE_NAME": "Tri-Cities Airport Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755216000000,
+        "EFFECTIVE_DATE": 1755216000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2525 Hwy 75",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053496",
+        "LATITUDE": 36.477612,
+        "LONGITUDE": -82.40493099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27730099999997,
+          36.43757400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054084",
+        "PERMITTEE_NAME": "General Shale Brick, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762300800000,
+        "EFFECTIVE_DATE": 1762300800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "909 Mountain View Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054084",
+        "LATITUDE": 36.437574,
+        "LONGITUDE": -82.277301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57444399999997,
+          36.55027800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053070",
+        "PERMITTEE_NAME": "City of Kingsport Wastewater Treatment",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760918400000,
+        "EFFECTIVE_DATE": 1760918400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "620 WEST INDUSTRY DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053070",
+        "LATITUDE": 36.550278,
+        "LONGITUDE": -82.574444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26992899999999,
+          36.447557000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056606",
+        "PERMITTEE_NAME": "King's Heavy Duty Truck Parts & Auto",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "445 Elizabethton Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056606",
+        "LATITUDE": 36.447556999999996,
+        "LONGITUDE": -82.26992899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42767299999997,
+          36.510951000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051254",
+        "PERMITTEE_NAME": "Waste Management, Inc. of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1010 JERICHO (FORMERLY SAM WALTON) DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051254",
+        "LATITUDE": 36.510951,
+        "LONGITUDE": -82.427673,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29526799999996,
+          36.50292900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056415",
+        "PERMITTEE_NAME": "City of Bristol, Tennessee Operated by Inframark",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766966400000,
+        "EFFECTIVE_DATE": 1766966400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "578 BEAVER CREEK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056415",
+        "LATITUDE": 36.502929,
+        "LONGITUDE": -82.295268,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17277699999994,
+          36.57416600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056416",
+        "PERMITTEE_NAME": "City of Bristol",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "212 BLACKLEY ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056416",
+        "LATITUDE": 36.574166,
+        "LONGITUDE": -82.172777,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57472199999995,
+          36.54805500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056422",
+        "PERMITTEE_NAME": "City of Kingsport Vehicle Maintenance Garage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "625 WEST INDUSTRY DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056422",
+        "LATITUDE": 36.548055,
+        "LONGITUDE": -82.574722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57199999999995,
+          36.54400000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054024",
+        "PERMITTEE_NAME": "Domtar Paper Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762300800000,
+        "EFFECTIVE_DATE": 1762300800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "100 Clinchfield Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054024",
+        "LATITUDE": 36.544000000000004,
+        "LONGITUDE": -82.572,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26339999999999,
+          36.51320000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051385",
+        "PERMITTEE_NAME": "Tri-City Auto Parts, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763769600000,
+        "EFFECTIVE_DATE": 1763769600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "116 OLD THOMAS BRIDGE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051385",
+        "LATITUDE": 36.513200000000005,
+        "LONGITUDE": -82.2634,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28728599999994,
+          36.43624200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051391",
+        "PERMITTEE_NAME": "Polymer Industrial Products",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "688 Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051391",
+        "LATITUDE": 36.436242,
+        "LONGITUDE": -82.287286,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29203699999994,
+          36.43707200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055064",
+        "PERMITTEE_NAME": "KPS Global, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761004800000,
+        "EFFECTIVE_DATE": 1761004800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "521 INDUSTRIAL PARK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055064",
+        "LATITUDE": 36.437072,
+        "LONGITUDE": -82.292037,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.12927199999996,
+          36.54179400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056163",
+        "PERMITTEE_NAME": "Graig Collins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1782259200000,
+        "EFFECTIVE_DATE": 1782259200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "3149 HWY 421",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056163",
+        "LATITUDE": 36.541793999999996,
+        "LONGITUDE": -82.129272,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26052499999997,
+          36.56726100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050804",
+        "PERMITTEE_NAME": "Tennessee Investment Casting Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770508800000,
+        "EFFECTIVE_DATE": 1770508800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1552 HIGHWAY 126",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050804",
+        "LATITUDE": 36.567260999999995,
+        "LONGITUDE": -82.260525,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55332899999996,
+          36.521622000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053953",
+        "PERMITTEE_NAME": "KAG Energy LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1780358400000,
+        "EFFECTIVE_DATE": 1780358400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1595 JARED DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053953",
+        "LATITUDE": 36.521622,
+        "LONGITUDE": -82.55332899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30212999999998,
+          36.43234000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053642",
+        "PERMITTEE_NAME": "Safety-Kleen Systems, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758672000000,
+        "EFFECTIVE_DATE": 1758672000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "317 Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053642",
+        "LATITUDE": 36.432339999999996,
+        "LONGITUDE": -82.30212999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41344799999996,
+          36.47444800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050691",
+        "PERMITTEE_NAME": "EASTMAN CHEMICAL COMPANY",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2717 HIGHWAY 75",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050691",
+        "LATITUDE": 36.474447999999995,
+        "LONGITUDE": -82.413448,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17441399999996,
+          36.56043400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053941",
+        "PERMITTEE_NAME": "Bell Textron Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752105600000,
+        "EFFECTIVE_DATE": 1752105600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "157 Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053941",
+        "LATITUDE": 36.560434,
+        "LONGITUDE": -82.174414,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55343799999997,
+          36.54012600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110123",
+        "PERMITTEE_NAME": "Summers-Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1701302400000,
+        "EFFECTIVE_DATE": 1701302400000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "905 East Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110123",
+        "LATITUDE": 36.540126,
+        "LONGITUDE": -82.553438,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32694699999996,
+          36.53348700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075671",
+        "PERMITTEE_NAME": "Sullivan County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1672185600000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "3411 Highway 126 Ste 30",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075671",
+        "LATITUDE": 36.533487,
+        "LONGITUDE": -82.32694699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42669199999995,
+          36.50264000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056652",
+        "PERMITTEE_NAME": "XPO Logistics Freight, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1782298499000,
+        "EFFECTIVE_DATE": 1782298499000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1319 SHIPLEY FERRY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056652",
+        "LATITUDE": 36.50264,
+        "LONGITUDE": -82.426692,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27138999999994,
+          36.47028000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS077780",
+        "PERMITTEE_NAME": "Town of Bluff City",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1670803200000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Bluff City",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS077780",
+        "LATITUDE": 36.470279999999995,
+        "LONGITUDE": -82.27139,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57144999999997,
+          36.53888500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051531",
+        "PERMITTEE_NAME": "James Bradley Thompson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755648000000,
+        "EFFECTIVE_DATE": 1755648000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "424 RIVERPORT RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051531",
+        "LATITUDE": 36.538885,
+        "LONGITUDE": -82.57145,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57409399999995,
+          36.55321500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075388",
+        "PERMITTEE_NAME": "City of Kingsport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1671062400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "225 West Center Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075388",
+        "LATITUDE": 36.553215,
+        "LONGITUDE": -82.574094,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18646999999999,
+          36.59280000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075183",
+        "PERMITTEE_NAME": "City of Bristol",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1671062400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "801 Broad St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075183",
+        "LATITUDE": 36.592800000000004,
+        "LONGITUDE": -82.18647,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.12499999999994,
+          36.59250000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160151",
+        "PERMITTEE_NAME": "Leonard LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Intersection of King College Road & Fairway Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160151",
+        "LATITUDE": 36.5925,
+        "LONGITUDE": -82.125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34518899999995,
+          36.49331500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160157",
+        "PERMITTEE_NAME": "William Gaines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "SR-394 Sweet Knob Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160157",
+        "LATITUDE": 36.493314999999996,
+        "LONGITUDE": -82.34518899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33777999999995,
+          36.44306000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160161",
+        "PERMITTEE_NAME": "Gary Phillips",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Warren Road & Weaver Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160161",
+        "LATITUDE": 36.443059999999996,
+        "LONGITUDE": -82.33778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27399999999994,
+          36.565000000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160614",
+        "PERMITTEE_NAME": "Baileys Borrow Pit",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Bancraft Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160614",
+        "LATITUDE": 36.565000000000005,
+        "LONGITUDE": -82.274,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42110999999994,
+          36.47111000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160448",
+        "PERMITTEE_NAME": "Brandon Carroll",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Deck Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160448",
+        "LATITUDE": 36.471109999999996,
+        "LONGITUDE": -82.42111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30138999999997,
+          36.41556000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160455",
+        "PERMITTEE_NAME": "Hazel Thomas",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Piney Flats Road Near Mary Hughes School",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160455",
+        "LATITUDE": 36.41556,
+        "LONGITUDE": -82.30139,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30832999999996,
+          36.409170000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160341",
+        "PERMITTEE_NAME": "Jerry Bolling",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "11-E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160341",
+        "LATITUDE": 36.409169999999996,
+        "LONGITUDE": -82.30833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29526799999996,
+          36.50292900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB023531",
+        "PERMITTEE_NAME": "Bristol STP #2",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757462400000,
+        "EFFECTIVE_DATE": 1757462400000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "578 BEAVER CREEK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB023531",
+        "LATITUDE": 36.502929,
+        "LONGITUDE": -82.295268,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42916999999994,
+          36.55972000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160563",
+        "PERMITTEE_NAME": "Crockett's Ridge Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "213 Benmore Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160563",
+        "LATITUDE": 36.55972,
+        "LONGITUDE": -82.42917,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52461099999994,
+          36.48977800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160775",
+        "PERMITTEE_NAME": "Jack McMurray",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "South of Rock Springs Road and East of Old Moreland Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160775",
+        "LATITUDE": 36.489778,
+        "LONGITUDE": -82.524611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41297199999997,
+          36.50863900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160622",
+        "PERMITTEE_NAME": "Randy Johnson Property",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "End of Holston Industrial Park Drive lot #6",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160622",
+        "LATITUDE": 36.508638999999995,
+        "LONGITUDE": -82.412972,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39277999999996,
+          36.47000000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160296",
+        "PERMITTEE_NAME": "Starwood Properties Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Hamilton Place Road (End of Runway 27)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160296",
+        "LATITUDE": 36.47,
+        "LONGITUDE": -82.39278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39249999999998,
+          36.54278000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160302",
+        "PERMITTEE_NAME": "David Fandl",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Adams Acres Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160302",
+        "LATITUDE": 36.54278,
+        "LONGITUDE": -82.3925,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35527999999994,
+          36.585000000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160303",
+        "PERMITTEE_NAME": "Hoa Hong Voung",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Ridefer Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160303",
+        "LATITUDE": 36.585,
+        "LONGITUDE": -82.35528,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.58555999999999,
+          36.542500000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160305",
+        "PERMITTEE_NAME": "Alan Bailey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Tilthammer Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160305",
+        "LATITUDE": 36.542500000000004,
+        "LONGITUDE": -82.58556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47833299999996,
+          36.53944400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160678",
+        "PERMITTEE_NAME": "David Butch Rose",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Sterling Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160678",
+        "LATITUDE": 36.539443999999996,
+        "LONGITUDE": -82.47833299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29488299999997,
+          36.43271000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056839",
+        "PERMITTEE_NAME": "Bell Textron Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "450 Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056839",
+        "LATITUDE": 36.43271,
+        "LONGITUDE": -82.294883,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27583299999998,
+          36.461110000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160675",
+        "PERMITTEE_NAME": "Moretz Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Lake View Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160675",
+        "LATITUDE": 36.46111,
+        "LONGITUDE": -82.27583299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31106999999997,
+          36.47272000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160707",
+        "PERMITTEE_NAME": "D & G Enterprises, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "D Droke Road and Enterprise Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160707",
+        "LATITUDE": 36.472719999999995,
+        "LONGITUDE": -82.31107,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47694399999995,
+          36.52916700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160973",
+        "PERMITTEE_NAME": "Rivanna Realty and Investment Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Cooks Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160973",
+        "LATITUDE": 36.529167,
+        "LONGITUDE": -82.476944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38777799999997,
+          36.48166700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160965",
+        "PERMITTEE_NAME": "Harborview Estates",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Muddy Creek & Hawley Roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160965",
+        "LATITUDE": 36.481667,
+        "LONGITUDE": -82.387778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33333299999998,
+          36.44166700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR160996",
+        "PERMITTEE_NAME": "Newberry Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Alison Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR160996",
+        "LATITUDE": 36.441666999999995,
+        "LONGITUDE": -82.333333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27916699999997,
+          36.46583300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161053",
+        "PERMITTEE_NAME": "Albert Moretz",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Lona Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161053",
+        "LATITUDE": 36.465832999999996,
+        "LONGITUDE": -82.279167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51435999999995,
+          36.54147000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161023",
+        "PERMITTEE_NAME": "Indian Trail, LLC, formerly known as Marquee Cinemas at Indian Trail formerly known as Greater Kingsport Family YMCA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "856 Indian Trail Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161023",
+        "LATITUDE": 36.54147,
+        "LONGITUDE": -82.51436,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42699799999997,
+          36.49454500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058108",
+        "PERMITTEE_NAME": "SUMMERS TAYLOR MATERIALS",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "725 Centenary Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058108",
+        "LATITUDE": 36.494544999999995,
+        "LONGITUDE": -82.426998,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27138899999994,
+          36.46500000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161133",
+        "PERMITTEE_NAME": "Bowoods Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Jonesboro Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161133",
+        "LATITUDE": 36.465,
+        "LONGITUDE": -82.271389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30103499999996,
+          36.431542000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058070",
+        "PERMITTEE_NAME": "Stone Mountain Technologies, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "340 INDUSTRIAL PARK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058070",
+        "LATITUDE": 36.431542,
+        "LONGITUDE": -82.301035,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43419599999999,
+          36.51049000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058241",
+        "PERMITTEE_NAME": "Stowers Machinery Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752019200000,
+        "EFFECTIVE_DATE": 1752019200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "9960 Airport Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058241",
+        "LATITUDE": 36.51049,
+        "LONGITUDE": -82.434196,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16700699999996,
+          36.55971900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058278",
+        "PERMITTEE_NAME": "Westlake Royal Building Products (USA) Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1774310400000,
+        "EFFECTIVE_DATE": 1774310400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "328 Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058278",
+        "LATITUDE": 36.559719,
+        "LONGITUDE": -82.167007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59583299999997,
+          36.56000000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161370",
+        "PERMITTEE_NAME": "M & M Builders",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "East side of Brookhaven Drive south of 725 Brookhaven",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161370",
+        "LATITUDE": 36.56,
+        "LONGITUDE": -82.595833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30996999999996,
+          36.447640000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161365",
+        "PERMITTEE_NAME": "Terry Orth",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "East side of Poplar Ridge Rd. about 2/3 of a mile from Hwy 11E/Bristol Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161365",
+        "LATITUDE": 36.44764,
+        "LONGITUDE": -82.30996999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55773799999997,
+          36.51987900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058444",
+        "PERMITTEE_NAME": "EASTMAN CHEMICAL COMPANY",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1320 JAN WAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058444",
+        "LATITUDE": 36.519878999999996,
+        "LONGITUDE": -82.557738,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29166699999996,
+          36.42706500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058480",
+        "PERMITTEE_NAME": "The Robinette Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760918400000,
+        "EFFECTIVE_DATE": 1760918400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "621 MOUNTAIN VIEW DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058480",
+        "LATITUDE": 36.427065,
+        "LONGITUDE": -82.29166699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16715499999998,
+          36.57368100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058558",
+        "PERMITTEE_NAME": "Tri-City Extrusion, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768377740000,
+        "EFFECTIVE_DATE": 1768377740000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1610 ARKANSAS AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058558",
+        "LATITUDE": 36.573681,
+        "LONGITUDE": -82.167155,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56388999999996,
+          36.438060000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161406",
+        "PERMITTEE_NAME": "The Edinburgh Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Northeast of Intersection of Rock Springs Road and Double Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161406",
+        "LATITUDE": 36.43806,
+        "LONGITUDE": -82.56389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42109999999997,
+          36.481400000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161453",
+        "PERMITTEE_NAME": "Hollingsworth Community Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Harry Steadman Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161453",
+        "LATITUDE": 36.4814,
+        "LONGITUDE": -82.42110000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42807299999998,
+          36.49694600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058534",
+        "PERMITTEE_NAME": "Summers Taylor Materials - Kingsport/Blountville Asphalt Plant #1",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "10250 Airport Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058534",
+        "LATITUDE": 36.496946,
+        "LONGITUDE": -82.428073,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46317799999997,
+          36.56217300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058373",
+        "PERMITTEE_NAME": "Foss Recycling Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753228800000,
+        "EFFECTIVE_DATE": 1753228800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "3232 East Stone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058373",
+        "LATITUDE": 36.562173,
+        "LONGITUDE": -82.463178,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51694399999997,
+          36.48333300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161051D",
+        "PERMITTEE_NAME": "Patricia Carter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Moreland Drive and Shadyside Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161051D",
+        "LATITUDE": 36.483333,
+        "LONGITUDE": -82.516944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44199999999995,
+          36.55000000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161357",
+        "PERMITTEE_NAME": "Terry Miller",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "130 Island Road / Hwy 126",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161357",
+        "LATITUDE": 36.550000000000004,
+        "LONGITUDE": -82.44200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16972199999998,
+          36.573795000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058479",
+        "PERMITTEE_NAME": "The Robinette Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "250 Blackley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058479",
+        "LATITUDE": 36.573795,
+        "LONGITUDE": -82.169722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27638999999994,
+          36.461110000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161492",
+        "PERMITTEE_NAME": "C. Thomas Jarrell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Jarrell Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161492",
+        "LATITUDE": 36.46111,
+        "LONGITUDE": -82.27638999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35578999999996,
+          36.409440000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161568",
+        "PERMITTEE_NAME": "Property Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Northern side of Rangewood Road near Summerfield Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161568",
+        "LATITUDE": 36.40944,
+        "LONGITUDE": -82.35579,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20261399999998,
+          36.51541700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058585",
+        "PERMITTEE_NAME": "Kintronic Laboratories, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "144 PLEASANT GROVE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058585",
+        "LATITUDE": 36.515417,
+        "LONGITUDE": -82.202614,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35290399999997,
+          36.55905800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058583",
+        "PERMITTEE_NAME": "Eco-Safe Systems, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "385 Harr Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058583",
+        "LATITUDE": 36.559058,
+        "LONGITUDE": -82.352904,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50333299999994,
+          36.56638900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161298",
+        "PERMITTEE_NAME": "Ralph Hawkins Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "518 Morelock Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161298",
+        "LATITUDE": 36.566389,
+        "LONGITUDE": -82.503333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25080399999996,
+          36.57378700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058823",
+        "PERMITTEE_NAME": "SHIELA S. SHOUN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1785974400000,
+        "EFFECTIVE_DATE": 1785974400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1247 HIGHWAY 126",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058823",
+        "LATITUDE": 36.573786999999996,
+        "LONGITUDE": -82.250804,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57149299999998,
+          36.48865600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058893",
+        "PERMITTEE_NAME": "Total Clean, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2921 SULLIVAN GARDENS PKWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058893",
+        "LATITUDE": 36.488656,
+        "LONGITUDE": -82.57149299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45880999999997,
+          36.443310000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161583",
+        "PERMITTEE_NAME": "Bobby McKnight",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "5856 Fort Henry Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161583",
+        "LATITUDE": 36.44331,
+        "LONGITUDE": -82.45881,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56224799999995,
+          36.49586100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110410",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1782172800000,
+        "EFFECTIVE_DATE": 1782172800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "225 Shady View Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110410",
+        "LATITUDE": 36.495861,
+        "LONGITUDE": -82.562248,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29694399999994,
+          36.521389000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161544",
+        "PERMITTEE_NAME": "Baker's Construction and Excavation Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "North side of 394 a few hundred feet west of Summer Hills Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161544",
+        "LATITUDE": 36.521389,
+        "LONGITUDE": -82.296944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29973999999999,
+          36.43514000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058811",
+        "PERMITTEE_NAME": "Bell Textron Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753142400000,
+        "EFFECTIVE_DATE": 1753142400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "441 Industrial Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058811",
+        "LATITUDE": 36.43514,
+        "LONGITUDE": -82.29974,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.61222199999997,
+          36.50861100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "827001",
+        "PERMITTEE_NAME": "City of Kingsport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1782086400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1810339200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "188se Dolan Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:827001",
+        "LATITUDE": 36.508610999999995,
+        "LONGITUDE": -82.612222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.13472199999995,
+          36.58944400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "827003",
+        "PERMITTEE_NAME": "Middlebrook H.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1789516800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1841961600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "206sw Sinking Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:827003",
+        "LATITUDE": 36.589444,
+        "LONGITUDE": -82.134722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22666699999996,
+          36.56361100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "827005",
+        "PERMITTEE_NAME": "City of Bristol",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1763942400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794700800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "206sw Steele Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:827005",
+        "LATITUDE": 36.563611,
+        "LONGITUDE": -82.22666699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56749999999994,
+          36.52527800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "827006",
+        "PERMITTEE_NAME": "Eastman Chemical Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1763596800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794700800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "188SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:827006",
+        "LATITUDE": 36.525278,
+        "LONGITUDE": -82.56750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18989999999997,
+          36.574200000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.018",
+        "PERMITTEE_NAME": "US Army Corps of Engineers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1447286400000,
+        "EFFECTIVE_DATE": 1447286400000,
+        "EXPIRATION_DATE": 1605052800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "SR-34",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.018",
+        "LATITUDE": 36.574200000000005,
+        "LONGITUDE": -82.18990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17089699999997,
+          36.56210600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059174",
+        "PERMITTEE_NAME": "Dynamic Recycling, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762473600000,
+        "EFFECTIVE_DATE": 1762473600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "220 North Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059174",
+        "LATITUDE": 36.562106,
+        "LONGITUDE": -82.170897,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33539299999995,
+          36.53909700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161839",
+        "PERMITTEE_NAME": "David Osborne",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1360 Highway 394",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161839",
+        "LATITUDE": 36.539097,
+        "LONGITUDE": -82.335393,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34277799999995,
+          36.43527800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161846",
+        "PERMITTEE_NAME": "Corrugated Container Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "128 Corrugated Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161846",
+        "LATITUDE": 36.435278,
+        "LONGITUDE": -82.342778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52913799999999,
+          36.452071000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161793",
+        "PERMITTEE_NAME": "Taylor Properties, LP1",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Kendrick Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161793",
+        "LATITUDE": 36.452071,
+        "LONGITUDE": -82.529138,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46299999999997,
+          36.452000000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059157",
+        "PERMITTEE_NAME": "Martin Kingsport Truck Terminal",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770336000000,
+        "EFFECTIVE_DATE": 1770336000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "348 DILLOW DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059157",
+        "LATITUDE": 36.452000000000005,
+        "LONGITUDE": -82.46300000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43749999999994,
+          36.441666000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.342",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1454976000000,
+        "EFFECTIVE_DATE": 1454976000000,
+        "EXPIRATION_DATE": 1612742400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "301 Boone Dam Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.342",
+        "LATITUDE": 36.441666,
+        "LONGITUDE": -82.4375,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26799999999997,
+          36.57080000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161830",
+        "PERMITTEE_NAME": "K.D. Moore",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "463 Midway Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161830",
+        "LATITUDE": 36.5708,
+        "LONGITUDE": -82.268,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33805999999998,
+          36.54604600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161789",
+        "PERMITTEE_NAME": "Shoppes at Blountville, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Blountville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161789",
+        "LATITUDE": 36.546046,
+        "LONGITUDE": -82.33806,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32959999999997,
+          36.54280000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059247",
+        "PERMITTEE_NAME": "Mountain Empire Stoneworks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766016000000,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "243 NEAL DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059247",
+        "LATITUDE": 36.5428,
+        "LONGITUDE": -82.3296,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50437199999999,
+          36.572264000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059225",
+        "PERMITTEE_NAME": "TENNESSEE AUTO SALVAGE & RECYCLING, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754611200000,
+        "EFFECTIVE_DATE": 1754611200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2965 North John B. Dennis Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059225",
+        "LATITUDE": 36.572264,
+        "LONGITUDE": -82.50437199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.04222199999998,
+          36.58611100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.189",
+        "PERMITTEE_NAME": "Sade Corporation DBA Painter Creek Marina",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1477008000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1634688000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "766 Painter Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.189",
+        "LATITUDE": 36.586110999999995,
+        "LONGITUDE": -82.042222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32559999999995,
+          36.42980000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161867",
+        "PERMITTEE_NAME": "Gouge, Little and Associates",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Allison Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161867",
+        "LATITUDE": 36.4298,
+        "LONGITUDE": -82.32560000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56443999999999,
+          36.51000000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.104",
+        "PERMITTEE_NAME": "City of Kingsport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1499817600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1657497600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Meadowview Parkway at the intersection of Wilcox ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.104",
+        "LATITUDE": 36.51,
+        "LONGITUDE": -82.56443999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59605699999997,
+          36.47414100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.185",
+        "PERMITTEE_NAME": "Sevierville Investments LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1508716800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1650585600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "287 and 305 Clover Bottom Drive and Sullivan Gardens Drive and Highway 93",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.185",
+        "LATITUDE": 36.474140999999996,
+        "LONGITUDE": -82.596057,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30514999999997,
+          36.426060000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058812",
+        "PERMITTEE_NAME": "Bell Textron Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "423 Century Court",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058812",
+        "LATITUDE": 36.42606,
+        "LONGITUDE": -82.30515,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55339999999995,
+          36.50870000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059416",
+        "PERMITTEE_NAME": "Vic Davis Construction, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1785888000000,
+        "EFFECTIVE_DATE": 1785888000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1748 WHISPERING HILLS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059416",
+        "LATITUDE": 36.508700000000005,
+        "LONGITUDE": -82.55340000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42830099999998,
+          36.48964600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059506",
+        "PERMITTEE_NAME": "Summers Taylor, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763424000000,
+        "EFFECTIVE_DATE": 1763424000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "10410 TN. (SR-357) AIRPORT PKWY, KINGSPORT TN. 37663",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059506",
+        "LATITUDE": 36.489646,
+        "LONGITUDE": -82.42830099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.64199999999994,
+          36.47720000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161968",
+        "PERMITTEE_NAME": "Cherokee Rod and Gun",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "4280 Reservoir Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161968",
+        "LATITUDE": 36.4772,
+        "LONGITUDE": -82.64200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.06021999999996,
+          36.57022000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.025",
+        "PERMITTEE_NAME": "Steven Johnson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1564963200000,
+        "EFFECTIVE_DATE": 1564617600000,
+        "EXPIRATION_DATE": 1722384000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Hwy 44",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.025",
+        "LATITUDE": 36.57022,
+        "LONGITUDE": -82.06022,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16418399999998,
+          36.58071200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059622",
+        "PERMITTEE_NAME": "Necessary Oil Co.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1300 Georgia Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059622",
+        "LATITUDE": 36.580712,
+        "LONGITUDE": -82.16418399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16834099999994,
+          36.563796000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059621",
+        "PERMITTEE_NAME": "Patriot Recycling, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765756800000,
+        "EFFECTIVE_DATE": 1765756800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "247 NORTH INDUSTRIAL DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059621",
+        "LATITUDE": 36.563795999999996,
+        "LONGITUDE": -82.168341,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54441999999995,
+          36.51075000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.154",
+        "PERMITTEE_NAME": "Eastman Chemical Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "425 Moreland Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.154",
+        "LATITUDE": 36.51075,
+        "LONGITUDE": -82.54442,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51269999999994,
+          36.56030000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR161971",
+        "PERMITTEE_NAME": "Zane Brooks Excavating",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "752 Brookside Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR161971",
+        "LATITUDE": 36.560300000000005,
+        "LONGITUDE": -82.51270000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27178599999996,
+          36.58775200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059662",
+        "PERMITTEE_NAME": "Pinnacle Recycling",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1440 Highway 11 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059662",
+        "LATITUDE": 36.587752,
+        "LONGITUDE": -82.27178599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28099999999995,
+          36.46630000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162105",
+        "PERMITTEE_NAME": "Jockey Properties GP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "229 Lakeview Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162105",
+        "LATITUDE": 36.466300000000004,
+        "LONGITUDE": -82.281,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57052699999997,
+          36.48905000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059666",
+        "PERMITTEE_NAME": "Depot Connect International (Boasso Global)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756166400000,
+        "EFFECTIVE_DATE": 1756166400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2915 SULLIVAN GARDENS PKWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059666",
+        "LATITUDE": 36.48905,
+        "LONGITUDE": -82.570527,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30595999999997,
+          36.52258000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.208",
+        "PERMITTEE_NAME": "Jockey Properties",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1607472000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1765152000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Between 2532 Hwy 394 and Feathers Chapel Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.208",
+        "LATITUDE": 36.52258,
+        "LONGITUDE": -82.30596,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52965999999998,
+          36.52056300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059819",
+        "PERMITTEE_NAME": "Patriot Plastic Recycling, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1773705600000,
+        "EFFECTIVE_DATE": 1773705600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "2461 Sherwood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059819",
+        "LATITUDE": 36.520562999999996,
+        "LONGITUDE": -82.52965999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44999999999999,
+          36.569900000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.148",
+        "PERMITTEE_NAME": "Bloomingdale Utility District",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Nottingham Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.148",
+        "LATITUDE": 36.569900000000004,
+        "LONGITUDE": -82.45,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54189999999994,
+          36.43610000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162095",
+        "PERMITTEE_NAME": "Lakeway Christian Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1973 Fordtown Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162095",
+        "LATITUDE": 36.4361,
+        "LONGITUDE": -82.5419,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28654499999999,
+          36.58718700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059815",
+        "PERMITTEE_NAME": "Bigfoot Enterprises LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768348800000,
+        "EFFECTIVE_DATE": 1768348800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "1894 HIGHWAY 11W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059815",
+        "LATITUDE": 36.587187,
+        "LONGITUDE": -82.28654499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24179999999996,
+          36.59450000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162039",
+        "PERMITTEE_NAME": "City of Bristol",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "Between 11-W and Va State Line",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162039",
+        "LATITUDE": 36.594500000000004,
+        "LONGITUDE": -82.2418,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28368599999999,
+          36.43098700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR162101",
+        "PERMITTEE_NAME": "Narcote Technical Textile Solutions",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Sullivan",
+        "SITE_LOCATION": "800 Mountain View Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR162101",
+        "LATITUDE": 36.430987,
+        "LONGITUDE": -82.283686,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

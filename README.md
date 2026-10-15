@@ -18,6 +18,18 @@ The application combines saved county data with interactive maps. Most summaries
 
 The website is hosted on GitHub Pages. Data updates are managed separately, so different datasets can reflect different reporting periods and update dates.
 
+## Automatic data updates
+
+Once this workflow is published, GitHub Actions checks online sources every Saturday at **2:00 a.m. America/Chicago** (Central Time, including daylight saving time). GitHub may delay scheduled runs. The same workflow validates the data, builds the static website, commits generated data, and deploys the updated site; it does not rely on a bot commit triggering another workflow. A normal owner push still deploys saved data without downloading it again.
+
+Weekly checks cover TDEC water permits, EPA ECHO compliance, Superfund, Census county boundaries and the newest published ACS five-year estimates, USGS watersheds and protected areas, legislative districts, drinking-water service areas, service-line inventories, and landfill permits. Census release discovery avoids freezing the app on the 2024 edition. The first Saturday of each month also checks the latest annual NLCD imagery release. ATTAINS and address search query live services when used; their weekly check verifies availability, not a new agency publication date.
+
+The Sources page shows each dataset's last successful refresh, latest check, and refresh status. Local GIS snapshots (including the 2026 impairment layer, Justice40, monitoring stations, scenic rivers, and the separate active-permit summary) require manual replacement and retain their dates. Refreshing the TDEC map cache does not replace the separate local active-permit summary. County boundaries, ACS, watersheds, and districts rebuild as a group. Optional overlay failures retain their previous layers; failed service-line downloads retain existing utility inventory values. A failed core GIS rebuild restores the previous output. Other refresh tasks continue, and incomplete runs are flagged in Actions after available updates deploy.
+
+To refresh locally, run `npm run data:refresh-online` (Python dependencies: `pip install -r requirements.txt`), then `npm run check`. Add `-- --include-landcover` to check imagery immediately. Run `python -m unittest scripts.validate.test_refresh` for failure-handling checks. The Deploy Static Site workflow also supports a manual run with **Refresh online data sources before building** enabled. Repository Actions must allow workflow write access and the bot must be permitted to push generated data to the branch. No scheduled run starts until these local workflow changes reach the default branch.
+
+If Census requires authentication, add an agency-issued API key as the repository Actions secret `CENSUS_API_KEY` (or as a local environment variable). Without it, existing ACS indicators and their dates are retained while other sources can refresh. USGS and other agency outages are also reported without advancing affected refresh dates.
+
 ## Where the data comes from
 
 | Source | General contribution |

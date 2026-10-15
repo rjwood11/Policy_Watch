@@ -1,0 +1,759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11285999999996,
+          35.82317000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.34",
+        "PERMITTEE_NAME": "Cannon County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780876800000,
+        "EFFECTIVE_DATE": 1780876800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Nearest 1604 Murfreesboro Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.34",
+        "LATITUDE": 35.82317,
+        "LONGITUDE": -86.11286,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10959999999994,
+          35.952600000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.32",
+        "PERMITTEE_NAME": "Middle Tennessee Natural Gas",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780358400000,
+        "EFFECTIVE_DATE": 1780358400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Between 418 and 511 Marshall Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.32",
+        "LATITUDE": 35.952600000000004,
+        "LONGITUDE": -86.1096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95831999999996,
+          35.84501000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.56",
+        "PERMITTEE_NAME": "Earl Wayne Hancock- Cannon County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788134400000,
+        "EFFECTIVE_DATE": 1788134400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Between 4933 & 5063 Stones River Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.56",
+        "LATITUDE": 35.845009999999995,
+        "LONGITUDE": -85.95832,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09454199999999,
+          35.92239100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.129",
+        "PERMITTEE_NAME": "Jason Barrett- Owner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768867200000,
+        "EFFECTIVE_DATE": 1768867200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "7290 Auburntown Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.129",
+        "LATITUDE": 35.922391,
+        "LONGITUDE": -86.09454199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02526699999999,
+          35.90530400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.15",
+        "PERMITTEE_NAME": "Abigail Reames",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "7162 Gassaway Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.15",
+        "LATITUDE": 35.905304,
+        "LONGITUDE": -86.025267,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17689699999994,
+          35.82757400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.117",
+        "PERMITTEE_NAME": "Tennessee Wildlife Federation (TWF)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1763078400000,
+        "EFFECTIVE_DATE": 1763078400000,
+        "EXPIRATION_DATE": 1920758400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "1966 READYVILLE ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.117",
+        "LATITUDE": 35.827574,
+        "LONGITUDE": -86.176897,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17689699999994,
+          35.82757400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172808",
+        "PERMITTEE_NAME": "Tennessee Wildlife Federation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "1966 READYVILLE ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172808",
+        "LATITUDE": 35.827574,
+        "LONGITUDE": -86.176897,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07676699999996,
+          35.82477200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172857",
+        "PERMITTEE_NAME": "Cannon County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Lehman St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172857",
+        "LATITUDE": 35.824771999999996,
+        "LONGITUDE": -86.07676699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07299899999998,
+          35.82938200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.187",
+        "PERMITTEE_NAME": "Town of Woodbury",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1689292800000,
+        "EFFECTIVE_DATE": 1689292800000,
+        "EXPIRATION_DATE": 1847059200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Easterly of dam at Doolittle Road bridge at East Stones Fork River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.187",
+        "LATITUDE": 35.829381999999995,
+        "LONGITUDE": -86.072999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10951099999994,
+          35.952575000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.113",
+        "PERMITTEE_NAME": "Earl Wayne Hancock- Cannon County Hwy Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "nearest 511 Marshall Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.113",
+        "LATITUDE": 35.952574999999996,
+        "LONGITUDE": -86.109511,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05176799999998,
+          35.78318100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056543",
+        "PERMITTEE_NAME": "Smith's Truck Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "3584 Jim Cummings Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056543",
+        "LATITUDE": 35.783181,
+        "LONGITUDE": -86.051768,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08664999999996,
+          35.827131000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172748",
+        "PERMITTEE_NAME": "GBT REALTY CORPORATION",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "24 Masey Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172748",
+        "LATITUDE": 35.827131,
+        "LONGITUDE": -86.08664999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08344499999998,
+          35.818291000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172458",
+        "PERMITTEE_NAME": "Ray Patrick",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "164 Sunny Slope Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172458",
+        "LATITUDE": 35.818290999999995,
+        "LONGITUDE": -86.083445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11740099999997,
+          35.809537000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.96",
+        "PERMITTEE_NAME": "Deborah B Weldon",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "1306 Hollis Creek Rd ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.96",
+        "LATITUDE": 35.809537,
+        "LONGITUDE": -86.117401,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17523399999999,
+          35.72021700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.54",
+        "PERMITTEE_NAME": "Eric Adamson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "414 Osage Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.54",
+        "LATITUDE": 35.720217,
+        "LONGITUDE": -86.17523399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08429999999998,
+          35.82790000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172626",
+        "PERMITTEE_NAME": "Frank Throneberry",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "MASON CT",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172626",
+        "LATITUDE": 35.8279,
+        "LONGITUDE": -86.0843,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08703499999996,
+          35.74771800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.76",
+        "PERMITTEE_NAME": "Town of Woodbury",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691539200000,
+        "EFFECTIVE_DATE": 1691539200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Petty Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.76",
+        "LATITUDE": 35.747718,
+        "LONGITUDE": -86.087035,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95662799999997,
+          35.80085900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172526",
+        "PERMITTEE_NAME": "Town of Woodbury",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Short Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172526",
+        "LATITUDE": 35.800858999999996,
+        "LONGITUDE": -85.956628,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08703499999996,
+          35.74771800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172527",
+        "PERMITTEE_NAME": "Town of Woodbury",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Petty Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172527",
+        "LATITUDE": 35.747718,
+        "LONGITUDE": -86.087035,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93526299999996,
+          35.82414200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.86",
+        "PERMITTEE_NAME": "John Prince",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1694390400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "727 Will Daniel Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.86",
+        "LATITUDE": 35.824142,
+        "LONGITUDE": -85.93526299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18675599999995,
+          35.71837800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.297",
+        "PERMITTEE_NAME": "KCI Technologies",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1646179200000,
+        "EFFECTIVE_DATE": 1646179200000,
+        "EXPIRATION_DATE": 1803859200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "393 Walnut Springs Lane, Bradyville, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.297",
+        "LATITUDE": 35.718378,
+        "LONGITUDE": -86.186756,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12144499999994,
+          35.81123400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172448",
+        "PERMITTEE_NAME": "Hall Excavation LLC ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "3353 John Bragg Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172448",
+        "LATITUDE": 35.811234,
+        "LONGITUDE": -86.121445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.00944399999997,
+          35.66777700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055977",
+        "PERMITTEE_NAME": "IVY BLUFF AUTO SALVAGE LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "7077 Ivy Bluff Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055977",
+        "LATITUDE": 35.667777,
+        "LONGITUDE": -86.009444,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05045199999995,
+          35.78777300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050975",
+        "PERMITTEE_NAME": "Woodbury Auto Salvage and Recycling LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "3241 Jim Cummings Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050975",
+        "LATITUDE": 35.787773,
+        "LONGITUDE": -86.05045199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08280199999996,
+          35.82396600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB025089",
+        "PERMITTEE_NAME": "Woodbury STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1763337600000,
+        "EFFECTIVE_DATE": 1763337600000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "102 Tatum Street\r\n901 West Adams Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB025089",
+        "LATITUDE": 35.823966,
+        "LONGITUDE": -86.082802,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09439999999995,
+          35.84420000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.214",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1438300800000,
+        "EFFECTIVE_DATE": 1438300800000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "SR-145 Northwest of Woodbury",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.214",
+        "LATITUDE": 35.8442,
+        "LONGITUDE": -86.09440000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08670999999998,
+          35.82662000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172058",
+        "PERMITTEE_NAME": "Ronnie Nichols",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "Old Murfreesboro Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172058",
+        "LATITUDE": 35.82662,
+        "LONGITUDE": -86.08671,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15163299999995,
+          35.80525600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059450",
+        "PERMITTEE_NAME": "C.W. Matthews Contracting Co, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1791158400000,
+        "EFFECTIVE_DATE": 1791158400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "849 Bradyville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059450",
+        "LATITUDE": 35.805256,
+        "LONGITUDE": -86.15163299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06559999999996,
+          35.83327200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059558",
+        "PERMITTEE_NAME": "Composite Solutions, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1768867200000,
+        "EFFECTIVE_DATE": 1768867200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Cannon",
+        "SITE_LOCATION": "225 ALEXANDER DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059558",
+        "LATITUDE": 35.833272,
+        "LONGITUDE": -86.0656,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

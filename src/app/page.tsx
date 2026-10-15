@@ -62,11 +62,9 @@ export default function HomePage() {
         <h1 className="max-w-none whitespace-nowrap text-xs font-bold leading-tight tracking-normal text-black min-[380px]:text-sm sm:text-2xl md:text-3xl lg:text-4xl">
           Harpeth Conservancy&apos;s Water Policy Watch
         </h1>
-        <div className="mt-5">
-          <span className="inline-flex rounded-md bg-river px-4 py-2 text-sm font-semibold uppercase tracking-normal text-white">
-            Updated on {latestRefresh}
-          </span>
-        </div>
+        <p className="mt-2 text-xs text-ink/60">
+          Updated on <time dateTime={latestRefresh}>{latestRefresh}</time>
+        </p>
       </section>
 
       <section>

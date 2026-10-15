@@ -1,0 +1,3515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04989999999998,
+          36.189400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.085",
+        "PERMITTEE_NAME": "Anderson County Water Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1753315200000,
+        "EFFECTIVE_DATE": 1753315200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "First Quality Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.085",
+        "LATITUDE": 36.1894,
+        "LONGITUDE": -84.04990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17477799999995,
+          36.00815800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.153",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786060800000,
+        "EFFECTIVE_DATE": 1786060800000,
+        "EXPIRATION_DATE": 1943740800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "207 Old Edgemoor Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.153",
+        "LATITUDE": 36.008158,
+        "LONGITUDE": -84.17477799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08146499999998,
+          36.152562000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138452",
+        "PERMITTEE_NAME": "City of Clinton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "278 Frank L Diggs Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138452",
+        "LATITUDE": 36.152561999999996,
+        "LONGITUDE": -84.081465,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23979999999995,
+          36.01380000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138419",
+        "PERMITTEE_NAME": "PTM Properties",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "121 Flint Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138419",
+        "LATITUDE": 36.0138,
+        "LONGITUDE": -84.2398,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06939999999997,
+          36.18470000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051547",
+        "PERMITTEE_NAME": "Whaley Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1780012800000,
+        "EFFECTIVE_DATE": 1780012800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "151 SYCAMORE PLACE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051547",
+        "LATITUDE": 36.1847,
+        "LONGITUDE": -84.0694,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26949999999994,
+          35.99300000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137355",
+        "PERMITTEE_NAME": "Groves Park Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "795 TUSKEGEE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137355",
+        "LATITUDE": 35.993,
+        "LONGITUDE": -84.26950000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28018199999997,
+          35.99231200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138400",
+        "PERMITTEE_NAME": "City of Oak Ridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "795 Tuskegee Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138400",
+        "LATITUDE": 35.992312,
+        "LONGITUDE": -84.280182,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24360999999999,
+          36.00218000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138334",
+        "PERMITTEE_NAME": "R&R Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "S Illinois Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138334",
+        "LATITUDE": 36.002179999999996,
+        "LONGITUDE": -84.24360999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22377999999998,
+          36.03511000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138339",
+        "PERMITTEE_NAME": "R & R Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "509 Oak Ridge Turnpile",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138339",
+        "LATITUDE": 36.035109999999996,
+        "LONGITUDE": -84.22377999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11582599999997,
+          36.08693200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138412",
+        "PERMITTEE_NAME": "Eagle Bend MFG",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1000 JD Yarnell Industrial Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138412",
+        "LATITUDE": 36.086932,
+        "LONGITUDE": -84.115826,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24349999999998,
+          35.990000000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138422",
+        "PERMITTEE_NAME": "Consolidated Nuclear Security, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Y-12 National Security Complex 301 Bear Creek Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138422",
+        "LATITUDE": 35.99,
+        "LONGITUDE": -84.2435,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22459799999996,
+          35.98065400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138443",
+        "PERMITTEE_NAME": "BARNHART CRANE AND RIGGING CO",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "100 Crane Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138443",
+        "LATITUDE": 35.980654,
+        "LONGITUDE": -84.224598,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07049999999998,
+          36.186000000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138420",
+        "PERMITTEE_NAME": "Whaley Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "100 Sawmill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138420",
+        "LATITUDE": 36.186,
+        "LONGITUDE": -84.07050000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04911399999997,
+          36.170690000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.120",
+        "PERMITTEE_NAME": "Johan Van Tilburg",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1784851200000,
+        "EFFECTIVE_DATE": 1784851200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "3328 Norris Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.120",
+        "LATITUDE": 36.17069,
+        "LONGITUDE": -84.049114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.05035699999996,
+          36.18062200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051823",
+        "PERMITTEE_NAME": "CMH Manufacturing, Inc. dba Clayton Appalachia",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1420 Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051823",
+        "LATITUDE": 36.180622,
+        "LONGITUDE": -84.05035699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34929999999997,
+          36.17160000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.015",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772150400000,
+        "EFFECTIVE_DATE": 1772150400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-116 at LM 6.1",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.015",
+        "LATITUDE": 36.171600000000005,
+        "LONGITUDE": -84.3493,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06939999999997,
+          36.18470000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192398",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "151 SYCAMORE PLACE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192398",
+        "LATITUDE": 36.1847,
+        "LONGITUDE": -84.0694,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10149999999999,
+          36.07750000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.015",
+        "PERMITTEE_NAME": "Hallsdale-Powell Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1768953600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "E. Wolf Valley Road and Pine Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.015",
+        "LATITUDE": 36.0775,
+        "LONGITUDE": -84.1015,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22377999999998,
+          36.03511000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.174",
+        "PERMITTEE_NAME": "R & R Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1766707200000,
+        "EFFECTIVE_DATE": 1766707200000,
+        "EXPIRATION_DATE": 1924387200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "509 Oak Ridge Turnpile",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.174",
+        "LATITUDE": 36.035109999999996,
+        "LONGITUDE": -84.22377999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24507199999994,
+          35.97954200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137560",
+        "PERMITTEE_NAME": "United Cleanup Oak Ridge LLC (UCOR)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1215 Bethel Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137560",
+        "LATITUDE": 35.979541999999995,
+        "LONGITUDE": -84.245072,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28329799999995,
+          35.94693200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138208",
+        "PERMITTEE_NAME": "UT-Battelle, LLC on behalf of US Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1 Bethel Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138208",
+        "LATITUDE": 35.946932,
+        "LONGITUDE": -84.283298,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22763099999997,
+          36.02147800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137567",
+        "PERMITTEE_NAME": "Gaurav Patel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "690 Emory Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137567",
+        "LATITUDE": 36.021478,
+        "LONGITUDE": -84.227631,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13446999999996,
+          36.01097000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.042",
+        "PERMITTEE_NAME": "Hallsdale - Powell Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1722816000000,
+        "EFFECTIVE_DATE": 1722816000000,
+        "EXPIRATION_DATE": 1880496000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Melton Hill Lake, Bull Run Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.042",
+        "LATITUDE": 36.01097,
+        "LONGITUDE": -84.13447,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32029299999994,
+          36.08048300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138502",
+        "PERMITTEE_NAME": "Windrock Land Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "624 Hoskins Gap Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138502",
+        "LATITUDE": 36.080483,
+        "LONGITUDE": -84.32029299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13810399999994,
+          36.06822800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136811",
+        "PERMITTEE_NAME": "Cozy Excavation & Contracting, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "505 BLOCKHOUSE VALLEY RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136811",
+        "LATITUDE": 36.068228,
+        "LONGITUDE": -84.138104,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21225399999997,
+          36.039379000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138191",
+        "PERMITTEE_NAME": "Storage Oak Ridge Owner, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "150 CAIRO RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138191",
+        "LATITUDE": 36.039379,
+        "LONGITUDE": -84.212254,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28989999999999,
+          36.00300000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138052",
+        "PERMITTEE_NAME": "LKM Properties, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1990 Oak Ridge Turnpike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138052",
+        "LATITUDE": 36.003,
+        "LONGITUDE": -84.2899,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41069999999996,
+          36.12762200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.263",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-116 @ LM 0.9 - LM .98",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.263",
+        "LATITUDE": 36.127621999999995,
+        "LONGITUDE": -84.4107,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07749999999999,
+          36.02916000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050614",
+        "PERMITTEE_NAME": "Lambert Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754438400000,
+        "EFFECTIVE_DATE": 1754438400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "3319  Clinton Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050614",
+        "LATITUDE": 36.02916,
+        "LONGITUDE": -84.0775,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28031999999996,
+          36.02750800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138137",
+        "PERMITTEE_NAME": "B & P Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Oliver Springs Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138137",
+        "LATITUDE": 36.027508,
+        "LONGITUDE": -84.28032,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22888999999998,
+          36.00111000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050388",
+        "PERMITTEE_NAME": "Manufacturing Sciences Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752710400000,
+        "EFFECTIVE_DATE": 1752710400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "804 South Illinois Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050388",
+        "LATITUDE": 36.00111,
+        "LONGITUDE": -84.22888999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24349999999998,
+          35.990000000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134022",
+        "PERMITTEE_NAME": "National Nuclear Security Administration (NNSA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Y-12 National Security Complex 301 Bear Creek Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134022",
+        "LATITUDE": 35.99,
+        "LONGITUDE": -84.2435,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28329799999995,
+          35.94693200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.187",
+        "PERMITTEE_NAME": "US Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1766966400000,
+        "EFFECTIVE_DATE": 1766966400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1 Bethel Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.187",
+        "LATITUDE": 35.946932,
+        "LONGITUDE": -84.283298,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08417199999997,
+          36.15743500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053863",
+        "PERMITTEE_NAME": "Powder Cote II LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1775433600000,
+        "EFFECTIVE_DATE": 1775433600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "193 Frank L Diggs Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053863",
+        "LATITUDE": 36.157435,
+        "LONGITUDE": -84.084172,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15577799999994,
+          36.02034800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.140",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754352000000,
+        "EFFECTIVE_DATE": 1754352000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1265 Edgemoor Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.140",
+        "LATITUDE": 36.020348,
+        "LONGITUDE": -84.155778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21612099999999,
+          35.97493600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670781",
+        "PERMITTEE_NAME": "City of Oak Ridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1773705600000,
+        "EFFECTIVE_DATE": 1773705600000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "271 PUMPHOUSE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670781",
+        "LATITUDE": 35.974936,
+        "LONGITUDE": -84.216121,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28817999999995,
+          35.950240000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.184",
+        "PERMITTEE_NAME": "United States Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765843200000,
+        "EFFECTIVE_DATE": 1765843200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "TVA Right of Way, Roane to Bull Run",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.184",
+        "LATITUDE": 35.95024,
+        "LONGITUDE": -84.28818,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12847999999997,
+          36.074290000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053294",
+        "PERMITTEE_NAME": "Clinton Pallet Co.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767139200000,
+        "EFFECTIVE_DATE": 1767139200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "213 Beechwood Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053294",
+        "LATITUDE": 36.07429,
+        "LONGITUDE": -84.12848,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24784799999998,
+          35.99217500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192451",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "BearCreek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192451",
+        "LATITUDE": 35.992174999999996,
+        "LONGITUDE": -84.24784799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16185899999994,
+          36.23237700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138303",
+        "PERMITTEE_NAME": "Esquire Management, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "125 COLONIAL LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138303",
+        "LATITUDE": 36.232377,
+        "LONGITUDE": -84.16185899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13920799999994,
+          36.069045000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138176",
+        "PERMITTEE_NAME": "Toby & Angela Whitson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Blockhouse Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138176",
+        "LATITUDE": 36.069044999999996,
+        "LONGITUDE": -84.139208,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23509999999999,
+          36.00630000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138096",
+        "PERMITTEE_NAME": "Hillpointe, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Mitchell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138096",
+        "LATITUDE": 36.0063,
+        "LONGITUDE": -84.2351,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23509999999999,
+          36.00630000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.140",
+        "PERMITTEE_NAME": "Hillpointe LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756252800000,
+        "EFFECTIVE_DATE": 1756252800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Mitchell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.140",
+        "LATITUDE": 36.0063,
+        "LONGITUDE": -84.2351,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30460599999998,
+          35.99878600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138064",
+        "PERMITTEE_NAME": "Forest Creek Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "2210 Oak Ridge Turnpike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138064",
+        "LATITUDE": 35.998785999999996,
+        "LONGITUDE": -84.30460599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11146999999994,
+          36.08975400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053601",
+        "PERMITTEE_NAME": "The Carlstar Group LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761091200000,
+        "EFFECTIVE_DATE": 1761091200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "520 JD Yarnell Industrial Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053601",
+        "LATITUDE": 36.089754,
+        "LONGITUDE": -84.11147,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22312999999997,
+          36.031975000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050795",
+        "PERMITTEE_NAME": "Noble Metals, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753833600000,
+        "EFFECTIVE_DATE": 1753833600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "335, 351 and 401 Belgrade Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050795",
+        "LATITUDE": 36.031974999999996,
+        "LONGITUDE": -84.22313,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04608599999995,
+          36.18751100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138098",
+        "PERMITTEE_NAME": "Stefan Claar",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1532 Mountain Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138098",
+        "LATITUDE": 36.187511,
+        "LONGITUDE": -84.046086,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17000499999995,
+          36.01714800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137917",
+        "PERMITTEE_NAME": "ODP CB, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "100 Centennial Bluff Blvd, Oak Ridge, TN 37830",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137917",
+        "LATITUDE": 36.017148,
+        "LONGITUDE": -84.170005,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23489999999998,
+          35.99622000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138070",
+        "PERMITTEE_NAME": "Oak Ridge Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "603 Scarboro Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138070",
+        "LATITUDE": 35.99622,
+        "LONGITUDE": -84.23490000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09645799999998,
+          36.050902000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.170",
+        "PERMITTEE_NAME": "Drew Sissom",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1767916800000,
+        "EFFECTIVE_DATE": 1767830400000,
+        "EXPIRATION_DATE": 1925510400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "140 Ashley Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.170",
+        "LATITUDE": 36.050902,
+        "LONGITUDE": -84.096458,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23699999999997,
+          36.01700000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058693",
+        "PERMITTEE_NAME": "TOXCO, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760054400000,
+        "EFFECTIVE_DATE": 1760054400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "109 Flint Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058693",
+        "LATITUDE": 36.017,
+        "LONGITUDE": -84.23700000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12545899999998,
+          36.099053000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138008",
+        "PERMITTEE_NAME": "Anderson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Carden Farm Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138008",
+        "LATITUDE": 36.099053,
+        "LONGITUDE": -84.12545899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12124499999999,
+          36.20712000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.135",
+        "PERMITTEE_NAME": "Anderson County Water Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1729555200000,
+        "EFFECTIVE_DATE": 1729555200000,
+        "EXPIRATION_DATE": 1887235200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "327 Lovely Bluff Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.135",
+        "LATITUDE": 36.207119999999996,
+        "LONGITUDE": -84.121245,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08058299999999,
+          36.15272300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137707",
+        "PERMITTEE_NAME": "Mark Devol",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Franklin L. Diggs Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137707",
+        "LATITUDE": 36.152723,
+        "LONGITUDE": -84.08058299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07089999999994,
+          36.02809000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056118",
+        "PERMITTEE_NAME": "European Import Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "3412 CLINTON HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056118",
+        "LATITUDE": 36.02809,
+        "LONGITUDE": -84.07090000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07088999999996,
+          36.17322000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137511",
+        "PERMITTEE_NAME": "Big Creek Marine, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Andersonville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137511",
+        "LATITUDE": 36.17322,
+        "LONGITUDE": -84.07088999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21648599999997,
+          36.53420500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR0000.000",
+        "PERMITTEE_NAME": "Olivia",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "2345 Powdermill Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR0000.000",
+        "LATITUDE": 36.534205,
+        "LONGITUDE": -87.21648599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13299999999998,
+          36.100900000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137416",
+        "PERMITTEE_NAME": "City of Clinton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "E. Broad Street, N Main Street at Market Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137416",
+        "LATITUDE": 36.1009,
+        "LONGITUDE": -84.13300000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15577799999994,
+          36.02034800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192300",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1265 Edgemoor Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192300",
+        "LATITUDE": 36.020348,
+        "LONGITUDE": -84.155778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29973499999994,
+          35.954030000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137697",
+        "PERMITTEE_NAME": "US Department of Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "One Bethel Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137697",
+        "LATITUDE": 35.954029999999996,
+        "LONGITUDE": -84.299735,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26066699999996,
+          35.997311000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137738",
+        "PERMITTEE_NAME": "COLLABORATIVE HOUSING SOLUTIONS",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "148 CARVER AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137738",
+        "LATITUDE": 35.997310999999996,
+        "LONGITUDE": -84.260667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31690399999997,
+          36.20687600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.009",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1740009600000,
+        "EFFECTIVE_DATE": 1740009600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-116, LM 0.586",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.009",
+        "LATITUDE": 36.206876,
+        "LONGITUDE": -84.316904,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11307999999997,
+          36.20835000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.130",
+        "PERMITTEE_NAME": "Steven Stout",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1725580800000,
+        "EFFECTIVE_DATE": 1725580800000,
+        "EXPIRATION_DATE": 1757116800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1217 Hillvale Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.130",
+        "LATITUDE": 36.208349999999996,
+        "LONGITUDE": -84.11308,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29058099999997,
+          36.02568700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136991",
+        "PERMITTEE_NAME": "Scot Green, Official Contact",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "2312 Oliver Springs Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136991",
+        "LATITUDE": 36.025687,
+        "LONGITUDE": -84.290581,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28819999999996,
+          36.02540000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.345",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1717372800000,
+        "EFFECTIVE_DATE": 1717372800000,
+        "EXPIRATION_DATE": 1875052800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-61, bridge over Brushy Creek, LM 3.98 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.345",
+        "LATITUDE": 36.025400000000005,
+        "LONGITUDE": -84.2882,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08295499999997,
+          36.22169900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137588",
+        "PERMITTEE_NAME": "Norris Dam State Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "NORRIS FREEWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137588",
+        "LATITUDE": 36.221699,
+        "LONGITUDE": -84.082955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26949999999994,
+          35.99300000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137108",
+        "PERMITTEE_NAME": "Groves Park Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "795 TUSKEGEE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137108",
+        "LATITUDE": 35.993,
+        "LONGITUDE": -84.26950000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31027699999999,
+          35.99257300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137293",
+        "PERMITTEE_NAME": "Empire Project Management, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "0 Oak Ridge Turnpike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137293",
+        "LATITUDE": 35.992573,
+        "LONGITUDE": -84.310277,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13039999999995,
+          36.065800000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.206",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-9 at LM 12.98",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.206",
+        "LATITUDE": 36.0658,
+        "LONGITUDE": -84.13040000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09588199999996,
+          36.161200000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137338",
+        "PERMITTEE_NAME": "Anderson County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "130 Maverick Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137338",
+        "LATITUDE": 36.1612,
+        "LONGITUDE": -84.095882,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28819999999996,
+          36.02540000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192242",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-61, bridge over Brushy Creek, LM 3.98 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192242",
+        "LATITUDE": 36.025400000000005,
+        "LONGITUDE": -84.2882,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08964699999996,
+          36.16960400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137385",
+        "PERMITTEE_NAME": "Diggs Storage, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Hillvale Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137385",
+        "LATITUDE": 36.169604,
+        "LONGITUDE": -84.089647,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06939999999997,
+          36.18470000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.350",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1717718400000,
+        "EFFECTIVE_DATE": 1717718400000,
+        "EXPIRATION_DATE": 1875398400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "151 SYCAMORE PLACE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.350",
+        "LATITUDE": 36.1847,
+        "LONGITUDE": -84.0694,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13757899999996,
+          36.101465000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137524",
+        "PERMITTEE_NAME": "WB Realty, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "315 W BROAD ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137524",
+        "LATITUDE": 36.101465,
+        "LONGITUDE": -84.137579,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04900199999997,
+          36.17858300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136595",
+        "PERMITTEE_NAME": "Double L Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "119 Cornerstone Cir",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136595",
+        "LATITUDE": 36.178582999999996,
+        "LONGITUDE": -84.049002,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07569999999998,
+          36.15950000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137069",
+        "PERMITTEE_NAME": "Mr. Danny Heidle, Owner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "239 Buffalo Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137069",
+        "LATITUDE": 36.1595,
+        "LONGITUDE": -84.0757,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16818399999994,
+          36.017641000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137183",
+        "PERMITTEE_NAME": "BIR Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Wood View Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137183",
+        "LATITUDE": 36.017641,
+        "LONGITUDE": -84.168184,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04900199999997,
+          36.17858300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136994",
+        "PERMITTEE_NAME": "Double L Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "119 Cornerstone Cir",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136994",
+        "LATITUDE": 36.178582999999996,
+        "LONGITUDE": -84.049002,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26549999999997,
+          36.01200000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137036",
+        "PERMITTEE_NAME": "City of Oak Ridge, TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1550 OAK RIDGE TPKE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137036",
+        "LATITUDE": 36.012,
+        "LONGITUDE": -84.2655,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16395999999997,
+          36.07803000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136659",
+        "PERMITTEE_NAME": "B & B Properties",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "South Charles G. Seivers Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136659",
+        "LATITUDE": 36.07803,
+        "LONGITUDE": -84.16396,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10091299999993,
+          36.09373500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059135",
+        "PERMITTEE_NAME": "3M Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756080000000,
+        "EFFECTIVE_DATE": 1756080000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "400 JD Yarnell Industrial Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059135",
+        "LATITUDE": 36.093734999999995,
+        "LONGITUDE": -84.10091299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26949999999994,
+          35.99300000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.173",
+        "PERMITTEE_NAME": "Groves Park Development, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "795 TUSKEGEE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.173",
+        "LATITUDE": 35.993,
+        "LONGITUDE": -84.26950000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06960799999996,
+          36.18002300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136538",
+        "PERMITTEE_NAME": "Jimbo Conner, Owner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "2819 Andersonville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136538",
+        "LATITUDE": 36.180023,
+        "LONGITUDE": -84.069608,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20182399999999,
+          36.01511800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110087",
+        "PERMITTEE_NAME": "Harrison Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1675123200000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "250 Union Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110087",
+        "LATITUDE": 36.015118,
+        "LONGITUDE": -84.201824,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11666699999995,
+          36.10000000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050171",
+        "PERMITTEE_NAME": "Geon Performance Solutions, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1260 CARDEN FARM DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050171",
+        "LATITUDE": 36.1,
+        "LONGITUDE": -84.11666699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11582599999997,
+          36.08693200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050016",
+        "PERMITTEE_NAME": "EAGLE BEND MFG. INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1000 JD Yarnell Industrial Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050016",
+        "LATITUDE": 36.086932,
+        "LONGITUDE": -84.115826,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15479999999997,
+          36.019900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053185",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758844800000,
+        "EFFECTIVE_DATE": 1758844800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1265 Edgemoor Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053185",
+        "LATITUDE": 36.0199,
+        "LONGITUDE": -84.15480000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22614999999996,
+          35.990665000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053322",
+        "PERMITTEE_NAME": "CoorsTek, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756425600000,
+        "EFFECTIVE_DATE": 1756425600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1100 Commerce Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053322",
+        "LATITUDE": 35.990665,
+        "LONGITUDE": -84.22614999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21995099999998,
+          36.03751500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053196",
+        "PERMITTEE_NAME": "Waste Connections of Tennessee, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "400 WAREHOUSE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053196",
+        "LATITUDE": 36.037515,
+        "LONGITUDE": -84.219951,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.03224099999994,
+          36.11530200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051248",
+        "PERMITTEE_NAME": "Chestnut Ridge Landfill and Recycling Center",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "140 Fleenor Mill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051248",
+        "LATITUDE": 36.115302,
+        "LONGITUDE": -84.032241,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32865899999996,
+          36.03289900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053559",
+        "PERMITTEE_NAME": "United Parcel Service, Inc. - Oliver Springs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1757462400000,
+        "EFFECTIVE_DATE": 1757462400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "251 Hannah Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053559",
+        "LATITUDE": 36.032899,
+        "LONGITUDE": -84.328659,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28199999999998,
+          36.00730000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053933",
+        "PERMITTEE_NAME": "Tate's",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "70 Jefferson Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053933",
+        "LATITUDE": 36.0073,
+        "LONGITUDE": -84.28200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23333299999996,
+          36.00833300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050990",
+        "PERMITTEE_NAME": "Centrus Energy Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "400 Centrifuge Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050990",
+        "LATITUDE": 36.008333,
+        "LONGITUDE": -84.233333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24006799999995,
+          36.058377000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054360",
+        "PERMITTEE_NAME": "Oak Ridge Hardwoods, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 985651200000,
+        "EFFECTIVE_DATE": 985651200000,
+        "EXPIRATION_DATE": 1009756800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1010 Oliver Springs Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054360",
+        "LATITUDE": 36.058377,
+        "LONGITUDE": -84.240068,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13388099999997,
+          36.100351000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075108",
+        "PERMITTEE_NAME": "Anderson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1664755200000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "100 North Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075108",
+        "LATITUDE": 36.100350999999996,
+        "LONGITUDE": -84.133881,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08899999999994,
+          36.159200000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056778",
+        "PERMITTEE_NAME": "Aisin Automotive Casting Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759795200000,
+        "EFFECTIVE_DATE": 1759795200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "221 Frank L Diggs Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056778",
+        "LATITUDE": 36.1592,
+        "LONGITUDE": -84.089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22777699999995,
+          35.994444000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134196",
+        "PERMITTEE_NAME": "D Five, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Commerce Park, Commerce Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134196",
+        "LATITUDE": 35.994444,
+        "LONGITUDE": -84.227777,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13424399999997,
+          36.10098300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS088307",
+        "PERMITTEE_NAME": "City of Clinton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1664755200000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "100 North Bowling St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS088307",
+        "LATITUDE": 36.100983,
+        "LONGITUDE": -84.134244,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25794199999996,
+          36.01213800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS088366",
+        "PERMITTEE_NAME": "City of Oak Ridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1670198400000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "200 South Tulane Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS088366",
+        "LATITUDE": 36.012138,
+        "LONGITUDE": -84.257942,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25389999999999,
+          36.01030000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134710",
+        "PERMITTEE_NAME": "TN Oak Ridge Rutger, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "333 Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134710",
+        "LATITUDE": 36.0103,
+        "LONGITUDE": -84.2539,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09367899999995,
+          36.09107700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134687",
+        "PERMITTEE_NAME": "Anderson County Water Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Melton Hill Drive to I-75, near Hwy 61",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134687",
+        "LATITUDE": 36.091077,
+        "LONGITUDE": -84.093679,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24669999999998,
+          36.02610000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135074",
+        "PERMITTEE_NAME": "Oak Ridge Senior Living Facility",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "139 W. Madison Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135074",
+        "LATITUDE": 36.0261,
+        "LONGITUDE": -84.2467,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19771999999995,
+          36.03956000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS14.089",
+        "PERMITTEE_NAME": "City of Oak Ridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1475712000000,
+        "EFFECTIVE_DATE": 1475712000000,
+        "EXPIRATION_DATE": 1633392000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Melton Lake Drive in Oak Ridge",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS14.089",
+        "LATITUDE": 36.03956,
+        "LONGITUDE": -84.19771999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14799999999997,
+          36.02920000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134604",
+        "PERMITTEE_NAME": "Gary Miniard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Edgemoor Road, 300' east of Old Emory Road Intersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134604",
+        "LATITUDE": 36.0292,
+        "LONGITUDE": -84.14800000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13239999999996,
+          36.094400000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.197",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1470700800000,
+        "EFFECTIVE_DATE": 1470700800000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-9 (US-25W) at LM 10.71",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.197",
+        "LATITUDE": 36.0944,
+        "LONGITUDE": -84.1324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04900199999997,
+          36.17858300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134892",
+        "PERMITTEE_NAME": "Tindell Builders",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "119 Cornerstone Cir",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134892",
+        "LATITUDE": 36.178582999999996,
+        "LONGITUDE": -84.049002,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15479999999997,
+          36.019900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS15.291",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1445817600000,
+        "EFFECTIVE_DATE": 1445817600000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1265 Edgemoor Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS15.291",
+        "LATITUDE": 36.0199,
+        "LONGITUDE": -84.15480000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.05849999999998,
+          36.198600000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134877",
+        "PERMITTEE_NAME": "Anderson County Water Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Humphrey Cemetery Cir., Mill Creek Rd., McAfee Ln., Ridge Circel Rd., Strong Hollow Rd., Twin Oaks Rd. & Miller Hollow Rd. areas",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134877",
+        "LATITUDE": 36.1986,
+        "LONGITUDE": -84.05850000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13239999999996,
+          36.094400000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR191659",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-9 (US-25W) at LM 10.71",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR191659",
+        "LATITUDE": 36.0944,
+        "LONGITUDE": -84.1324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22377999999998,
+          36.03511000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134930",
+        "PERMITTEE_NAME": "Mr. Richard Chinn, Permittee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "509 Oak Ridge Turnpile",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134930",
+        "LATITUDE": 36.035109999999996,
+        "LONGITUDE": -84.22377999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14470999999998,
+          36.07400000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135000",
+        "PERMITTEE_NAME": "Patriot Development LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "710 Ridgeway Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135000",
+        "LATITUDE": 36.074000000000005,
+        "LONGITUDE": -84.14470999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14623199999994,
+          36.21481200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135058",
+        "PERMITTEE_NAME": "City of Rocky Top",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "various areas in municipal water service area of Rocky Top",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135058",
+        "LATITUDE": 36.214811999999995,
+        "LONGITUDE": -84.146232,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10344899999996,
+          36.04795900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110443",
+        "PERMITTEE_NAME": "Concrete Concepts of TN Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1700524800000,
+        "EFFECTIVE_DATE": 1701388800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "262 Raccoon Valley Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110443",
+        "LATITUDE": 36.047959,
+        "LONGITUDE": -84.103449,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18138899999997,
+          36.033611000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "017001",
+        "PERMITTEE_NAME": "Whirlwind H.O.A",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1788825600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1870905600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "305sw Trib-melton Hill Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:017001",
+        "LATITUDE": 36.033611,
+        "LONGITUDE": -84.181389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39166699999998,
+          36.150000000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "017002",
+        "PERMITTEE_NAME": "Premium Coal Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1794700800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "129nw Gum Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:017002",
+        "LATITUDE": 36.15,
+        "LONGITUDE": -84.391667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22138899999999,
+          35.990000000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "017003",
+        "PERMITTEE_NAME": "City of Oak Ridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1740441600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802649600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "138nw Trib-scarboro Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:017003",
+        "LATITUDE": 35.99,
+        "LONGITUDE": -84.221389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15209599999997,
+          36.229701000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059591",
+        "PERMITTEE_NAME": "CMH Transport, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "160 Longfield Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059591",
+        "LATITUDE": 36.229701,
+        "LONGITUDE": -84.152096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38629999999995,
+          36.14670000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.207",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1568592000000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-116, near LM 3.2",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.207",
+        "LATITUDE": 36.1467,
+        "LONGITUDE": -84.3863,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18469999999996,
+          36.00520000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135834",
+        "PERMITTEE_NAME": "Harley E. Bittle, Ill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Harbour Pointe Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135834",
+        "LATITUDE": 36.0052,
+        "LONGITUDE": -84.1847,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09711099999998,
+          36.15256500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135809",
+        "PERMITTEE_NAME": "Hollingsworth Property Consultants, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "819 Sinking Springs Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135809",
+        "LATITUDE": 36.152564999999996,
+        "LONGITUDE": -84.097111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30579499999999,
+          36.01874600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830258",
+        "PERMITTEE_NAME": "Wingfield Environmental, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1700438400000,
+        "EFFECTIVE_DATE": 1700438400000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1304 E TRI COUNTY BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830258",
+        "LATITUDE": 36.018746,
+        "LONGITUDE": -84.30579499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08779999999996,
+          36.16420000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135782",
+        "PERMITTEE_NAME": "Hicks Family, LLC & Malicote Family, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Common Point Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135782",
+        "LATITUDE": 36.1642,
+        "LONGITUDE": -84.0878,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04989999999998,
+          36.189400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137251",
+        "PERMITTEE_NAME": "Anderson County Economic Development Association",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "First Quality Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137251",
+        "LATITUDE": 36.1894,
+        "LONGITUDE": -84.04990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33995399999998,
+          36.04530600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.093",
+        "PERMITTEE_NAME": "Charles P. Light",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "410 Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.093",
+        "LATITUDE": 36.045306,
+        "LONGITUDE": -84.33995399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13239999999996,
+          36.094400000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.197-20",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1470700800000,
+        "EFFECTIVE_DATE": 1613606400000,
+        "EXPIRATION_DATE": 1743897600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "SR-9 (US-25W) at LM 10.71",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.197-20",
+        "LATITUDE": 36.0944,
+        "LONGITUDE": -84.1324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21589999999998,
+          35.97560000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136321",
+        "PERMITTEE_NAME": "City of Oak Ridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "271 Pumphouse Rd for WTP; 271 Pumphouse Rd to Bear Creek for Transmission Pipeline",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136321",
+        "LATITUDE": 35.9756,
+        "LONGITUDE": -84.2159,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21589999999998,
+          35.97560000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136322",
+        "PERMITTEE_NAME": "City of Oak Ridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "271 Pumphouse Rd for WTP; 271 Pumphouse Rd to Bear Creek for Transmission Pipeline",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136322",
+        "LATITUDE": 35.9756,
+        "LONGITUDE": -84.2159,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02135399999997,
+          36.26377000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136024",
+        "PERMITTEE_NAME": "Jimmy Taylor",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "149 Stardust Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136024",
+        "LATITUDE": 36.26377,
+        "LONGITUDE": -84.021354,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21648599999997,
+          36.53420500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123458",
+        "PERMITTEE_NAME": "Angela's Test CGP NOI",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "2345 Powdermill Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123458",
+        "LATITUDE": 36.534205,
+        "LONGITUDE": -87.21648599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09367799999995,
+          36.15767200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136449",
+        "PERMITTEE_NAME": "I-75 Industrial Group Series 111, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "N. Charles G. Seivers- Parcel #124.02",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136449",
+        "LATITUDE": 36.157672,
+        "LONGITUDE": -84.093678,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14119999999997,
+          36.10480000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136413",
+        "PERMITTEE_NAME": "Rocky Top Erosion Control LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Westbury Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136413",
+        "LATITUDE": 36.104800000000004,
+        "LONGITUDE": -84.1412,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09102399999995,
+          36.16069500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136574",
+        "PERMITTEE_NAME": "Dairy Queen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "N Charles G Seivers Blvd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136574",
+        "LATITUDE": 36.160695,
+        "LONGITUDE": -84.09102399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21800799999994,
+          35.985254000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136469",
+        "PERMITTEE_NAME": "ZYP Holding, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "1351 Bethel Valley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136469",
+        "LATITUDE": 35.985254,
+        "LONGITUDE": -84.218008,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31719999999996,
+          36.06510000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136224",
+        "PERMITTEE_NAME": "Hoskins Gap Holding Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "Hoskins Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136224",
+        "LATITUDE": 36.0651,
+        "LONGITUDE": -84.3172,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21648599999997,
+          36.53420500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "CBS000000",
+        "PERMITTEE_NAME": "Placeholder for Master Commercial Bottling Source permit",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CBS",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Anderson",
+        "SITE_LOCATION": "2345 Powdermill Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:CBS000000",
+        "LATITUDE": 36.534205,
+        "LONGITUDE": -87.21648599999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "name": "Franklin",
   "region": "East Tennessee",
   "population": 43990,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -34,10 +34,10 @@
   ],
   "streamMiles": {
     "impaired": 142.6,
-    "fullAttainment": 117.2,
-    "notAssessed": 367.1,
+    "fullAttainment": 119.2,
+    "notAssessed": 371.4,
     "otherAssessed": 0.0,
-    "total": 626.9
+    "total": 633.2
   },
   "rankings": {
     "population": {
@@ -69,10 +69,10 @@
       "basis": "Ranked by impaired river miles, high to low."
     },
     "fullAttainmentRiverMiles": {
-      "rank": 41,
+      "rank": 39,
       "total": 95,
       "tieCount": 1,
-      "display": "41st of 95 Tennessee counties",
+      "display": "39th of 95 Tennessee counties",
       "basis": "Ranked by full-attainment river miles, high to low."
     },
     "notAssessedRiverMiles": {
@@ -113,7 +113,7 @@
     "waterServiceAreas": {
       "rank": 20,
       "total": 95,
-      "tieCount": 12,
+      "tieCount": 11,
       "display": "tied 20th of 95 Tennessee counties",
       "basis": "Ranked by overlapping public water service areas, high to low."
     },
@@ -136,12 +136,12 @@
     {
       "category": "Fully Supporting",
       "label": "Fully supporting",
-      "miles": 117.2
+      "miles": 119.2
     },
     {
       "category": "Not Assessed",
       "label": "Not assessed",
-      "miles": 367.1
+      "miles": 371.4
     },
     {
       "category": "Not Supporting",
@@ -154,7 +154,7 @@
       "miles": 27.1
     }
   ],
-  "impairmentSummary": "The local 2026 303(d) county summary shows about 142.6 river miles in not supporting categories, 117.2 fully supporting miles, and 367.1 not assessed miles in Franklin County.",
+  "impairmentSummary": "The local 2026 303(d) county summary shows about 142.6 river miles in not supporting categories, 119.2 fully supporting miles, and 371.4 not assessed miles in Franklin County.",
   "impairmentCauses": [
     {
       "cause": "impaired_biota",

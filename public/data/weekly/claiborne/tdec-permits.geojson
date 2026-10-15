@@ -1,0 +1,1643 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.64714599999996,
+          36.34221400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136744",
+        "PERMITTEE_NAME": "Heather Easterling and Matthew Gerety",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "380 Creekside Drive- Lot 801/802",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136744",
+        "LATITUDE": 36.342214,
+        "LONGITUDE": -83.64714599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.64035699999994,
+          36.577086000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138367",
+        "PERMITTEE_NAME": "Five Star Homes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "169 Dover Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138367",
+        "LATITUDE": 36.577086,
+        "LONGITUDE": -83.640357,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57862299999994,
+          36.378955000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.203",
+        "PERMITTEE_NAME": "Norris Lake Serenity, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "1201 Owen Payne Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.203",
+        "LATITUDE": 36.378955,
+        "LONGITUDE": -83.578623,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.79972199999997,
+          36.49368300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.068",
+        "PERMITTEE_NAME": "Claiborne County Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776643200000,
+        "EFFECTIVE_DATE": 1776643200000,
+        "EXPIRATION_DATE": 1902441600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Straight Creek Rd & Lone Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.068",
+        "LATITUDE": 36.493683,
+        "LONGITUDE": -83.799722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.62353799999994,
+          36.42804000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.177",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788480000000,
+        "EFFECTIVE_DATE": 1788480000000,
+        "EXPIRATION_DATE": 1946160000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "SR-33 Intersection at England Industrial Road and Lynch Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.177",
+        "LATITUDE": 36.428039999999996,
+        "LONGITUDE": -83.623538,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.56749999999994,
+          36.45880000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.098",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787097600000,
+        "EFFECTIVE_DATE": 1787097600000,
+        "EXPIRATION_DATE": 1944777600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "SR-345 intersection at SR-32 in Tazewell",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.098",
+        "LATITUDE": 36.458800000000004,
+        "LONGITUDE": -83.56750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.65209599999997,
+          36.56297900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138162",
+        "PERMITTEE_NAME": "Manish Naidu",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "139 Londonderry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138162",
+        "LATITUDE": 36.562979,
+        "LONGITUDE": -83.652096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58854399999996,
+          36.43345100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138284",
+        "PERMITTEE_NAME": "Daniel Martin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "849 Straight creek rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138284",
+        "LATITUDE": 36.433451,
+        "LONGITUDE": -83.588544,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.79972199999997,
+          36.49368300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.034",
+        "PERMITTEE_NAME": "Claiborne County Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770768000000,
+        "EFFECTIVE_DATE": 1770768000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Straight Creek Rd & Lone Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.034",
+        "LATITUDE": 36.493683,
+        "LONGITUDE": -83.799722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.79972199999997,
+          36.49368300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.035",
+        "PERMITTEE_NAME": "Claiborne County Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770768000000,
+        "EFFECTIVE_DATE": 1770768000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Straight Creek Rd & Lone Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.035",
+        "LATITUDE": 36.493683,
+        "LONGITUDE": -83.799722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136696",
+        "PERMITTEE_NAME": "Jenda Residence",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136696",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57333699999998,
+          36.36793700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137589",
+        "PERMITTEE_NAME": "Norris Lake Serenity, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Owen Payne Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137589",
+        "LATITUDE": 36.367937,
+        "LONGITUDE": -83.573337,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43955299999999,
+          36.441118000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.026",
+        "PERMITTEE_NAME": "Mark Reece",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1647993600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Bucklick Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.026",
+        "LATITUDE": 36.441117999999996,
+        "LONGITUDE": -83.43955299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58949199999995,
+          36.39778600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136687",
+        "PERMITTEE_NAME": "Ball Teresa Susan Trust; Carroll Rose, Roger Ball",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Perkey Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136687",
+        "LATITUDE": 36.397785999999996,
+        "LONGITUDE": -83.58949199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.71970999999996,
+          36.37984800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137018",
+        "PERMITTEE_NAME": "Aretas LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "251 Molly Hollow Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137018",
+        "LATITUDE": 36.379847999999996,
+        "LONGITUDE": -83.71970999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.93129999999996,
+          36.448500000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.306-25",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1767657600000,
+        "EFFECTIVE_DATE": 1767657600000,
+        "EXPIRATION_DATE": 1925337600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Widen SR-63 From 2-LN to 5-LN From Campbell County Line to Hall Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.306-25",
+        "LATITUDE": 36.4485,
+        "LONGITUDE": -83.93130000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41064099999994,
+          36.47399000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192435",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "SR-33",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192435",
+        "LATITUDE": 36.47399,
+        "LONGITUDE": -83.410641,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.66166699999997,
+          36.41611100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.092",
+        "PERMITTEE_NAME": "Claiborne County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778630400000,
+        "EFFECTIVE_DATE": 1778630400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "219 Barren Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.092",
+        "LATITUDE": 36.416111,
+        "LONGITUDE": -83.661667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.74453799999998,
+          36.53998100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.115",
+        "PERMITTEE_NAME": "Jason Lawson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "230 Lawson Acres",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.115",
+        "LATITUDE": 36.539981,
+        "LONGITUDE": -83.74453799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138076",
+        "PERMITTEE_NAME": "Richard L Dobec Jr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138076",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.62499999999994,
+          36.43390000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059669",
+        "PERMITTEE_NAME": "Lay - Z - Boy Logistics, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "1030 ENGLAND INDUSTRIAL ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059669",
+        "LATITUDE": 36.4339,
+        "LONGITUDE": -83.625,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138097",
+        "PERMITTEE_NAME": "Jeff Coomes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138097",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.56854199999998,
+          36.44842500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110492",
+        "PERMITTEE_NAME": "Timothy Wayne Evans, Sr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1675123200000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "110 Maples Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110492",
+        "LATITUDE": 36.448425,
+        "LONGITUDE": -83.568542,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57803699999994,
+          36.441707000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNP100019",
+        "PERMITTEE_NAME": "Powell Valley Electric Cooperative",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TNP",
+        "ISSUANCE_DATE": 1684886400000,
+        "EFFECTIVE_DATE": 1688169600000,
+        "EXPIRATION_DATE": 1809043200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "420 Straight Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNP100019",
+        "LATITUDE": 36.441707,
+        "LONGITUDE": -83.578037,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137780",
+        "PERMITTEE_NAME": "Nicole Palmateer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137780",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.90117999999995,
+          36.45577000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137807",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "General Carl W Stiner Highway SR-63",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137807",
+        "LATITUDE": 36.45577,
+        "LONGITUDE": -83.90118,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.82569999999998,
+          36.483600000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.132",
+        "PERMITTEE_NAME": "CMH Homes Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1727654400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Corner of Highway 63",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.132",
+        "LATITUDE": 36.4836,
+        "LONGITUDE": -83.8257,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137693",
+        "PERMITTEE_NAME": "Yvette & Jeffrey Seymour",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137693",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48669899999999,
+          36.40574900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.187",
+        "PERMITTEE_NAME": "Andrew J Harmon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1733184000000,
+        "EXPIRATION_DATE": 1775433600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Highway 25ES",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.187",
+        "LATITUDE": 36.405749,
+        "LONGITUDE": -83.486699,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41064099999994,
+          36.47399000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.099",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1759795200000,
+        "EXPIRATION_DATE": 1917475200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "SR-33",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.099",
+        "LATITUDE": 36.47399,
+        "LONGITUDE": -83.410641,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.83240199999995,
+          36.542610000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.039",
+        "PERMITTEE_NAME": "The Nature Conservancy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1715299200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "290",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.039",
+        "LATITUDE": 36.542609999999996,
+        "LONGITUDE": -83.832402,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57414199999994,
+          36.37286000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137374",
+        "PERMITTEE_NAME": "Norris Lake Serenity, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Owen Payne Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137374",
+        "LATITUDE": 36.372859999999996,
+        "LONGITUDE": -83.574142,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.64633499999997,
+          36.42710200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137563",
+        "PERMITTEE_NAME": "Mitzi Rutherford",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "372 Mountain Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137563",
+        "LATITUDE": 36.427102,
+        "LONGITUDE": -83.646335,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57489799999996,
+          36.39191100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137261",
+        "PERMITTEE_NAME": "Gary ESTES, Lone Cedar Campground, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Intersection of Lone Mountain Road and Jennings",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137261",
+        "LATITUDE": 36.391911,
+        "LONGITUDE": -83.57489799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137441",
+        "PERMITTEE_NAME": "Arthur F. Trahan, Jr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137441",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.61721399999999,
+          36.46206200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137621",
+        "PERMITTEE_NAME": "Todd Beeler",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Clouds Road Intersection of Baldwin Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137621",
+        "LATITUDE": 36.462061999999996,
+        "LONGITUDE": -83.61721399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.56076299999995,
+          36.463742000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB024791",
+        "PERMITTEE_NAME": "Claiborne County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757548800000,
+        "EFFECTIVE_DATE": 1757548800000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "316 Cedar Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB024791",
+        "LATITUDE": 36.463741999999996,
+        "LONGITUDE": -83.560763,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.54646599999995,
+          36.37728100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137477",
+        "PERMITTEE_NAME": "Norris Lake Serenity, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Owen Payne Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137477",
+        "LATITUDE": 36.377280999999996,
+        "LONGITUDE": -83.546466,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57414199999994,
+          36.37286000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137447",
+        "PERMITTEE_NAME": "Norris Lake Serenity, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Owen Payne Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137447",
+        "LATITUDE": 36.372859999999996,
+        "LONGITUDE": -83.574142,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67590999999999,
+          36.524261000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137180",
+        "PERMITTEE_NAME": "Benny Raby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "King Bend Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137180",
+        "LATITUDE": 36.524260999999996,
+        "LONGITUDE": -83.67591,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.64050999999995,
+          36.34183600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136536",
+        "PERMITTEE_NAME": "Shayne & Sarah Clinton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Creekside Drive Lot 803",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136536",
+        "LATITUDE": 36.341836,
+        "LONGITUDE": -83.64050999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137017",
+        "PERMITTEE_NAME": "Lone Mountain Shores",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137017",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89150699999999,
+          36.562973000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.027",
+        "PERMITTEE_NAME": "Claiborne Co. Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1649721600000,
+        "EFFECTIVE_DATE": 1649721600000,
+        "EXPIRATION_DATE": 1807401600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Valley Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.027",
+        "LATITUDE": 36.562973,
+        "LONGITUDE": -83.89150699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58849999999995,
+          36.38980000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050193",
+        "PERMITTEE_NAME": "Davis Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764892800000,
+        "EFFECTIVE_DATE": 1764892800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "2595 LONE MOUNTAIN ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050193",
+        "LATITUDE": 36.3898,
+        "LONGITUDE": -83.58850000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.59299999999996,
+          36.437400000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110127",
+        "PERMITTEE_NAME": "Ready Mix USA, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1669939200000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "600 Richie Lewis Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110127",
+        "LATITUDE": 36.437400000000004,
+        "LONGITUDE": -83.593,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.46997299999998,
+          36.41256400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054412",
+        "PERMITTEE_NAME": "Scrap Mart Metal Recycling, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1780272000000,
+        "EFFECTIVE_DATE": 1780272000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "299 UPPER CANEY VALLEY ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054412",
+        "LATITUDE": 36.412563999999996,
+        "LONGITUDE": -83.469973,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55684999999994,
+          36.465140000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053533",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "600 Cedar Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053533",
+        "LATITUDE": 36.46514,
+        "LONGITUDE": -83.55685,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.53833299999997,
+          36.481944000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056393",
+        "PERMITTEE_NAME": "SumiRiko Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755129600000,
+        "EFFECTIVE_DATE": 1755129600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "150 Hester Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056393",
+        "LATITUDE": 36.481944,
+        "LONGITUDE": -83.538333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58269999999999,
+          36.58370000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055062",
+        "PERMITTEE_NAME": "Volunteer Auto Parts",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "336 Indian Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055062",
+        "LATITUDE": 36.5837,
+        "LONGITUDE": -83.5827,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55361099999999,
+          36.46583300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053964",
+        "PERMITTEE_NAME": "B & F Hot Mix Asphalt, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "621 Cedar Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053964",
+        "LATITUDE": 36.465832999999996,
+        "LONGITUDE": -83.55361099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60879699999998,
+          36.431291000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054485",
+        "PERMITTEE_NAME": "Homesteader, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758672000000,
+        "EFFECTIVE_DATE": 1758672000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "511 Old Highway 33",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054485",
+        "LATITUDE": 36.431291,
+        "LONGITUDE": -83.608797,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60303999999996,
+          36.43739300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058007",
+        "PERMITTEE_NAME": "Giles Industries, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759449600000,
+        "EFFECTIVE_DATE": 1759449600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "405 South Broad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058007",
+        "LATITUDE": 36.437393,
+        "LONGITUDE": -83.60304,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58297999999996,
+          36.38291000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR133850",
+        "PERMITTEE_NAME": "NLP1, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "290 Owen Payne Lane (Site located along Marina Landing Road)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR133850",
+        "LATITUDE": 36.382909999999995,
+        "LONGITUDE": -83.58297999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.79446899999994,
+          36.507836000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TN0081507",
+        "PERMITTEE_NAME": "Hickory Corner Dairy",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CAFO-Individual",
+        "ISSUANCE_DATE": 1449792000000,
+        "EFFECTIVE_DATE": 1449792000000,
+        "EXPIRATION_DATE": 1546214400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "2160 Sharp Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TN0081507",
+        "LATITUDE": 36.507836,
+        "LONGITUDE": -83.79446899999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.53729999999996,
+          36.47960000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059194",
+        "PERMITTEE_NAME": "ABNER METALS, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "1298 Cedar Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059194",
+        "LATITUDE": 36.479600000000005,
+        "LONGITUDE": -83.5373,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR135089",
+        "PERMITTEE_NAME": "Michael Calvasina",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR135089",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.59168299999999,
+          36.547533000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.096",
+        "PERMITTEE_NAME": "Claiborne County Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1723161600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Vancel Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.096",
+        "LATITUDE": 36.547533,
+        "LONGITUDE": -83.591683,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60838899999999,
+          36.36834900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136102",
+        "PERMITTEE_NAME": "Mark Jonckheere",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "218 Settlers Point Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136102",
+        "LATITUDE": 36.368348999999995,
+        "LONGITUDE": -83.608389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.61721399999999,
+          36.46206200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136543",
+        "PERMITTEE_NAME": "Todd Beeler",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Clouds Road Intersection of Baldwin Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136543",
+        "LATITUDE": 36.462061999999996,
+        "LONGITUDE": -83.61721399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.93129999999996,
+          36.448500000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192107",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Widen SR-63 From 2-LN to 5-LN From Campbell County Line to Hall Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192107",
+        "LATITUDE": 36.4485,
+        "LONGITUDE": -83.93130000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136494",
+        "PERMITTEE_NAME": "Ronald Abbey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136494",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136523",
+        "PERMITTEE_NAME": "Claudio C. Biltoc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136523",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.60492599999998,
+          36.357763000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136500",
+        "PERMITTEE_NAME": "Elton E Jones Jr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Claiborne",
+        "SITE_LOCATION": "Mountain Shores rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136500",
+        "LATITUDE": 36.357763,
+        "LONGITUDE": -83.60492599999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

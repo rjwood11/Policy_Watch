@@ -1,0 +1,4503 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24014399999999,
+          35.17018100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059961",
+        "PERMITTEE_NAME": "SMC Recycling, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "95 OLEN LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059961",
+        "LATITUDE": 35.170181,
+        "LONGITUDE": -88.240144,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07915499999996,
+          35.13773000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.134",
+        "PERMITTEE_NAME": "Lisa Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1656028800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Rogers Creek at 2020 Rogers Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.134",
+        "LATITUDE": 35.13773,
+        "LONGITUDE": -88.079155,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30848999999995,
+          35.19696000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.155",
+        "PERMITTEE_NAME": "Carl Forsbach",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1790035200000,
+        "EFFECTIVE_DATE": 1789862400000,
+        "EXPIRATION_DATE": 1947542400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Tennessee River Mile 193.9R to 194.7R",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.155",
+        "LATITUDE": 35.19696,
+        "LONGITUDE": -88.30848999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25635599999998,
+          35.22360200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122870",
+        "PERMITTEE_NAME": "TIM HUNT",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "RIVERSIDE DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122870",
+        "LATITUDE": 35.223602,
+        "LONGITUDE": -88.256356,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24139399999996,
+          35.19728600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123210",
+        "PERMITTEE_NAME": "ABES Contracting, LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Florence Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123210",
+        "LATITUDE": 35.197286,
+        "LONGITUDE": -88.241394,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10839799999997,
+          35.38644800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123186",
+        "PERMITTEE_NAME": "Dewayne Barrom",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "535 Delta Queen Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123186",
+        "LATITUDE": 35.386448,
+        "LONGITUDE": -88.108398,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.36088999999998,
+          35.41631000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.021",
+        "PERMITTEE_NAME": "Hardin County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1777593600000,
+        "EFFECTIVE_DATE": 1777593600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Fellowship Road over Middleton Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.021",
+        "LATITUDE": 35.416309999999996,
+        "LONGITUDE": -88.36089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23096799999996,
+          35.259018000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123139",
+        "PERMITTEE_NAME": "Savannah Methodist Church Trustees",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Craven Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123139",
+        "LATITUDE": 35.259018,
+        "LONGITUDE": -88.23096799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24449999999996,
+          35.211659000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123174",
+        "PERMITTEE_NAME": "Chris Pierce",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "1075 Pickwick St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123174",
+        "LATITUDE": 35.211659,
+        "LONGITUDE": -88.2445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35938799999997,
+          35.31795500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.005",
+        "PERMITTEE_NAME": "Stephen Tankersley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778803200000,
+        "EFFECTIVE_DATE": 1778803200000,
+        "EXPIRATION_DATE": 1810252800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "440 Circle Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.005",
+        "LATITUDE": 35.317955,
+        "LONGITUDE": -88.359388,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06772499999994,
+          35.30285800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.006",
+        "PERMITTEE_NAME": "Charles Nesbitt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773187200000,
+        "EFFECTIVE_DATE": 1773187200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "2180 Piney Grove Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.006",
+        "LATITUDE": 35.302858,
+        "LONGITUDE": -88.067725,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10936299999997,
+          35.384385000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123180",
+        "PERMITTEE_NAME": "David Hill",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "515 Delta Queen Cv",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123180",
+        "LATITUDE": 35.384385,
+        "LONGITUDE": -88.109363,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28599999999994,
+          35.041300000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.103",
+        "PERMITTEE_NAME": "First Utility District of Hardin County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768348800000,
+        "EFFECTIVE_DATE": 1768348800000,
+        "EXPIRATION_DATE": 1799971200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "SR-57 near intersection with Campbell Old Mill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.103",
+        "LATITUDE": 35.0413,
+        "LONGITUDE": -88.286,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23139999999995,
+          35.29577000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.068",
+        "PERMITTEE_NAME": "David R. Robertson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1777939200000,
+        "EFFECTIVE_DATE": 1777939200000,
+        "EXPIRATION_DATE": 1935619200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6540 Coffee Landing Road, Tennessee River Mile 180.3-180.8L",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.068",
+        "LATITUDE": 35.29577,
+        "LONGITUDE": -88.23140000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25776999999994,
+          35.21977000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.137",
+        "PERMITTEE_NAME": "Savannah Marina",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "TN River at Town Branch Confluence south of Savannah",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.137",
+        "LATITUDE": 35.21977,
+        "LONGITUDE": -88.25777,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28599999999994,
+          35.041300000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.301",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772755200000,
+        "EFFECTIVE_DATE": 1772064000000,
+        "EXPIRATION_DATE": 1898208000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "SR-57 near intersection with Campbell Old Mill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.301",
+        "LATITUDE": 35.0413,
+        "LONGITUDE": -88.286,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01125999999994,
+          35.24789000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.063",
+        "PERMITTEE_NAME": "Patricia Coley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1652140800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Indian Creek, Olive Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.063",
+        "LATITUDE": 35.24789,
+        "LONGITUDE": -88.01126,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120076.05",
+        "PERMITTEE_NAME": "Opal Denise Rutledge and Barry Bickes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120076.05",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22477199999997,
+          35.237104000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122903",
+        "PERMITTEE_NAME": "JAMIE ODLE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "CENTRAL STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122903",
+        "LATITUDE": 35.237103999999995,
+        "LONGITUDE": -88.224772,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24139399999996,
+          35.19728600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123195",
+        "PERMITTEE_NAME": "Savannah Industrial Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Florence Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123195",
+        "LATITUDE": 35.197286,
+        "LONGITUDE": -88.241394,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35938799999997,
+          35.31795500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.002",
+        "PERMITTEE_NAME": "Stephen Tankersley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778803200000,
+        "EFFECTIVE_DATE": 1778803200000,
+        "EXPIRATION_DATE": 1810252800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "440 Circle Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.002",
+        "LATITUDE": 35.317955,
+        "LONGITUDE": -88.359388,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12116399999996,
+          35.305859000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.038",
+        "PERMITTEE_NAME": "Charles Ray Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1750032000000,
+        "EFFECTIVE_DATE": 1750032000000,
+        "EXPIRATION_DATE": 1781481600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Near Poplar Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.038",
+        "LATITUDE": 35.305859,
+        "LONGITUDE": -88.121164,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24101799999994,
+          35.208229000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123091",
+        "PERMITTEE_NAME": "STM Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "1130 Florence Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123091",
+        "LATITUDE": 35.208228999999996,
+        "LONGITUDE": -88.241018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23604999999998,
+          35.22860000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123007",
+        "PERMITTEE_NAME": "PARTS CENTER OF SAVANNAH, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "585 WAYNE ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123007",
+        "LATITUDE": 35.2286,
+        "LONGITUDE": -88.23604999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25551999999999,
+          35.22863000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.010",
+        "PERMITTEE_NAME": "Ray Shirley",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "70 Boat St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.010",
+        "LATITUDE": 35.228629999999995,
+        "LONGITUDE": -88.25551999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29739999999998,
+          35.119800000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.057",
+        "PERMITTEE_NAME": "Tim Hunt, Hunt Contracting-Design",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1763424000000,
+        "EFFECTIVE_DATE": 1763424000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hamburg Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.057",
+        "LATITUDE": 35.119800000000005,
+        "LONGITUDE": -88.29740000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16956699999997,
+          35.247029000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051961",
+        "PERMITTEE_NAME": "Delta Contracting Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761523200000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "12295 Highway 64 East",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051961",
+        "LATITUDE": 35.247029,
+        "LONGITUDE": -88.169567,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33549199999999,
+          35.19796500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050591",
+        "PERMITTEE_NAME": "Jeff Gambrell DBA Gambrell Hickory Mill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1692576000000,
+        "EFFECTIVE_DATE": 1692576000000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "180 Feathers Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050591",
+        "LATITUDE": 35.197964999999996,
+        "LONGITUDE": -88.335492,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28599999999994,
+          35.041300000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192430",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "SR-57 near intersection with Campbell Old Mill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192430",
+        "LATITUDE": 35.0413,
+        "LONGITUDE": -88.286,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07081799999997,
+          35.106573000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.015",
+        "PERMITTEE_NAME": "Michael Martin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776902400000,
+        "EFFECTIVE_DATE": 1776902400000,
+        "EXPIRATION_DATE": 1808697600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Big Ivy Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.015",
+        "LATITUDE": 35.106573,
+        "LONGITUDE": -88.070818,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27378199999998,
+          35.04258900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.132-26",
+        "PERMITTEE_NAME": "Packaging Corporation of America (PCA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789344000000,
+        "EFFECTIVE_DATE": 1788998400000,
+        "EXPIRATION_DATE": 1946678400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6715 Highway 57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.132-26",
+        "LATITUDE": 35.042589,
+        "LONGITUDE": -88.273782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23849799999994,
+          35.19583200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123107",
+        "PERMITTEE_NAME": "Hardin County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "1950 Florence Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123107",
+        "LATITUDE": 35.195831999999996,
+        "LONGITUDE": -88.23849799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22443999999996,
+          35.085830000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120889.03",
+        "PERMITTEE_NAME": "David Woods",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Northshore of Pickwick Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120889.03",
+        "LATITUDE": 35.08583,
+        "LONGITUDE": -88.22444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28599999999994,
+          35.041300000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.144",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1756425600000,
+        "EFFECTIVE_DATE": 1776988800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "SR-57 near intersection with Campbell Old Mill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.144",
+        "LATITUDE": 35.0413,
+        "LONGITUDE": -88.286,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31355699999995,
+          35.03458200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.007",
+        "PERMITTEE_NAME": "David Goheen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776124800000,
+        "EFFECTIVE_DATE": 1776124800000,
+        "EXPIRATION_DATE": 1807833600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 57 and Robinson Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.007",
+        "LATITUDE": 35.034582,
+        "LONGITUDE": -88.313557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22653699999995,
+          35.38675500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.004",
+        "PERMITTEE_NAME": "Larry Finley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1769472000000,
+        "EFFECTIVE_DATE": 1769472000000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "1105 Allen Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.004",
+        "LATITUDE": 35.386755,
+        "LONGITUDE": -88.226537,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27378199999998,
+          35.04258900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123132",
+        "PERMITTEE_NAME": "Packaging Corporation of America",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6715 Highway 57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123132",
+        "LATITUDE": 35.042589,
+        "LONGITUDE": -88.273782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01902299999995,
+          35.32041700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.012",
+        "PERMITTEE_NAME": "Joshua Linville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1775606400000,
+        "EFFECTIVE_DATE": 1775606400000,
+        "EXPIRATION_DATE": 1807228800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "985 Olive Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.012",
+        "LATITUDE": 35.320417,
+        "LONGITUDE": -88.01902299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05166699999995,
+          35.04000000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123125",
+        "PERMITTEE_NAME": "Susan Cox Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "TN HWY 69s",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123125",
+        "LATITUDE": 35.04,
+        "LONGITUDE": -88.051667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22836899999999,
+          35.03055600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123140",
+        "PERMITTEE_NAME": "Limestone Water Utility Operating Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Holiday Hills Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123140",
+        "LATITUDE": 35.030556,
+        "LONGITUDE": -88.228369,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24821499999996,
+          34.99866000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122442",
+        "PERMITTEE_NAME": "Marvin F. Carter, III",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Chickadee Road and Christy Dr., Counce, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122442",
+        "LATITUDE": 34.99866,
+        "LONGITUDE": -88.248215,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07359999999994,
+          35.39060000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120362",
+        "PERMITTEE_NAME": "Moondog Ridge Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "80 Ruble Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120362",
+        "LATITUDE": 35.3906,
+        "LONGITUDE": -88.0736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12899299999998,
+          35.323590000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.040",
+        "PERMITTEE_NAME": "Timothy Hardin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1750032000000,
+        "EFFECTIVE_DATE": 1750032000000,
+        "EXPIRATION_DATE": 1781568000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hardin",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.040",
+        "LATITUDE": 35.323589999999996,
+        "LONGITUDE": -88.128993,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00331799999998,
+          35.086802000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.168",
+        "PERMITTEE_NAME": "Joyce Williams",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1690416000000,
+        "EFFECTIVE_DATE": 1690416000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Left Fork Whites Creek 7055 Cherry Chapel Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.168",
+        "LATITUDE": 35.086802,
+        "LONGITUDE": -88.003318,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22567599999996,
+          35.01188100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123063",
+        "PERMITTEE_NAME": "DH LAND SOLUTIONS COMPANY LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "945 YMCA LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123063",
+        "LATITUDE": 35.011880999999995,
+        "LONGITUDE": -88.22567599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24614099999997,
+          35.218409000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059034",
+        "PERMITTEE_NAME": "Willoughby, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767744000000,
+        "EFFECTIVE_DATE": 1767744000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "405 PICKWICK ROAD P. O. BOX 149",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059034",
+        "LATITUDE": 35.218409,
+        "LONGITUDE": -88.246141,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20241999999996,
+          35.37230000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.075",
+        "PERMITTEE_NAME": "John Ratcliff",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1793750400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "on LDB of TN River, Kentucky Reservoir within Davy's Subdivision off Beard Lane, lots 18, 19 and 20.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.075",
+        "LATITUDE": 35.3723,
+        "LONGITUDE": -88.20241999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05890399999998,
+          35.09167700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.048",
+        "PERMITTEE_NAME": "Joseph Sydorowicz",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1755561600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3990 Cherry Chapel Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.048",
+        "LATITUDE": 35.091677,
+        "LONGITUDE": -88.058904,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35574799999995,
+          35.320805000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123094",
+        "PERMITTEE_NAME": "Jon Hughes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "30725 Hwy 69",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123094",
+        "LATITUDE": 35.320805,
+        "LONGITUDE": -88.35574799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13194399999998,
+          35.32667500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.058",
+        "PERMITTEE_NAME": "Patricia Stricklin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752537600000,
+        "EFFECTIVE_DATE": 1752537600000,
+        "EXPIRATION_DATE": 1784073600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "2230 Smoky Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.058",
+        "LATITUDE": 35.326675,
+        "LONGITUDE": -88.13194399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120076.07",
+        "PERMITTEE_NAME": "Michael Dale Maddox",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120076.07",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22872299999995,
+          35.16388200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050224",
+        "PERMITTEE_NAME": "The Praxis Companies, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "435 Industrial Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050224",
+        "LATITUDE": 35.163882,
+        "LONGITUDE": -88.228723,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24388999999996,
+          35.21342800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122954",
+        "PERMITTEE_NAME": "Michelle Burns",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "975 Pickwick Road South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122954",
+        "LATITUDE": 35.213428,
+        "LONGITUDE": -88.24389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59321999999997,
+          35.052310000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122962",
+        "PERMITTEE_NAME": "Paul Amos Leinbach",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "2133 Beulah Gean Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122962",
+        "LATITUDE": 35.05231,
+        "LONGITUDE": -87.59322,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59400999999997,
+          35.053720000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122963",
+        "PERMITTEE_NAME": "Daryl Leinbach",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "1720 Beulah Gean Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122963",
+        "LATITUDE": 35.05372,
+        "LONGITUDE": -87.59401,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25635599999998,
+          35.22360200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122758",
+        "PERMITTEE_NAME": "Tim Hunt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "RIVERSIDE DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122758",
+        "LATITUDE": 35.223602,
+        "LONGITUDE": -88.256356,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31878999999998,
+          35.02684000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121009",
+        "PERMITTEE_NAME": "Tri-State Gun and Archery Club",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Property is between Robertson Road and Damon Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121009",
+        "LATITUDE": 35.02684,
+        "LONGITUDE": -88.31878999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28311399999996,
+          35.04441600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122907",
+        "PERMITTEE_NAME": "Packaging Corporation of America",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "290 PCA Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122907",
+        "LATITUDE": 35.044416,
+        "LONGITUDE": -88.283114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31924299999997,
+          35.22029300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122913",
+        "PERMITTEE_NAME": "TN Board of Regents",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3070 US-64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122913",
+        "LATITUDE": 35.220293,
+        "LONGITUDE": -88.319243,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120076.06",
+        "PERMITTEE_NAME": "Shan Parker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120076.06",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19458399999996,
+          35.22658400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123043",
+        "PERMITTEE_NAME": "Jon Roach",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "10300 Highway 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123043",
+        "LATITUDE": 35.226583999999995,
+        "LONGITUDE": -88.19458399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19444399999998,
+          35.26472200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120977.01",
+        "PERMITTEE_NAME": "Sabourin Properties, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Breckenridge Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120977.01",
+        "LATITUDE": 35.264722,
+        "LONGITUDE": -88.19444399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21928299999996,
+          35.223757000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122798",
+        "PERMITTEE_NAME": "BENNY NEILL",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "J.I. BELL LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122798",
+        "LATITUDE": 35.223757,
+        "LONGITUDE": -88.21928299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23462999999998,
+          35.27904300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122902",
+        "PERMITTEE_NAME": "GREG LITTLEFIELD",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "HAMILTON ROCK LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122902",
+        "LATITUDE": 35.279043,
+        "LONGITUDE": -88.23463,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27378199999998,
+          35.04258900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122906",
+        "PERMITTEE_NAME": "Packaging Corporation of America",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6715 Highway 57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122906",
+        "LATITUDE": 35.042589,
+        "LONGITUDE": -88.273782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21969999999999,
+          35.218900000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122811",
+        "PERMITTEE_NAME": "Temple Worship",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Warrior Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122811",
+        "LATITUDE": 35.218900000000005,
+        "LONGITUDE": -88.2197,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25374999999997,
+          34.99855000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122864",
+        "PERMITTEE_NAME": "Margaret Bradley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Yellow Creek Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122864",
+        "LATITUDE": 34.99855,
+        "LONGITUDE": -88.25375,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25445599999995,
+          35.227337000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122898",
+        "PERMITTEE_NAME": "Tim Hunt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Riverside Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122898",
+        "LATITUDE": 35.227337,
+        "LONGITUDE": -88.25445599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01125999999994,
+          35.24789000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.130",
+        "PERMITTEE_NAME": "Elton Coley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1684972800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Indian Creek, Olive Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.130",
+        "LATITUDE": 35.24789,
+        "LONGITUDE": -88.01126,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23989999999998,
+          35.20580000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122703",
+        "PERMITTEE_NAME": "Brent Harmon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "310 Eureka St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122703",
+        "LATITUDE": 35.2058,
+        "LONGITUDE": -88.2399,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30463199999997,
+          35.09720100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.072",
+        "PERMITTEE_NAME": "TC Energy - Columbia Gulf Transmission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1656028800000,
+        "EFFECTIVE_DATE": 1656201600000,
+        "EXPIRATION_DATE": 1813881600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Corinth to TN River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.072",
+        "LATITUDE": 35.097201,
+        "LONGITUDE": -88.304632,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16659999999996,
+          35.212500000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.309",
+        "PERMITTEE_NAME": "John Glen Robinson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1638835200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "415 Double Springs Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.309",
+        "LATITUDE": 35.2125,
+        "LONGITUDE": -88.1666,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16659999999996,
+          35.212500000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.242",
+        "PERMITTEE_NAME": "John Glen Robinson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1632096000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "415 Double Springs Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.242",
+        "LATITUDE": 35.2125,
+        "LONGITUDE": -88.1666,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23106899999999,
+          35.20519900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122565",
+        "PERMITTEE_NAME": "Tim Hunt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Along Airways Blvd at the intersection of Stout Street, Savannah, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122565",
+        "LATITUDE": 35.205199,
+        "LONGITUDE": -88.23106899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27378199999998,
+          35.04258900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050417",
+        "PERMITTEE_NAME": "Packaging Corporation of America",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6715 Highway 57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050417",
+        "LATITUDE": 35.042589,
+        "LONGITUDE": -88.273782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24386199999998,
+          35.17964900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110181",
+        "PERMITTEE_NAME": "River City Concrete, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1708041600000,
+        "EFFECTIVE_DATE": 1708041600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "9160 HIGHWAY 128 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110181",
+        "LATITUDE": 35.179649,
+        "LONGITUDE": -88.243862,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21264999999994,
+          35.16591500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053207",
+        "PERMITTEE_NAME": "CMH Manufacturing, Inc. dba Clayton Savannah",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "2600 Highway 226",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053207",
+        "LATITUDE": 35.165915,
+        "LONGITUDE": -88.21265,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23279999999994,
+          35.16459700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056575",
+        "PERMITTEE_NAME": "Savannah Food Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1751846400000,
+        "EFFECTIVE_DATE": 1751846400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "575 INDUSTRIAL RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056575",
+        "LATITUDE": 35.164597,
+        "LONGITUDE": -88.2328,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20280999999994,
+          35.203500000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056497",
+        "PERMITTEE_NAME": "Road Tested Parts, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759834198000,
+        "EFFECTIVE_DATE": 1759834198000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "5350 Highway 226",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056497",
+        "LATITUDE": 35.2035,
+        "LONGITUDE": -88.20281,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19458399999996,
+          35.22658400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054368",
+        "PERMITTEE_NAME": "Roach Sawmill & Lumber Co",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "10300 Highway 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054368",
+        "LATITUDE": 35.226583999999995,
+        "LONGITUDE": -88.19458399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29611099999994,
+          35.09444400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120607",
+        "PERMITTEE_NAME": "Shiloh Shores POA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Shiloh Shores Development",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120607",
+        "LATITUDE": 35.094443999999996,
+        "LONGITUDE": -88.296111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19444399999998,
+          35.26472200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120977",
+        "PERMITTEE_NAME": "Sabourin Properties, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Breckenridge Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120977",
+        "LATITUDE": 35.264722,
+        "LONGITUDE": -88.19444399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18111099999999,
+          35.30222200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120664",
+        "PERMITTEE_NAME": "Butch Northcutt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Old SR-128",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120664",
+        "LATITUDE": 35.302222,
+        "LONGITUDE": -88.181111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24415999999997,
+          35.015270000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120700",
+        "PERMITTEE_NAME": "Noel and Kelly Martin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Red Sulfur Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120700",
+        "LATITUDE": 35.01527,
+        "LONGITUDE": -88.24416,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32443999999998,
+          35.178360000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120227",
+        "PERMITTEE_NAME": "Maxie Jones",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 22 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120227",
+        "LATITUDE": 35.17836,
+        "LONGITUDE": -88.32444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20159999999998,
+          35.131500000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120369",
+        "PERMITTEE_NAME": "Mr. Ray Austin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Highway 69 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120369",
+        "LATITUDE": 35.1315,
+        "LONGITUDE": -88.2016,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99999999999994,
+          35.27900000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120418",
+        "PERMITTEE_NAME": "Tennessee Excavating Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 64 @ Bigbie Lane and Panther Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120418",
+        "LATITUDE": 35.279,
+        "LONGITUDE": -88,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24799999999999,
+          35.23300000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120129",
+        "PERMITTEE_NAME": "Jack Reynolds",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Oak Street and Church Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120129",
+        "LATITUDE": 35.233000000000004,
+        "LONGITUDE": -88.248,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24138899999997,
+          35.20916600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120147",
+        "PERMITTEE_NAME": "Regency Development Associates",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "On Florence St. / SR-69 - 600ft. S. of Florence / Ranch intersection",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120147",
+        "LATITUDE": 35.209165999999996,
+        "LONGITUDE": -88.241389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29539999999997,
+          35.22350000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120176",
+        "PERMITTEE_NAME": "Carter Timber and Land, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Catfish Drive extended",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120176",
+        "LATITUDE": 35.2235,
+        "LONGITUDE": -88.2954,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.25500000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120074",
+        "PERMITTEE_NAME": "The D.J. Hughes Farm LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Margueritte Cove off Oak Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120074",
+        "LATITUDE": 35.255,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120076",
+        "PERMITTEE_NAME": "Pickwick Preserve, LLC\r\nPhillip Jackson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120076",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08669999999995,
+          35.020943000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120206",
+        "PERMITTEE_NAME": "Roger Hunt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "150 McKelvey Hollow Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120206",
+        "LATITUDE": 35.020942999999995,
+        "LONGITUDE": -88.08670000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25949999999995,
+          35.09420000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120861",
+        "PERMITTEE_NAME": "Johnny - Bill Bellis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "500 Wharf Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120861",
+        "LATITUDE": 35.0942,
+        "LONGITUDE": -88.2595,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.34239999999994,
+          35.21010000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120786",
+        "PERMITTEE_NAME": "J. Gilbert Parrish, Jr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "W. side of Seay Rd. off Hwy. 64 (just north of Henson Rd.)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120786",
+        "LATITUDE": 35.210100000000004,
+        "LONGITUDE": -88.3424,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28139999999996,
+          35.33010000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120706",
+        "PERMITTEE_NAME": "Tennessee Stream Mitigation Program",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Milledgeville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120706",
+        "LATITUDE": 35.3301,
+        "LONGITUDE": -88.2814,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21305599999994,
+          35.17555600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120948",
+        "PERMITTEE_NAME": "Dave Boroughs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "SR-226 (Airport Road)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120948",
+        "LATITUDE": 35.175556,
+        "LONGITUDE": -88.213056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22443999999996,
+          35.085830000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120889",
+        "PERMITTEE_NAME": "Newport Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Northshore of Pickwick Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120889",
+        "LATITUDE": 35.08583,
+        "LONGITUDE": -88.22444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23609999999996,
+          35.26140000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120926",
+        "PERMITTEE_NAME": "Jeff Wilkes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Fullen Lane & Grand Oaks Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120926",
+        "LATITUDE": 35.2614,
+        "LONGITUDE": -88.23610000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23359999999997,
+          35.27110000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120892",
+        "PERMITTEE_NAME": "Billy Hamilton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Carl Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120892",
+        "LATITUDE": 35.271100000000004,
+        "LONGITUDE": -88.23360000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23210999999998,
+          35.080944000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120843",
+        "PERMITTEE_NAME": "Ron E. Harmon & Robert M. Wood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Northshore",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120843",
+        "LATITUDE": 35.080943999999995,
+        "LONGITUDE": -88.23210999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16950999999995,
+          35.09895000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120909",
+        "PERMITTEE_NAME": "Bruton Branch Baptist Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Southeast Corner of Pyburn and Bruton Branch Road Crossing",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120909",
+        "LATITUDE": 35.098949999999995,
+        "LONGITUDE": -88.16951,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17809999999997,
+          35.304700000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120943",
+        "PERMITTEE_NAME": "Jim Patterson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Clifton Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120943",
+        "LATITUDE": 35.304700000000004,
+        "LONGITUDE": -88.1781,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23940999999996,
+          35.07436000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120910",
+        "PERMITTEE_NAME": "Newport Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Northshore Development, Pickwick Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120910",
+        "LATITUDE": 35.07436,
+        "LONGITUDE": -88.23940999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121045",
+        "PERMITTEE_NAME": "David Nichols",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121045",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29366299999998,
+          35.013138000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058104",
+        "PERMITTEE_NAME": "Packaging Corporation of America",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762128000000,
+        "EFFECTIVE_DATE": 1762128000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6715 HIGHWAY 57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058104",
+        "LATITUDE": 35.013138,
+        "LONGITUDE": -88.293663,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21939999999995,
+          35.218900000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121103",
+        "PERMITTEE_NAME": "Hardin County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "1450 EAST MAIN STREET - Minor Road Crossing at East Main St over UNT to Horse Creek, for new elementary school facility",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121103",
+        "LATITUDE": 35.218900000000005,
+        "LONGITUDE": -88.21940000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120982",
+        "PERMITTEE_NAME": "Phillip Jackson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120982",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120981",
+        "PERMITTEE_NAME": "Newport Land Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120981",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20988899999998,
+          35.06491700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121063",
+        "PERMITTEE_NAME": "Wilton D. Hill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "620 Round House Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121063",
+        "LATITUDE": 35.064917,
+        "LONGITUDE": -88.20988899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21603999999996,
+          35.14849000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058329",
+        "PERMITTEE_NAME": "Jimmy Rose Sawmill, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "195 The Lord's Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058329",
+        "LATITUDE": 35.148489999999995,
+        "LONGITUDE": -88.21603999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121161",
+        "PERMITTEE_NAME": "Richard Murphy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121161",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05827099999999,
+          35.178247000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058399",
+        "PERMITTEE_NAME": "William G. Moon DBA Harbert Hills Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1785110400000,
+        "EFFECTIVE_DATE": 1785110400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "25 Moon Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058399",
+        "LATITUDE": 35.178247,
+        "LONGITUDE": -88.05827099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121178",
+        "PERMITTEE_NAME": "Lavonne Black",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121178",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01510699999994,
+          35.17094100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121177",
+        "PERMITTEE_NAME": "ISR Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hardin County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121177",
+        "LATITUDE": 35.170941,
+        "LONGITUDE": -88.015107,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26700999999997,
+          35.251270000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121306",
+        "PERMITTEE_NAME": "Maxie Jones, Tennessee River Investors",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "East side of Coffee Landing Rd, north of Hwy 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121306",
+        "LATITUDE": 35.25127,
+        "LONGITUDE": -88.26701,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28962499999994,
+          35.03275600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058518",
+        "PERMITTEE_NAME": "Stella-Jones Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755216000000,
+        "EFFECTIVE_DATE": 1755216000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "650 LTV LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058518",
+        "LATITUDE": 35.032756,
+        "LONGITUDE": -88.289625,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06281999999999,
+          35.21053000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121247",
+        "PERMITTEE_NAME": "Rural Life Foundation Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3575 Lonesome Pine Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121247",
+        "LATITUDE": 35.21053,
+        "LONGITUDE": -88.06282,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22729599999997,
+          35.175580000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121336",
+        "PERMITTEE_NAME": "ISR Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "18970 Highway 69 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121336",
+        "LATITUDE": 35.17558,
+        "LONGITUDE": -88.227296,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21583299999998,
+          35.17027800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121463",
+        "PERMITTEE_NAME": "Savannah-Hardin County Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "100 Airport Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121463",
+        "LATITUDE": 35.170277999999996,
+        "LONGITUDE": -88.21583299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27499999999998,
+          35.043600000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121401",
+        "PERMITTEE_NAME": "Hardin County, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6715 Highway 57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121401",
+        "LATITUDE": 35.043600000000005,
+        "LONGITUDE": -88.275,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21538999999996,
+          35.03520000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121427",
+        "PERMITTEE_NAME": "Robert Jones",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Windwood Point just past Blue Herron; near 11th green at Shiloh Falls",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121427",
+        "LATITUDE": 35.0352,
+        "LONGITUDE": -88.21539,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33066999999994,
+          35.22157000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058845",
+        "PERMITTEE_NAME": "Rose Sawmill, Inc. - Crump",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "2490 Highway 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058845",
+        "LATITUDE": 35.22157,
+        "LONGITUDE": -88.33067,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21100999999999,
+          35.01253000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121642",
+        "PERMITTEE_NAME": "Jeff Edwards",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "390 Port Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121642",
+        "LATITUDE": 35.01253,
+        "LONGITUDE": -88.21101,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23592299999996,
+          35.23063200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058789",
+        "PERMITTEE_NAME": "Durham School Services, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "88 HARLEM STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058789",
+        "LATITUDE": 35.230632,
+        "LONGITUDE": -88.235923,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20009999999996,
+          35.10170000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121559",
+        "PERMITTEE_NAME": "PRESERVE PROPERTIES, LP, J.D. Clausel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3800 Pyburn Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121559",
+        "LATITUDE": 35.1017,
+        "LONGITUDE": -88.2001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31547999999998,
+          35.03788000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121612",
+        "PERMITTEE_NAME": "Ugly Creek Investments LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Robinson Road, Hardin County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121612",
+        "LATITUDE": 35.03788,
+        "LONGITUDE": -88.31548,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20009999999996,
+          35.10170000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120297.02",
+        "PERMITTEE_NAME": "Gilbert Parrish",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3800 Pyburn Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120297.02",
+        "LATITUDE": 35.1017,
+        "LONGITUDE": -88.2001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20009999999996,
+          35.10170000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120297.01",
+        "PERMITTEE_NAME": "Danny H. DeLoach",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3800 Pyburn Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120297.01",
+        "LATITUDE": 35.1017,
+        "LONGITUDE": -88.2001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23432599999995,
+          35.04798400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121759",
+        "PERMITTEE_NAME": "George Ross",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hardin Dock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121759",
+        "LATITUDE": 35.047984,
+        "LONGITUDE": -88.234326,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24416699999995,
+          35.128611000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "367001",
+        "PERMITTEE_NAME": "Larry Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1781654400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1877126400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "24nw King Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:367001",
+        "LATITUDE": 35.128611,
+        "LONGITUDE": -88.24416699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24027799999999,
+          34.99861100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "367003",
+        "PERMITTEE_NAME": "Spring Lake Condominiums, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1781654400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1844467200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "25nw Trib-tennessee River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:367003",
+        "LATITUDE": 34.998611,
+        "LONGITUDE": -88.24027799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24583299999995,
+          35.02916700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "367007",
+        "PERMITTEE_NAME": "Gooch/Jackson L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1658361600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1689292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "24sw Trib-houston Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:367007",
+        "LATITUDE": 35.029167,
+        "LONGITUDE": -88.24583299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22443999999996,
+          35.085830000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120889.02",
+        "PERMITTEE_NAME": "John B. Bondurant",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Northshore of Pickwick Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120889.02",
+        "LATITUDE": 35.08583,
+        "LONGITUDE": -88.22444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25926799999996,
+          35.094385000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121817",
+        "PERMITTEE_NAME": "Delta Contracting Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "SR-128 from SR-57 to SR-226 (Airport Rd)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121817",
+        "LATITUDE": 35.094384999999996,
+        "LONGITUDE": -88.25926799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24552999999997,
+          35.17893000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121877",
+        "PERMITTEE_NAME": "4Homestead Farm & Lawn, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "9095 Hwy 128",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121877",
+        "LATITUDE": 35.17893,
+        "LONGITUDE": -88.24553,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19769999999994,
+          35.197200000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121878",
+        "PERMITTEE_NAME": "Rayford Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Olivet Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121878",
+        "LATITUDE": 35.1972,
+        "LONGITUDE": -88.1977,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06994599999996,
+          35.409939000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.260",
+        "PERMITTEE_NAME": "Tennessee Wildlife Federation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1515715200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1673395200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Intersection of Senator Cobb Road and Colonel James Hardin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.260",
+        "LATITUDE": 35.409939,
+        "LONGITUDE": -88.069946,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01125999999994,
+          35.24789000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.311",
+        "PERMITTEE_NAME": "Elton Coley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1496966400000,
+        "EFFECTIVE_DATE": 1496966400000,
+        "EXPIRATION_DATE": 1654646400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Indian Creek, Olive Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.311",
+        "LATITUDE": 35.24789,
+        "LONGITUDE": -88.01126,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35699999999997,
+          35.230200000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121956",
+        "PERMITTEE_NAME": "Chris Pierce",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "255 Old Morris Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121956",
+        "LATITUDE": 35.2302,
+        "LONGITUDE": -88.357,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37275999999997,
+          35.03333300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.140",
+        "PERMITTEE_NAME": "Columbia Gulf Transmission, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1502150400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1659830400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "1010 Kendrick Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.140",
+        "LATITUDE": 35.033333,
+        "LONGITUDE": -88.37276,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01125999999994,
+          35.24789000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.315",
+        "PERMITTEE_NAME": "Elton R. Coley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1518652800000,
+        "EFFECTIVE_DATE": 1518652800000,
+        "EXPIRATION_DATE": 1676419200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Indian Creek, Olive Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.315",
+        "LATITUDE": 35.24789,
+        "LONGITUDE": -88.01126,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23139999999995,
+          35.29577000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.107",
+        "PERMITTEE_NAME": "David R. Robertson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1616544000000,
+        "EFFECTIVE_DATE": 1605225600000,
+        "EXPIRATION_DATE": 1762905600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6540 Coffee Landing Road, Tennessee River Mile 180.3-180.8L",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.107",
+        "LATITUDE": 35.29577,
+        "LONGITUDE": -88.23140000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23499999999996,
+          35.24120000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122026",
+        "PERMITTEE_NAME": "City of Savannah",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "751 Cravens Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122026",
+        "LATITUDE": 35.2412,
+        "LONGITUDE": -88.235,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32847999999996,
+          35.21699000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059549",
+        "PERMITTEE_NAME": "Shaw Trucking, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1774569600000,
+        "EFFECTIVE_DATE": 1774569600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "2630 HWY 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059549",
+        "LATITUDE": 35.216989999999996,
+        "LONGITUDE": -88.32848,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20009999999996,
+          35.10170000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121559.03",
+        "PERMITTEE_NAME": "Edward Bradley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3800 Pyburn Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121559.03",
+        "LATITUDE": 35.1017,
+        "LONGITUDE": -88.2001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21179999999998,
+          35.227100000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122188",
+        "PERMITTEE_NAME": "Savannah Creekside LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Wayne Road, US Hwy 64",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122188",
+        "LATITUDE": 35.2271,
+        "LONGITUDE": -88.21180000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23432599999995,
+          35.04798400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122098",
+        "PERMITTEE_NAME": "Robert Wood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hardin Dock Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122098",
+        "LATITUDE": 35.047984,
+        "LONGITUDE": -88.234326,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25926799999996,
+          35.094385000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.012",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1553126400000,
+        "EFFECTIVE_DATE": 1574035200000,
+        "EXPIRATION_DATE": 1710979200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "SR-128 from SR-57 to SR-226 (Airport Rd)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.012",
+        "LATITUDE": 35.094384999999996,
+        "LONGITUDE": -88.25926799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26626899999997,
+          35.34111500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.157",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1536710400000,
+        "EFFECTIVE_DATE": 1536710400000,
+        "EXPIRATION_DATE": 1694476800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "TWRA WMA on Sulphur Wells Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.157",
+        "LATITUDE": 35.341114999999995,
+        "LONGITUDE": -88.266269,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20009999999996,
+          35.10170000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120297.03",
+        "PERMITTEE_NAME": "Jason Landrum",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3800 Pyburn Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120297.03",
+        "LATITUDE": 35.1017,
+        "LONGITUDE": -88.2001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27449699999994,
+          35.25721200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.193",
+        "PERMITTEE_NAME": "Hardin Landing LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1576108800000,
+        "EFFECTIVE_DATE": 1576108800000,
+        "EXPIRATION_DATE": 1701993600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Tennessee River mile 187.2 left descending bank",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.193",
+        "LATITUDE": 35.257211999999996,
+        "LONGITUDE": -88.274497,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22199999999998,
+          35.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120076.04",
+        "PERMITTEE_NAME": "Kenneth & Joyce McKenzie",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 128 @ Northshore Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120076.04",
+        "LATITUDE": 35.098,
+        "LONGITUDE": -88.22200000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21583299999998,
+          35.17027800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122327",
+        "PERMITTEE_NAME": "Savannah-Hardin County Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "100 Airport Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122327",
+        "LATITUDE": 35.170277999999996,
+        "LONGITUDE": -88.21583299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04759799999994,
+          35.40601700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.234",
+        "PERMITTEE_NAME": "Benny Neill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1602028800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Kentucky Lake near Clifton, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.234",
+        "LATITUDE": 35.406017,
+        "LONGITUDE": -88.047598,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06281999999999,
+          35.21053000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122397",
+        "PERMITTEE_NAME": "Rural Life Foundation Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "3575 Lonesome Pine Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122397",
+        "LATITUDE": 35.21053,
+        "LONGITUDE": -88.06282,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19664999999998,
+          35.30134000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122324",
+        "PERMITTEE_NAME": "Sunbelt Land Management",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Cravens Road - Confluence of Horse Creek and Tennessee River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122324",
+        "LATITUDE": 35.301339999999996,
+        "LONGITUDE": -88.19664999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01125999999994,
+          35.24789000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.266",
+        "PERMITTEE_NAME": "Elton R. Coley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1582502400000,
+        "EFFECTIVE_DATE": 1582329600000,
+        "EXPIRATION_DATE": 1740096000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Indian Creek, Olive Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.266",
+        "LATITUDE": 35.24789,
+        "LONGITUDE": -88.01126,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24659999999994,
+          35.17480000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122534",
+        "PERMITTEE_NAME": "Jeff Wilkes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Highway 128",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122534",
+        "LATITUDE": 35.174800000000005,
+        "LONGITUDE": -88.2466,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22429999999997,
+          35.19750000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.179",
+        "PERMITTEE_NAME": "Ryan Austin, Hillbilly Turf Sod, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1626134400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Horse Creek at 381 Freewill Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.179",
+        "LATITUDE": 35.197500000000005,
+        "LONGITUDE": -88.2243,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12839999999994,
+          35.18360000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.071",
+        "PERMITTEE_NAME": "Robert Jerrolds",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1619136000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "located on Turkey Creek, east of intersection Hwy 203 and Old Town-Bottle Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.071",
+        "LATITUDE": 35.1836,
+        "LONGITUDE": -88.1284,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98829999999998,
+          35.131800000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.089",
+        "PERMITTEE_NAME": "Tommy Austin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1619136000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Highway 203 Just West of Hardin/Wayne County Line",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.089",
+        "LATITUDE": 35.1318,
+        "LONGITUDE": -87.98830000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12806999999998,
+          35.18871000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122509",
+        "PERMITTEE_NAME": "Ron Ashe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "200 Burnt Church Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122509",
+        "LATITUDE": 35.18871,
+        "LONGITUDE": -88.12807,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20761999999996,
+          35.370930000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122463",
+        "PERMITTEE_NAME": "Ray T. Smith",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Saltillo Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122463",
+        "LATITUDE": 35.37093,
+        "LONGITUDE": -88.20761999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99389999999994,
+          35.22870000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.180",
+        "PERMITTEE_NAME": "Jeter Steele",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1628121600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Indian Creek near confluence of Bear Branch east of Olive Hill Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.180",
+        "LATITUDE": 35.2287,
+        "LONGITUDE": -87.99390000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24203999999997,
+          35.05501000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.263",
+        "PERMITTEE_NAME": "First Utility District of Hardin County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1614643200000,
+        "EFFECTIVE_DATE": 1614038400000,
+        "EXPIRATION_DATE": 1771718400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "310 Playground Loop Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.263",
+        "LATITUDE": 35.055009999999996,
+        "LONGITUDE": -88.24204,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13119999999998,
+          35.19780000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.241",
+        "PERMITTEE_NAME": "Kirk Taylor",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1635292800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "800 Hudson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.241",
+        "LATITUDE": 35.1978,
+        "LONGITUDE": -88.1312,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27378199999998,
+          35.04258900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.132-21",
+        "PERMITTEE_NAME": "Packaging Corporation of America (PCA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1638144000000,
+        "EFFECTIVE_DATE": 1638144000000,
+        "EXPIRATION_DATE": 1795824000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "6715 Highway 57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.132-21",
+        "LATITUDE": 35.042589,
+        "LONGITUDE": -88.273782,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23368999999997,
+          35.028170000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122489",
+        "PERMITTEE_NAME": "David Woods",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Hwy 57, Counce",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122489",
+        "LATITUDE": 35.028169999999996,
+        "LONGITUDE": -88.23369,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23481999999996,
+          35.09534000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122473",
+        "PERMITTEE_NAME": "Mark Blair",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Pyburns Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122473",
+        "LATITUDE": 35.09534,
+        "LONGITUDE": -88.23482,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20603999999997,
+          35.36895000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122506",
+        "PERMITTEE_NAME": "Jeff Wilkes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Off Dorothy Ann Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122506",
+        "LATITUDE": 35.36895,
+        "LONGITUDE": -88.20604,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01125999999994,
+          35.24789000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.043",
+        "PERMITTEE_NAME": "Elton Coley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1621555200000,
+        "EFFECTIVE_DATE": 1621641600000,
+        "EXPIRATION_DATE": 1667174400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Indian Creek, Olive Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.043",
+        "LATITUDE": 35.24789,
+        "LONGITUDE": -88.01126,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99389999999994,
+          35.22870000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.219",
+        "PERMITTEE_NAME": "Jeter Steele",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1628121600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Hardin",
+        "SITE_LOCATION": "Indian Creek near confluence of Bear Branch east of Olive Hill Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.219",
+        "LATITUDE": 35.2287,
+        "LONGITUDE": -87.99390000000001,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

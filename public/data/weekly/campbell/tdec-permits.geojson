@@ -1,0 +1,2709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.97619999999995,
+          36.35250000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.128",
+        "PERMITTEE_NAME": "Sonya Kapoor",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "417 Materna Hollow Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.128",
+        "LATITUDE": 36.3525,
+        "LONGITUDE": -83.9762,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98332999999997,
+          36.444672000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136794",
+        "PERMITTEE_NAME": "Twin K Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Properties North and South of SR-63 West of Doaks Creek RD.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136794",
+        "LATITUDE": 36.444672,
+        "LONGITUDE": -83.98333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12440199999998,
+          36.37876000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137934",
+        "PERMITTEE_NAME": "McDonald's Restaurants of Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "237 W CENTRAL AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137934",
+        "LATITUDE": 36.37876,
+        "LONGITUDE": -84.12440199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18269999999995,
+          36.32960000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.127",
+        "PERMITTEE_NAME": "Town of Jacksboro",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787097600000,
+        "EFFECTIVE_DATE": 1787097600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Spring Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.127",
+        "LATITUDE": 36.3296,
+        "LONGITUDE": -84.1827,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06669999999997,
+          36.406900000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138382",
+        "PERMITTEE_NAME": "Goat Rock Holdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "General Carl W. Stiner Memorial Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138382",
+        "LATITUDE": 36.4069,
+        "LONGITUDE": -84.0667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16842699999995,
+          36.340021000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138531",
+        "PERMITTEE_NAME": "John Davenport",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "2511 Jacksboro Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138531",
+        "LATITUDE": 36.340021,
+        "LONGITUDE": -84.168427,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13749999999999,
+          36.356944000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.147",
+        "PERMITTEE_NAME": "Campbell County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789603200000,
+        "EFFECTIVE_DATE": 1789603200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "315 Hunters Branch Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.147",
+        "LATITUDE": 36.356944,
+        "LONGITUDE": -84.1375,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23589999999996,
+          36.37570000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051575",
+        "PERMITTEE_NAME": "Goat Rock Holdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1780444800000,
+        "EFFECTIVE_DATE": 1780444800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "383 LUTHER SEIBERS BLVD.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051575",
+        "LATITUDE": 36.3757,
+        "LONGITUDE": -84.2359,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25142999999997,
+          36.38124000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.141",
+        "PERMITTEE_NAME": "Davenport Constr. & Devel., LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788393600000,
+        "EFFECTIVE_DATE": 1788393600000,
+        "EXPIRATION_DATE": 1778803200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Howard Baker Highway (SR-63)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.141",
+        "LATITUDE": 36.38124,
+        "LONGITUDE": -84.25143,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18149999999997,
+          36.33000000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.126",
+        "PERMITTEE_NAME": "Hobert Disney",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786320000000,
+        "EFFECTIVE_DATE": 1786320000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "140 Spring Street ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.126",
+        "LATITUDE": 36.33,
+        "LONGITUDE": -84.1815,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15479999999997,
+          36.343300000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110434",
+        "PERMITTEE_NAME": "C & C Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1774828800000,
+        "EFFECTIVE_DATE": 1775001600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "364 Towe String Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110434",
+        "LATITUDE": 36.3433,
+        "LONGITUDE": -84.15480000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04551399999997,
+          36.303634000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.025",
+        "PERMITTEE_NAME": "CMA Investments",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770595200000,
+        "EFFECTIVE_DATE": 1770595200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "357 Rainbow Dock Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.025",
+        "LATITUDE": 36.303633999999995,
+        "LONGITUDE": -84.045514,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28479999999996,
+          36.40110000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192263",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "SR-63, (Howard Baker Hwy.) From Near the Intersection of SR-297 and West of Old SR-63 to West of Stinking Creek Road (Truck Climbing Lane)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192263",
+        "LATITUDE": 36.4011,
+        "LONGITUDE": -84.2848,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24622799999997,
+          36.377395000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.036",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1719446400000,
+        "EFFECTIVE_DATE": 1719446400000,
+        "EXPIRATION_DATE": 1877126400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "SR-63, Drainage Structure Near I-75 Exit 141, LM 6.43",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.036",
+        "LATITUDE": 36.377395,
+        "LONGITUDE": -84.246228,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17831199999995,
+          36.28861400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136885",
+        "PERMITTEE_NAME": "Brad Bardo",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "1680 Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136885",
+        "LATITUDE": 36.288613999999995,
+        "LONGITUDE": -84.17831199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18989999999997,
+          36.300500000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137503",
+        "PERMITTEE_NAME": "OHTN Developers LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Mill Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137503",
+        "LATITUDE": 36.3005,
+        "LONGITUDE": -84.18990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18105699999995,
+          36.39199000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.069",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resource Agency",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1715040000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "North Cumberland WMA",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.069",
+        "LATITUDE": 36.39199,
+        "LONGITUDE": -84.181057,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12006799999995,
+          36.24214800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137587",
+        "PERMITTEE_NAME": "Norris Dam State Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "OAK GROVE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137587",
+        "LATITUDE": 36.242148,
+        "LONGITUDE": -84.12006799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04162799999995,
+          36.29594300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138077",
+        "PERMITTEE_NAME": "America's Home Place",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "258 S Two Rivers Lane La Follette",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138077",
+        "LATITUDE": 36.295943,
+        "LONGITUDE": -84.041628,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25805599999995,
+          36.38027800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055942",
+        "PERMITTEE_NAME": "KyKenKee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1772409600000,
+        "EFFECTIVE_DATE": 1772409600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "701 Howard Baker Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055942",
+        "LATITUDE": 36.380278,
+        "LONGITUDE": -84.258056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20787499999994,
+          36.31134700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137983",
+        "PERMITTEE_NAME": "Caryville-Jacksboro Utilites Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "117 Mine Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137983",
+        "LATITUDE": 36.311347,
+        "LONGITUDE": -84.207875,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18479999999994,
+          36.34260000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.048",
+        "PERMITTEE_NAME": "QB Realty Team LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1774828800000,
+        "EFFECTIVE_DATE": 1774828800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "465 Mountain Perkins Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.048",
+        "LATITUDE": 36.342600000000004,
+        "LONGITUDE": -84.18480000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11829999999998,
+          36.35460000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138350",
+        "PERMITTEE_NAME": "Elk Ridge Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "161 Oak Run Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138350",
+        "LATITUDE": 36.354600000000005,
+        "LONGITUDE": -84.1183,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17634199999998,
+          36.292674000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138431",
+        "PERMITTEE_NAME": "Mark Penhorwood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "210 Foxwood Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138431",
+        "LATITUDE": 36.292674,
+        "LONGITUDE": -84.17634199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17526099999998,
+          36.32800000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138217",
+        "PERMITTEE_NAME": "John Thompson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "0 Island Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138217",
+        "LATITUDE": 36.328,
+        "LONGITUDE": -84.17526099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22409199999998,
+          36.44598600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.009",
+        "PERMITTEE_NAME": "Camptown at Royal Blue LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1769472000000,
+        "EFFECTIVE_DATE": 1769472000000,
+        "EXPIRATION_DATE": 1906329600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "6147 Stinking Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.009",
+        "LATITUDE": 36.445986,
+        "LONGITUDE": -84.224092,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15708199999995,
+          36.272354000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.026",
+        "PERMITTEE_NAME": "Gregg Engles",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1770768000000,
+        "EFFECTIVE_DATE": 1770768000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Oak Grove Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.026",
+        "LATITUDE": 36.272354,
+        "LONGITUDE": -84.157082,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02059999999994,
+          36.43020000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.256-25",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768521600000,
+        "EFFECTIVE_DATE": 1768521600000,
+        "EXPIRATION_DATE": 1926201600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "SR-63, From near Frontier Road/Woodson /Lane to near Claiborne County line",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.256-25",
+        "LATITUDE": 36.4302,
+        "LONGITUDE": -84.0206,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14225199999998,
+          36.359908000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192405",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "167 HUNTERS BRANCH RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192405",
+        "LATITUDE": 36.359908,
+        "LONGITUDE": -84.142252,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09559999999999,
+          36.32950000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137215",
+        "PERMITTEE_NAME": "Manasa Marina LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Whitman Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137215",
+        "LATITUDE": 36.3295,
+        "LONGITUDE": -84.0956,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02079999999995,
+          36.36600000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137221",
+        "PERMITTEE_NAME": "Cedar Creek Ventures, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "3988 Cedar Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137221",
+        "LATITUDE": 36.366,
+        "LONGITUDE": -84.02080000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25373399999995,
+          36.460308000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.074",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1681689600000,
+        "EXPIRATION_DATE": 1743811200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "I-75 SB - MM 148.9 - 128-NE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.074",
+        "LATITUDE": 36.460308,
+        "LONGITUDE": -84.253734,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10091999999997,
+          36.389140000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137228",
+        "PERMITTEE_NAME": "John Davenport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "1324 East Central Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137228",
+        "LATITUDE": 36.38914,
+        "LONGITUDE": -84.10092,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20119999999997,
+          36.317000000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.097",
+        "PERMITTEE_NAME": "Caryville-Jacksboro Utilities Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758844800000,
+        "EFFECTIVE_DATE": 1758844800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "112 GARDNER LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.097",
+        "LATITUDE": 36.317,
+        "LONGITUDE": -84.2012,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22719999999998,
+          36.36000000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137992",
+        "PERMITTEE_NAME": "United Rare Earths, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "144 Sonny Boshears Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137992",
+        "LATITUDE": 36.36,
+        "LONGITUDE": -84.22720000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.03299999999996,
+          36.315000000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.155",
+        "PERMITTEE_NAME": "Pointe Marina",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760313600000,
+        "EFFECTIVE_DATE": 1760313600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Powell River (Norris Lake)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.155",
+        "LATITUDE": 36.315000000000005,
+        "LONGITUDE": -84.033,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20119999999997,
+          36.317000000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137990",
+        "PERMITTEE_NAME": "Franklin Wallace",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "112 GARDNER LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137990",
+        "LATITUDE": 36.317,
+        "LONGITUDE": -84.2012,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00229999999993,
+          36.34340000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.015",
+        "PERMITTEE_NAME": "Parc Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1586390400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Deerfield Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.015",
+        "LATITUDE": 36.3434,
+        "LONGITUDE": -84.0023,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12150399999996,
+          36.30836400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137260",
+        "PERMITTEE_NAME": "Big Creek Estates",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "770 LANDMARK RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137260",
+        "LATITUDE": 36.308364,
+        "LONGITUDE": -84.121504,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21449999999999,
+          36.31510000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137536",
+        "PERMITTEE_NAME": "TDEC Bureau of Parks and Conservation, Cove Lake State Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "110 COVE LAKE LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137536",
+        "LATITUDE": 36.3151,
+        "LONGITUDE": -84.2145,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13301999999999,
+          36.285750000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137817",
+        "PERMITTEE_NAME": "LaFollette Utilities Board (LUB)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Norman Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137817",
+        "LATITUDE": 36.28575,
+        "LONGITUDE": -84.13302,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22409199999998,
+          36.44598600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137230",
+        "PERMITTEE_NAME": "David Magness",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "6147 Stinking Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137230",
+        "LATITUDE": 36.445986,
+        "LONGITUDE": -84.224092,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.99588699999998,
+          36.44029400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137806",
+        "PERMITTEE_NAME": "Twin K Construction, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "General Carl W. Stiner Hwy, SR-63",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137806",
+        "LATITUDE": 36.440294,
+        "LONGITUDE": -83.995887,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00160099999994,
+          36.34303700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137680",
+        "PERMITTEE_NAME": "Uless Arnold",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "W. Deer Village Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137680",
+        "LATITUDE": 36.343036999999995,
+        "LONGITUDE": -84.001601,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16409999999996,
+          36.34250000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137239",
+        "PERMITTEE_NAME": "Manasa Marina LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "2335B Jacksboro Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137239",
+        "LATITUDE": 36.3425,
+        "LONGITUDE": -84.1641,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17652799999996,
+          36.25174400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050607",
+        "PERMITTEE_NAME": "I-75 Auto Parts & Recycling, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "2190 Highway 116",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050607",
+        "LATITUDE": 36.251743999999995,
+        "LONGITUDE": -84.17652799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04279999999994,
+          36.53690000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192228",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "SR-90, near LM 2.2",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192228",
+        "LATITUDE": 36.5369,
+        "LONGITUDE": -84.0428,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14551999999998,
+          36.27698000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136924",
+        "PERMITTEE_NAME": "Timothy Stringer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Pine Hollow Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136924",
+        "LATITUDE": 36.27698,
+        "LONGITUDE": -84.14551999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20799999999997,
+          36.33110000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137308",
+        "PERMITTEE_NAME": "Bhumika LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "694 Butter and Egg Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137308",
+        "LATITUDE": 36.3311,
+        "LONGITUDE": -84.208,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20902499999994,
+          36.317382000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137674",
+        "PERMITTEE_NAME": "Tennessee College of Applied Technology",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "265 Elkinds Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137674",
+        "LATITUDE": 36.317381999999995,
+        "LONGITUDE": -84.209025,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25142999999997,
+          36.38124000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.168",
+        "PERMITTEE_NAME": "John Davenport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1730764800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Howard Baker Highway (SR-63)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.168",
+        "LATITUDE": 36.38124,
+        "LONGITUDE": -84.25143,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12975999999998,
+          36.37548700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137826",
+        "PERMITTEE_NAME": "LaFollette Utilities Board (LUB)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "604 W Central Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137826",
+        "LATITUDE": 36.375487,
+        "LONGITUDE": -84.12975999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14839999999998,
+          36.348700000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137725",
+        "PERMITTEE_NAME": "I-75 Land Partners LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Brantley Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137725",
+        "LATITUDE": 36.3487,
+        "LONGITUDE": -84.14840000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15708199999995,
+          36.272354000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2403.147",
+        "PERMITTEE_NAME": "Gregg Engles",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1727827200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Oak Grove Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2403.147",
+        "LATITUDE": 36.272354,
+        "LONGITUDE": -84.157082,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25142999999997,
+          36.38124000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137729",
+        "PERMITTEE_NAME": "Davenport Construction & Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Howard Baker Highway (SR-63)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137729",
+        "LATITUDE": 36.38124,
+        "LONGITUDE": -84.25143,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08569799999998,
+          36.39782100000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137824",
+        "PERMITTEE_NAME": "LaFollette Utilities Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "2110 TN-63",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137824",
+        "LATITUDE": 36.397821,
+        "LONGITUDE": -84.085698,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16119999999995,
+          36.33680000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137442",
+        "PERMITTEE_NAME": "Colonel Tomm C Stiner Airfield - Campbell County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "610 Memorial Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137442",
+        "LATITUDE": 36.336800000000004,
+        "LONGITUDE": -84.16120000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28479999999996,
+          36.40110000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.082",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691971200000,
+        "EFFECTIVE_DATE": 1691971200000,
+        "EXPIRATION_DATE": 1849737600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "SR-63, (Howard Baker Hwy.) From Near the Intersection of SR-297 and West of Old SR-63 to West of Stinking Creek Road (Truck Climbing Lane)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.082",
+        "LATITUDE": 36.4011,
+        "LONGITUDE": -84.2848,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16518499999995,
+          36.33884000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137352",
+        "PERMITTEE_NAME": "Stan Foust, Administrator, City of Lafollette",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "189 Dossett Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137352",
+        "LATITUDE": 36.33884,
+        "LONGITUDE": -84.165185,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11589999999995,
+          36.50780000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137330",
+        "PERMITTEE_NAME": "Jay Stewart",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "194 Big Four Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137330",
+        "LATITUDE": 36.5078,
+        "LONGITUDE": -84.11590000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10591299999999,
+          36.29145600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137403",
+        "PERMITTEE_NAME": "S & S Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "467 Bankwood Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137403",
+        "LATITUDE": 36.291456,
+        "LONGITUDE": -84.105913,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02079999999995,
+          36.36600000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.212",
+        "PERMITTEE_NAME": "Cedar Creek Ventures, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1678406400000,
+        "EFFECTIVE_DATE": 1678406400000,
+        "EXPIRATION_DATE": 1836172800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "3988 Cedar Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.212",
+        "LATITUDE": 36.366,
+        "LONGITUDE": -84.02080000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21172899999993,
+          36.493445000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.215",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1661212800000,
+        "EFFECTIVE_DATE": 1661212800000,
+        "EXPIRATION_DATE": 1818892800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "I-75 at LM 152.2 ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.215",
+        "LATITUDE": 36.493445,
+        "LONGITUDE": -84.21172899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16144299999996,
+          36.347615000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR137176",
+        "PERMITTEE_NAME": "JOHN DAVENPORT",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "2226 Jacksboro Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR137176",
+        "LATITUDE": 36.347615,
+        "LONGITUDE": -84.16144299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11956399999997,
+          36.30806400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-23013",
+        "PERMITTEE_NAME": "Integrated Resource Management, Inc. (IRM Utility, Inc.)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "landmark road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-23013",
+        "LATITUDE": 36.308064,
+        "LONGITUDE": -84.119564,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09189999999995,
+          36.37570000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136579",
+        "PERMITTEE_NAME": "Marvin K. Stanford",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "506 Long Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136579",
+        "LATITUDE": 36.3757,
+        "LONGITUDE": -84.09190000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14031599999998,
+          36.36391000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110095",
+        "PERMITTEE_NAME": "Dixie Ready Mix Concrete, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1706745600000,
+        "EFFECTIVE_DATE": 1706745600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "1414 Old Jacksboro Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110095",
+        "LATITUDE": 36.36391,
+        "LONGITUDE": -84.140316,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06323099999997,
+          36.40933800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050290",
+        "PERMITTEE_NAME": "JR's Valley Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "141 West Carr Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050290",
+        "LATITUDE": 36.409338,
+        "LONGITUDE": -84.063231,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15527799999995,
+          36.348333000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110057",
+        "PERMITTEE_NAME": "C & C Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1670284800000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "193 Towe String Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110057",
+        "LATITUDE": 36.348333,
+        "LONGITUDE": -84.155278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18333299999995,
+          36.30833300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050259",
+        "PERMITTEE_NAME": "Clinch River Casting, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "329 STONE MILL ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050259",
+        "LATITUDE": 36.308333,
+        "LONGITUDE": -84.18333299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18421799999999,
+          36.257471000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054256",
+        "PERMITTEE_NAME": "TELOS GLOBAL II, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765238400000,
+        "EFFECTIVE_DATE": 1765238400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "1880 HIGHWAY 116",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054256",
+        "LATITUDE": 36.257470999999995,
+        "LONGITUDE": -84.184218,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20924599999995,
+          36.31541500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051700",
+        "PERMITTEE_NAME": "Gold Creek Foods, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1773792000000,
+        "EFFECTIVE_DATE": 1773792000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "241 Elkins Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051700",
+        "LATITUDE": 36.315415,
+        "LONGITUDE": -84.209246,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.96222199999994,
+          36.44305600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053607",
+        "PERMITTEE_NAME": "Lakeside Wood Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766361600000,
+        "EFFECTIVE_DATE": 1766361600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "3280 OLD MIDDLESBORO HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053607",
+        "LATITUDE": 36.443056,
+        "LONGITUDE": -83.962222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08877999999999,
+          36.44107500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055895",
+        "PERMITTEE_NAME": "Austin Powder Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752019200000,
+        "EFFECTIVE_DATE": 1752019200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "375 Austin Powder Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055895",
+        "LATITUDE": 36.441075,
+        "LONGITUDE": -84.08878,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.01761999999997,
+          36.42375000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058056",
+        "PERMITTEE_NAME": "Maynard Sweat dba Maynard's Auto Parts",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1787702400000,
+        "EFFECTIVE_DATE": 1787702400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "385 CLAWSON RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058056",
+        "LATITUDE": 36.42375,
+        "LONGITUDE": -84.01762,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32745999999997,
+          36.48476000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NROG10.23",
+        "PERMITTEE_NAME": "Atlas Pipeline Tennessee, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "KLC Elk Valley Ext 3 PL 020",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NROG10.23",
+        "LATITUDE": 36.48476,
+        "LONGITUDE": -84.32746,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32786999999996,
+          36.484390000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NROG10.24",
+        "PERMITTEE_NAME": "Atlas Pipeline Tennessee, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "KLC Elk Valley Ext 3 PL 021 RD 056",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NROG10.24",
+        "LATITUDE": 36.48439,
+        "LONGITUDE": -84.32786999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31947999999994,
+          36.48818000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NROG010.16",
+        "PERMITTEE_NAME": "Atlas Pipeline Tennessee, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "KLC Elk Valley Ext 3 PL 013",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NROG010.16",
+        "LATITUDE": 36.48818,
+        "LONGITUDE": -84.31948,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25142999999997,
+          36.38124000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR134161",
+        "PERMITTEE_NAME": "Myers Family Property (f.k.a. Jimmy B. Arnold)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Howard Baker Highway (SR-63)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR134161",
+        "LATITUDE": 36.38124,
+        "LONGITUDE": -84.25143,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15351699999997,
+          36.54228200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059384",
+        "PERMITTEE_NAME": "Twin K Construction, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Rock Quarry Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059384",
+        "LATITUDE": 36.542282,
+        "LONGITUDE": -84.153517,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19974199999996,
+          36.307109000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB026263",
+        "PERMITTEE_NAME": "Caryville- Jacksboro Utility Commission",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757635200000,
+        "EFFECTIVE_DATE": 1757635200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "450 QUEENER RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB026263",
+        "LATITUDE": 36.307109,
+        "LONGITUDE": -84.199742,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10804299999995,
+          36.37023500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB020532",
+        "PERMITTEE_NAME": "Lafollette STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757462400000,
+        "EFFECTIVE_DATE": 1757462400000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "412 Pleasant Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB020532",
+        "LATITUDE": 36.370235,
+        "LONGITUDE": -84.108043,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14776899999998,
+          36.33364400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058911",
+        "PERMITTEE_NAME": "Jacksboro Metals, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1698796800000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "750 Towe String Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058911",
+        "LATITUDE": 36.333644,
+        "LONGITUDE": -84.147769,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17210499999999,
+          36.55817900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058134",
+        "PERMITTEE_NAME": "KyKenKee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766016000000,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "121 Republican Hill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058134",
+        "LATITUDE": 36.558178999999996,
+        "LONGITUDE": -84.172105,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19063899999998,
+          36.339778000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.043",
+        "PERMITTEE_NAME": "Donald L. Banister",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1532304000000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "411 Eagle Bluff Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.043",
+        "LATITUDE": 36.339777999999995,
+        "LONGITUDE": -84.19063899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18052899999998,
+          36.31120800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059206",
+        "PERMITTEE_NAME": "SIGNRESOURCE, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1772094338000,
+        "EFFECTIVE_DATE": 1772094338000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "242 INDUSTRIAL PARKWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059206",
+        "LATITUDE": 36.311208,
+        "LONGITUDE": -84.18052899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17277799999994,
+          36.37027800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "077002",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1761091200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1792022400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "135sw Ollis Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:077002",
+        "LATITUDE": 36.370278,
+        "LONGITUDE": -84.172778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20388899999995,
+          36.305000000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "077003",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1768348800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1831507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "136sw Cove Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:077003",
+        "LATITUDE": 36.305,
+        "LONGITUDE": -84.20388899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27719999999994,
+          36.37660000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059326",
+        "PERMITTEE_NAME": "KyKenKee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766016000000,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "8135 Old Hwy 63",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059326",
+        "LATITUDE": 36.3766,
+        "LONGITUDE": -84.27720000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24173599999995,
+          36.37212500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110459",
+        "PERMITTEE_NAME": "Pave Grade & Aggregate, Inc. Ready Mix",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1708992000000,
+        "EFFECTIVE_DATE": 1708992000000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "170 Royal Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110459",
+        "LATITUDE": 36.372125,
+        "LONGITUDE": -84.241736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15359999999998,
+          36.54230000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059392",
+        "PERMITTEE_NAME": "Twin K Construction, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Pine Mountain Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059392",
+        "LATITUDE": 36.542300000000004,
+        "LONGITUDE": -84.1536,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24173599999995,
+          36.37212500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059543",
+        "PERMITTEE_NAME": "Pave Grade & Aggregate Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761782400000,
+        "EFFECTIVE_DATE": 1761782400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "170 Royal Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059543",
+        "LATITUDE": 36.372125,
+        "LONGITUDE": -84.241736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22199299999994,
+          36.34948600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059537",
+        "PERMITTEE_NAME": "Dyno Nobel Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "1432 Luther Seiber Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059537",
+        "LATITUDE": 36.349486,
+        "LONGITUDE": -84.221993,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13239999999996,
+          36.37770000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.138",
+        "PERMITTEE_NAME": "High Street Baptist Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1542067200000,
+        "EFFECTIVE_DATE": 1541548800000,
+        "EXPIRATION_DATE": 1699228800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "610 West Forrest Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.138",
+        "LATITUDE": 36.377700000000004,
+        "LONGITUDE": -84.1324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09279999999995,
+          36.39400000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.049",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1567036800000,
+        "EFFECTIVE_DATE": 1567036800000,
+        "EXPIRATION_DATE": 1724803200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "SR-63, Meyers Ln to Frontier Rd/Woodson",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.049",
+        "LATITUDE": 36.394,
+        "LONGITUDE": -84.09280000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.03222199999999,
+          36.32541700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.138",
+        "PERMITTEE_NAME": "Kevin Hartke",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1594598400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Lot 36, Norris Crest Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.138",
+        "LATITUDE": 36.325417,
+        "LONGITUDE": -84.03222199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19959999999998,
+          36.321300000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.226",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1606867200000,
+        "EFFECTIVE_DATE": 1606867200000,
+        "EXPIRATION_DATE": 1764547200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Dog Creek in Cove Lake State Park",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.226",
+        "LATITUDE": 36.3213,
+        "LONGITUDE": -84.1996,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02059999999994,
+          36.43020000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.256",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1616716800000,
+        "EFFECTIVE_DATE": 1616716800000,
+        "EXPIRATION_DATE": 1774396800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "SR-63, From near Frontier Road/Woodson /Lane to near Claiborne County line",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.256",
+        "LATITUDE": 36.4302,
+        "LONGITUDE": -84.0206,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12447199999997,
+          36.35261900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136377",
+        "PERMITTEE_NAME": "Campbell County Finance Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "121 W. High Knob Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136377",
+        "LATITUDE": 36.352619,
+        "LONGITUDE": -84.124472,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95629999999994,
+          36.44640000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059855",
+        "PERMITTEE_NAME": "Kentucky Forest Treated Products, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759190400000,
+        "EFFECTIVE_DATE": 1759190400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "6227 General Carl W Stiner Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059855",
+        "LATITUDE": 36.446400000000004,
+        "LONGITUDE": -83.9563,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08867799999996,
+          36.632885000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136637",
+        "PERMITTEE_NAME": "Shawn Ray",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "467 Lowe's Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136637",
+        "LATITUDE": 36.632885,
+        "LONGITUDE": -84.088678,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09214899999995,
+          36.39520300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136364",
+        "PERMITTEE_NAME": "Potter South East LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "General Carl W. Stiner Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136364",
+        "LATITUDE": 36.395202999999995,
+        "LONGITUDE": -84.09214899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09489999999994,
+          36.32320000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR136327",
+        "PERMITTEE_NAME": "Manasa Marina LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "Whitman Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR136327",
+        "LATITUDE": 36.3232,
+        "LONGITUDE": -84.09490000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02059999999994,
+          36.43020000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192075",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Campbell",
+        "SITE_LOCATION": "SR-63, From near Frontier Road/Woodson /Lane to near Claiborne County line",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192075",
+        "LATITUDE": 36.4302,
+        "LONGITUDE": -84.0206,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "name": "Cumberland",
   "region": "East Tennessee",
   "population": 63553,
-  "buildDate": "2026-08-27",
+  "buildDate": "2026-10-15",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -112,10 +112,10 @@
       "basis": "Ranked by designated scenic river miles, high to low."
     },
     "waterServiceAreas": {
-      "rank": 32,
+      "rank": 31,
       "total": 95,
-      "tieCount": 9,
-      "display": "tied 32nd of 95 Tennessee counties",
+      "tieCount": 10,
+      "display": "tied 31st of 95 Tennessee counties",
       "basis": "Ranked by overlapping public water service areas, high to low."
     },
     "waterStressTractShare": {

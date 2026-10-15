@@ -1,0 +1,1201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.36922399999997,
+          35.02207000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054240",
+        "PERMITTEE_NAME": "Davie Ashley Sawmill",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": 1764720000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "12 SAWMILL LANE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054240",
+        "LATITUDE": 35.02207,
+        "LONGITUDE": -86.369224,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.56896899999998,
+          35.06452800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183510",
+        "PERMITTEE_NAME": "Stella-Jones Corporation",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "7 Koi Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183510",
+        "LATITUDE": 35.064527999999996,
+        "LONGITUDE": -86.568969,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59404499999994,
+          35.15244800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183508",
+        "PERMITTEE_NAME": "404 Main LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Wilson Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183508",
+        "LATITUDE": 35.152448,
+        "LONGITUDE": -86.594045,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54158899999999,
+          35.13345700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.277",
+        "PERMITTEE_NAME": "Fayetteville Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1789084800000,
+        "EFFECTIVE_DATE": 1789084800000,
+        "EXPIRATION_DATE": 1946764800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "171 Eldad Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.277",
+        "LATITUDE": 35.133457,
+        "LONGITUDE": -86.541589,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.60034799999994,
+          35.15854000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183443",
+        "PERMITTEE_NAME": "One Stop Storage, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "0 Pulaski Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183443",
+        "LATITUDE": 35.158539999999995,
+        "LONGITUDE": -86.600348,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.82167799999996,
+          35.20939600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4147",
+        "PERMITTEE_NAME": "Coleen Franklin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787875200000,
+        "EFFECTIVE_DATE": 1787875200000,
+        "EXPIRATION_DATE": 1819324800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Endsley Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4147",
+        "LATITUDE": 35.209396,
+        "LONGITUDE": -86.82167799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59019999999998,
+          35.13370000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183313",
+        "PERMITTEE_NAME": "Jones Brothers Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Kidd Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183313",
+        "LATITUDE": 35.133700000000005,
+        "LONGITUDE": -86.59020000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.65890399999995,
+          35.14597100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183346",
+        "PERMITTEE_NAME": "Lincoln County Board of Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Old Molino Road, Gunter Hollow Road, L. Mitchell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183346",
+        "LATITUDE": 35.145970999999996,
+        "LONGITUDE": -86.65890399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58540799999997,
+          35.14309900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183382",
+        "PERMITTEE_NAME": "Tennessee Board of Regents",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "1805 Wilson Parkway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183382",
+        "LATITUDE": 35.143099,
+        "LONGITUDE": -86.585408,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.37588799999997,
+          35.08426500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4127",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779148800000,
+        "EFFECTIVE_DATE": 1779148800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "49 Fish Hatchery Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4127",
+        "LATITUDE": 35.084264999999995,
+        "LONGITUDE": -86.37588799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57777799999997,
+          35.022500000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR180824.04",
+        "PERMITTEE_NAME": "D.R. Horton, Inc. Birmingham",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Huntsville Highway & W. Lincoln Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR180824.04",
+        "LATITUDE": 35.0225,
+        "LONGITUDE": -86.577778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.65890399999995,
+          35.14597100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4043",
+        "PERMITTEE_NAME": "Lincoln Board of Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1751846400000,
+        "EFFECTIVE_DATE": 1751846400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Old Molino Road, Gunter Hollow Road, L. Mitchell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4043",
+        "LATITUDE": 35.145970999999996,
+        "LONGITUDE": -86.65890399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.65890399999995,
+          35.14597100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4042",
+        "PERMITTEE_NAME": "Lincoln Board of Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1751846400000,
+        "EFFECTIVE_DATE": 1751846400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Old Molino Road, Gunter Hollow Road, L. Mitchell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4042",
+        "LATITUDE": 35.145970999999996,
+        "LONGITUDE": -86.65890399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57777799999997,
+          35.022500000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR180824.03",
+        "PERMITTEE_NAME": "D.R. Horton, Inc - Birmingham",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Huntsville Highway & W. Lincoln Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR180824.03",
+        "LATITUDE": 35.0225,
+        "LONGITUDE": -86.577778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57777799999997,
+          35.022500000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR180824.02",
+        "PERMITTEE_NAME": "D.R. Horton, Inc - Huntsville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Huntsville Highway & W. Lincoln Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR180824.02",
+        "LATITUDE": 35.0225,
+        "LONGITUDE": -86.577778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.64872499999996,
+          35.15057600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.006",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1692144000000,
+        "EFFECTIVE_DATE": 1692144000000,
+        "EXPIRATION_DATE": 1849910400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Old Elkton Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.006",
+        "LATITUDE": 35.150576,
+        "LONGITUDE": -86.648725,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.56755499999997,
+          35.12666400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050634",
+        "PERMITTEE_NAME": "Stovall Body Shop",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "9 MOLINO RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050634",
+        "LATITUDE": 35.126664,
+        "LONGITUDE": -86.567555,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58881299999996,
+          35.13779600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192315",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Kidd Lane, Bridge over Elk River, LM 2.00 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192315",
+        "LATITUDE": 35.137796,
+        "LONGITUDE": -86.588813,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58881299999996,
+          35.13779600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.013",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1726617600000,
+        "EFFECTIVE_DATE": 1726617600000,
+        "EXPIRATION_DATE": 1884297600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Kidd Lane, Bridge over Elk River, LM 2.00 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.013",
+        "LATITUDE": 35.137796,
+        "LONGITUDE": -86.588813,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.56925699999994,
+          35.06575300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182980",
+        "PERMITTEE_NAME": "Stream's Edge Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "50 Koi Park Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182980",
+        "LATITUDE": 35.065753,
+        "LONGITUDE": -86.569257,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.49579999999997,
+          35.119200000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.324",
+        "PERMITTEE_NAME": "Owen Hofer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1685404800000,
+        "EFFECTIVE_DATE": 1685404800000,
+        "EXPIRATION_DATE": 1843171200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "32 Martin Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.324",
+        "LATITUDE": 35.1192,
+        "LONGITUDE": -86.4958,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57019999999994,
+          35.152000000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182748",
+        "PERMITTEE_NAME": "Fayetteville Public Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "1st Ave., 2nd Ave., 3rd Ave. & Boonshill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182748",
+        "LATITUDE": 35.152,
+        "LONGITUDE": -86.5702,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.56634399999996,
+          35.13041800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059898",
+        "PERMITTEE_NAME": "Speedway Petroleum Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762905600000,
+        "EFFECTIVE_DATE": 1762905600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "1375 HUNTSVILLE HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059898",
+        "LATITUDE": 35.130418,
+        "LONGITUDE": -86.566344,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.65876499999996,
+          35.127905000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.042",
+        "PERMITTEE_NAME": "Lincoln County Board of Public Utilities",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "188 Old Molino Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.042",
+        "LATITUDE": 35.127905,
+        "LONGITUDE": -86.658765,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54158899999999,
+          35.13345700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182766",
+        "PERMITTEE_NAME": "Fayetteville Public Utilities (FPU)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "171 Eldad Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182766",
+        "LATITUDE": 35.133457,
+        "LONGITUDE": -86.541589,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55489999999998,
+          35.16500000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.306",
+        "PERMITTEE_NAME": "Fayetteville Public Utilities (FPU)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1654041600000,
+        "EFFECTIVE_DATE": 1654041600000,
+        "EXPIRATION_DATE": 1811721600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Various Locations",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.306",
+        "LATITUDE": 35.165,
+        "LONGITUDE": -86.5549,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57077499999997,
+          35.146877000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110021",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1671408000000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "704 South Main Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110021",
+        "LATITUDE": 35.146876999999996,
+        "LONGITUDE": -86.570775,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57101599999999,
+          35.06378100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110277",
+        "PERMITTEE_NAME": "imi Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1667952000000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "8 Koi Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110277",
+        "LATITUDE": 35.063781,
+        "LONGITUDE": -86.571016,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59647199999995,
+          35.02591400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051481",
+        "PERMITTEE_NAME": "John W Cowan, Jr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759276800000,
+        "EFFECTIVE_DATE": 1759276800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "471 Old Huntsville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051481",
+        "LATITUDE": 35.025914,
+        "LONGITUDE": -86.59647199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.61499999999995,
+          35.16100000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051950",
+        "PERMITTEE_NAME": "LINCOLN PAVING, L.L.C.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "1923 Pulaski Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051950",
+        "LATITUDE": 35.161,
+        "LONGITUDE": -86.61500000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59099999999995,
+          35.12800000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056228",
+        "PERMITTEE_NAME": "Mike Mitchell Auto Sales",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "154 MOLINO ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056228",
+        "LATITUDE": 35.128,
+        "LONGITUDE": -86.59100000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.60667999999998,
+          35.20998000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056091",
+        "PERMITTEE_NAME": "Creson's Auto Sales & Recycling",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759795200000,
+        "EFFECTIVE_DATE": 1759795200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "2534 Lewisburg Hwy.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056091",
+        "LATITUDE": 35.20998,
+        "LONGITUDE": -86.60668,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51012499999996,
+          35.15590400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050525",
+        "PERMITTEE_NAME": "Frito-Lay, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755129600000,
+        "EFFECTIVE_DATE": 1755129600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "101 Industrial Boulevard",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050525",
+        "LATITUDE": 35.155904,
+        "LONGITUDE": -86.510125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55065099999996,
+          35.15897200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056788",
+        "PERMITTEE_NAME": "Meridian Waste Alabama, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "37 BURKLIN STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056788",
+        "LATITUDE": 35.158972,
+        "LONGITUDE": -86.550651,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57777799999997,
+          35.022500000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR180824",
+        "PERMITTEE_NAME": "William Barry Brown, Jr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Huntsville Highway & W. Lincoln Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR180824",
+        "LATITUDE": 35.0225,
+        "LONGITUDE": -86.577778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.36209999999994,
+          35.07050000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-11021",
+        "PERMITTEE_NAME": "B & W Quality Growers Inc",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1500940800000,
+        "EFFECTIVE_DATE": 1501459200000,
+        "EXPIRATION_DATE": 1638230400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "Highway 64, (between Fayetteville and Winchester)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-11021",
+        "LATITUDE": 35.0705,
+        "LONGITUDE": -86.3621,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51680999999996,
+          35.162090000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058662",
+        "PERMITTEE_NAME": "Franke Foodservice Solutions",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "1 FRANKE BLVD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058662",
+        "LATITUDE": 35.16209,
+        "LONGITUDE": -86.51680999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54093899999998,
+          35.163418000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058774",
+        "PERMITTEE_NAME": "Latham Pool Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758240000000,
+        "EFFECTIVE_DATE": 1758240000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "1405 Winchester Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058774",
+        "LATITUDE": 35.163418,
+        "LONGITUDE": -86.540939,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51327999999995,
+          35.150720000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059254",
+        "PERMITTEE_NAME": "Conner Industries, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755129600000,
+        "EFFECTIVE_DATE": 1755129600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "260 CHENAULT FORD RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059254",
+        "LATITUDE": 35.15072,
+        "LONGITUDE": -86.51328,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55138899999997,
+          35.13694400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "527001",
+        "PERMITTEE_NAME": "Timberlake, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1628208000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1723680000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "73ne Trib-elk River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:527001",
+        "LATITUDE": 35.136944,
+        "LONGITUDE": -86.551389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.39166699999998,
+          35.119444000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "527003",
+        "PERMITTEE_NAME": "Lincoln Lake Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1787616000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1881446400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "80sw Shelton Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:527003",
+        "LATITUDE": 35.119444,
+        "LONGITUDE": -86.391667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.61249999999995,
+          35.07000000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "527006",
+        "PERMITTEE_NAME": "Rebecca Lake Estate H.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1756771200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818288000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "73nw Washburn Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:527006",
+        "LATITUDE": 35.07,
+        "LONGITUDE": -86.6125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58096499999994,
+          35.14483800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051007",
+        "PERMITTEE_NAME": "Ariens Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762732800000,
+        "EFFECTIVE_DATE": 1762732800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "1810 WILSON PARKWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051007",
+        "LATITUDE": 35.144838,
+        "LONGITUDE": -86.58096499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55897199999998,
+          35.156638000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050281",
+        "PERMITTEE_NAME": "Wright Way Legacy, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "877 CHERRY STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050281",
+        "LATITUDE": 35.156638,
+        "LONGITUDE": -86.558972,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.56643199999996,
+          35.16644500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059702",
+        "PERMITTEE_NAME": "Copperweld Bimetallics, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769385600000,
+        "EFFECTIVE_DATE": 1769385600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "254 Cotton Mill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059702",
+        "LATITUDE": 35.166444999999996,
+        "LONGITUDE": -86.56643199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53884299999999,
+          35.067642000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182497",
+        "PERMITTEE_NAME": "Successus, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lincoln",
+        "SITE_LOCATION": "South Prospect Rd East of Harbin Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182497",
+        "LATITUDE": 35.067642,
+        "LONGITUDE": -86.538843,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

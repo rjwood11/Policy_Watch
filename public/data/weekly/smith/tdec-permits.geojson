@@ -1,0 +1,1409 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95549999999997,
+          36.250500000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.47",
+        "PERMITTEE_NAME": "US Army Corps of Engineers- Robert Green",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747785600000,
+        "EFFECTIVE_DATE": 1747785600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "214 1st Ave W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.47",
+        "LATITUDE": 36.2505,
+        "LONGITUDE": -85.9555,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91829999999999,
+          36.34080000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.59",
+        "PERMITTEE_NAME": "Mickey Barrett- Smith County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1790640000000,
+        "EFFECTIVE_DATE": 1790640000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Friendship Hollow Road South, Bridge over Lankford Branch Log Mile 2.87 & 3.00",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.59",
+        "LATITUDE": 36.3408,
+        "LONGITUDE": -85.9183,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94030399999997,
+          36.183058000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172875",
+        "PERMITTEE_NAME": "Phillip Hudson Jr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Rogers Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172875",
+        "LATITUDE": 36.183057999999996,
+        "LONGITUDE": -85.940304,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82358399999998,
+          36.123860000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.114",
+        "PERMITTEE_NAME": "Tim Sinks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1786665600000,
+        "EFFECTIVE_DATE": 1786665600000,
+        "EXPIRATION_DATE": 1944345600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "66 Judd Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.114",
+        "LATITUDE": 36.12386,
+        "LONGITUDE": -85.823584,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94599999999997,
+          36.25160000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.37",
+        "PERMITTEE_NAME": "Sam Gray- City of Carthage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1783641600000,
+        "EFFECTIVE_DATE": 1783641600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "McGinness Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.37",
+        "LATITUDE": 36.2516,
+        "LONGITUDE": -85.946,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04487199999994,
+          36.11789100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.60",
+        "PERMITTEE_NAME": "Christina Crotts",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "58 Holmes Gap Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.60",
+        "LATITUDE": 36.117891,
+        "LONGITUDE": -86.044872,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95153999999997,
+          36.290005000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.156",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-263 at Log Mile 2.4",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.156",
+        "LATITUDE": 36.290005,
+        "LONGITUDE": -85.95154,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93853499999994,
+          36.387114000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.27",
+        "PERMITTEE_NAME": "Meredith Bullock",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "56 Sanderson Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.27",
+        "LATITUDE": 36.387114,
+        "LONGITUDE": -85.938535,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.92840399999994,
+          36.416394000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.243",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-80 at LM 10.1",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.243",
+        "LATITUDE": 36.416394,
+        "LONGITUDE": -85.928404,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94055599999996,
+          36.18305600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053862",
+        "PERMITTEE_NAME": "SHIROKI North America, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769558400000,
+        "EFFECTIVE_DATE": 1769558400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "165 SPICER DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053862",
+        "LATITUDE": 36.183056,
+        "LONGITUDE": -85.940556,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95299999999997,
+          36.22550000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.23",
+        "PERMITTEE_NAME": "City of South Carthage - Joey Nixon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1742947200000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Main Street South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.23",
+        "LATITUDE": 36.225500000000004,
+        "LONGITUDE": -85.953,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95289299999996,
+          36.187144000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.105",
+        "PERMITTEE_NAME": "Josh Tucker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1756080000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "428 Gordonsville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.105",
+        "LATITUDE": 36.187143999999996,
+        "LONGITUDE": -85.952893,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93706399999996,
+          36.17157300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172743",
+        "PERMITTEE_NAME": "Smith Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Hickman Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172743",
+        "LATITUDE": 36.171572999999995,
+        "LONGITUDE": -85.93706399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.00622999999996,
+          36.17476400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172746",
+        "PERMITTEE_NAME": "South Side Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Mulherrin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172746",
+        "LATITUDE": 36.174763999999996,
+        "LONGITUDE": -86.00623,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96626399999997,
+          36.326531000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.229",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-80, Emergency Bank Repair at LM 3.1, Peyton Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.229",
+        "LATITUDE": 36.326530999999996,
+        "LONGITUDE": -85.966264,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95926999999995,
+          36.253490000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192441",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-24 at Log Mile 9.69",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192441",
+        "LATITUDE": 36.25349,
+        "LONGITUDE": -85.95926999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88609999999994,
+          36.22010000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.276",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1772064000000,
+        "EFFECTIVE_DATE": 1772064000000,
+        "EXPIRATION_DATE": 1929484800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-264, Bank Stabilization at LM 9.8 maintenance",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.276",
+        "LATITUDE": 36.2201,
+        "LONGITUDE": -85.8861,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06103099999996,
+          36.306403000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.131",
+        "PERMITTEE_NAME": "Alfredo Arroyo Herrera - Homeowner",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "365 Kennys Bend Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.131",
+        "LATITUDE": 36.306402999999996,
+        "LONGITUDE": -86.061031,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50289999999995,
+          36.072100000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.41",
+        "PERMITTEE_NAME": "Clete Underwood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1685059200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "837 Lancaster Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.41",
+        "LATITUDE": 36.0721,
+        "LONGITUDE": -85.50290000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89558899999997,
+          36.152626000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.066",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1767916800000,
+        "EFFECTIVE_DATE": 1767916800000,
+        "EXPIRATION_DATE": 1925596800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-141 at LM 9.5",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.066",
+        "LATITUDE": 36.152626,
+        "LONGITUDE": -85.895589,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94030399999997,
+          36.183058000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172740",
+        "PERMITTEE_NAME": "BDGR Landholdings",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Rogers Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172740",
+        "LATITUDE": 36.183057999999996,
+        "LONGITUDE": -85.940304,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89558899999997,
+          36.152626000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.242",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-141 at LM 9.5",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.242",
+        "LATITUDE": 36.152626,
+        "LONGITUDE": -85.895589,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.99050799999998,
+          36.281776000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172721",
+        "PERMITTEE_NAME": "BDGR Landholdings, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Dixon Springs Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172721",
+        "LATITUDE": 36.281776,
+        "LONGITUDE": -85.99050799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94364599999994,
+          36.28841100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172787",
+        "PERMITTEE_NAME": "US Army Corps of Engineers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "24 Cordell Hull Park Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172787",
+        "LATITUDE": 36.288410999999996,
+        "LONGITUDE": -85.943646,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96779999999995,
+          36.323300000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.92",
+        "PERMITTEE_NAME": "Mickey Barrett - Smith Co. Road Supervisor",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1729728000000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Kemp Hollow Lane at SR-80",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.92",
+        "LATITUDE": 36.3233,
+        "LONGITUDE": -85.96780000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02329999999995,
+          36.08880000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172628",
+        "PERMITTEE_NAME": "Luke Prichard & Robert Simpson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Alexandria Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172628",
+        "LATITUDE": 36.0888,
+        "LONGITUDE": -86.0233,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93989999999997,
+          36.268500000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053477",
+        "PERMITTEE_NAME": "Smith County Government",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764028800000,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "370 Landfill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053477",
+        "LATITUDE": 36.2685,
+        "LONGITUDE": -85.93990000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94030399999997,
+          36.183058000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172649",
+        "PERMITTEE_NAME": "Phillip Hudson - Cumberland Supply Co., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Rogers Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172649",
+        "LATITUDE": 36.183057999999996,
+        "LONGITUDE": -85.940304,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94299999999998,
+          36.188000000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172604",
+        "PERMITTEE_NAME": "Rogers Group Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "149 Baker Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172604",
+        "LATITUDE": 36.188,
+        "LONGITUDE": -85.943,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95279999999997,
+          36.24090000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.24",
+        "PERMITTEE_NAME": "Joey Nixon -  City of South Carthage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1742774400000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Main Street South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.24",
+        "LATITUDE": 36.2409,
+        "LONGITUDE": -85.95280000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93194999999997,
+          36.14107000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.022",
+        "PERMITTEE_NAME": "Michael Ward ",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Hickman Creek Road S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.022",
+        "LATITUDE": 36.14107,
+        "LONGITUDE": -85.93195,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94592899999998,
+          36.226451000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172553",
+        "PERMITTEE_NAME": "Barry H. Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "134 SCMS Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172553",
+        "LATITUDE": 36.226451,
+        "LONGITUDE": -85.94592899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94633099999999,
+          36.18520500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172542",
+        "PERMITTEE_NAME": "Josh Dixon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Baker lane ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172542",
+        "LATITUDE": 36.185204999999996,
+        "LONGITUDE": -85.946331,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89087999999998,
+          36.19843000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.07",
+        "PERMITTEE_NAME": "Billy Jack Alexander",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1707782400000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "185 Stonewall Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.07",
+        "LATITUDE": 36.19843,
+        "LONGITUDE": -85.89088,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94970099999995,
+          36.217854000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.329",
+        "PERMITTEE_NAME": "Smith County Chamber of Commerce",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1710374400000,
+        "EFFECTIVE_DATE": 1710288000000,
+        "EXPIRATION_DATE": 1868054400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "1858 Gordonsville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.329",
+        "LATITUDE": 36.217853999999996,
+        "LONGITUDE": -85.94970099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88609999999994,
+          36.22010000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.011",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1715817600000,
+        "EFFECTIVE_DATE": 1715817600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-264, Bank Stabilization at LM 9.8 maintenance",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.011",
+        "LATITUDE": 36.2201,
+        "LONGITUDE": -85.8861,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94256599999994,
+          36.24520300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172424",
+        "PERMITTEE_NAME": "Imaan Ferdowsi, MRCO, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Upper Ferry Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172424",
+        "LATITUDE": 36.245203,
+        "LONGITUDE": -85.942566,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93449999999996,
+          36.38840000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2307.14",
+        "PERMITTEE_NAME": "Gerard DiFusco",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1678233600000,
+        "EFFECTIVE_DATE": 1678233600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "64 Sanderson Branch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2307.14",
+        "LATITUDE": 36.388400000000004,
+        "LONGITUDE": -85.9345,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95670699999994,
+          36.236144000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110035",
+        "PERMITTEE_NAME": "Cumberland Supply Co., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1714521600000,
+        "EFFECTIVE_DATE": 1714521600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "212 MAIN ST S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110035",
+        "LATITUDE": 36.236143999999996,
+        "LONGITUDE": -85.956707,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07453299999997,
+          36.357992000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053189",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760054400000,
+        "EFFECTIVE_DATE": 1760054400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Highway 25, J.D Hood Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053189",
+        "LATITUDE": 36.357991999999996,
+        "LONGITUDE": -86.074533,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94153299999994,
+          36.23350000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054326",
+        "PERMITTEE_NAME": "Lincoln Electric Company dba Harris Products Group",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766966400000,
+        "EFFECTIVE_DATE": 1766966400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "131 FROGS LANDING DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054326",
+        "LATITUDE": 36.2335,
+        "LONGITUDE": -85.94153299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95525699999996,
+          36.250425000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB022993",
+        "PERMITTEE_NAME": "Carthage STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757980800000,
+        "EFFECTIVE_DATE": 1757980800000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "214 First Avenue West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB022993",
+        "LATITUDE": 36.250425,
+        "LONGITUDE": -85.955257,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94626999999997,
+          36.19246000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059006",
+        "PERMITTEE_NAME": "Smith County Highway Department",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "200 JMZ Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059006",
+        "LATITUDE": 36.19246,
+        "LONGITUDE": -85.94627,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91083299999997,
+          36.21833300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "807001",
+        "PERMITTEE_NAME": "Crucible MTN, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1743379200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1797292800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "322nw Trib-caney Fork",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:807001",
+        "LATITUDE": 36.218333,
+        "LONGITUDE": -85.910833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93269999999995,
+          36.25670000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172009",
+        "PERMITTEE_NAME": "Smith County Leachate Force Main Project",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Landfill Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172009",
+        "LATITUDE": 36.2567,
+        "LONGITUDE": -85.93270000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91599999999994,
+          36.31940000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.260",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1547510400000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-85, Across from 328 Defeated Creek Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.260",
+        "LATITUDE": 36.3194,
+        "LONGITUDE": -85.91600000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96549999999996,
+          36.34310000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.226",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1580083200000,
+        "EFFECTIVE_DATE": 1580256000000,
+        "EXPIRATION_DATE": 1738022400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-80, Near L.M. 4.2",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.226",
+        "LATITUDE": 36.3431,
+        "LONGITUDE": -85.9655,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72190099999995,
+          36.08947900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR171702",
+        "PERMITTEE_NAME": "Eatherly Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Access road next to Turner's Citgo 121 Gordonsville Hwy.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR171702",
+        "LATITUDE": 36.089479,
+        "LONGITUDE": -85.721901,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94350999999995,
+          36.20462700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053907",
+        "PERMITTEE_NAME": "Bonnell Aluminum, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755648000000,
+        "EFFECTIVE_DATE": 1755648000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Highway 53 Bonnell Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053907",
+        "LATITUDE": 36.204626999999995,
+        "LONGITUDE": -85.94350999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88609999999994,
+          36.22010000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.093",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1587686400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "SR-264, Bank Stabilization at LM 9.8 maintenance",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.093",
+        "LATITUDE": 36.2201,
+        "LONGITUDE": -85.8861,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87384999999995,
+          36.12689000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172165",
+        "PERMITTEE_NAME": "Billy Woodard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Lancaster Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172165",
+        "LATITUDE": 36.126889999999996,
+        "LONGITUDE": -85.87384999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91989999999998,
+          36.17480000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172271",
+        "PERMITTEE_NAME": "Trousdale Ferry Development LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Trousdale Ferry Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172271",
+        "LATITUDE": 36.174800000000005,
+        "LONGITUDE": -85.9199,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94782499999997,
+          36.175451000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172253",
+        "PERMITTEE_NAME": "El Corral, Inc. ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "Gordonsville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172253",
+        "LATITUDE": 36.175450999999995,
+        "LONGITUDE": -85.947825,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91099999999994,
+          36.28380000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172212",
+        "PERMITTEE_NAME": "Tony Collins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Smith",
+        "SITE_LOCATION": "4 Lake View Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172212",
+        "LATITUDE": 36.2838,
+        "LONGITUDE": -85.911,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

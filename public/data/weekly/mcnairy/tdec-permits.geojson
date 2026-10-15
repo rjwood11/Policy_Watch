@@ -1,0 +1,2059 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42512299999999,
+          35.11663800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.153",
+        "PERMITTEE_NAME": "M&H Farms, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1659484800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "3250 TN 224",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.153",
+        "LATITUDE": 35.116638,
+        "LONGITUDE": -88.425123,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45907599999998,
+          35.14298400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.035",
+        "PERMITTEE_NAME": "Luis Simon",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "360 Albert Robinson Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.035",
+        "LATITUDE": 35.142984,
+        "LONGITUDE": -88.459076,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51997799999998,
+          35.01263400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056177",
+        "PERMITTEE_NAME": "J & B AUTO SALES LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1786406400000,
+        "EFFECTIVE_DATE": 1786406400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "125 OLD HIGHWAY 45",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056177",
+        "LATITUDE": 35.012634,
+        "LONGITUDE": -88.519978,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.55430099999995,
+          35.25761700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.039",
+        "PERMITTEE_NAME": "Kinder Morgan/TN Gas Pipeline Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787529600000,
+        "EFFECTIVE_DATE": 1787616000000,
+        "EXPIRATION_DATE": 1819065600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "southwest of McCann Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.039",
+        "LATITUDE": 35.257616999999996,
+        "LONGITUDE": -88.554301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37527199999994,
+          35.352847000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.212",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "along transmission ROW east of Hwy 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.212",
+        "LATITUDE": 35.352847,
+        "LONGITUDE": -88.375272,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37369999999999,
+          35.35785000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123169",
+        "PERMITTEE_NAME": "Pickwick Electric Cooperative",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "9384 Hardin Graveyard Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123169",
+        "LATITUDE": 35.35785,
+        "LONGITUDE": -88.3737,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62166799999994,
+          35.20223400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123202",
+        "PERMITTEE_NAME": "Industrial Connections & Solutions LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Three Star Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123202",
+        "LATITUDE": 35.202234,
+        "LONGITUDE": -88.621668,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57819599999999,
+          35.13888000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.144b",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788307200000,
+        "EFFECTIVE_DATE": 1788307200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "250 Jones St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.144b",
+        "LATITUDE": 35.13888,
+        "LONGITUDE": -88.57819599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52397099999996,
+          35.364994000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123152",
+        "PERMITTEE_NAME": "Dennis Hicks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "750 Bullman Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123152",
+        "LATITUDE": 35.364993999999996,
+        "LONGITUDE": -88.523971,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57004699999999,
+          35.16132500000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123098",
+        "PERMITTEE_NAME": "Hardin County Regional Health Center DBA Lifespan Health",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "847 Poplar Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123098",
+        "LATITUDE": 35.161325,
+        "LONGITUDE": -88.570047,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52314199999995,
+          35.35298300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123153",
+        "PERMITTEE_NAME": "MERLE KOEHN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "CENTER HILL RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123153",
+        "LATITUDE": 35.352983,
+        "LONGITUDE": -88.52314199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73280699999998,
+          35.04552200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123013",
+        "PERMITTEE_NAME": "State of Tennessee (STREAM)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1435 John Howell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123013",
+        "LATITUDE": 35.045522,
+        "LONGITUDE": -88.732807,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73445099999998,
+          35.04256900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.006",
+        "PERMITTEE_NAME": "Tennessee Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1750982400000,
+        "EFFECTIVE_DATE": 1750982400000,
+        "EXPIRATION_DATE": 1908662400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Big Hill Pond State Park - 1435 John Howell Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.006",
+        "LATITUDE": 35.042569,
+        "LONGITUDE": -88.73445099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62166799999994,
+          35.20223400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123072",
+        "PERMITTEE_NAME": "Selmer/McNairy County Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Three Star Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123072",
+        "LATITUDE": 35.202234,
+        "LONGITUDE": -88.621668,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57819599999999,
+          35.13888000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.144a",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1788307200000,
+        "EFFECTIVE_DATE": 1788307200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "250 Jones St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.144a",
+        "LATITUDE": 35.13888,
+        "LONGITUDE": -88.57819599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42883999999998,
+          35.115830000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.081",
+        "PERMITTEE_NAME": "Johnny Greer",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759795200000,
+        "EFFECTIVE_DATE": 1759795200000,
+        "EXPIRATION_DATE": 1791504000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "3650 Albert Robinson Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.081",
+        "LATITUDE": 35.115829999999995,
+        "LONGITUDE": -88.42884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38529999999997,
+          35.01380000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.141",
+        "PERMITTEE_NAME": "TC Energy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1700611200000,
+        "EFFECTIVE_DATE": 1700611200000,
+        "EXPIRATION_DATE": 1858377600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1960 Federal Rd, Counce, TN 38326",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.141",
+        "LATITUDE": 35.0138,
+        "LONGITUDE": -88.3853,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59211899999997,
+          35.355736000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059711",
+        "PERMITTEE_NAME": "Triple S Enterprises",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759190400000,
+        "EFFECTIVE_DATE": 1759190400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "200 Center Hill RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059711",
+        "LATITUDE": 35.355736,
+        "LONGITUDE": -88.592119,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38713999999999,
+          35.200541000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.080",
+        "PERMITTEE_NAME": "Mid-South Family Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759795200000,
+        "EFFECTIVE_DATE": 1759795200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1834-1668 TN-117",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.080",
+        "LATITUDE": 35.200541,
+        "LONGITUDE": -88.38714,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41498899999993,
+          35.11955300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.078",
+        "PERMITTEE_NAME": "DBH Attachments",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1790726400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1720 - 1616 Russell Gray Store Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.078",
+        "LATITUDE": 35.119552999999996,
+        "LONGITUDE": -88.41498899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52756099999993,
+          35.14043300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.079",
+        "PERMITTEE_NAME": "Robert Chambers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759968000000,
+        "EFFECTIVE_DATE": 1759968000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "126 Whitten Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.079",
+        "LATITUDE": 35.140433,
+        "LONGITUDE": -88.52756099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.36819399999996,
+          35.25402800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.044",
+        "PERMITTEE_NAME": "SR Adamsville, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754870400000,
+        "EFFECTIVE_DATE": 1754870400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1080 WOODS RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.044",
+        "LATITUDE": 35.254028,
+        "LONGITUDE": -88.368194,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59294699999998,
+          35.16691600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.065",
+        "PERMITTEE_NAME": "Selmer Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758672000000,
+        "EFFECTIVE_DATE": 1758672000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "500 Peachtree Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.065",
+        "LATITUDE": 35.166916,
+        "LONGITUDE": -88.592947,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47723299999996,
+          35.28402100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.034",
+        "PERMITTEE_NAME": "Steve A. Rickman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747699200000,
+        "EFFECTIVE_DATE": 1747612800000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1091 Terry Hair Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.034",
+        "LATITUDE": 35.284020999999996,
+        "LONGITUDE": -88.477233,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60334399999994,
+          35.173448000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122739",
+        "PERMITTEE_NAME": "Purdy Place Apartments, LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "135 New Bethel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122739",
+        "LATITUDE": 35.173448,
+        "LONGITUDE": -88.60334399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61824399999995,
+          35.19828700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123170",
+        "PERMITTEE_NAME": "The Selmer/McNairy County Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1020 Tennessee Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123170",
+        "LATITUDE": 35.198287,
+        "LONGITUDE": -88.61824399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61333999999994,
+          35.069556000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122865",
+        "PERMITTEE_NAME": "Town of Ramer/Selmer Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Key Ln, W. Industrial Park Rd., E. Industrial Park Rd, Luther Ingle Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122865",
+        "LATITUDE": 35.069556,
+        "LONGITUDE": -88.61334,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61824399999995,
+          35.19828700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122815",
+        "PERMITTEE_NAME": "Selmer/McNairy County Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1020 Tennessee Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122815",
+        "LATITUDE": 35.198287,
+        "LONGITUDE": -88.61824399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.72219999999999,
+          35.03520000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.079b",
+        "PERMITTEE_NAME": "Tennessee State Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1684972800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1435 John Howell Road, Pocahontas",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.079b",
+        "LATITUDE": 35.0352,
+        "LONGITUDE": -88.7222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.72219999999999,
+          35.03520000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.079",
+        "PERMITTEE_NAME": "Tennessee State Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1684972800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1435 John Howell Road, Pocahontas",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.079",
+        "LATITUDE": 35.0352,
+        "LONGITUDE": -88.7222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54999999999995,
+          35.15861000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122560",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "851 High School Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122560",
+        "LATITUDE": 35.158609999999996,
+        "LONGITUDE": -88.55,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66428999999994,
+          35.198770000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050232",
+        "PERMITTEE_NAME": "Price Sawmill, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1781481600000,
+        "EFFECTIVE_DATE": 1781481600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "3881 HWY. 64 WEST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050232",
+        "LATITUDE": 35.198769999999996,
+        "LONGITUDE": -88.66429,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56999999999994,
+          35.14000000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110183",
+        "PERMITTEE_NAME": "River City Concrete, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1708041600000,
+        "EFFECTIVE_DATE": 1708041600000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "850 Mulberry Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110183",
+        "LATITUDE": 35.14,
+        "LONGITUDE": -88.57000000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59751099999994,
+          35.15497000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054470",
+        "PERMITTEE_NAME": "Phillips 66 Spectrum Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "500 INDUSTRIAL PARK DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054470",
+        "LATITUDE": 35.15497,
+        "LONGITUDE": -88.597511,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63130799999999,
+          35.27962400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053525",
+        "PERMITTEE_NAME": "Phoenix Paper Wickliffe LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "8235 HIGHWAY 45 N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053525",
+        "LATITUDE": 35.279624,
+        "LONGITUDE": -88.63130799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59222199999994,
+          35.159444000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054571",
+        "PERMITTEE_NAME": "Connector Castings Inc",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1656288000000,
+        "EFFECTIVE_DATE": 1656633600000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "671 Industrial Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054571",
+        "LATITUDE": 35.159444,
+        "LONGITUDE": -88.59222199999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59999999999997,
+          35.16250000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053025",
+        "PERMITTEE_NAME": "Industrial Connections & Solutions LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "400 South Fourth Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053025",
+        "LATITUDE": 35.1625,
+        "LONGITUDE": -88.60000000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59396999999996,
+          35.16528100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053578",
+        "PERMITTEE_NAME": "SMC Recycling, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "117 TEXACO DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053578",
+        "LATITUDE": 35.165281,
+        "LONGITUDE": -88.59397,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59226999999998,
+          35.170083000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056194",
+        "PERMITTEE_NAME": "Lambert's Used Cars",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766361600000,
+        "EFFECTIVE_DATE": 1766361600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "863 RACE PATH RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056194",
+        "LATITUDE": 35.170083,
+        "LONGITUDE": -88.59227,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60069999999996,
+          35.18160000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056764",
+        "PERMITTEE_NAME": "Monogram Refrigeration, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766966400000,
+        "EFFECTIVE_DATE": 1766966400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "789 PEACH STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056764",
+        "LATITUDE": 35.1816,
+        "LONGITUDE": -88.6007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58179999999999,
+          34.99950000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120648",
+        "PERMITTEE_NAME": "James Marsh",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Gay Thompson Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120648",
+        "LATITUDE": 34.999500000000005,
+        "LONGITUDE": -88.5818,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43333299999995,
+          35.06250000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120651",
+        "PERMITTEE_NAME": "Dale E. Sagely",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Grace Thomas Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120651",
+        "LATITUDE": 35.0625,
+        "LONGITUDE": -88.43333299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61879999999996,
+          35.22869000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120133",
+        "PERMITTEE_NAME": "Selmer/McNairy Co. Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Three Star Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120133",
+        "LATITUDE": 35.22869,
+        "LONGITUDE": -88.61880000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42231999999996,
+          35.15582000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120934",
+        "PERMITTEE_NAME": "Billy Brown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Stantonville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120934",
+        "LATITUDE": 35.15582,
+        "LONGITUDE": -88.42232,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.55165999999997,
+          35.15500000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120971",
+        "PERMITTEE_NAME": "Ted Carter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "About 3/4 mile past Selmer High School on the right, Griswell Ln.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120971",
+        "LATITUDE": 35.155,
+        "LONGITUDE": -88.55166,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61458199999998,
+          35.19693600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058024",
+        "PERMITTEE_NAME": "United Stainless, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1776643200000,
+        "EFFECTIVE_DATE": 1776643200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "95 LAKEVIEW DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058024",
+        "LATITUDE": 35.196936,
+        "LONGITUDE": -88.614582,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41243999999995,
+          35.23132000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120939",
+        "PERMITTEE_NAME": "John Liddy",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Boyd Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120939",
+        "LATITUDE": 35.23132,
+        "LONGITUDE": -88.41243999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54449999999997,
+          35.17960000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120938",
+        "PERMITTEE_NAME": "Tracey Carroll and Rex Carroll",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Ammonds Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120938",
+        "LATITUDE": 35.1796,
+        "LONGITUDE": -88.5445,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40158299999996,
+          35.16375700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058039",
+        "PERMITTEE_NAME": "APAC-TENNESSEE, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770854400000,
+        "EFFECTIVE_DATE": 1770854400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "950 Dennie Barber Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058039",
+        "LATITUDE": 35.163757,
+        "LONGITUDE": -88.401583,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61342899999994,
+          35.20194800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058075",
+        "PERMITTEE_NAME": "Monogram Refrigeration, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766966400000,
+        "EFFECTIVE_DATE": 1766966400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "1020 TENNESSEE AVENUE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058075",
+        "LATITUDE": 35.201948,
+        "LONGITUDE": -88.613429,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37749999999994,
+          35.21305600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120950",
+        "PERMITTEE_NAME": "Nyles Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Old Shiloh Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120950",
+        "LATITUDE": 35.213056,
+        "LONGITUDE": -88.3775,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62008899999995,
+          35.20056000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058182",
+        "PERMITTEE_NAME": "United Stainless Cutters",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1776643200000,
+        "EFFECTIVE_DATE": 1776643200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "130 THREE STAR DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058182",
+        "LATITUDE": 35.200559999999996,
+        "LONGITUDE": -88.620089,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62686899999994,
+          35.25291400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058466",
+        "PERMITTEE_NAME": "Jeffrey Faulkner dba Hi-Way Wrecker Service",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769644800000,
+        "EFFECTIVE_DATE": 1769644800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "93 REDMON ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058466",
+        "LATITUDE": 35.252914,
+        "LONGITUDE": -88.626869,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61149999999998,
+          35.05430000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121326",
+        "PERMITTEE_NAME": "Michael N. Brown",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "South of Muddy Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121326",
+        "LATITUDE": 35.054300000000005,
+        "LONGITUDE": -88.6115,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.39182999999997,
+          35.167530000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121533",
+        "PERMITTEE_NAME": "Jackie Hamm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Thomas Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121533",
+        "LATITUDE": 35.16753,
+        "LONGITUDE": -88.39183,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60288699999995,
+          35.32076900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121471",
+        "PERMITTEE_NAME": "David Baggett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "255 D Baggett LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121471",
+        "LATITUDE": 35.320769,
+        "LONGITUDE": -88.602887,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.39194399999997,
+          35.21888900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557009",
+        "PERMITTEE_NAME": "City of Adamsville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1714953600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1806537600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "13nw Snake Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557009",
+        "LATITUDE": 35.218889,
+        "LONGITUDE": -88.391944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53944399999995,
+          35.167778000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557010",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1787616000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1810598400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4NE Wolf Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557010",
+        "LATITUDE": 35.167778,
+        "LONGITUDE": -88.53944399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52861099999996,
+          35.18750000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557011",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1787616000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1811203200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4NE Crooked Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557011",
+        "LATITUDE": 35.1875,
+        "LONGITUDE": -88.528611,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51611099999997,
+          35.19527800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557012",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1787616000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1811203200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4NE Sulfur Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557012",
+        "LATITUDE": 35.195278,
+        "LONGITUDE": -88.516111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52722199999994,
+          35.177778000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557013",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1787616000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1810598400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4NE Sibley Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557013",
+        "LATITUDE": 35.177777999999996,
+        "LONGITUDE": -88.527222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58249999999998,
+          35.26972200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557015",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1787616000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1810598400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "12ASE Cypress Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557015",
+        "LATITUDE": 35.269722,
+        "LONGITUDE": -88.58250000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57583299999999,
+          35.252222000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557016",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1720396800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1781568000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "12ASE Tacker Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557016",
+        "LATITUDE": 35.252221999999996,
+        "LONGITUDE": -88.575833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.55333299999995,
+          35.231944000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557017",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1720396800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1781568000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4NE Sandy Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557017",
+        "LATITUDE": 35.231944,
+        "LONGITUDE": -88.553333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53749999999997,
+          35.17888900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557006",
+        "PERMITTEE_NAME": "3 Hawks LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1749513600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1814227200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4ne Joplin Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557006",
+        "LATITUDE": 35.178889,
+        "LONGITUDE": -88.53750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73277799999994,
+          35.04583300000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557008",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1775520000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1836604800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4sw Dismal Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557008",
+        "LATITUDE": 35.045833,
+        "LONGITUDE": -88.732778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58333299999998,
+          35.16327300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNP100012",
+        "PERMITTEE_NAME": "Pickwick Electric Cooperative",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TNP",
+        "ISSUANCE_DATE": 1654473600000,
+        "EFFECTIVE_DATE": 1654560000000,
+        "EXPIRATION_DATE": 1809043200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "530 Mulberry Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNP100012",
+        "LATITUDE": 35.163273,
+        "LONGITUDE": -88.583333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73249999999996,
+          35.08777800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557025",
+        "PERMITTEE_NAME": "Cedar Creek H.O.A.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1775088000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1869264000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4sw Trib-morphis Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557025",
+        "LATITUDE": 35.087778,
+        "LONGITUDE": -88.7325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63194399999998,
+          35.09000000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557019",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1707091200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1796688000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4SW Ramer Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557019",
+        "LATITUDE": 35.09,
+        "LONGITUDE": -88.63194399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61999999999995,
+          35.11472200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557020",
+        "PERMITTEE_NAME": "McNairy County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1707091200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1796688000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "4SE Trib-Cypress Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557020",
+        "LATITUDE": 35.114722,
+        "LONGITUDE": -88.62,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54407699999996,
+          35.07576700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.213",
+        "PERMITTEE_NAME": "Loves Travel Stops",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1491782400000,
+        "EFFECTIVE_DATE": 1491782400000,
+        "EXPIRATION_DATE": 1649462400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "6870 Highway 45 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.213",
+        "LATITUDE": 35.075767,
+        "LONGITUDE": -88.544077,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54407699999996,
+          35.07576700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121990",
+        "PERMITTEE_NAME": "Love's Travel Stop & Country Stores, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "6870 Highway 45 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121990",
+        "LATITUDE": 35.075767,
+        "LONGITUDE": -88.544077,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58067099999994,
+          35.16394800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121945",
+        "PERMITTEE_NAME": "McNairy County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "533 E. Poplar Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121945",
+        "LATITUDE": 35.163948,
+        "LONGITUDE": -88.580671,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.39799999999997,
+          35.274500000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122184",
+        "PERMITTEE_NAME": "Adamsville/McNairy County Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Copeland Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122184",
+        "LATITUDE": 35.2745,
+        "LONGITUDE": -88.39800000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.71972099999994,
+          35.06338100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.250",
+        "PERMITTEE_NAME": "Tennessee State Parks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1549584000000,
+        "EFFECTIVE_DATE": 1549584000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "JOHN HOWELL RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.250",
+        "LATITUDE": 35.063381,
+        "LONGITUDE": -88.71972099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57339999999994,
+          35.144300000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122398",
+        "PERMITTEE_NAME": "Tim W. Hudson & Jesse R. Lott",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "844 Mulberry Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122398",
+        "LATITUDE": 35.1443,
+        "LONGITUDE": -88.5734,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.77638899999994,
+          35.13166700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "557003",
+        "PERMITTEE_NAME": "McNairy Associates",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1714003200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1807574400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "440NE Lee Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:557003",
+        "LATITUDE": 35.131667,
+        "LONGITUDE": -88.776389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38320199999998,
+          35.13654400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.055",
+        "PERMITTEE_NAME": "James W Fullwood Jr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1616371200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "Owl Creek near Shiloh",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.055",
+        "LATITUDE": 35.136544,
+        "LONGITUDE": -88.383202,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52615199999997,
+          35.14481400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.057",
+        "PERMITTEE_NAME": "Robert Chambers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1618876800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "McNairy",
+        "SITE_LOCATION": "126 Whitten Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.057",
+        "LATITUDE": 35.144814,
+        "LONGITUDE": -88.526152,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

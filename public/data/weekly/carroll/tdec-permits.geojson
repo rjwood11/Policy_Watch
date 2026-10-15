@@ -1,0 +1,3827 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53921799999995,
+          36.09106000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122591",
+        "PERMITTEE_NAME": "Sydnor Road Farm, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Sydnor Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122591",
+        "LATITUDE": 36.09106,
+        "LONGITUDE": -88.53921799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.05",
+        "PERMITTEE_NAME": "Wall Trucking Co.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.05",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46279999999996,
+          35.94220000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2202.036",
+        "PERMITTEE_NAME": "Chip Anderson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Baker Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2202.036",
+        "LATITUDE": 35.9422,
+        "LONGITUDE": -88.4628,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46279999999996,
+          35.94220000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121489.01",
+        "PERMITTEE_NAME": "Katherine L. Weirs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Baker Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121489.01",
+        "LATITUDE": 35.9422,
+        "LONGITUDE": -88.4628,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46279999999996,
+          35.94220000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2202.035",
+        "PERMITTEE_NAME": "Melissa Peck",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Baker Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2202.035",
+        "LATITUDE": 35.9422,
+        "LONGITUDE": -88.4628,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59511399999997,
+          35.817517000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123022",
+        "PERMITTEE_NAME": "Cedar Grove Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "US Highway 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123022",
+        "LATITUDE": 35.817516999999995,
+        "LONGITUDE": -88.595114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44929999999994,
+          36.10465800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00381",
+        "PERMITTEE_NAME": "KAL Pork, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1784678400000,
+        "EFFECTIVE_DATE": 1784678400000,
+        "EXPIRATION_DATE": 1885420800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "3841 Fields School Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00381",
+        "LATITUDE": 36.104658,
+        "LONGITUDE": -88.44930000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52823499999994,
+          36.13374300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123030",
+        "PERMITTEE_NAME": "City of McKenzie",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Mulberry Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123030",
+        "LATITUDE": 36.133742999999996,
+        "LONGITUDE": -88.528235,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49799999999999,
+          35.928600000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123037",
+        "PERMITTEE_NAME": "Carroll County Electric Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "13039 Broadway of America",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123037",
+        "LATITUDE": 35.9286,
+        "LONGITUDE": -88.498,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66973399999995,
+          36.00737200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123163",
+        "PERMITTEE_NAME": "Lisa Vu",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Old Trezevant Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123163",
+        "LATITUDE": 36.007372,
+        "LONGITUDE": -88.66973399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49052999999998,
+          36.10775000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192467",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192467",
+        "LATITUDE": 36.107749999999996,
+        "LONGITUDE": -88.49052999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46679999999998,
+          36.083300000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123194",
+        "PERMITTEE_NAME": "Carroll County Airport",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "535 Airport Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123194",
+        "LATITUDE": 36.0833,
+        "LONGITUDE": -88.4668,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44956799999994,
+          35.918300000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123204",
+        "PERMITTEE_NAME": "Thousand Acre Lake Resort, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Cassino Road off of Purdy Road.  Road dead ends into water, across the cove from Kirk Road.(No house on lot, right hand side just before you drive in the water)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123204",
+        "LATITUDE": 35.9183,
+        "LONGITUDE": -88.449568,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66816099999994,
+          35.852569000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.049",
+        "PERMITTEE_NAME": "Tennessee Army National Guard",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "425 Arsenal Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.049",
+        "LATITUDE": 35.852568999999995,
+        "LONGITUDE": -88.668161,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46398799999997,
+          35.92398300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.025",
+        "PERMITTEE_NAME": "Tracy Hayes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1776988800000,
+        "EFFECTIVE_DATE": 1776988800000,
+        "EXPIRATION_DATE": 1808438400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "0 Shoreline Drive Lot #5",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.025",
+        "LATITUDE": 35.923983,
+        "LONGITUDE": -88.463988,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.69439999999997,
+          35.95920000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.024-26",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1942963200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "From West of Cades-Atwood Road to East of SR-77 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.024-26",
+        "LATITUDE": 35.9592,
+        "LONGITUDE": -88.6944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66816099999994,
+          35.852569000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123187",
+        "PERMITTEE_NAME": "TN Department of Military",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "425 Arsenal Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123187",
+        "LATITUDE": 35.852568999999995,
+        "LONGITUDE": -88.668161,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50779499999999,
+          36.127222000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123193",
+        "PERMITTEE_NAME": "City of McKenzie, TN",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "2470 E. Cedar Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123193",
+        "LATITUDE": 36.127221999999996,
+        "LONGITUDE": -88.507795,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59529999999995,
+          35.81710000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.034",
+        "PERMITTEE_NAME": "Cedar Grove Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782345600000,
+        "EFFECTIVE_DATE": 1782345600000,
+        "EXPIRATION_DATE": 1813795200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Hwy 70 38348",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.034",
+        "LATITUDE": 35.8171,
+        "LONGITUDE": -88.59530000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45399199999997,
+          35.93106000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123124",
+        "PERMITTEE_NAME": "Beaver Creek Management, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Dogwood Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123124",
+        "LATITUDE": 35.931059999999995,
+        "LONGITUDE": -88.453992,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27423999999996,
+          35.558350000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.022",
+        "PERMITTEE_NAME": "David Lee Turner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1778112000000,
+        "EFFECTIVE_DATE": 1778112000000,
+        "EXPIRATION_DATE": 1809648000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "221 Sportsman Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.022",
+        "LATITUDE": 35.55835,
+        "LONGITUDE": -88.27423999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38839999999999,
+          35.87590000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123158",
+        "PERMITTEE_NAME": "South Carroll County Special School District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "145 Clarksburg Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123158",
+        "LATITUDE": 35.8759,
+        "LONGITUDE": -88.3884,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66816099999994,
+          35.852569000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.106",
+        "PERMITTEE_NAME": "TN Army National Guard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765152000000,
+        "EFFECTIVE_DATE": 1765152000000,
+        "EXPIRATION_DATE": 1796688000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "425 Arsenal Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.106",
+        "LATITUDE": 35.852568999999995,
+        "LONGITUDE": -88.668161,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61389999999994,
+          36.00210000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.099",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762300800000,
+        "EFFECTIVE_DATE": 1762300800000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR-76 (US 79) From East of SR-76 to West of Cutlip Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.099",
+        "LATITUDE": 36.0021,
+        "LONGITUDE": -88.6139,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47433799999999,
+          35.92394100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.109",
+        "PERMITTEE_NAME": "Gene Myers",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768262400000,
+        "EFFECTIVE_DATE": 1768262400000,
+        "EXPIRATION_DATE": 1799971200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Shoreview Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.109",
+        "LATITUDE": 35.923941,
+        "LONGITUDE": -88.474338,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43971199999999,
+          36.02335000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123120",
+        "PERMITTEE_NAME": "Barsto Rental et al Ensley Dirtwork and Investment Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Veterans Drive (North east corner of Veterans Drive and Hwy 22/Paris St.)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123120",
+        "LATITUDE": 36.02335,
+        "LONGITUDE": -88.439712,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45699199999996,
+          35.93057900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.029",
+        "PERMITTEE_NAME": "John Fordon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1780531200000,
+        "EFFECTIVE_DATE": 1780531200000,
+        "EXPIRATION_DATE": 1811980800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "193 Sportsman Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.029",
+        "LATITUDE": 35.930579,
+        "LONGITUDE": -88.456992,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61389999999994,
+          36.00210000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192260",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR-76 (US 79) From East of SR-76 to West of Cutlip Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192260",
+        "LATITUDE": 36.0021,
+        "LONGITUDE": -88.6139,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.07",
+        "PERMITTEE_NAME": "Dwight Davis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.07",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40122199999996,
+          35.963419000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122914",
+        "PERMITTEE_NAME": "Huntingdon Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "16 Kiss Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122914",
+        "LATITUDE": 35.963419,
+        "LONGITUDE": -88.40122199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49194599999998,
+          36.11681800000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056365",
+        "PERMITTEE_NAME": "Republic Services of Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1778025600000,
+        "EFFECTIVE_DATE": 1778025600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "21686 HIGHWAY 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056365",
+        "LATITUDE": 36.116817999999995,
+        "LONGITUDE": -88.491946,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.09",
+        "PERMITTEE_NAME": "Paul Marshall",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.09",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27295699999996,
+          35.83979000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122685",
+        "PERMITTEE_NAME": "Mike Burleson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Hwy 114",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122685",
+        "LATITUDE": 35.83979,
+        "LONGITUDE": -88.27295699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.11",
+        "PERMITTEE_NAME": "Brent Laird",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.11",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.16",
+        "PERMITTEE_NAME": "Curtis Smith and Felecia Short",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.16",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22719999999998,
+          36.04320000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.030",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1782172800000,
+        "EFFECTIVE_DATE": 1782172800000,
+        "EXPIRATION_DATE": 1813622400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "CSX Row",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.030",
+        "LATITUDE": 36.0432,
+        "LONGITUDE": -88.22720000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44942099999997,
+          35.91734500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.074",
+        "PERMITTEE_NAME": "Tony Tucker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "1247 Cassinino Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.074",
+        "LATITUDE": 35.917345,
+        "LONGITUDE": -88.449421,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51982999999996,
+          35.84925400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.069",
+        "PERMITTEE_NAME": "Susan Stanley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "33 Arrowhead Pt",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.069",
+        "LATITUDE": 35.849253999999995,
+        "LONGITUDE": -88.51983,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46819999999997,
+          36.07680000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192468",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR-22 from MM 18.77 to MM 19.14",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192468",
+        "LATITUDE": 36.0768,
+        "LONGITUDE": -88.46820000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47220999999996,
+          35.93307000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.093",
+        "PERMITTEE_NAME": "Marco Taaffe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1764633600000,
+        "EFFECTIVE_DATE": 1764633600000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Reedy Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.093",
+        "LATITUDE": 35.93307,
+        "LONGITUDE": -88.47220999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47025999999994,
+          35.928450000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121501",
+        "PERMITTEE_NAME": "Robert Reynolds",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Kyle Rd. at Reedy Creek Rd. on south side of Huntingdon Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121501",
+        "LATITUDE": 35.92845,
+        "LONGITUDE": -88.47026,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61389999999994,
+          36.00210000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.186",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1711411200000,
+        "EFFECTIVE_DATE": 1711411200000,
+        "EXPIRATION_DATE": 1869091200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR-76 (US 79) From East of SR-76 to West of Cutlip Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.186",
+        "LATITUDE": 36.0021,
+        "LONGITUDE": -88.6139,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40810799999997,
+          35.962608000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050718",
+        "PERMITTEE_NAME": "Dynamix Castine Fluxes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759276800000,
+        "EFFECTIVE_DATE": 1759276800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "31 Kiss Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050718",
+        "LATITUDE": 35.962607999999996,
+        "LONGITUDE": -88.408108,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47029099999997,
+          35.92190100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.021",
+        "PERMITTEE_NAME": "Michael Haywood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1743638400000,
+        "EXPIRATION_DATE": 1775174400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "580 Kyle Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.021",
+        "LATITUDE": 35.921901,
+        "LONGITUDE": -88.47029099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47025999999994,
+          35.928450000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121501.01",
+        "PERMITTEE_NAME": "John Copeland",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Kyle Rd. at Reedy Creek Rd. on south side of Huntingdon Lake",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121501.01",
+        "LATITUDE": 35.92845,
+        "LONGITUDE": -88.47026,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28089999999997,
+          35.551600000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.049",
+        "PERMITTEE_NAME": "Jeff McKee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768348800000,
+        "EFFECTIVE_DATE": 1768348800000,
+        "EXPIRATION_DATE": 1904947200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "6020 Carter View Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.049",
+        "LATITUDE": 35.5516,
+        "LONGITUDE": -88.2809,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38368999999994,
+          36.017175000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053882",
+        "PERMITTEE_NAME": "Granges Americas Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753747200000,
+        "EFFECTIVE_DATE": 1754006400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "400 Bill Brooks Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053882",
+        "LATITUDE": 36.017175,
+        "LONGITUDE": -88.38369,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.17",
+        "PERMITTEE_NAME": "Susan Stanley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.17",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45859999999999,
+          35.91850000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.094",
+        "PERMITTEE_NAME": "Brad Meeks",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762387200000,
+        "EFFECTIVE_DATE": 1762387200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Sterling Shores Phase 1, Stately Oak Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.094",
+        "LATITUDE": 35.9185,
+        "LONGITUDE": -88.4586,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40837399999998,
+          35.96307800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.047",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1714521600000,
+        "EFFECTIVE_DATE": 1714521600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR-22 9.78 to 9.98 L.M.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.047",
+        "LATITUDE": 35.963077999999996,
+        "LONGITUDE": -88.408374,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38368999999994,
+          36.017175000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122741",
+        "PERMITTEE_NAME": "Granges Americas, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "400 Bill Brooks Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122741",
+        "LATITUDE": 36.017175,
+        "LONGITUDE": -88.38369,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64169999999996,
+          35.980800000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122747",
+        "PERMITTEE_NAME": "Delta Contracting Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "US Hwy 70W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122747",
+        "LATITUDE": 35.9808,
+        "LONGITUDE": -88.6417,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40848699999998,
+          36.12526200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00024",
+        "PERMITTEE_NAME": "Burcham Swine Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1441065600000,
+        "EFFECTIVE_DATE": 1441065600000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "6450 Highway 423",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00024",
+        "LATITUDE": 36.125262,
+        "LONGITUDE": -88.408487,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56489299999998,
+          36.07512900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.270",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1712102400000,
+        "EFFECTIVE_DATE": 1712016000000,
+        "EXPIRATION_DATE": 1869696000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "McKenzie, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.270",
+        "LATITUDE": 36.075129,
+        "LONGITUDE": -88.564893,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44346299999995,
+          36.008542000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122787",
+        "PERMITTEE_NAME": "Lake Area Sewer System Improvements",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR-22 Bypass",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122787",
+        "LATITUDE": 36.008542,
+        "LONGITUDE": -88.443463,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.02",
+        "PERMITTEE_NAME": "Bill Aldridge",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.02",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2402.013",
+        "PERMITTEE_NAME": "Paul Dang",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2402.013",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58599999999996,
+          36.069000000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192281",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Southwest of the intersection of Highway 79 and New Zion Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192281",
+        "LATITUDE": 36.069,
+        "LONGITUDE": -88.586,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.15",
+        "PERMITTEE_NAME": "Don Elkins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.15",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44942099999997,
+          35.91734500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.257",
+        "PERMITTEE_NAME": "Tony and Charlotte Tucker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749686400000,
+        "EFFECTIVE_DATE": 1749686400000,
+        "EXPIRATION_DATE": 1907366400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "1247 Cassinino Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.257",
+        "LATITUDE": 35.917345,
+        "LONGITUDE": -88.449421,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49249999999995,
+          36.13693000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122988",
+        "PERMITTEE_NAME": "Tennessee Board of Regents",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "16940 HIGHLAND DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122988",
+        "LATITUDE": 36.13693,
+        "LONGITUDE": -88.4925,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.14",
+        "PERMITTEE_NAME": "Juliann Russell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.14",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.67162499999995,
+          35.975208000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122928",
+        "PERMITTEE_NAME": "Town of Atwood",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Us Highway 70A, Greenhill Rd, Stewart Rd, Second Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122928",
+        "LATITUDE": 35.975207999999995,
+        "LONGITUDE": -88.67162499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.39730299999997,
+          35.99902400000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122948",
+        "PERMITTEE_NAME": "Jacob Smothers",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Veterans Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122948",
+        "LATITUDE": 35.999024,
+        "LONGITUDE": -88.397303,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51829999999995,
+          36.15130000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122655",
+        "PERMITTEE_NAME": "City of McKenzie",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "McKenzie Park 570 North Como St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122655",
+        "LATITUDE": 36.1513,
+        "LONGITUDE": -88.51830000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.08",
+        "PERMITTEE_NAME": "Matthew and Colleen Lohsl",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.08",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56489299999998,
+          36.07512900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122837",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "McKenzie, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122837",
+        "LATITUDE": 36.075129,
+        "LONGITUDE": -88.564893,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47562499999998,
+          35.92425300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122114.01",
+        "PERMITTEE_NAME": "Tim & Jeannie Allen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "24 Kyle Road, Huntingdon, TN 38344",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122114.01",
+        "LATITUDE": 35.924253,
+        "LONGITUDE": -88.475625,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30342299999995,
+          36.019686000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00380",
+        "PERMITTEE_NAME": "Bar K Cattle Co",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1787702400000,
+        "EFFECTIVE_DATE": 1787702400000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "1103 Bobbitt Road, Hollow Rock, TN 38342",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00380",
+        "LATITUDE": 36.019686,
+        "LONGITUDE": -88.303423,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27971599999995,
+          35.82459300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122820",
+        "PERMITTEE_NAME": "Alexandria Burleson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Rainey Cemetery Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122820",
+        "LATITUDE": 35.824593,
+        "LONGITUDE": -88.279716,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22599999999994,
+          35.966000000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097035",
+        "PERMITTEE_NAME": "Covia Solutions LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1740485966000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1832112000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Sand Mill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097035",
+        "LATITUDE": 35.966,
+        "LONGITUDE": -88.226,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47232999999994,
+          35.93210000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122817",
+        "PERMITTEE_NAME": "Ricky Hoing",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Reedy Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122817",
+        "LATITUDE": 35.9321,
+        "LONGITUDE": -88.47233,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.12",
+        "PERMITTEE_NAME": "Chatham Home",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.12",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.10",
+        "PERMITTEE_NAME": "Lindsey Skaggs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.10",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.13",
+        "PERMITTEE_NAME": "Shawn Daley",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.13",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24269999999996,
+          36.03870000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122750",
+        "PERMITTEE_NAME": "Farmer and Associates, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Unassigned parcel, Bruceton, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122750",
+        "LATITUDE": 36.0387,
+        "LONGITUDE": -88.2427,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38054099999994,
+          36.101980000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00376",
+        "PERMITTEE_NAME": "Tosh Farms - Abundis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1780963200000,
+        "EFFECTIVE_DATE": 1780963200000,
+        "EXPIRATION_DATE": 1822262400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Futrell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00376",
+        "LATITUDE": 36.10198,
+        "LONGITUDE": -88.380541,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2202.044",
+        "PERMITTEE_NAME": "Mainstay Builders",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2202.044",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51611099999997,
+          36.14166700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121242",
+        "PERMITTEE_NAME": "Bethel University",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "325 Cherry Avenue (Carroll County)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121242",
+        "LATITUDE": 36.141667,
+        "LONGITUDE": -88.516111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.03",
+        "PERMITTEE_NAME": "Nickolas Friend",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.03",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66660399999995,
+          36.00222900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122571",
+        "PERMITTEE_NAME": "Austin Phan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Old Trezevant Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122571",
+        "LATITUDE": 36.002229,
+        "LONGITUDE": -88.66660399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.06",
+        "PERMITTEE_NAME": "Josh Cawthon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.06",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27076099999994,
+          35.97603000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00370",
+        "PERMITTEE_NAME": "Tosh Pork, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1784073600000,
+        "EFFECTIVE_DATE": 1784073600000,
+        "EXPIRATION_DATE": 1790726400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "East end of Corn Lane in Carroll County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00370",
+        "LATITUDE": 35.97603,
+        "LONGITUDE": -88.270761,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.04",
+        "PERMITTEE_NAME": "Doug Burgess",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.04",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48171099999996,
+          35.848307000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122577",
+        "PERMITTEE_NAME": "Ngan Kim Duong",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Cook Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122577",
+        "LATITUDE": 35.848307,
+        "LONGITUDE": -88.48171099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61389999999994,
+          36.00210000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.091",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760659200000,
+        "EFFECTIVE_DATE": 1760659200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR-76 (US 79) From East of SR-76 to West of Cutlip Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.091",
+        "LATITUDE": 36.0021,
+        "LONGITUDE": -88.6139,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41144999999995,
+          36.01707000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120896",
+        "PERMITTEE_NAME": "Shane Bartholomew/Paul Stokes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Control Map 63P - Parcel 1.00",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120896",
+        "LATITUDE": 36.01707,
+        "LONGITUDE": -88.41145,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51476299999996,
+          36.126419000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110010",
+        "PERMITTEE_NAME": "Mid-Way Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1707350400000,
+        "EFFECTIVE_DATE": 1707350400000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "24 Oak Street\r\n",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110010",
+        "LATITUDE": 36.126419,
+        "LONGITUDE": -88.514763,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24604099999999,
+          36.04268500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053238",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "310 Maple Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053238",
+        "LATITUDE": 36.042685,
+        "LONGITUDE": -88.24604099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40759899999995,
+          35.95246700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056007",
+        "PERMITTEE_NAME": "Rex Berry dba 22 Auto Salvage",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1777593600000,
+        "EFFECTIVE_DATE": 1777593600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "9110 HWY 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056007",
+        "LATITUDE": 35.952467,
+        "LONGITUDE": -88.40759899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38874199999998,
+          36.01628500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051781",
+        "PERMITTEE_NAME": "HEXPOL Compounding, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1762214400000,
+        "EFFECTIVE_DATE": 1762214400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "55 ASSOCIATED WAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051781",
+        "LATITUDE": 36.016284999999996,
+        "LONGITUDE": -88.388742,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46931999999998,
+          36.082350000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053656",
+        "PERMITTEE_NAME": "McKenzie Valve & Machining LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767870219000,
+        "EFFECTIVE_DATE": 1767870219000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "145 Airport Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053656",
+        "LATITUDE": 36.08235,
+        "LONGITUDE": -88.46932,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40869999999995,
+          35.960500000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120390",
+        "PERMITTEE_NAME": "Huntingdon Industrial Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "22 ByPass",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120390",
+        "LATITUDE": 35.9605,
+        "LONGITUDE": -88.40870000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50999999999999,
+          36.14876000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056878",
+        "PERMITTEE_NAME": "Shomaker Lumber Company, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761923786000,
+        "EFFECTIVE_DATE": 1761923786000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "24895 HWY. 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056878",
+        "LATITUDE": 36.148759999999996,
+        "LONGITUDE": -88.51,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40527799999995,
+          36.06444000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120900",
+        "PERMITTEE_NAME": "Carroll County Watershed Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Vicinity of the intersection of Guins Creek and Crooked Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120900",
+        "LATITUDE": 36.06444,
+        "LONGITUDE": -88.405278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46943999999996,
+          35.93580000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121053",
+        "PERMITTEE_NAME": "Carroll County Watershed Authority (Office and Visitor's Center)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Huntingdon",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121053",
+        "LATITUDE": 35.9358,
+        "LONGITUDE": -88.46943999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40719999999999,
+          36.02467000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121065",
+        "PERMITTEE_NAME": "Steve Carter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "High Street, Huntingdon",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121065",
+        "LATITUDE": 36.02467,
+        "LONGITUDE": -88.4072,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46559999999994,
+          36.08390000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120987",
+        "PERMITTEE_NAME": "Carroll County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Airport Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120987",
+        "LATITUDE": 36.0839,
+        "LONGITUDE": -88.46560000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48233299999998,
+          36.03502800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121158",
+        "PERMITTEE_NAME": "Carroll County Sports Shooting Park",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "McAdoo Cemetary Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121158",
+        "LATITUDE": 36.035028,
+        "LONGITUDE": -88.482333,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66816099999994,
+          35.852569000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121219",
+        "PERMITTEE_NAME": "Tennessee Army National Guard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "425 Arsenal Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121219",
+        "LATITUDE": 35.852568999999995,
+        "LONGITUDE": -88.668161,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42404999999997,
+          36.034820000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121209",
+        "PERMITTEE_NAME": "Barsto Construction, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "1563 Fire Tower Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121209",
+        "LATITUDE": 36.034819999999996,
+        "LONGITUDE": -88.42405,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65810199999999,
+          35.908514000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121317",
+        "PERMITTEE_NAME": "Milan Army Ammunition Plant",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "2280 Highway 104 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121317",
+        "LATITUDE": 35.908514,
+        "LONGITUDE": -88.658102,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37647999999996,
+          36.018500000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121377",
+        "PERMITTEE_NAME": "Carroll County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "22855 Highway 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121377",
+        "LATITUDE": 36.0185,
+        "LONGITUDE": -88.37648,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40799999999996,
+          35.96280000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121444",
+        "PERMITTEE_NAME": "Town of Huntingdon",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SR-22 between Noles Lane and Clyde Road in Huntingdon, Tennessee",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121444",
+        "LATITUDE": 35.9628,
+        "LONGITUDE": -88.408,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51729999999998,
+          36.127000000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121496",
+        "PERMITTEE_NAME": "Marvin Lane-Block City Pizza",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "225 Main St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121496",
+        "LATITUDE": 36.127,
+        "LONGITUDE": -88.5173,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46279999999996,
+          35.94220000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121489",
+        "PERMITTEE_NAME": "Mark Dillahunty",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Baker Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121489",
+        "LATITUDE": 35.9422,
+        "LONGITUDE": -88.4628,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38899999999995,
+          36.00600000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121569",
+        "PERMITTEE_NAME": "Town of Huntingdon, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Buena Vista Road in Huntingdon, TN adjacent to existing Kelley Sports Complex facility",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121569",
+        "LATITUDE": 36.006,
+        "LONGITUDE": -88.38900000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46679999999998,
+          36.083300000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121850",
+        "PERMITTEE_NAME": "Carroll County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "535 Airport Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121850",
+        "LATITUDE": 36.0833,
+        "LONGITUDE": -88.4668,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46943999999996,
+          35.93580000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121751",
+        "PERMITTEE_NAME": "Carroll County Watershed Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Huntingdon",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121751",
+        "LATITUDE": 35.9358,
+        "LONGITUDE": -88.46943999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41205799999994,
+          36.12066000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00337",
+        "PERMITTEE_NAME": "Jerry Burcham",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1455667200000,
+        "EFFECTIVE_DATE": 1455667200000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Flippin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00337",
+        "LATITUDE": 36.12066,
+        "LONGITUDE": -88.412058,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.39894699999996,
+          36.132273000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00342",
+        "PERMITTEE_NAME": "Hollowell Hogs",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1781481600000,
+        "EFFECTIVE_DATE": 1781481600000,
+        "EXPIRATION_DATE": 1822262400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "HWY 423",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00342",
+        "LATITUDE": 36.132273,
+        "LONGITUDE": -88.39894699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25611099999998,
+          35.865278000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097001",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1741737600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1802736000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "10se Maple Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097001",
+        "LATITUDE": 35.865277999999996,
+        "LONGITUDE": -88.25611099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48472199999998,
+          36.10000000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097003",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1773619200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1834790400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "9sw Clear Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097003",
+        "LATITUDE": 36.1,
+        "LONGITUDE": -88.48472199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59916699999997,
+          35.83055600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097008",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1730764800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1791849600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "445se Moss Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097008",
+        "LATITUDE": 35.830556,
+        "LONGITUDE": -88.599167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52277799999996,
+          35.854167000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097009",
+        "PERMITTEE_NAME": "Indian Lake POA, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1731888000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1792454400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "445se Indian Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097009",
+        "LATITUDE": 35.854167,
+        "LONGITUDE": -88.522778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60083299999997,
+          35.835000000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097010",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1730764800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1791849600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "445se Moss Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097010",
+        "LATITUDE": 35.835,
+        "LONGITUDE": -88.600833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65138899999994,
+          35.857222000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097011",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1715558400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1809993600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "445sw Johns Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097011",
+        "LATITUDE": 35.857222,
+        "LONGITUDE": -88.651389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21749999999997,
+          35.98944400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097017",
+        "PERMITTEE_NAME": "IperionX Critical Minerals LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1740441600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1832112000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "21nw Cotton Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097017",
+        "LATITUDE": 35.989444,
+        "LONGITUDE": -88.2175,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48694399999994,
+          36.147222000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097019",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1717372800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1809129600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "9nw Caledonia Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097019",
+        "LATITUDE": 36.147222,
+        "LONGITUDE": -88.486944,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43249999999995,
+          36.10250000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097020",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1717372800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1809129600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "9sw Burrow Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097020",
+        "LATITUDE": 36.1025,
+        "LONGITUDE": -88.4325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53777799999995,
+          35.91444400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097021",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1777334400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1808870400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "445ne Rutherford Fork Obion R.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097021",
+        "LATITUDE": 35.914443999999996,
+        "LONGITUDE": -88.537778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52888899999994,
+          35.91166700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097022",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1790640000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1882569600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "445ne Trib-rutherford Frk Obion",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097022",
+        "LATITUDE": 35.911667,
+        "LONGITUDE": -88.52888899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48111099999994,
+          36.083889000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097023",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1720396800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1811808000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "9sw Trib-clear Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097023",
+        "LATITUDE": 36.083889,
+        "LONGITUDE": -88.481111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66134899999997,
+          36.059619000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121985",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Harts Mill Bridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121985",
+        "LATITUDE": 36.059619,
+        "LONGITUDE": -88.661349,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46732499999996,
+          35.92255800000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122060",
+        "PERMITTEE_NAME": "TA Land, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "24 Kyle Road, Huntingdon, TN 38344",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122060",
+        "LATITUDE": 35.922557999999995,
+        "LONGITUDE": -88.467325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47638899999998,
+          36.12500000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097026",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776643200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1835395200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "9sw Clear Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097026",
+        "LATITUDE": 36.125,
+        "LONGITUDE": -88.476389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.55499999999995,
+          35.89472200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097027",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1790640000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1882569600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "445ne Nat Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097027",
+        "LATITUDE": 35.894722,
+        "LONGITUDE": -88.555,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42722199999997,
+          35.92305600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097028",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1720396800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1811808000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "10NW",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097028",
+        "LATITUDE": 35.923055999999995,
+        "LONGITUDE": -88.427222,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46456099999995,
+          35.922803000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122134",
+        "PERMITTEE_NAME": "Marty Ensley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "24 Kyle Road, Huntingdon, TN 38344",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122134",
+        "LATITUDE": 35.922803,
+        "LONGITUDE": -88.46456099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.49619999999999,
+          36.087000000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.096",
+        "PERMITTEE_NAME": "CSX Transportation Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1531958400000,
+        "EFFECTIVE_DATE": 1591228800000,
+        "EXPIRATION_DATE": 1658102400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Milepost 00N 113.2 McKenzie, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.096",
+        "LATITUDE": 36.087,
+        "LONGITUDE": -86.4962,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40780599999994,
+          35.962158000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122252",
+        "PERMITTEE_NAME": "Huntingdon Industrial Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "TN 22, Huntingdon, TN 38344",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122252",
+        "LATITUDE": 35.962157999999995,
+        "LONGITUDE": -88.407806,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45499999999998,
+          35.93304000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122225",
+        "PERMITTEE_NAME": "M & M Properties, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "405 Reedy Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122225",
+        "LATITUDE": 35.93304,
+        "LONGITUDE": -88.455,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62021699999997,
+          35.986342000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122220",
+        "PERMITTEE_NAME": "Row 2 Crow Farm, Incorporated",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "387 Newsome Road, Trezevant, TN 38258",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122220",
+        "LATITUDE": 35.986342,
+        "LONGITUDE": -88.620217,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45992999999999,
+          35.91877800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122265",
+        "PERMITTEE_NAME": "Sterling Shores, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Eskew Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122265",
+        "LATITUDE": 35.918777999999996,
+        "LONGITUDE": -88.45993,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47638899999998,
+          35.939722000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "097032",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Agency (TWRA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1781136000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1811203200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "10nw Reedy Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:097032",
+        "LATITUDE": 35.939721999999996,
+        "LONGITUDE": -88.476389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37105099999997,
+          35.88945600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122334",
+        "PERMITTEE_NAME": "Delta Agri LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "1953 Clarksburg Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122334",
+        "LATITUDE": 35.889455999999996,
+        "LONGITUDE": -88.371051,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51877399999995,
+          35.84730600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120665.01",
+        "PERMITTEE_NAME": "William Linn Black",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "SE of Bethel Rd. at Hwy. 424",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120665.01",
+        "LATITUDE": 35.847305999999996,
+        "LONGITUDE": -88.518774,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60298999999998,
+          35.96575000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122268",
+        "PERMITTEE_NAME": "Jason Hollowell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Chester Ln, Atwood, TN 38220",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122268",
+        "LATITUDE": 35.96575,
+        "LONGITUDE": -88.60298999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52689999999996,
+          36.137500000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122317",
+        "PERMITTEE_NAME": "KWT Railway, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "Intersecton of W Magnolia & Elm St., McKenzie, TN 38201",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122317",
+        "LATITUDE": 36.1375,
+        "LONGITUDE": -88.5269,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37221199999999,
+          35.88884100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122335",
+        "PERMITTEE_NAME": "Mai's Farm LLC, Quang Mai, Owner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "1951 Clarksburg Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122335",
+        "LATITUDE": 35.888841,
+        "LONGITUDE": -88.37221199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64807699999994,
+          36.104914000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00365",
+        "PERMITTEE_NAME": "Redmond Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "5095 Shady Grove Rd, McKenzie, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00365",
+        "LATITUDE": 36.104914,
+        "LONGITUDE": -88.648077,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.55152999999996,
+          36.08814000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121884",
+        "PERMITTEE_NAME": "Bellsouth Telecommunications Inc. dba AT&T Tennessee",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "US Highway 79 and New Zion Road, McKenzie, TN 38201",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121884",
+        "LATITUDE": 36.088139999999996,
+        "LONGITUDE": -88.55153,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46620099999996,
+          35.95361200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122386",
+        "PERMITTEE_NAME": "Sterling Shores, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "US Hwy 70 & Voss Lane, Carroll Lake, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122386",
+        "LATITUDE": 35.953612,
+        "LONGITUDE": -88.466201,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50967799999995,
+          36.02971700000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00367",
+        "PERMITTEE_NAME": "Austin Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1788912000000,
+        "EFFECTIVE_DATE": 1788912000000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "401 Bright Rd, Huntingdon TN 38344",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00367",
+        "LATITUDE": 36.029717,
+        "LONGITUDE": -88.509678,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.55268899999999,
+          36.054242000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122445",
+        "PERMITTEE_NAME": "Kora F. Yang",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "24 New Zion Road, McKenzie, TN 38201",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122445",
+        "LATITUDE": 36.054241999999995,
+        "LONGITUDE": -88.552689,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44099999999997,
+          35.99750000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122508",
+        "PERMITTEE_NAME": "Diana Aldayturriaga",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "285 Veterans Drive, Huntingdon, TN 38344",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122508",
+        "LATITUDE": 35.9975,
+        "LONGITUDE": -88.441,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30628899999994,
+          36.05900800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122487",
+        "PERMITTEE_NAME": "Tim Martino",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Carroll",
+        "SITE_LOCATION": "700 Preacher Brown Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122487",
+        "LATITUDE": 36.059008,
+        "LONGITUDE": -88.30628899999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

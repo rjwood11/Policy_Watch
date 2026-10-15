@@ -1,0 +1,811 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.80699999999996,
+          35.74100000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.106",
+        "PERMITTEE_NAME": "Tennessee Mitigation Fund",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1670457600000,
+        "EFFECTIVE_DATE": 1670457600000,
+        "EXPIRATION_DATE": 1828137600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "3537 South Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.106",
+        "LATITUDE": 35.741,
+        "LONGITUDE": -87.807,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92235899999997,
+          35.61967100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4152",
+        "PERMITTEE_NAME": "Jarrod Richardson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1787788800000,
+        "EFFECTIVE_DATE": 1787788800000,
+        "EXPIRATION_DATE": 1819238400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "5611-5741 Highway 412 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4152",
+        "LATITUDE": 35.619671,
+        "LONGITUDE": -87.922359,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89027099999998,
+          35.70200100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2608.4159",
+        "PERMITTEE_NAME": "Kinder Morgan",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "Perry County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4159",
+        "LATITUDE": 35.702000999999996,
+        "LONGITUDE": -87.890271,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.87949399999997,
+          35.79351900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TND0002201",
+        "PERMITTEE_NAME": "Swarey Excavating",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1659657600000,
+        "EFFECTIVE_DATE": 1659657600000,
+        "EXPIRATION_DATE": 1817337600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "6585 Crooked Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TND0002201",
+        "LATITUDE": 35.793518999999996,
+        "LONGITUDE": -87.879494,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02413399999995,
+          35.62511500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.312",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1645056000000,
+        "EFFECTIVE_DATE": 1728950400000,
+        "EXPIRATION_DATE": 1802736000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-20 Bridge over Tennessee Rover, L.M. 0.00 to 0.60",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.312",
+        "LATITUDE": 35.625115,
+        "LONGITUDE": -88.02413399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99026599999996,
+          35.46699600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4080",
+        "PERMITTEE_NAME": "Tim Hall",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1791158400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "Perry County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4080",
+        "LATITUDE": 35.466996,
+        "LONGITUDE": -87.99026599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01799999999997,
+          35.62480000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.236",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "Pipe Culvert Replacement",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.236",
+        "LATITUDE": 35.6248,
+        "LONGITUDE": -88.018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89677099999994,
+          35.65974900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.4041",
+        "PERMITTEE_NAME": "Laura Rotter",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "3571 Lick Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4041",
+        "LATITUDE": 35.659749,
+        "LONGITUDE": -87.896771,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.73400699999996,
+          35.62039900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.237",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-20, at LM 18.7",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.237",
+        "LATITUDE": 35.620399,
+        "LONGITUDE": -87.73400699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.73959899999994,
+          35.62370100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.238",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-20 at LM 18.35",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.238",
+        "LATITUDE": 35.623701,
+        "LONGITUDE": -87.739599,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83950299999998,
+          35.60421000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192265",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "South Mill Street, Bridge Over Buffalo River, LM 0.22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192265",
+        "LATITUDE": 35.60421,
+        "LONGITUDE": -87.839503,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91343099999995,
+          35.50602100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.199",
+        "PERMITTEE_NAME": "Nellie D. Howell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691107200000,
+        "EFFECTIVE_DATE": 1691107200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "201 SMITH RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.199",
+        "LATITUDE": 35.506021,
+        "LONGITUDE": -87.913431,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88431899999995,
+          35.56619500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183193",
+        "PERMITTEE_NAME": "Town of Linden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "S Fork Toms Creek Road Swindle Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183193",
+        "LATITUDE": 35.566195,
+        "LONGITUDE": -87.88431899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02389999999997,
+          35.59987000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670730",
+        "PERMITTEE_NAME": "Tennessee Gas Pipeline Company, L.L.C.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1720137600000,
+        "EFFECTIVE_DATE": 1720137600000,
+        "EXPIRATION_DATE": 1777507200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "Blunts Landing Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670730",
+        "LATITUDE": 35.599869999999996,
+        "LONGITUDE": -88.0239,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91216899999995,
+          35.683962000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2508.3999",
+        "PERMITTEE_NAME": "Kinder Morgan/Tennessee Gas Pipeline",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "Lick Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.3999",
+        "LATITUDE": 35.683962,
+        "LONGITUDE": -87.91216899999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78699999999998,
+          35.82600000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182894",
+        "PERMITTEE_NAME": "John Carroll, Perry Co. Executive",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "School House Hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182894",
+        "LATITUDE": 35.826,
+        "LONGITUDE": -87.787,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83950299999998,
+          35.60421000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.004",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1718668800000,
+        "EFFECTIVE_DATE": 1718582400000,
+        "EXPIRATION_DATE": 1876262400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "South Mill Street, Bridge Over Buffalo River, LM 0.22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.004",
+        "LATITUDE": 35.60421,
+        "LONGITUDE": -87.839503,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01719999999995,
+          35.64980000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2208.3539",
+        "PERMITTEE_NAME": "Tennessee State Parks",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "3 Campground Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2208.3539",
+        "LATITUDE": 35.6498,
+        "LONGITUDE": -88.0172,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.47297799999996,
+          36.04368400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.205",
+        "PERMITTEE_NAME": "William Redden",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1664323200000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "Off 412",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.205",
+        "LATITUDE": 36.043684,
+        "LONGITUDE": -87.472978,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.81639199999995,
+          35.54171000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.092",
+        "PERMITTEE_NAME": "Jason Bart Rosson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1652140800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "267 Rockhouse Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.092",
+        "LATITUDE": 35.54171,
+        "LONGITUDE": -87.816392,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97089999999997,
+          35.65740000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.045",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1647993600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-438, Culvert Replacements at LM 3.6, 4.3, 4.8, 5.1, & 5.6",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.045",
+        "LATITUDE": 35.6574,
+        "LONGITUDE": -87.9709,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78733999999997,
+          35.71778000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.263",
+        "PERMITTEE_NAME": "Dan McEwen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1644883200000,
+        "EFFECTIVE_DATE": 1644624000000,
+        "EXPIRATION_DATE": 1802304000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "Hwy 438 E and Burns Ridge Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.263",
+        "LATITUDE": 35.71778,
+        "LONGITUDE": -87.78734,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02965899999998,
+          35.61055700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059007",
+        "PERMITTEE_NAME": "Rogers Group, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756857600000,
+        "EFFECTIVE_DATE": 1756857600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "339 Blunt Landing Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059007",
+        "LATITUDE": 35.610557,
+        "LONGITUDE": -88.029659,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00955899999997,
+          35.61686100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.229",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1556236800000,
+        "EFFECTIVE_DATE": 1556236800000,
+        "EXPIRATION_DATE": 1714003200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-20 at LM 1.76",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.229",
+        "LATITUDE": 35.616861,
+        "LONGITUDE": -88.009559,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83533799999998,
+          35.62714900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.104",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1532304000000,
+        "EFFECTIVE_DATE": 1532304000000,
+        "EXPIRATION_DATE": 1689984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-13 from SR-20 to South of Humphreys County Line",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.104",
+        "LATITUDE": 35.627148999999996,
+        "LONGITUDE": -87.835338,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94989999999996,
+          35.635200000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059578",
+        "PERMITTEE_NAME": "Henderson County Highway Department (Chert Pit)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1764028800000,
+        "EFFECTIVE_DATE": 1764028800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "HWY 412",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059578",
+        "LATITUDE": 35.635200000000005,
+        "LONGITUDE": -87.9499,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72059999999999,
+          35.70900000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.193",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1605657600000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-438, LM 24.8",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.193",
+        "LATITUDE": 35.709,
+        "LONGITUDE": -87.7206,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01529999999997,
+          35.63140000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.181",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1597968000000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-438, Slip Lining Culverts, LM 0.6",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.181",
+        "LATITUDE": 35.6314,
+        "LONGITUDE": -88.01530000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01529999999997,
+          35.63140000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.105",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1618358400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "SR-438, Slip Lining Culverts, LM 0.6",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.105",
+        "LATITUDE": 35.6314,
+        "LONGITUDE": -88.01530000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83230999999995,
+          35.602588000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.114",
+        "PERMITTEE_NAME": "Blake Warren",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1622764800000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "Shoal Creek Watershed",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.114",
+        "LATITUDE": 35.602588,
+        "LONGITUDE": -87.83230999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78817699999996,
+          35.69741200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.145",
+        "PERMITTEE_NAME": "James Love",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1627862400000,
+        "EFFECTIVE_DATE": 1627776000000,
+        "EXPIRATION_DATE": 1785456000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Perry",
+        "SITE_LOCATION": "1389 Carlton Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.145",
+        "LATITUDE": 35.697412,
+        "LONGITUDE": -87.78817699999999,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

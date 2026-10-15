@@ -7,29 +7,29 @@
         "CWPName": "DECATUR STP",
         "SourceID": "TN0058521",
         "RegistryID": "110009787542",
-        "CWPNAICSCodes": "221320",
         "FacLat": "35.492418",
         "FacLong": "-84.822176",
         "PermitName": "Town of Decatur",
+        "CWPStatus": "No Violation Identified",
         "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "03/31/2026",
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "06/30/2026",
         "CWPQtrsWithNC": "3",
         "CWPViolStatus": "No",
         "CWPQtrsWithSNC": "0",
         "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "___VV___V____",
+        "CWP13qtrsComplHistory": "__VV___V_____",
         "ViolFlag": "1",
         "CurrVioFlag": "0",
+        "CurrSvFlag": "0",
         "EffExceeds": "3",
-        "VioLastYear": "1",
-        "ElectrRptWaiverEffDate": null,
+        "VioLastYear": "0",
         "echo_source_id": "TN0058521",
         "echo_display_name": "DECATUR STP",
         "echo_violation_count": 3.0,
         "echo_current_violation": false,
         "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_latest_violation": "Violation 5 quarters ago",
         "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009787542",
         "echo_status_label": "Recent violation"
       },
@@ -38,6 +38,46 @@
         "coordinates": [
           -84.822176,
           35.492418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SOLOMON CORPORATION",
+        "SourceID": "TNR053719",
+        "RegistryID": "110033647016",
+        "FacLat": "35.48594",
+        "FacLong": "-84.80877",
+        "PermitName": "Solomon Corporation",
+        "CWPStatus": "Significant/Category I Noncompliance",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___________S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR053719",
+        "echo_display_name": "SOLOMON CORPORATION",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": true,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110033647016",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80877,
+          35.48594
         ]
       }
     }

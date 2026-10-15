@@ -1,0 +1,1825 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80724699999996,
+          35.96340300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172860",
+        "PERMITTEE_NAME": "Mr. Patrick Cripps",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "507 N. Congress Blvd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172860",
+        "LATITUDE": 35.963403,
+        "LONGITUDE": -85.80724699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03113999999994,
+          36.06719000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.049-26",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779321600000,
+        "EFFECTIVE_DATE": 1779321600000,
+        "EXPIRATION_DATE": 1937001600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "SR-26 (Nashville) From near SR-53 to Near SR-96",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.049-26",
+        "LATITUDE": 36.06719,
+        "LONGITUDE": -86.03114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75663699999996,
+          36.044434000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172838",
+        "PERMITTEE_NAME": "Mr. Whit Carlen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Floating Mill Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172838",
+        "LATITUDE": 36.044433999999995,
+        "LONGITUDE": -85.756637,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04159999999996,
+          36.07510000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172866",
+        "PERMITTEE_NAME": "Bison Development, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "36165 Nashville HWY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172866",
+        "LATITUDE": 36.0751,
+        "LONGITUDE": -86.0416,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78783499999997,
+          35.95802800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172851",
+        "PERMITTEE_NAME": "Mitchell Bowman",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "746 E. Broad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172851",
+        "LATITUDE": 35.958028,
+        "LONGITUDE": -85.787835,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81749999999994,
+          35.96690000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172796",
+        "PERMITTEE_NAME": "Hollingshead Land, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Holmes Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172796",
+        "LATITUDE": 35.9669,
+        "LONGITUDE": -85.81750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80413799999997,
+          35.98459900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050399",
+        "PERMITTEE_NAME": "Braking Products Group US, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1782259200000,
+        "EFFECTIVE_DATE": 1782259200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "1 Grizzly Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050399",
+        "LATITUDE": 35.984598999999996,
+        "LONGITUDE": -85.804138,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96112199999999,
+          36.012083000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172844",
+        "PERMITTEE_NAME": "Montgomery G. Turner, Sr.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "800 East Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172844",
+        "LATITUDE": 36.012083,
+        "LONGITUDE": -85.961122,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02651999999995,
+          36.08418300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB021539",
+        "PERMITTEE_NAME": "Alexandria STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1776988800000,
+        "EFFECTIVE_DATE": 1776988800000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "35 Edgewood Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB021539",
+        "LATITUDE": 36.084182999999996,
+        "LONGITUDE": -86.02651999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81003399999997,
+          35.963044000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.092",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1762732800000,
+        "EFFECTIVE_DATE": 1762732800000,
+        "EXPIRATION_DATE": 1920412800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "SR-56 Bridge Over Fall Creek at LM 8.16",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.092",
+        "LATITUDE": 35.963044,
+        "LONGITUDE": -85.810034,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82999999999998,
+          35.944900000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172409",
+        "PERMITTEE_NAME": "Lee Bond ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Short Mountain St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172409",
+        "LATITUDE": 35.944900000000004,
+        "LONGITUDE": -85.83,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97149999999993,
+          36.061300000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.93",
+        "PERMITTEE_NAME": "Nate Langley- MSI Homes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "3464 Lower Helton Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.93",
+        "LATITUDE": 36.0613,
+        "LONGITUDE": -85.9715,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84099999999995,
+          35.950000000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172716",
+        "PERMITTEE_NAME": "Tracy Foutch - Foutch Construction, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "700 Robinson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172716",
+        "LATITUDE": 35.95,
+        "LONGITUDE": -85.84100000000001,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82162699999998,
+          35.906828000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172753",
+        "PERMITTEE_NAME": "Phillip Olson-STM Properties LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Turner Road and Old Blue Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172753",
+        "LATITUDE": 35.906828,
+        "LONGITUDE": -85.82162699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79557799999998,
+          35.96297000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172868",
+        "PERMITTEE_NAME": "DeKalb County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "550 Smith Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172868",
+        "LATITUDE": 35.96297,
+        "LONGITUDE": -85.79557799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90560999999997,
+          35.94297000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2607.13",
+        "PERMITTEE_NAME": "Dekalb County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "near 118 Vickers hollow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2607.13",
+        "LATITUDE": 35.942969999999995,
+        "LONGITUDE": -85.90561,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85425899999996,
+          35.97146800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172766",
+        "PERMITTEE_NAME": "DeKalb County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "463 Tiger Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172766",
+        "LATITUDE": 35.971468,
+        "LONGITUDE": -85.854259,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80103999999994,
+          35.88830000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.068-23",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1691798400000,
+        "EFFECTIVE_DATE": 1691712000000,
+        "EXPIRATION_DATE": 1849651200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "SR-56 from South of Magness Road to East Bryant Street in Smithville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.068-23",
+        "LATITUDE": 35.8883,
+        "LONGITUDE": -85.80104,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83358199999998,
+          35.95240800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.85",
+        "PERMITTEE_NAME": "Tonya Sullivan - Sullivan Walters Homes, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "O'Conner Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.85",
+        "LATITUDE": 35.952408,
+        "LONGITUDE": -85.83358199999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79665599999998,
+          36.09333600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.38",
+        "PERMITTEE_NAME": "Danny Holmes - City of Baxter",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748476800000,
+        "EFFECTIVE_DATE": 1748476800000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "SR-141",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.38",
+        "LATITUDE": 36.093336,
+        "LONGITUDE": -85.796656,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83358199999998,
+          35.95240800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172750",
+        "PERMITTEE_NAME": "Sullivan Walter Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "O'Conner Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172750",
+        "LATITUDE": 35.952408,
+        "LONGITUDE": -85.83358199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.99482399999994,
+          35.95533100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.80",
+        "PERMITTEE_NAME": "Jon Foutch - DeKalb Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752451200000,
+        "EFFECTIVE_DATE": 1752451200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Sweetwater Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.80",
+        "LATITUDE": 35.955331,
+        "LONGITUDE": -85.994824,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81749999999994,
+          35.96690000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172632",
+        "PERMITTEE_NAME": "Hollingshead Land",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Holmes Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172632",
+        "LATITUDE": 35.9669,
+        "LONGITUDE": -85.81750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81124999999997,
+          35.957944000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172614",
+        "PERMITTEE_NAME": "Brian Arnold - Hometown Hospitality LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "200 East Broad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172614",
+        "LATITUDE": 35.957944,
+        "LONGITUDE": -85.81125,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01715799999994,
+          36.04736800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.73",
+        "PERMITTEE_NAME": "Matthew Pitt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1724025600000,
+        "EFFECTIVE_DATE": 1724025600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "128 Driver Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.73",
+        "LATITUDE": 36.047368,
+        "LONGITUDE": -86.017158,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79131299999995,
+          35.958398000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110509",
+        "PERMITTEE_NAME": "Smyrna Ready Mix Concrete, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1723507200000,
+        "EFFECTIVE_DATE": 1725148800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "746 East Broad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110509",
+        "LATITUDE": 35.958397999999995,
+        "LONGITUDE": -85.791313,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82253499999996,
+          36.021029000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-99021",
+        "PERMITTEE_NAME": "R.A.D. Marina Investors, LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1621814400000,
+        "EFFECTIVE_DATE": 1622505600000,
+        "EXPIRATION_DATE": 1780185600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "2685 Casey Cove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-99021",
+        "LATITUDE": 36.021029,
+        "LONGITUDE": -85.822535,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.00685999999996,
+          36.023810000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172483",
+        "PERMITTEE_NAME": "Ken Griffith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "12931 Nashville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172483",
+        "LATITUDE": 36.02381,
+        "LONGITUDE": -86.00686,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01122999999995,
+          36.03730000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172556",
+        "PERMITTEE_NAME": "Twin K Construction, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "14080 Nashville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172556",
+        "LATITUDE": 36.0373,
+        "LONGITUDE": -86.01123,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84054099999997,
+          35.95951000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.002",
+        "PERMITTEE_NAME": "City of Smithville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1717545600000,
+        "EFFECTIVE_DATE": 1717545600000,
+        "EXPIRATION_DATE": 1875225600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "104 E MAIN ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.002",
+        "LATITUDE": 35.95951,
+        "LONGITUDE": -85.840541,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74463799999995,
+          36.02898800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2407.53",
+        "PERMITTEE_NAME": "Jon Foutch - DeKalb County Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1720483200000,
+        "EFFECTIVE_DATE": 1720483200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "SR-56",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2407.53",
+        "LATITUDE": 36.028988,
+        "LONGITUDE": -85.744638,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95911999999998,
+          35.936750000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172646",
+        "PERMITTEE_NAME": "Gene & Dava Bennett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "517 Hog Foot Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172646",
+        "LATITUDE": 35.936749999999996,
+        "LONGITUDE": -85.95912,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04653199999996,
+          36.074171000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2507.46",
+        "PERMITTEE_NAME": "Aaron England",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747267200000,
+        "EFFECTIVE_DATE": 1747267200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Goose Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2507.46",
+        "LATITUDE": 36.074171,
+        "LONGITUDE": -86.046532,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01290999999998,
+          36.03493000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172668",
+        "PERMITTEE_NAME": "Twin K Construction, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Highway 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172668",
+        "LATITUDE": 36.034929999999996,
+        "LONGITUDE": -86.01290999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84054099999997,
+          35.95951000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172571",
+        "PERMITTEE_NAME": "City of Smithville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "104 E MAIN ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172571",
+        "LATITUDE": 35.95951,
+        "LONGITUDE": -85.840541,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93249399999996,
+          36.01180000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.349",
+        "PERMITTEE_NAME": "Chad Mathis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1713225600000,
+        "EFFECTIVE_DATE": 1713139200000,
+        "EXPIRATION_DATE": 1870732800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "118 Medlin Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.349",
+        "LATITUDE": 36.0118,
+        "LONGITUDE": -85.93249399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79599999999994,
+          35.95800000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053693",
+        "PERMITTEE_NAME": "Tenneco Automotive Operating Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "645 East Broad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053693",
+        "LATITUDE": 35.958,
+        "LONGITUDE": -85.796,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87471399999998,
+          35.926383000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050297",
+        "PERMITTEE_NAME": "Holmes Services LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755734400000,
+        "EFFECTIVE_DATE": 1755734400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "3443 New Home Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050297",
+        "LATITUDE": 35.926383,
+        "LONGITUDE": -85.874714,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85797499999995,
+          35.971434000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172399",
+        "PERMITTEE_NAME": "Mukesh Chaudary BDA Rumi Investments",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "2600 Old Nashville Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172399",
+        "LATITUDE": 35.971433999999995,
+        "LONGITUDE": -85.857975,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68586199999999,
+          35.99905000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172261.01",
+        "PERMITTEE_NAME": "Craig T. Schnekenburger",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Backbone Road, Allens Ferry Road, Timber Lane, and Falling Water Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172261.01",
+        "LATITUDE": 35.99905,
+        "LONGITUDE": -85.685862,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68586199999999,
+          35.99905000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172361.02",
+        "PERMITTEE_NAME": "Mark Violassi ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Backbone Road, Allens Ferry Road, Timber Lane, and Falling Water Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172361.02",
+        "LATITUDE": 35.99905,
+        "LONGITUDE": -85.685862,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81336999999996,
+          35.95560000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172328",
+        "PERMITTEE_NAME": "Tonya Sullivan ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Oak Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172328",
+        "LATITUDE": 35.955600000000004,
+        "LONGITUDE": -85.81336999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.00699999999995,
+          36.024200000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172368",
+        "PERMITTEE_NAME": "Twin K Construction",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "12931 SR-26 (Nashville)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172368",
+        "LATITUDE": 36.0242,
+        "LONGITUDE": -86.007,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85701299999994,
+          35.97035500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059896",
+        "PERMITTEE_NAME": "Holmes Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1657152000000,
+        "EFFECTIVE_DATE": 1657152000000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "2500 Nashville Hwy",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059896",
+        "LATITUDE": 35.970355,
+        "LONGITUDE": -85.857013,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81689999999998,
+          35.95080000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110031",
+        "PERMITTEE_NAME": "imi Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1668556800000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "805 South College Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110031",
+        "LATITUDE": 35.9508,
+        "LONGITUDE": -85.8169,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83767699999999,
+          35.94766000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050919",
+        "PERMITTEE_NAME": "Wayne Water Systems",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "625 Miller Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050919",
+        "LATITUDE": 35.94766,
+        "LONGITUDE": -85.837677,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85339999999997,
+          35.966360000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051305",
+        "PERMITTEE_NAME": "Shiroki North America, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1769558400000,
+        "EFFECTIVE_DATE": 1769558400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "1111 West Broad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051305",
+        "LATITUDE": 35.96636,
+        "LONGITUDE": -85.85340000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68722199999996,
+          35.971944000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056506",
+        "PERMITTEE_NAME": "DeKalb County Landfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "455 FELTS ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056506",
+        "LATITUDE": 35.971944,
+        "LONGITUDE": -85.68722199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87073599999997,
+          35.983490000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056240",
+        "PERMITTEE_NAME": "Smithville Auto Salvage LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "3844 Nashville Hwy.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056240",
+        "LATITUDE": 35.983489999999996,
+        "LONGITUDE": -85.870736,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84945299999998,
+          35.96346200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054291",
+        "PERMITTEE_NAME": "Smithport Cabinetry Partners",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759104000000,
+        "EFFECTIVE_DATE": 1759104000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "1045 West Broad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054291",
+        "LATITUDE": 35.963462,
+        "LONGITUDE": -85.849453,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78829099999996,
+          35.94223200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB065358",
+        "PERMITTEE_NAME": "Smithville STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1405382400000,
+        "EFFECTIVE_DATE": 1405382400000,
+        "EXPIRATION_DATE": 1723680000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "1100 Evins Mill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB065358",
+        "LATITUDE": 35.942232,
+        "LONGITUDE": -85.788291,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.79609999999997,
+          35.84760000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.151",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1471564800000,
+        "EFFECTIVE_DATE": 1471564800000,
+        "EXPIRATION_DATE": 1629244800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "South of Warren County Line to Near Magness Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.151",
+        "LATITUDE": 35.8476,
+        "LONGITUDE": -85.79610000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82689999999997,
+          35.99780000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.069",
+        "PERMITTEE_NAME": "Dekalb County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1524528000000,
+        "EFFECTIVE_DATE": 1524528000000,
+        "EXPIRATION_DATE": 1682208000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Holmes Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.069",
+        "LATITUDE": 35.997800000000005,
+        "LONGITUDE": -85.82690000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80103999999994,
+          35.88830000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.068",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1533600000000,
+        "EFFECTIVE_DATE": 1655683200000,
+        "EXPIRATION_DATE": 1691798400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "SR-56 from South of Magness Road to East Bryant Street in Smithville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.068",
+        "LATITUDE": 35.8883,
+        "LONGITUDE": -85.80104,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.99479999999994,
+          35.95930000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.278",
+        "PERMITTEE_NAME": "Matthew Hancock",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1551139200000,
+        "EFFECTIVE_DATE": 1551052800000,
+        "EXPIRATION_DATE": 1708732800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "4750 Woodbury Highway",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.278",
+        "LATITUDE": 35.9593,
+        "LONGITUDE": -85.9948,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.94409599999994,
+          36.01195900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059586",
+        "PERMITTEE_NAME": "Go-Auto Parts LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "450 South Mill Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059586",
+        "LATITUDE": 36.011959,
+        "LONGITUDE": -85.944096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82301999999999,
+          36.10410900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172095",
+        "PERMITTEE_NAME": "Janice Martin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "1075 Wolf Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172095",
+        "LATITUDE": 36.104109,
+        "LONGITUDE": -85.82302,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68017999999995,
+          35.89470000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172132",
+        "PERMITTEE_NAME": "Timothy Steve Smith",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Corner of Jefferson Road and Potts Camp Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172132",
+        "LATITUDE": 35.8947,
+        "LONGITUDE": -85.68018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88285799999994,
+          35.85711800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.157",
+        "PERMITTEE_NAME": "MRW Environmental, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1567641600000,
+        "EFFECTIVE_DATE": 1567641600000,
+        "EXPIRATION_DATE": 1725408000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Banks Pisgah Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.157",
+        "LATITUDE": 35.857118,
+        "LONGITUDE": -85.882858,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03113999999994,
+          36.06719000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR191987",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "SR-26 (Nashville) From near SR-53 to Near SR-96",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR191987",
+        "LATITUDE": 36.06719,
+        "LONGITUDE": -86.03114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84129999999999,
+          35.956200000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172162",
+        "PERMITTEE_NAME": "Felix Villa",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "725 Dry Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172162",
+        "LATITUDE": 35.9562,
+        "LONGITUDE": -85.8413,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68294299999997,
+          36.01769500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172151",
+        "PERMITTEE_NAME": "Michael Emmons",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Landis Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172151",
+        "LATITUDE": 36.017694999999996,
+        "LONGITUDE": -85.682943,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.84443999999996,
+          35.998500000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2007.061",
+        "PERMITTEE_NAME": "Randy Caldwell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1601251200000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "655 Shady Place Road and 224 Cooper Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2007.061",
+        "LATITUDE": 35.9985,
+        "LONGITUDE": -85.84443999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83099999999996,
+          36.09800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172229",
+        "PERMITTEE_NAME": "G&RK Consulting Associates, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Lancaster Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172229",
+        "LATITUDE": 36.098,
+        "LONGITUDE": -85.831,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02469999999994,
+          36.000500000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172198",
+        "PERMITTEE_NAME": "Bryan Wright and Anthony Hackett",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "SR-96",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172198",
+        "LATITUDE": 36.0005,
+        "LONGITUDE": -86.02470000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82611099999997,
+          36.01833300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-15020",
+        "PERMITTEE_NAME": "Integra Water, Tennessee, LLC formerly Casey Cove Estates HOA",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": 1540944000000,
+        "EFFECTIVE_DATE": 1541030400000,
+        "EXPIRATION_DATE": 1698710400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "along Casey Cove Road just north of Hurrican Ridge Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-15020",
+        "LATITUDE": 36.018333,
+        "LONGITUDE": -85.826111,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75479999999999,
+          36.062400000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172349",
+        "PERMITTEE_NAME": "AMC Funding, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "Aunt Helen Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172349",
+        "LATITUDE": 36.062400000000004,
+        "LONGITUDE": -85.7548,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66550599999994,
+          36.01891000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172216",
+        "PERMITTEE_NAME": "AM Funding, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "H.O. Allison Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172216",
+        "LATITUDE": 36.01891,
+        "LONGITUDE": -85.665506,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80330299999997,
+          35.95883900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059882",
+        "PERMITTEE_NAME": "Foutch Industries",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1787529600000,
+        "EFFECTIVE_DATE": 1787529600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "500 AND 528 EAST BROAD STREET\r\nHWY 70 NEXT TO FOUCH INDUSTRIES\r\nMAP 065I GROUP B PARCEL 006.09",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059882",
+        "LATITUDE": 35.958839,
+        "LONGITUDE": -85.803303,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01286699999997,
+          36.04702600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR172275",
+        "PERMITTEE_NAME": "Twin K Construction Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "DeKalb",
+        "SITE_LOCATION": "East of SR-26, between Cook Rd. & Trammel Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR172275",
+        "LATITUDE": 36.047025999999995,
+        "LONGITUDE": -86.012867,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

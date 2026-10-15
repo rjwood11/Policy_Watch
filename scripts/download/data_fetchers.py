@@ -277,15 +277,20 @@ def load_acs(counties: gpd.GeoDataFrame | None = None) -> pd.DataFrame:
     if api_key:
         params["key"] = api_key
 
-    response = requests.get(ACS_URL, params=params, timeout=120)
-    response.raise_for_status()
+    try:
+        response = requests.get(ACS_URL, params=params, timeout=120)
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        # Request exceptions can include the API key in the URL. Keep secrets
+        # out of the public refresh report and workflow summaries.
+        raise RuntimeError("ACS request failed; check Census availability and API key configuration.") from exc
     try:
         rows = response.json()
     except requests.exceptions.JSONDecodeError as exc:
         if counties is not None:
             return _load_cached_acs(counties)
         raise RuntimeError(
-            f"ACS request returned non-JSON from {response.url}. Set CENSUS_API_KEY or pass counties for cached fallback."
+            f"ACS request returned non-JSON from {ACS_URL}. Set CENSUS_API_KEY or pass counties for cached fallback."
         ) from exc
 
     frame = pd.DataFrame(rows[1:], columns=rows[0])

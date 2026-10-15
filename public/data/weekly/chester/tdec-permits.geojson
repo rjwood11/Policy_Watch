@@ -1,0 +1,1279 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50949999999995,
+          35.49450000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122987",
+        "PERMITTEE_NAME": "SCP Jacks Creek, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Nobles Road and Benson Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122987",
+        "LATITUDE": 35.4945,
+        "LONGITUDE": -88.5095,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.72095999999999,
+          35.443580000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121027",
+        "PERMITTEE_NAME": "Joe N Cox",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "080 Dry Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121027",
+        "LATITUDE": 35.44358,
+        "LONGITUDE": -88.72095999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37324899999999,
+          35.47885400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.094",
+        "PERMITTEE_NAME": "Center Point Investments, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785196800000,
+        "EFFECTIVE_DATE": 1785196800000,
+        "EXPIRATION_DATE": 1942963200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "SR-22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.094",
+        "LATITUDE": 35.478854,
+        "LONGITUDE": -88.373249,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65089399999994,
+          35.44287200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830301",
+        "PERMITTEE_NAME": "AMOCO EXPRESS INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1778630400000,
+        "EFFECTIVE_DATE": 1778630400000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "375 N. Church St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830301",
+        "LATITUDE": 35.442872,
+        "LONGITUDE": -88.650894,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63941899999998,
+          35.42691600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR055968",
+        "PERMITTEE_NAME": "Hi-Way Wrecker Service LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1776124800000,
+        "EFFECTIVE_DATE": 1776124800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "553 S CHURCH AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055968",
+        "LATITUDE": 35.426916,
+        "LONGITUDE": -88.63941899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57338299999998,
+          35.45796000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR25.273",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "SR-100 Bridge over Dry Branch, LM 16.03 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.273",
+        "LATITUDE": 35.45796,
+        "LONGITUDE": -88.57338299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59157399999998,
+          35.411357000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192276",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Talley Store Road - Jacks Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192276",
+        "LATITUDE": 35.411356999999995,
+        "LONGITUDE": -88.591574,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60421699999995,
+          35.44900000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192284",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "SR-100 (LM 14.16)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192284",
+        "LATITUDE": 35.449000000000005,
+        "LONGITUDE": -88.60421699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62249399999996,
+          35.43612200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192445",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Linear Project - Near Intersection of SR-100 and Stewart Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192445",
+        "LATITUDE": 35.436122,
+        "LONGITUDE": -88.62249399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66742999999997,
+          35.43133000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.062",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1654214400000,
+        "EFFECTIVE_DATE": 1653782400000,
+        "EXPIRATION_DATE": 1811894400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "West Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.062",
+        "LATITUDE": 35.431329999999996,
+        "LONGITUDE": -88.66743,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62249399999996,
+          35.43612200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.217",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771459200000,
+        "EXPIRATION_DATE": 1929139200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Linear Project - Near Intersection of SR-100 and Stewart Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.217",
+        "LATITUDE": 35.436122,
+        "LONGITUDE": -88.62249399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63969199999997,
+          35.41495800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123149",
+        "PERMITTEE_NAME": "HWY 45 LOGGING LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "1479 US-45",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123149",
+        "LATITUDE": 35.414958,
+        "LONGITUDE": -88.639692,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60421699999995,
+          35.44900000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.053",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1751500800000,
+        "EFFECTIVE_DATE": 1751500800000,
+        "EXPIRATION_DATE": 1782950400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "SR-100 (LM 14.16)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.053",
+        "LATITUDE": 35.449000000000005,
+        "LONGITUDE": -88.60421699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.70509999999996,
+          35.41130000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192417",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "SR-100,Turn Lanes at Intersection at SR-225, LM 7.78",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192417",
+        "LATITUDE": 35.411300000000004,
+        "LONGITUDE": -88.7051,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63878099999994,
+          35.42166600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051630",
+        "PERMITTEE_NAME": "Shaw Concrete",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1789603200000,
+        "EFFECTIVE_DATE": 1789603200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "737 US HWY 45 SOUTH",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051630",
+        "LATITUDE": 35.421666,
+        "LONGITUDE": -88.638781,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62249399999996,
+          35.43612200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123066",
+        "PERMITTEE_NAME": "Southwest Tennessee Electric Membership Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Linear Project - Near Intersection of SR-100 and Stewart Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123066",
+        "LATITUDE": 35.436122,
+        "LONGITUDE": -88.62249399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.69292299999995,
+          35.47497600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051126",
+        "PERMITTEE_NAME": "ASC-Engineered Solutions",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "2870 Old Jackson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051126",
+        "LATITUDE": 35.474976,
+        "LONGITUDE": -88.692923,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57338299999998,
+          35.45796000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192303",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "SR-100 Bridge over Dry Branch, LM 16.03 (IA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192303",
+        "LATITUDE": 35.45796,
+        "LONGITUDE": -88.57338299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64562899999999,
+          35.43369700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.203",
+        "PERMITTEE_NAME": "Casey's General Stores, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1740873600000,
+        "EFFECTIVE_DATE": 1740873600000,
+        "EXPIRATION_DATE": 1898553600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "US 45 & Eric Bell Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.203",
+        "LATITUDE": 35.433696999999995,
+        "LONGITUDE": -88.645629,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78227399999997,
+          35.38695100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122927",
+        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Chickasaw State Park",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122927",
+        "LATITUDE": 35.386950999999996,
+        "LONGITUDE": -88.782274,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63714199999998,
+          35.44076300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122683",
+        "PERMITTEE_NAME": "Freed-Hardeman University",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "250 E. Main St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122683",
+        "LATITUDE": 35.440763,
+        "LONGITUDE": -88.637142,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64562899999999,
+          35.43369700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123003",
+        "PERMITTEE_NAME": "Casey\u2019s General Stores, Inc. ",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "US 45 & Eric Bell Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123003",
+        "LATITUDE": 35.433696999999995,
+        "LONGITUDE": -88.645629,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78227399999997,
+          35.38695100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122826",
+        "PERMITTEE_NAME": "State of Tennessee, Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Chickasaw State Park",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122826",
+        "LATITUDE": 35.386950999999996,
+        "LONGITUDE": -88.782274,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64618599999994,
+          35.43411100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.135",
+        "PERMITTEE_NAME": "Hunt Properties GP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1683504000000,
+        "EFFECTIVE_DATE": 1683504000000,
+        "EXPIRATION_DATE": 1841270400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Eric Bell Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.135",
+        "LATITUDE": 35.434111,
+        "LONGITUDE": -88.646186,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51457299999998,
+          35.49277600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.328",
+        "PERMITTEE_NAME": "SCP Jacks Creek, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1738022400000,
+        "EFFECTIVE_DATE": 1737936000000,
+        "EXPIRATION_DATE": 1895616000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "1434-1462 TN-22-ALT",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.328",
+        "LATITUDE": 35.492776,
+        "LONGITUDE": -88.514573,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60421699999995,
+          35.44900000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.194",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747958400000,
+        "EFFECTIVE_DATE": 1701043200000,
+        "EXPIRATION_DATE": 1858809600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "SR-100 (LM 14.16)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.194",
+        "LATITUDE": 35.449000000000005,
+        "LONGITUDE": -88.60421699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59157399999998,
+          35.411357000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.282",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1706054400000,
+        "EFFECTIVE_DATE": 1713139200000,
+        "EXPIRATION_DATE": 1863820800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Talley Store Road - Jacks Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.282",
+        "LATITUDE": 35.411356999999995,
+        "LONGITUDE": -88.591574,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64148299999994,
+          35.45025300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122549",
+        "PERMITTEE_NAME": "First Pentecostal Church of Henderson, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "638 White Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122549",
+        "LATITUDE": 35.450253,
+        "LONGITUDE": -88.641483,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63833499999998,
+          35.42077400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110011",
+        "PERMITTEE_NAME": "Southern Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1671580800000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "745 US-45 S.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110011",
+        "LATITUDE": 35.420774,
+        "LONGITUDE": -88.638335,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.67395799999997,
+          35.45799500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056496",
+        "PERMITTEE_NAME": "HENDERSON STAMPING & PRODUCTION, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760918400000,
+        "EFFECTIVE_DATE": 1760918400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "1323 HIGHWAY 45 N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056496",
+        "LATITUDE": 35.457995,
+        "LONGITUDE": -88.673958,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63878099999994,
+          35.42166600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120359",
+        "PERMITTEE_NAME": "SHAW TRUCKING, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "737 US HWY 45 SOUTH",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120359",
+        "LATITUDE": 35.421666,
+        "LONGITUDE": -88.638781,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.98777799999993,
+          35.44361100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121208",
+        "PERMITTEE_NAME": "Clifton Reaves, Anthony Moody",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "North of Hwy 45 and east of Woods Drive. End of Shelia Drive.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121208",
+        "LATITUDE": 35.443611,
+        "LONGITUDE": -88.98777799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58395399999995,
+          35.467385000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121513",
+        "PERMITTEE_NAME": "Zach Hannis",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Oak Ridge Lane and Kenbridge Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121513",
+        "LATITUDE": 35.467385,
+        "LONGITUDE": -88.58395399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49794099999997,
+          35.47916800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-15024",
+        "PERMITTEE_NAME": "Industrial Paint Cleaning Services",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "1550 Hurt Cemetery Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-15024",
+        "LATITUDE": 35.479168,
+        "LONGITUDE": -88.497941,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.77277799999996,
+          35.388333000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "127002",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1779062400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1843257600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "439ne Piney Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:127002",
+        "LATITUDE": 35.388332999999996,
+        "LONGITUDE": -88.772778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61249999999995,
+          35.50777800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "127007",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1744070400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805760000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "446se Jones Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:127007",
+        "LATITUDE": 35.507778,
+        "LONGITUDE": -88.6125,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48888899999997,
+          35.44222200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "127010",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1744070400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805155200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "12nw Spring Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:127010",
+        "LATITUDE": 35.442222,
+        "LONGITUDE": -88.488889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.77777799999996,
+          35.43750000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "127011",
+        "PERMITTEE_NAME": "Deanburg Hills, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1743552000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1837814400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "439ne Allen Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:127011",
+        "LATITUDE": 35.4375,
+        "LONGITUDE": -88.777778,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60249999999996,
+          35.49861100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "127013",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1744070400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805155200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "12ane Clark Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:127013",
+        "LATITUDE": 35.498611,
+        "LONGITUDE": -88.6025,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66027799999995,
+          35.31444400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "127014",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1744070400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1805155200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "12asw Sheffield Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:127014",
+        "LATITUDE": 35.314444,
+        "LONGITUDE": -88.66027799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58388899999994,
+          35.49222200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "127015",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776729600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1868054400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "12ane Clark's Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:127015",
+        "LATITUDE": 35.492222,
+        "LONGITUDE": -88.583889,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66944399999994,
+          35.450000000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "127012",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1776729600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1836604800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "12anw Pisgah Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:127012",
+        "LATITUDE": 35.45,
+        "LONGITUDE": -88.669444,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63724299999996,
+          35.45278100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122223",
+        "PERMITTEE_NAME": "Duane Rushing",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Mason Drive and Hill Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122223",
+        "LATITUDE": 35.452781,
+        "LONGITUDE": -88.637243,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66678899999994,
+          35.45829900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122237",
+        "PERMITTEE_NAME": "Dialysis Clinic, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122237",
+        "LATITUDE": 35.458299,
+        "LONGITUDE": -88.666789,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66201999999998,
+          35.45263700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122211",
+        "PERMITTEE_NAME": "City of Henderson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "760 Highway 45N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122211",
+        "LATITUDE": 35.452636999999996,
+        "LONGITUDE": -88.66202,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66201999999998,
+          35.45263700000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122211.01",
+        "PERMITTEE_NAME": "Henderson Stamping & Production, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "760 Highway 45N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122211.01",
+        "LATITUDE": 35.452636999999996,
+        "LONGITUDE": -88.66202,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64032399999996,
+          35.43095200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR057058",
+        "PERMITTEE_NAME": "R JONES UNDERGROUND, INC.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "573 S Church Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR057058",
+        "LATITUDE": 35.430952,
+        "LONGITUDE": -88.64032399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66620599999999,
+          35.456315000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053677",
+        "PERMITTEE_NAME": "SSW Premier",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756944000000,
+        "EFFECTIVE_DATE": 1756944000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "867 PREMIER WAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053677",
+        "LATITUDE": 35.456315,
+        "LONGITUDE": -88.666206,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64618599999994,
+          35.43411100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122520",
+        "PERMITTEE_NAME": "David Hunt",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Chester",
+        "SITE_LOCATION": "Eric Bell Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122520",
+        "LATITUDE": 35.434111,
+        "LONGITUDE": -88.646186,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1539 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43455699999998,
+          35.43676400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.015",
+        "PERMITTEE_NAME": "Ford Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1742428800000,
+        "EFFECTIVE_DATE": 1742428800000,
+        "EXPIRATION_DATE": 1773964800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "101 Fredonia Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.015",
+        "LATITUDE": 35.436764,
+        "LONGITUDE": -89.434557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27169999999995,
+          35.58705900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050025",
+        "PERMITTEE_NAME": "CKS Packaging, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1775692800000,
+        "EFFECTIVE_DATE": 1775692800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "540 Hill Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050025",
+        "LATITUDE": 35.587058999999996,
+        "LONGITUDE": -89.27170000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.25058499999994,
+          35.600847000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122887",
+        "PERMITTEE_NAME": "Steve Correa",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "415 Penny Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122887",
+        "LATITUDE": 35.600847,
+        "LONGITUDE": -89.250585,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24795799999998,
+          35.56605500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123184",
+        "PERMITTEE_NAME": "Haywood County Schools",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "0 Anderson Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123184",
+        "LATITUDE": 35.566055,
+        "LONGITUDE": -89.247958,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39349999999996,
+          35.75170000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.148",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754265600000,
+        "EFFECTIVE_DATE": 1754265600000,
+        "EXPIRATION_DATE": 1911945600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "SR-180 Bridge Replacements over Lost Creek and Overflow, L.M. 4.75 and 4.57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.148",
+        "LATITUDE": 35.7517,
+        "LONGITUDE": -89.3935,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43772799999994,
+          35.426435000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.060",
+        "PERMITTEE_NAME": "Haywood County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758499200000,
+        "EFFECTIVE_DATE": 1758499200000,
+        "EXPIRATION_DATE": 1790035200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Fredonia Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.060",
+        "LATITUDE": 35.426435,
+        "LONGITUDE": -89.43772799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40611399999995,
+          35.45154800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123128",
+        "PERMITTEE_NAME": "YMCA of Memphis and the Midsouth",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "761 Highway 222",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123128",
+        "LATITUDE": 35.451547999999995,
+        "LONGITUDE": -89.406114,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26664099999994,
+          35.583721000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123129",
+        "PERMITTEE_NAME": "Brownsville Energy Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "170 W. Cooper St. (T.F.)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123129",
+        "LATITUDE": 35.583721,
+        "LONGITUDE": -89.26664099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.25931699999995,
+          35.55315400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123147",
+        "PERMITTEE_NAME": "Brownsville Energy Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "2391 Windrow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123147",
+        "LATITUDE": 35.553154,
+        "LONGITUDE": -89.259317,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41948399999995,
+          35.41997100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051431",
+        "PERMITTEE_NAME": "SK On Tennessee, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1783382400000,
+        "EFFECTIVE_DATE": 1783382400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "2022 BATTERY PARK DRIVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051431",
+        "LATITUDE": 35.419971,
+        "LONGITUDE": -89.419484,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43772799999994,
+          35.426435000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123097",
+        "PERMITTEE_NAME": "Haywood County, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Fredonia Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123097",
+        "LATITUDE": 35.426435,
+        "LONGITUDE": -89.43772799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41409599999997,
+          35.73213700000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.210",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1923782400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "SR-180, Forked Deer Road, Bridge Replacements over Overflow and Otter Creek, L.M 2.61 and 2.74",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.210",
+        "LATITUDE": 35.732137,
+        "LONGITUDE": -89.414096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43772799999994,
+          35.426435000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123082",
+        "PERMITTEE_NAME": "Haywood County, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Fredonia Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123082",
+        "LATITUDE": 35.426435,
+        "LONGITUDE": -89.43772799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23129099999994,
+          35.606561000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123059",
+        "PERMITTEE_NAME": "WTN Properties",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "580 Morgan St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123059",
+        "LATITUDE": 35.606561,
+        "LONGITUDE": -89.231291,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39349999999996,
+          35.75170000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192382",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "SR-180 Bridge Replacements over Lost Creek and Overflow, L.M. 4.75 and 4.57",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192382",
+        "LATITUDE": 35.7517,
+        "LONGITUDE": -89.3935,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26254499999999,
+          35.56608300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.068",
+        "PERMITTEE_NAME": "City of Brownsville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1757808000000,
+        "EFFECTIVE_DATE": 1757894400000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Advantage Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.068",
+        "LATITUDE": 35.566083,
+        "LONGITUDE": -89.262545,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39145999999994,
+          35.65175000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058249",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759968000000,
+        "EFFECTIVE_DATE": 1759968000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "2585 Hudson Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058249",
+        "LATITUDE": 35.65175,
+        "LONGITUDE": -89.39146,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23407199999997,
+          35.582043000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123048",
+        "PERMITTEE_NAME": "Austin Kack",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "JEFFERSON E 1616",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123048",
+        "LATITUDE": 35.582043,
+        "LONGITUDE": -89.234072,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43455699999998,
+          35.43676400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.159",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1697414400000,
+        "EFFECTIVE_DATE": 1697414400000,
+        "EXPIRATION_DATE": 1855180800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "101 Fredonia Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.159",
+        "LATITUDE": 35.436764,
+        "LONGITUDE": -89.434557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40994699999999,
+          35.41014500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.094",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1710201600000,
+        "EFFECTIVE_DATE": 1710201600000,
+        "EXPIRATION_DATE": 1867881600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Intersection of Road 222 and Stanton-Somerville Road\r\n1904 Piquette Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.094",
+        "LATITUDE": 35.410145,
+        "LONGITUDE": -89.409947,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40337499999998,
+          35.45780600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122720",
+        "PERMITTEE_NAME": "Danny Silsbe",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Cherry St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122720",
+        "LATITUDE": 35.457806,
+        "LONGITUDE": -89.403375,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26322699999997,
+          35.594209000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122796",
+        "PERMITTEE_NAME": "Town of Stanton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "25 Lafayette Ave N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122796",
+        "LATITUDE": 35.594209,
+        "LONGITUDE": -89.263227,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24146099999996,
+          35.58872400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122930",
+        "PERMITTEE_NAME": "Casey's Convenience Store, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "366 South Dupree Ave",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122930",
+        "LATITUDE": 35.588724,
+        "LONGITUDE": -89.241461,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.46599999999995,
+          35.405200000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192365",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Free Flow Interstate Access to Proposed Site on New Routes Connecting I-40 to SR's 1, 59 and 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192365",
+        "LATITUDE": 35.4052,
+        "LONGITUDE": -89.46600000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24309599999998,
+          35.58464800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122868",
+        "PERMITTEE_NAME": "Vandiver Enterprises, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "S. Dupree St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122868",
+        "LATITUDE": 35.584648,
+        "LONGITUDE": -89.243096,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43455699999998,
+          35.43676400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.237",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1713830400000,
+        "EFFECTIVE_DATE": 1713830400000,
+        "EXPIRATION_DATE": 1871510400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "101 Fredonia Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.237",
+        "LATITUDE": 35.436764,
+        "LONGITUDE": -89.434557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27789999999999,
+          35.60340000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122665",
+        "PERMITTEE_NAME": "AJA Sol LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Key Corner Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122665",
+        "LATITUDE": 35.6034,
+        "LONGITUDE": -89.2779,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.46599999999995,
+          35.405200000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.256",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1713830400000,
+        "EFFECTIVE_DATE": 1742860800000,
+        "EXPIRATION_DATE": 1871510400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Free Flow Interstate Access to Proposed Site on New Routes Connecting I-40 to SR's 1, 59 and 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.256",
+        "LATITUDE": 35.4052,
+        "LONGITUDE": -89.46600000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09022899999997,
+          35.58365800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-22020",
+        "PERMITTEE_NAME": "Gulab Waste Services, Inc.",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "9740 Hwy 70",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-22020",
+        "LATITUDE": 35.583658,
+        "LONGITUDE": -89.090229,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33583299999998,
+          35.435556000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830266",
+        "PERMITTEE_NAME": "ATC Group Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1701993600000,
+        "EFFECTIVE_DATE": 1701993600000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "815 Dancyville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830266",
+        "LATITUDE": 35.435556,
+        "LONGITUDE": -89.335833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43455699999998,
+          35.43676400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.238",
+        "PERMITTEE_NAME": "Ford Motor Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1647907200000,
+        "EFFECTIVE_DATE": 1647907200000,
+        "EXPIRATION_DATE": 1805587200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "101 Fredonia Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.238",
+        "LATITUDE": 35.436764,
+        "LONGITUDE": -89.434557,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23917199999994,
+          35.60314800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110086",
+        "PERMITTEE_NAME": "SEMO Operating Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1724716800000,
+        "EFFECTIVE_DATE": 1724716800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "1800 Boyd Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110086",
+        "LATITUDE": 35.603148,
+        "LONGITUDE": -89.239172,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39559399999996,
+          35.657414000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056564",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760054400000,
+        "EFFECTIVE_DATE": 1760054400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "615 Elm Tree Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056564",
+        "LATITUDE": 35.657413999999996,
+        "LONGITUDE": -89.395594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26701399999996,
+          35.58832700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053911",
+        "PERMITTEE_NAME": "SIMMONS LOGGING LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "444 West Powell",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053911",
+        "LATITUDE": 35.588327,
+        "LONGITUDE": -89.26701399999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26219899999995,
+          35.594956000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS075191",
+        "PERMITTEE_NAME": "City of Brownsville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1674518400000,
+        "EFFECTIVE_DATE": 1675209600000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "111 North Washington",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS075191",
+        "LATITUDE": 35.594955999999996,
+        "LONGITUDE": -89.262199,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.29531899999995,
+          35.60005600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120652",
+        "PERMITTEE_NAME": "Bill Timbes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Cottondale Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120652",
+        "LATITUDE": 35.600055999999995,
+        "LONGITUDE": -89.29531899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23083299999996,
+          35.59972200000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121023",
+        "PERMITTEE_NAME": "DC Construction Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Morgan Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121023",
+        "LATITUDE": 35.599722,
+        "LONGITUDE": -89.23083299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40939999999995,
+          35.49860000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121115",
+        "PERMITTEE_NAME": "Tennessee Wildlife Resources Foundation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Hatchie River Wetland Mitigation Bank west of Stanton, on Wesley Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121115",
+        "LATITUDE": 35.4986,
+        "LONGITUDE": -89.4094,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26416699999999,
+          35.58083300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120980",
+        "PERMITTEE_NAME": "Prairie Creek Estates, L.P.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "West of South Washington Street about 1.0 mile south of East Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120980",
+        "LATITUDE": 35.580833,
+        "LONGITUDE": -89.264167,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39599999999996,
+          35.46300000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110375",
+        "PERMITTEE_NAME": "SEMO Operating Company, LLC DBA B.T. Redi-Mix",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1668556800000,
+        "EFFECTIVE_DATE": 1669852800000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "229 Pond Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110375",
+        "LATITUDE": 35.463,
+        "LONGITUDE": -89.396,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22999999999996,
+          35.60277800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058428",
+        "PERMITTEE_NAME": "Westlake Pipe & Fittings Corporation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755820800000,
+        "EFFECTIVE_DATE": 1755820800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "414 Morgan Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058428",
+        "LATITUDE": 35.602778,
+        "LONGITUDE": -89.23,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.16296999999997,
+          35.59128000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121204",
+        "PERMITTEE_NAME": "Broderick Pearson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Just east of Upper Zion Road on HWY 70 approaching Brownsville",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121204",
+        "LATITUDE": 35.59128,
+        "LONGITUDE": -89.16297,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22999999999996,
+          35.59800000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058960",
+        "PERMITTEE_NAME": "Precision Coils",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766102400000,
+        "EFFECTIVE_DATE": 1766102400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "200 MORGAN STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058960",
+        "LATITUDE": 35.598,
+        "LONGITUDE": -89.23,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22559999999999,
+          35.60510000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121917",
+        "PERMITTEE_NAME": "City of Brownsville",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "Blackwood Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121917",
+        "LATITUDE": 35.6051,
+        "LONGITUDE": -89.2256,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09388899999999,
+          35.623056000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "387020",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1721088000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1813017600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "430se Mud Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:387020",
+        "LATITUDE": 35.623056,
+        "LONGITUDE": -89.09388899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.17138899999998,
+          35.615833000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "387023",
+        "PERMITTEE_NAME": "Zion Baptist Church",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1736985600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "430sw Trib-jacobs Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:387023",
+        "LATITUDE": 35.615832999999995,
+        "LONGITUDE": -89.17138899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15371999999996,
+          35.60755000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "387025",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1721174400000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1813017600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "430sw Cobb Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:387025",
+        "LATITUDE": 35.607549999999996,
+        "LONGITUDE": -89.15371999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.31666699999994,
+          35.58888900000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "387027",
+        "PERMITTEE_NAME": "Country Lake Estates Homeowners Association",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1734307200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "422SE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:387027",
+        "LATITUDE": 35.588889,
+        "LONGITUDE": -89.316667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.25829999999996,
+          35.573300000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS16.003",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1453766400000,
+        "EFFECTIVE_DATE": 1453766400000,
+        "EXPIRATION_DATE": 1617667200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "SR-19",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS16.003",
+        "LATITUDE": 35.5733,
+        "LONGITUDE": -89.2583,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15805599999999,
+          35.614167000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "387026",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1734307200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1826323200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "430sw Cobb Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:387026",
+        "LATITUDE": 35.614167,
+        "LONGITUDE": -89.158056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.19799999999998,
+          35.54150000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059301",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758844800000,
+        "EFFECTIVE_DATE": 1758844800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "948 Beech Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059301",
+        "LATITUDE": 35.5415,
+        "LONGITUDE": -89.19800000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09370999999999,
+          35.58508000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.086",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1658793600000,
+        "EFFECTIVE_DATE": 1658707200000,
+        "EXPIRATION_DATE": 1816387200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "I-40, Interchange at SR-1 (US-70, Exit 66), LM 22.39-22.92",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.086",
+        "LATITUDE": 35.58508,
+        "LONGITUDE": -89.09371,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.29280099999994,
+          35.60474300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS18.072",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1525046400000,
+        "EFFECTIVE_DATE": 1525046400000,
+        "EXPIRATION_DATE": 1682812800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "SR-19 Brownsville Bypass from East of SR-87 to West of Windrow Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.072",
+        "LATITUDE": 35.604743,
+        "LONGITUDE": -89.292801,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.17918999999995,
+          35.554440000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122654",
+        "PERMITTEE_NAME": "Bradley Williams",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "481 Coburn Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122654",
+        "LATITUDE": 35.55444,
+        "LONGITUDE": -89.17918999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26087099999995,
+          35.59147400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059133",
+        "PERMITTEE_NAME": "CSX Transportation, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759881600000,
+        "EFFECTIVE_DATE": 1759881600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "262 South Washington Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059133",
+        "LATITUDE": 35.591474,
+        "LONGITUDE": -89.260871,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24621999999994,
+          35.58747000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122247",
+        "PERMITTEE_NAME": "Rodney Gaines",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "1326 E. Jefferson St.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122247",
+        "LATITUDE": 35.587469999999996,
+        "LONGITUDE": -89.24622,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34008599999999,
+          35.51971200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR1802.070",
+        "PERMITTEE_NAME": "Jim McFarland",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "6405 Shaw Chapel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR1802.070",
+        "LATITUDE": 35.519712,
+        "LONGITUDE": -89.340086,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.36393999999996,
+          35.682646000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2002.070",
+        "PERMITTEE_NAME": "C-O Brack Irrevocabile Trust/Marilyn Walker",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "1949-1445 Briarcreek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2002.070",
+        "LATITUDE": 35.682646,
+        "LONGITUDE": -89.36394,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.20769999999999,
+          35.59170000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059183",
+        "PERMITTEE_NAME": "Drake Sawmill, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758067200000,
+        "EFFECTIVE_DATE": 1758067200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Haywood",
+        "SITE_LOCATION": "3100 Hwy 70 E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059183",
+        "LATITUDE": 35.5917,
+        "LONGITUDE": -89.2077,
+        "permit_status": "Active"
+      }
+    }
+  ]
+}
