@@ -10,7 +10,7 @@ Water Policy Watch helps people explore water quality and environmental conditio
 - Explore rivers, water-quality assessments, watersheds, water permits, and compliance records.
 - Turn map layers on and off to view drinking-water service areas, protected lands, landfills, Superfund sites, land cover, and legislative districts.
 - Read county summaries covering population, poverty, monitoring stations, impaired river miles, and environmental screening indicators.
-- Compare counties through statewide rankings and review the Sources and Methodology pages.
+- Compare counties through statewide rankings and review the Sources page.
 - Enable ECHO violations on a county map to read a short explanation of the compliance flags, and use the Glossary for agency, mapping, and permit acronyms. Dotted-underlined acronyms also provide hover definitions.
 
 ## How it works
@@ -43,7 +43,7 @@ If Census requires authentication, add an agency-issued API key as the repositor
 | Harpeth Conservancy GIS collections | Local copies of Tennessee environmental and geographic datasets, including Justice40 / CEJST screening information. |
 | OpenStreetMap | Background maps and road context. |
 
-The application's [Sources page](https://rjwood11.github.io/Policy_Watch/sources/) describes individual datasets and their update information. The [Methodology page](https://rjwood11.github.io/Policy_Watch/methodology/) explains the general approach.
+The application's [Sources page](https://rjwood11.github.io/Policy_Watch/sources/) describes individual datasets and their update information.
 
 ## Understanding the information
 

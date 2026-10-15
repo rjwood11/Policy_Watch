@@ -72,9 +72,6 @@ export default function RootLayout({
                 <Link className="text-ink/75 no-underline hover:text-gold" href="/rankings">
                   Rankings
                 </Link>
-                <Link className="text-ink/75 no-underline hover:text-gold" href="/methodology">
-                  Methodology
-                </Link>
                 <Link className="text-ink/75 no-underline hover:text-gold" href="/sources">
                   Data sources
                 </Link>
