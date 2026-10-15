@@ -2,6 +2,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
+import { GlossaryText } from "@/components/GlossaryText";
 import { assetPath } from "@/lib/assetPath";
 import type { CountyIndexRecord, CountyRecord } from "@/lib/data";
 
@@ -291,7 +293,7 @@ export function TennesseeMap({
       <div className="border-b border-ink/10 p-5">
         <div>
           <p className="text-xs font-semibold uppercase tracking-normal text-river">Statewide map</p>
-          <h2 className="mt-1 text-2xl font-semibold">County water-health view</h2>
+          <h2 className="mt-1 text-2xl font-semibold">Select a County to Explore Local Issues</h2>
         </div>
       </div>
       <div className="grid gap-4 p-4 lg:grid-cols-[minmax(0,1fr)_18rem]">
@@ -352,9 +354,9 @@ export function TennesseeMap({
           <div className="rounded-lg border border-ink/10 bg-white p-4">
             <p className="text-xs font-semibold uppercase tracking-normal text-river">Watershed view</p>
             <p className="mt-2 text-xs leading-5 text-ink/60">
-              Showing USGS WBD HUC6 basin boundaries. Hover or select a county to see its local HUC6 context
-              below the map.
+              <GlossaryText text="Showing USGS WBD HUC6 basin boundaries. Hover or select a county to see its local basin context below the map." />
             </p>
+            <Link href="/glossary#huc6" className="mt-2 inline-block text-xs">What do these acronyms mean?</Link>
           </div>
 
           <div className="rounded-lg border border-ink/10 bg-white p-4">

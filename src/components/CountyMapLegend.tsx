@@ -1,3 +1,5 @@
+import { GlossaryText } from "@/components/GlossaryText";
+
 export type LayerKey = "watershed" | "utilities" | "protected" | "landfills" | "superfund" | "landuse" | "districts" | "impaired" | "permits" | "echo";
 
 export type LegendGroup = {
@@ -29,7 +31,7 @@ export function CountyMapLegend({ groups }: { groups: LegendGroup[] }) {
         <div className="mt-4 divide-y divide-white/15">
           {groups.map((group) => (
             <div key={group.key} className="py-4 first:pt-0 last:pb-0">
-              <h4 className="text-sm font-semibold text-white">{group.label}</h4>
+              <h4 className="text-sm font-semibold text-white"><GlossaryText text={group.label} /></h4>
               {group.status ? <p className="mt-2 text-xs leading-5 text-white/70" role="status">{group.status}</p> : null}
               {group.entries.length > 0 ? (
                 <ul className="mt-3 space-y-3 text-sm">
@@ -46,7 +48,7 @@ export function CountyMapLegend({ groups }: { groups: LegendGroup[] }) {
                             />
                           )}
                         </span>
-                        <span>{entry.label}</span>
+                        <span><GlossaryText text={entry.label} /></span>
                       </span>
                       {entry.count !== undefined && !group.status ? (
                         <span className="shrink-0 tabular-nums text-white/75" aria-label={`${entry.count.toLocaleString()} loaded records`}>
@@ -57,7 +59,7 @@ export function CountyMapLegend({ groups }: { groups: LegendGroup[] }) {
                   ))}
                 </ul>
               ) : null}
-              {group.note ? <p className="mt-3 text-xs leading-5 text-white/70">{group.note}</p> : null}
+              {group.note ? <p className="mt-3 text-xs leading-5 text-white/70"><GlossaryText text={group.note} /></p> : null}
             </div>
           ))}
         </div>

@@ -78,6 +78,9 @@ export default function RootLayout({
                 <Link className="text-ink/75 no-underline hover:text-gold" href="/sources">
                   Data sources
                 </Link>
+                <Link className="text-ink/75 no-underline hover:text-gold" href="/glossary">
+                  Glossary
+                </Link>
               </nav>
               <HarpethCredit compact />
             </div>

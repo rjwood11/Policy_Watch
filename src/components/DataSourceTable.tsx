@@ -1,4 +1,5 @@
 import type { DataSourceRecord } from "@/lib/data";
+import { GlossaryText } from "@/components/GlossaryText";
 
 export function DataSourceTable({ sources }: { sources: DataSourceRecord[] }) {
   return (
@@ -27,16 +28,16 @@ export function DataSourceTable({ sources }: { sources: DataSourceRecord[] }) {
             {sources.map((source) => (
               <tr key={source.dataset} className="border-t border-ink/10 align-top">
                 <td className="px-3 py-3 font-medium">
-                  <div>{source.dataset}</div>
+                  <div><GlossaryText text={source.dataset} /></div>
                 </td>
-                <td className="px-3 py-3 leading-5 text-ink/75">{source.purpose}</td>
+                <td className="px-3 py-3 leading-5 text-ink/75"><GlossaryText text={source.purpose} /></td>
                 <td className="px-3 py-3 leading-5">
                   {source.sourceUrl.startsWith("http") ? (
                     <a href={source.sourceUrl} target="_blank" rel="noreferrer">
-                      {source.sourceName}
+                      <GlossaryText text={source.sourceName} />
                     </a>
                   ) : (
-                    <span>{source.sourceName}</span>
+                    <span><GlossaryText text={source.sourceName} /></span>
                   )}
                 </td>
                 <td className="px-3 py-3 text-ink/75">
@@ -49,7 +50,7 @@ export function DataSourceTable({ sources }: { sources: DataSourceRecord[] }) {
                     {source.lastChecked ? `Checked ${source.lastChecked}` : source.refreshStatus === "Local snapshot" ? "Manual update" : "Automatic check pending"}
                   </p>
                 </td>
-                <td className="px-3 py-3 leading-5 text-ink/75">{source.notes}</td>
+                <td className="px-3 py-3 leading-5 text-ink/75"><GlossaryText text={source.notes} /></td>
               </tr>
             ))}
           </tbody>

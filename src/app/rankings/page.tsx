@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { rankingMetrics } from "@/lib/rankings";
+import { GlossaryText } from "@/components/GlossaryText";
 
 export const metadata: Metadata = {
   title: "Statewide County Rankings | PolicyWatch",
@@ -37,7 +38,7 @@ export default function RankingsPage() {
       <section className="grid gap-5 lg:grid-cols-2">
         {groups.map((group) => (
           <article key={group.group} className="card p-6">
-            <p className="text-xs uppercase tracking-normal text-river">{group.group}</p>
+            <p className="text-xs uppercase tracking-normal text-river"><GlossaryText text={group.group} /></p>
             <div className="mt-4 grid gap-3">
               {group.metrics.map((metric) => (
                 <Link

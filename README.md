@@ -11,6 +11,7 @@ Water Policy Watch helps people explore water quality and environmental conditio
 - Turn map layers on and off to view drinking-water service areas, protected lands, landfills, Superfund sites, land cover, and legislative districts.
 - Read county summaries covering population, poverty, monitoring stations, impaired river miles, and environmental screening indicators.
 - Compare counties through statewide rankings and review the Sources and Methodology pages.
+- Enable ECHO violations on a county map to read a short explanation of the compliance flags, and use the Glossary for agency, mapping, and permit acronyms. Dotted-underlined acronyms also provide hover definitions.
 
 ## How it works
 

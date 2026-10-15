@@ -1,6 +1,8 @@
 "use client";
 
 import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
+import Link from "next/link";
+import { GlossaryText } from "@/components/GlossaryText";
 import maplibregl, {
   type GeoJSONSource,
   type LngLatBoundsLike,
@@ -1482,7 +1484,7 @@ function watershedPopupHtml(properties: GeoJsonProperties | null | undefined) {
   return `
     <div class="space-y-1 text-sm">
       <p class="font-semibold">${escapeHtml(name)}</p>
-      ${huc8 ? `<p>HUC8 ${escapeHtml(huc8)}</p>` : ""}
+      ${huc8 ? `<p>Watershed code (8-digit Hydrologic Unit Code): ${escapeHtml(huc8)}</p>` : ""}
       ${area > 0 ? `<p>${escapeHtml(area.toLocaleString(undefined, { maximumFractionDigits: 1 }))} sq km</p>` : ""}
     </div>
   `;
@@ -1505,7 +1507,7 @@ function waterUtilityPopupHtml(properties: GeoJsonProperties | null | undefined)
     ["Total Lines", "total_lines"],
     ["Lead Lines", "lead_lines"],
     ["Non-Lead Lines", "non_lead_lines"],
-    ["GRR", "grr_lines"],
+    ["Galvanized requiring replacement (GRR)", "grr_lines"],
     ["Unknown Lines", "unknown_lines"]
   ]
     .map(([label, key]) => {
@@ -1858,18 +1860,21 @@ function setDistrictHoverHighlights(map: MapLibreMap, features: maplibregl.MapGe
 function LayerToggle({
   checked,
   label,
+  descriptionId,
   onChange
 }: {
   checked: boolean;
   label: string;
+  descriptionId?: string;
   onChange: (checked: boolean) => void;
 }) {
   return (
     <label className="flex cursor-pointer items-center justify-between gap-4 rounded-lg border border-ink/10 bg-white px-3 py-2 text-sm">
-      <span className="font-medium text-ink">{label}</span>
+      <span className="font-medium text-ink"><GlossaryText text={label} /></span>
       <input
         type="checkbox"
         checked={checked}
+        aria-describedby={descriptionId}
         onChange={(event) => onChange(event.target.checked)}
         className="h-4 w-4 accent-river"
       />
@@ -2666,8 +2671,9 @@ function CountyDetailMapView({
         <p className="text-xs uppercase tracking-normal text-river">County map</p>
         <h2 className="mt-2 text-2xl font-semibold">{map.name} County interactive map</h2>
         <p className="mt-3 max-w-3xl text-sm leading-6 text-ink/75">
-          Address search, EPA assessment status, legislative districts, protected areas, drinking water utility areas, landfill locations, TDEC permit records, EPA ECHO compliance signals, and HUC8 watershed areas are now layered on an interactive map.
+          <GlossaryText text="Address search, EPA assessment status, legislative districts, protected areas, drinking water utility areas, landfill locations, TDEC permit records, EPA ECHO compliance signals, and HUC8 watershed areas are now layered on an interactive map." />
         </p>
+        <Link href="/glossary" className="mt-2 inline-block text-sm">Acronyms and map terms explained</Link>
       </div>
 
       <div className="grid gap-6 p-6 lg:grid-cols-[1.45fr_0.75fr]">
@@ -2738,7 +2744,7 @@ function CountyDetailMapView({
                             {permitId || propertyText(properties, "echo_display_name")}
                           </span>
                           <span className="mt-1 block text-xs leading-5 text-ink/65">
-                            {count} NC quarter{count === 1 ? "" : "s"} - {propertyText(properties, "echo_latest_violation")}
+                            {count} noncompliance quarter{count === 1 ? "" : "s"} - <GlossaryText text={propertyText(properties, "echo_latest_violation")} />
                           </span>
                         </button>
                       );
@@ -2819,8 +2825,27 @@ function CountyDetailMapView({
               <LayerToggle
                 checked={visibleLayers.echo}
                 label="ECHO violations"
+                descriptionId={visibleLayers.echo ? "echo-layer-explanation" : undefined}
                 onChange={(checked) => setVisibleLayers((current) => ({ ...current, echo: checked }))}
               />
+              {visibleLayers.echo ? (
+                <div className="rounded-md border border-ink/10 bg-sand/60 p-3 text-xs leading-5 text-ink/75" id="echo-layer-explanation">
+                  <p className="font-semibold text-ink">What do ECHO violations mean?</p>
+                  <p className="mt-2">
+                    <GlossaryText text="ECHO (Enforcement and Compliance History Online) is EPA's compliance database. These markers show Clean Water Act discharge permits with recent noncompliance. Flags can reflect pollutant-limit exceedances, missed monitoring reports, or other permit requirements." />
+                  </p>
+                  <p className="mt-2">
+                    Counts represent quarters with noncompliance over roughly three years, rather
+                    than individual incidents. Current and past violations differ; a marker alone
+                    does not establish current river conditions. Open a marker&apos;s detailed report
+                    for the reported issues and dates.
+                  </p>
+                  <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1">
+                    <a href="https://echo.epa.gov/help/facility-search/water-search-results-help" target="_blank" rel="noreferrer">EPA explanation</a>
+                    <Link href="/glossary#echo">Acronym glossary</Link>
+                  </div>
+                </div>
+              ) : null}
               <LayerToggle
                 checked={visibleLayers.watershed}
                 label="Watershed area"

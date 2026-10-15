@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { CountyDetailMap } from "@/components/CountyDetailMap";
+import { GlossaryText } from "@/components/GlossaryText";
 import type { CountyRecord, StateRank } from "@/lib/data";
 import { getCounty, getCountyIndex, getDataSources } from "@/lib/data";
 import {
@@ -150,7 +151,7 @@ function StressSummaryTile({ county }: { county: CountyRecord }) {
   return (
     <article className="card p-6">
       <p className="text-xs uppercase tracking-normal text-river">Climate and water stress</p>
-      <h3 className="mt-2 text-xl font-semibold">Justice40 / CEJST tract screening</h3>
+      <h3 className="mt-2 text-xl font-semibold"><GlossaryText text="Justice40 / CEJST tract screening" /></h3>
       <div className="mt-4 space-y-4">
         <StressMetric
           metric={county.stressSummary.water}
@@ -238,7 +239,7 @@ function CountyContextTile({ county }: { county: CountyRecord }) {
       <p className="text-xs uppercase tracking-normal text-river">County context</p>
       <dl className="mt-4 space-y-3 text-sm">
         <div className="border-b border-ink/10 pb-3">
-          <dt className="font-medium text-ink">HUC8 watersheds</dt>
+          <dt className="font-medium text-ink"><GlossaryText text="HUC8 watersheds" /></dt>
           <dd className="mt-1 text-ink/70">{county.watersheds.join(", ")}</dd>
         </div>
         <div className="border-b border-ink/10 pb-3">
@@ -544,9 +545,9 @@ export default async function CountyPage({
         </article>
 
         <article className="card p-7">
-          <p className="text-xs uppercase tracking-normal text-river">Justice40 / CEJST</p>
+          <p className="text-xs uppercase tracking-normal text-river"><GlossaryText text="Justice40 / CEJST" /></p>
           <h2 className="mt-2 text-2xl font-semibold">Screening summary</h2>
-          <p className="mt-4 text-sm leading-7 text-ink/75">{county.cejstSummary}</p>
+          <p className="mt-4 text-sm leading-7 text-ink/75"><GlossaryText text={county.cejstSummary} /></p>
           <p className="mt-4 text-xs leading-6 text-ink/60">
             Screening tools are contextual. They are not a final determination of risk,
             regulatory status, or community need.
@@ -619,7 +620,7 @@ export default async function CountyPage({
         <ul className="mt-5 space-y-4 text-sm leading-7 text-ink/75">
           {sources.slice(0, 6).map((source) => (
             <li key={source.dataset} className="rounded-md border border-ink/10 p-4">
-              <span className="font-medium text-ink">{source.dataset}:</span> {source.notes}
+              <span className="font-medium text-ink"><GlossaryText text={source.dataset} />:</span> <GlossaryText text={source.notes} />
             </li>
           ))}
         </ul>
@@ -627,6 +628,9 @@ export default async function CountyPage({
           Review the full source registry
         </Link>
       </section>
+      <p className="text-sm text-ink/75">
+        Unfamiliar term? <Link href="/glossary">Browse acronyms and map terms</Link> for plain-language definitions.
+      </p>
     </div>
   );
 }
