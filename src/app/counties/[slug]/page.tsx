@@ -5,6 +5,7 @@ import { CountyDetailMap } from "@/components/CountyDetailMap";
 import { GlossaryText } from "@/components/GlossaryText";
 import type { CountyRecord, StateRank } from "@/lib/data";
 import { getCounty, getCountyIndex, getDataSources } from "@/lib/data";
+import { getCountyIntroduction } from "@/lib/countyIntroductions";
 import {
   TENNESSEE_CONGRESSIONAL_REPRESENTATIVES,
   TENNESSEE_LEGISLATORS
@@ -35,12 +36,12 @@ export async function generateMetadata({
 
   return {
     title: `${county.name} County | Harpeth Conservancy's Water Policy Watch`,
-    description: `${countyRegionSubtitle(county)} Water quality, permitting, and policy context from Harpeth Conservancy.`
+    description: getCountyIntroduction(county.slug).summary
   };
 }
 
 function countyRegionSubtitle(county: Pick<CountyRecord, "name" | "region">) {
-  return `${county.name} County is in ${county.region}.`;
+  return `${county.name} County - ${county.region}`;
 }
 
 function findIndicator(county: CountyRecord, key: string) {
@@ -377,6 +378,7 @@ export default async function CountyPage({
   }
 
   const county = getCounty(slug);
+  const introduction = getCountyIntroduction(slug);
   const sources = getDataSources();
   const echoSource = sources.find((source) => source.dataset === "EPA ECHO CWA permit compliance");
   const populationIndicator = findIndicator(county, "acs-pop");
@@ -403,7 +405,10 @@ export default async function CountyPage({
           <p className="mt-4 text-xl font-semibold text-river">
             {countyRegionSubtitle(county)}
           </p>
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-ink/75">{county.overview}</p>
+          <p className="mt-5 max-w-3xl text-sm leading-7 text-ink/75">{introduction.summary}</p>
+          <p className="mt-2 text-xs text-ink/60">
+            County background: <a href={introduction.sourceUrl} target="_blank" rel="noreferrer">Wikipedia</a>
+          </p>
         </div>
         <CountyContextTile county={county} />
       </section>
