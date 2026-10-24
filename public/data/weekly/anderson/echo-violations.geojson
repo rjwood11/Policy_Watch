@@ -124,6 +124,46 @@
     {
       "type": "Feature",
       "properties": {
+        "CWPName": "CLINTON WWTP #1",
+        "SourceID": "TN0026506",
+        "RegistryID": "110006367859",
+        "FacLat": "36.083441",
+        "FacLong": "-84.15369",
+        "PermitName": "Clinton Utilities Board",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TN0026506",
+        "echo_display_name": "CLINTON WWTP #1",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006367859",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15369,
+          36.083441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "CWPName": "CONCRETE CONCEPTS OF TENNESSEE",
         "SourceID": "TNG110443",
         "RegistryID": "110070155734",
@@ -165,46 +205,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "EAGLE BEND MANUFACTURING INC.",
-        "SourceID": "TN0064564",
-        "RegistryID": "110000578321",
-        "FacLat": "36.0901",
-        "FacLong": "-84.11894",
-        "PermitName": "Eagle Bend Mfg. Inc.",
-        "CWPStatus": "No Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "No",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "___V_________",
-        "ViolFlag": "1",
-        "CurrVioFlag": "0",
-        "CurrSvFlag": "0",
-        "EffExceeds": "1",
-        "VioLastYear": "0",
-        "echo_source_id": "TN0064564",
-        "echo_display_name": "EAGLE BEND MANUFACTURING INC.",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": false,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 9 quarters ago",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000578321",
-        "echo_status_label": "Recent violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.11894,
-          36.0901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "EAGLE BEND MANUFACTURING INC.",
         "SourceID": "TNR050016",
         "RegistryID": "110000578321",
         "FacLat": "36.0901",
@@ -232,6 +232,46 @@
         "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
         "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000578321",
         "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11894,
+          36.0901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "EAGLE BEND MANUFACTURING INC.",
+        "SourceID": "TN0064564",
+        "RegistryID": "110000578321",
+        "FacLat": "36.0901",
+        "FacLong": "-84.11894",
+        "PermitName": "Eagle Bend Mfg. Inc.",
+        "CWPStatus": "No Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "CurrSvFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "echo_source_id": "TN0064564",
+        "echo_display_name": "EAGLE BEND MANUFACTURING INC.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000578321",
+        "echo_status_label": "Recent violation"
       },
       "geometry": {
         "type": "Point",
@@ -810,28 +850,28 @@
         "FacLat": "36.187579",
         "FacLong": "-84.199924",
         "PermitName": "Premium Coal Company, Inc.",
-        "CWPStatus": "No Violation Identified",
+        "CWPStatus": "Violation Identified",
         "CWPSNCStatus": null,
         "CWPVioStatus": "Resolved - Pending",
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "2",
-        "CWPViolStatus": "No",
+        "CWPQtrsWithNC": "3",
+        "CWPViolStatus": "Yes",
         "CWPQtrsWithSNC": "0",
         "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "________V_V__",
+        "CWP13qtrsComplHistory": "________V_V_V",
         "ViolFlag": "1",
-        "CurrVioFlag": "0",
+        "CurrVioFlag": "1",
         "CurrSvFlag": "0",
         "EffExceeds": "3",
         "VioLastYear": "1",
         "echo_source_id": "TN0051918",
         "echo_display_name": "PREMIUM COAL COMPANY, INC. - TIPPLE & PREPARATION PLANT",
-        "echo_violation_count": 2.0,
-        "echo_current_violation": false,
+        "echo_violation_count": 3.0,
+        "echo_current_violation": true,
         "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_latest_violation": "Violation Identified",
         "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009788159",
-        "echo_status_label": "Recent violation"
+        "echo_status_label": "Current violation"
       },
       "geometry": {
         "type": "Point",

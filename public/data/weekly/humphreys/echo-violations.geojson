@@ -130,28 +130,28 @@
         "FacLat": "36.043116",
         "FacLong": "-87.9817",
         "PermitName": "The Chemours Company FC, LLC",
-        "CWPStatus": "No Violation Identified",
+        "CWPStatus": "Violation Identified",
         "CWPSNCStatus": null,
         "CWPVioStatus": null,
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "No",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "Yes",
         "CWPQtrsWithSNC": "0",
         "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "_____V_______",
+        "CWP13qtrsComplHistory": "_____V______V",
         "ViolFlag": "1",
-        "CurrVioFlag": "0",
+        "CurrVioFlag": "1",
         "CurrSvFlag": "0",
         "EffExceeds": "1",
-        "VioLastYear": "0",
+        "VioLastYear": "1",
         "echo_source_id": "TN0001465",
         "echo_display_name": "CHEMOURS COMPANY",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": false,
+        "echo_violation_count": 2.0,
+        "echo_current_violation": true,
         "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 7 quarters ago",
+        "echo_latest_violation": "Violation Identified",
         "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110010575635",
-        "echo_status_label": "Recent violation"
+        "echo_status_label": "Current violation"
       },
       "geometry": {
         "type": "Point",
@@ -645,46 +645,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "VOLUNTEER READY MIX, LLC",
-        "SourceID": "TNG110063",
-        "RegistryID": "110009790280",
-        "FacLat": "36.08339",
-        "FacLong": "-87.7772",
-        "PermitName": "Volunteer Ready Mix, LLC",
-        "CWPStatus": "Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": "Reportable Noncompliance",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "6",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "4",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "SSSS_______VV",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "0",
-        "EffExceeds": "1",
-        "VioLastYear": "1",
-        "echo_source_id": "TNG110063",
-        "echo_display_name": "VOLUNTEER READY MIX, LLC",
-        "echo_violation_count": 6.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation Identified",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009790280",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.7772,
-          36.08339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "VOLUNTEER READY MIX, LLC",
         "SourceID": "TNG110064",
         "RegistryID": "110009790299",
         "FacLat": "36.011453",
@@ -718,6 +678,46 @@
         "coordinates": [
           -87.960452,
           36.011453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "VOLUNTEER READY MIX, LLC",
+        "SourceID": "TNG110063",
+        "RegistryID": "110009790280",
+        "FacLat": "36.08339",
+        "FacLong": "-87.7772",
+        "PermitName": "Volunteer Ready Mix, LLC",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "4",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "SSSS_______VV",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "1",
+        "echo_source_id": "TNG110063",
+        "echo_display_name": "VOLUNTEER READY MIX, LLC",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009790280",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7772,
+          36.08339
         ]
       }
     }

@@ -244,6 +244,46 @@
     {
       "type": "Feature",
       "properties": {
+        "CWPName": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
+        "SourceID": "TNR172524",
+        "RegistryID": "110071525689",
+        "FacLat": "36.20684",
+        "FacLong": "-85.50971",
+        "PermitName": "Kelly Averitt",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR172524",
+        "echo_display_name": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071525689",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50971,
+          36.20684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "CWPName": "CITY OF COOKEVILLE DEPARTMENT OF WATER QUALITY CONTROL (WWTP)",
         "SourceID": "TN0024198",
         "RegistryID": "110006367751",
@@ -278,46 +318,6 @@
         "coordinates": [
           -85.50571,
           36.10828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "CONTECH ENGINEERED SOLUTIONS LLC",
-        "SourceID": "TNR058389",
-        "RegistryID": "110070003074",
-        "FacLat": "36.14161",
-        "FacLong": "-85.52409",
-        "PermitName": "Contech Engineered Solutions LLC",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR058389",
-        "echo_display_name": "CONTECH ENGINEERED SOLUTIONS LLC",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070003074",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.52409,
-          36.14161
         ]
       }
     },
@@ -478,46 +478,6 @@
         "coordinates": [
           -85.283778,
           36.165955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "KELLY AVERITT PROPERTY",
-        "SourceID": "TNR172524",
-        "RegistryID": "110071525689",
-        "FacLat": "36.20684",
-        "FacLong": "-85.50971",
-        "PermitName": "Kelly Averitt",
-        "CWPStatus": "Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": "Resolved - Pending",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "____________V",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "0",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR172524",
-        "echo_display_name": "KELLY AVERITT PROPERTY",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation Identified",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071525689",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.50971,
-          36.20684
         ]
       }
     },

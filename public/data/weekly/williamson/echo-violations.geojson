@@ -14,11 +14,11 @@
         "CWPSNCStatus": null,
         "CWPVioStatus": "Other Violation",
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "3",
+        "CWPQtrsWithNC": "4",
         "CWPViolStatus": "Yes",
         "CWPQtrsWithSNC": "0",
         "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "___V______VV_",
+        "CWP13qtrsComplHistory": "___V______VVV",
         "ViolFlag": "1",
         "CurrVioFlag": "1",
         "CurrSvFlag": "0",
@@ -26,7 +26,7 @@
         "VioLastYear": "1",
         "echo_source_id": "TN0029718",
         "echo_display_name": "BERRY'S CHAPEL UTILITY STP",
-        "echo_violation_count": 3.0,
+        "echo_violation_count": 4.0,
         "echo_current_violation": true,
         "echo_significant_violation": false,
         "echo_latest_violation": "Violation Identified",
@@ -358,6 +358,46 @@
         "coordinates": [
           -86.91056,
           35.80008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "NASHVILLE READY MIX  FRANKLIN PLANT",
+        "SourceID": "TNG110398",
+        "RegistryID": "110063677034",
+        "FacLat": "35.89377",
+        "FacLong": "-86.8727",
+        "PermitName": "Nashville Ready Mix of Franklin, LLC",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNG110398",
+        "echo_display_name": "NASHVILLE READY MIX  FRANKLIN PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110063677034",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8727,
+          35.89377
         ]
       }
     },

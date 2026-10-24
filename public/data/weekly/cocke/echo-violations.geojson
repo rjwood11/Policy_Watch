@@ -285,46 +285,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "SONOCO PRODUCTS COMPANY",
-        "SourceID": "TNR055894",
-        "RegistryID": "110001129047",
-        "FacLat": "36.01745",
-        "FacLong": "-83.20576",
-        "PermitName": "Sonoco Products Company",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR055894",
-        "echo_display_name": "SONOCO PRODUCTS COMPANY",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001129047",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.20576,
-          36.01745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "SONOCO PRODUCTS COMPANY",
         "SourceID": "TN0003735",
         "RegistryID": "110001129047",
         "FacLat": "36.01745",
@@ -350,6 +310,46 @@
         "echo_current_violation": true,
         "echo_significant_violation": false,
         "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001129047",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20576,
+          36.01745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "SONOCO PRODUCTS COMPANY",
+        "SourceID": "TNR055894",
+        "RegistryID": "110001129047",
+        "FacLat": "36.01745",
+        "FacLong": "-83.20576",
+        "PermitName": "Sonoco Products Company",
+        "CWPStatus": "Significant/Category I Noncompliance",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___________S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR055894",
+        "echo_display_name": "SONOCO PRODUCTS COMPANY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": true,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
         "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001129047",
         "echo_status_label": "Current violation"
       },

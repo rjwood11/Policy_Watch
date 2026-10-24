@@ -1004,6 +1004,86 @@
     {
       "type": "Feature",
       "properties": {
+        "CWPName": "THREE RIVERS CONSTRUCTION, INC - MURFREESBORO ASPHALT PLANT",
+        "SourceID": "TNR050938",
+        "RegistryID": "110001857544",
+        "FacLat": "35.873776",
+        "FacLong": "-86.336575",
+        "PermitName": "Three Rivers Construction, Inc",
+        "CWPStatus": "Significant/Category I Noncompliance",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___________S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR050938",
+        "echo_display_name": "THREE RIVERS CONSTRUCTION, INC - MURFREESBORO ASPHALT PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": true,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001857544",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.336575,
+          35.873776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "THREE RIVERS CONSTRUCTION, INC. - SMYRNA ASPHALT PLANT",
+        "SourceID": "TNR050937",
+        "RegistryID": "110071727097",
+        "FacLat": "36.007503",
+        "FacLong": "-86.443334",
+        "PermitName": "Three Rivers Construction, Inc.",
+        "CWPStatus": "Significant/Category I Noncompliance",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___________S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR050937",
+        "echo_display_name": "THREE RIVERS CONSTRUCTION, INC. - SMYRNA ASPHALT PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": true,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071727097",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.443334,
+          36.007503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "CWPName": "WASTE PRO - LAVERGNE (FKA RECYCLING PARTNERS) (FKA GRAYS SCRAP IRON & METAL)",
         "SourceID": "TNR056134",
         "RegistryID": "110070010631",
@@ -1038,86 +1118,6 @@
         "coordinates": [
           -86.53976,
           36.00317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "WIREGRASS CONSTRUCTION COMPANY, INC. - SMYRNA ASPHALT PLANT",
-        "SourceID": "TNR050937",
-        "RegistryID": "110071727097",
-        "FacLat": "36.007503",
-        "FacLong": "-86.443334",
-        "PermitName": "Wiregrass Construction Company, Inc.",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR050937",
-        "echo_display_name": "WIREGRASS CONSTRUCTION COMPANY, INC. - SMYRNA ASPHALT PLANT",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071727097",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.443334,
-          36.007503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "WIREGRASS CONSTRUCTION COMPANY, INC. -MURFREESBORO PLANT",
-        "SourceID": "TNR050938",
-        "RegistryID": "110001857544",
-        "FacLat": "35.873776",
-        "FacLong": "-86.336575",
-        "PermitName": "Wiregrass Construction Company, Inc.",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR050938",
-        "echo_display_name": "WIREGRASS CONSTRUCTION COMPANY, INC. -MURFREESBORO PLANT",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110001857544",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.336575,
-          35.873776
         ]
       }
     }

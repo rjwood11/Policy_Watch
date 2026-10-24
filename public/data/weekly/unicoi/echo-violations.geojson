@@ -200,6 +200,46 @@
           36.13087
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "USDI-FWS ERWIN NATIONAL FISH HATCHERY",
+        "SourceID": "TN0004677",
+        "RegistryID": "110006663636",
+        "FacLat": "36.166776",
+        "FacLong": "-82.388749",
+        "PermitName": "U.S. Fish and Wildlife Service",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TN0004677",
+        "echo_display_name": "USDI-FWS ERWIN NATIONAL FISH HATCHERY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006663636",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.388749,
+          36.166776
+        ]
+      }
     }
   ]
 }

@@ -844,6 +844,46 @@
     {
       "type": "Feature",
       "properties": {
+        "CWPName": "KINDER MORGAN SOUTHEAST TERMINALS-KNOXVILLE",
+        "SourceID": "TN0002216",
+        "RegistryID": "110000373523",
+        "FacLat": "35.962581",
+        "FacLong": "-83.995742",
+        "PermitName": "Kinder Morgan Southeast Terminals LLC",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TN0002216",
+        "echo_display_name": "KINDER MORGAN SOUTHEAST TERMINALS-KNOXVILLE",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000373523",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.995742,
+          35.962581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "CWPName": "KNOX-CHAPMAN UTILITY DISTRICT",
         "SourceID": "TN0004511",
         "RegistryID": "110012853625",
@@ -1564,46 +1604,6 @@
     {
       "type": "Feature",
       "properties": {
-        "CWPName": "PAVEMENT RESTORATION OF EAST TENNESSEE, INC.",
-        "SourceID": "TNR051143",
-        "RegistryID": "110071946478",
-        "FacLat": "35.9513",
-        "FacLong": "-83.82477",
-        "PermitName": "PAVEMENT RESTORATIONS, INC.",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR051143",
-        "echo_display_name": "PAVEMENT RESTORATION OF EAST TENNESSEE, INC.",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071946478",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.82477,
-          35.9513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "CWPName": "PBF LOGISTICS PRODUCTS TERMINALS LLC",
         "SourceID": "TN0060402",
         "RegistryID": "110009490871",
@@ -2118,6 +2118,46 @@
         "coordinates": [
           -84.17414,
           35.97936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "THREE RIVERS CONSTRUCTION, INC. - KNOXVILLE ASPHALT PLANT",
+        "SourceID": "TNR051143",
+        "RegistryID": "110071946478",
+        "FacLat": "35.9513",
+        "FacLong": "-83.82477",
+        "PermitName": "Three Rivers Construction, Inc.",
+        "CWPStatus": "Significant/Category I Noncompliance",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___________S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR051143",
+        "echo_display_name": "THREE RIVERS CONSTRUCTION, INC. - KNOXVILLE ASPHALT PLANT",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": true,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071946478",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.82477,
+          35.9513
         ]
       }
     },
