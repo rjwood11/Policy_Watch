@@ -85,6 +85,46 @@
       "type": "Feature",
       "properties": {
         "CWPName": "ISHA FOUNDATION",
+        "SourceID": "TNR172063",
+        "RegistryID": "110070383532",
+        "FacLat": "35.56559",
+        "FacLong": "-85.56208",
+        "PermitName": "ISHA Foundation, Inc.",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Reportable Noncompliance",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "6",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "______VVVVVV_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR172063",
+        "echo_display_name": "ISHA FOUNDATION",
+        "echo_violation_count": 6.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070383532",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56208,
+          35.56559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "ISHA FOUNDATION",
         "SourceID": "TNR172592",
         "RegistryID": "110071847933",
         "FacLat": "35.56559",

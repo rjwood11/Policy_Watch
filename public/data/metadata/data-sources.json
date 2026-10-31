@@ -8,7 +8,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "Prototype exports a simplified Tennessee-only county layer from the national TIGER/Line shapefile.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "HUC6 basins",
@@ -19,7 +19,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "Prototype filters the official WBD basin layer to hydrologic units whose state list includes Tennessee and labels statewide map polygons by the WBD name field.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "HUC8 watersheds",
@@ -30,7 +30,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "Prototype filters the official WBD subbasin layer to hydrologic units whose state list includes Tennessee.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "Legislative districts",
@@ -41,7 +41,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "Prototype uses the Tennessee 2022 district service for senate, house, and congressional boundaries.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "ACS indicators",
@@ -52,7 +52,7 @@
     "lastUpdated": "2026-08-27",
     "notes": "Prototype pulls population, median household income, and poverty-related values and writes them into county summary JSON.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "Justice40 / CEJST local snapshot",
@@ -83,7 +83,7 @@
     "lastUpdated": "2026-08-27",
     "notes": "County maps query the public EPA geospatial service by county bounding box at runtime and display coded ATTAINS impairment causes when available. Maps fall back to the local 2026 303(d) layer if the service is unavailable.",
     "refreshStatus": "Live service available; queried when used",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "DWR monitoring stations",
@@ -104,7 +104,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "County maps use a static weekly cache generated from the public TDEC DWR MapServer. The browser falls back to the live service when a cache file is unavailable.",
     "refreshStatus": "Partial refresh; some counties retain older data",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "Solid waste landfill permit locations",
@@ -115,7 +115,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "County maps include only solid waste permit records whose PERMIT_TYPE is CLASS I, CLASS II, CLASS III, CLASS IV, or COAL ASH. Convenience centers, recycling centers, transfer stations, tire storage, processing, land application, and special waste records are excluded. Multiple permit records at the same site are aggregated into one landfill point and clipped to a padded county context viewport.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "EPA ECHO CWA permit compliance",
@@ -123,10 +123,10 @@
     "sourceName": "EPA ECHO CWA REST Services get_facilities and get_qid",
     "sourceUrl": "https://echodata.epa.gov/echo/cwa_rest_services.get_facilities",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-24",
+    "lastUpdated": "2026-10-31",
     "notes": "County maps load committed ECHO CWA violation cache files first. Weekly refreshes update those files when ECHO responds and leave the last good cache in place when the service is unavailable.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "Active permitted features",
@@ -147,7 +147,7 @@
     "lastUpdated": "2026-08-27",
     "notes": "Address searches are submitted from the client and filtered to the selected county bounding box before the map zooms to a result.",
     "refreshStatus": "Live service available; queried when used",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "Tennessee scenic rivers",
@@ -168,7 +168,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "Refreshed from TDEC's online service. County summaries and map polygons are rebuilt together; service-line inventory values are joined by PWSID.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "Lead service line inventory",
@@ -179,7 +179,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "County map overlays join TDEC service-line inventory values to public water system service area polygons by PWSID. Popups include Total Lines, Lead Lines, Non-Lead Lines, GRR, and Unknown Lines.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "Protected areas and conservation easements",
@@ -190,7 +190,7 @@
     "lastUpdated": "2026-10-15",
     "notes": "County map overlays use the Tennessee subset of the USGS PAD-US combined inventory, cached as raw GeoJSON during the local data build and clipped to the padded county viewport. Features include the PAD-US protection mechanism category, owner and manager labels, public access, GAP status, acres, easement holder, source name, and source date where available.",
     "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-24"
+    "lastChecked": "2026-10-31"
   },
   {
     "dataset": "Land use / land cover",
@@ -209,9 +209,9 @@
     "sourceName": "US EPA Superfund NPL Sites with Status Information",
     "sourceUrl": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/Superfund_National_Priorities_List_(NPL)_Sites_with_Status_Information/FeatureServer/0",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-24",
+    "lastUpdated": "2026-10-31",
     "notes": "Point layer used in EPA's official Where You Live map. Includes current and deleted NPL sites; status is retained as published. County assignment follows EPA's County field, including multi-county sites. Markers are reference locations, not site or contamination boundaries. An empty county means no sites in this dataset, not an absence of all contaminated properties.",
-    "lastChecked": "2026-10-24",
+    "lastChecked": "2026-10-31",
     "refreshStatus": "Current"
   }
 ]

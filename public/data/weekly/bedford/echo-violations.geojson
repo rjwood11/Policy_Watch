@@ -174,11 +174,11 @@
         "CWPSNCStatus": null,
         "CWPVioStatus": "Reportable Noncompliance",
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "7",
+        "CWPQtrsWithNC": "6",
         "CWPViolStatus": "Yes",
         "CWPQtrsWithSNC": "0",
         "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "_____VVVV_VVV",
+        "CWP13qtrsComplHistory": "_____VVVV_VV_",
         "ViolFlag": "1",
         "CurrVioFlag": "1",
         "CurrSvFlag": "0",
@@ -186,7 +186,7 @@
         "VioLastYear": "1",
         "echo_source_id": "TN0020591",
         "echo_display_name": "BELL BUCKLE STP",
-        "echo_violation_count": 7.0,
+        "echo_violation_count": 6.0,
         "echo_current_violation": true,
         "echo_significant_violation": false,
         "echo_latest_violation": "Violation Identified",
@@ -487,8 +487,8 @@
         "CWPName": "SHELBYVILLE POWER, WATER & SEWERAGE SYSTEM STP",
         "SourceID": "TN0024180",
         "RegistryID": "110000541165",
-        "FacLat": "35.484167",
-        "FacLong": "-86.466944",
+        "FacLat": "35.483683",
+        "FacLong": "-86.466661",
         "PermitName": "Shelbyville Power, Water & Sewerage System",
         "CWPStatus": "Violation Identified",
         "CWPSNCStatus": null,
@@ -516,8 +516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.466944,
-          35.484167
+          -86.466661,
+          35.483683
         ]
       }
     },

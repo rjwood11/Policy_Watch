@@ -204,46 +204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "CWPName": "CHAMPION HOUSE APARTMENTS",
-        "SourceID": "TNR172587",
-        "RegistryID": "110071729662",
-        "FacLat": "36.202972",
-        "FacLong": "-85.51305",
-        "PermitName": "Kelly Averitt",
-        "CWPStatus": "Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "____________V",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "0",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR172587",
-        "echo_display_name": "CHAMPION HOUSE APARTMENTS",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation Identified",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071729662",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.51305,
-          36.202972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "CWPName": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
         "SourceID": "TNR172524",
         "RegistryID": "110071525689",
@@ -278,6 +238,46 @@
         "coordinates": [
           -85.50971,
           36.20684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
+        "SourceID": "TNR172587",
+        "RegistryID": "110071729662",
+        "FacLat": "36.202972",
+        "FacLong": "-85.51305",
+        "PermitName": "Kelly Averitt",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR172587",
+        "echo_display_name": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071729662",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51305,
+          36.202972
         ]
       }
     },

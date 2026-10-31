@@ -1645,46 +1645,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "MEMPHIS LIGHT, GAS AND WATER DIVISION",
-        "SourceID": "TN0074217",
-        "RegistryID": "110045562510",
-        "FacLat": "35.005966",
-        "FacLong": "-89.89454",
-        "PermitName": "Memphis Light, Gas and Water",
-        "CWPStatus": "No Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "2",
-        "CWPViolStatus": "No",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "___V____V____",
-        "ViolFlag": "1",
-        "CurrVioFlag": "0",
-        "CurrSvFlag": "0",
-        "EffExceeds": "2",
-        "VioLastYear": "1",
-        "echo_source_id": "TN0074217",
-        "echo_display_name": "MEMPHIS LIGHT, GAS AND WATER DIVISION",
-        "echo_violation_count": 2.0,
-        "echo_current_violation": false,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 4 quarters ago",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110045562510",
-        "echo_status_label": "Recent violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.89454,
-          35.005966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "MEMPHIS LIGHT, GAS AND WATER DIVISION",
         "SourceID": "TNR056736",
         "RegistryID": "110070001114",
         "FacLat": "35.13837",
@@ -1718,6 +1678,46 @@
         "coordinates": [
           -90.03993,
           35.13837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "MEMPHIS LIGHT, GAS AND WATER DIVISION",
+        "SourceID": "TN0074217",
+        "RegistryID": "110045562510",
+        "FacLat": "35.005966",
+        "FacLong": "-89.89454",
+        "PermitName": "Memphis Light, Gas and Water",
+        "CWPStatus": "No Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "___V____V____",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "CurrSvFlag": "0",
+        "EffExceeds": "2",
+        "VioLastYear": "1",
+        "echo_source_id": "TN0074217",
+        "echo_display_name": "MEMPHIS LIGHT, GAS AND WATER DIVISION",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110045562510",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.89454,
+          35.005966
         ]
       }
     },

@@ -525,46 +525,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "TENNESSEE VALLEY AUTHORITY (TVA) - JOHN SEVIER FOSSIL PLANT (JSF)",
-        "SourceID": "TN0005436",
-        "RegistryID": "110000607530",
-        "FacLat": "36.376285",
-        "FacLong": "-82.961143",
-        "PermitName": "Tennessee Valley Authority (TVA)",
-        "CWPStatus": "No Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": "Resolved",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "4",
-        "CWPViolStatus": "No",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "VVVV_________",
-        "ViolFlag": "1",
-        "CurrVioFlag": "0",
-        "CurrSvFlag": "0",
-        "EffExceeds": "0",
-        "VioLastYear": "0",
-        "echo_source_id": "TN0005436",
-        "echo_display_name": "TENNESSEE VALLEY AUTHORITY (TVA) - JOHN SEVIER FOSSIL PLANT (JSF)",
-        "echo_violation_count": 4.0,
-        "echo_current_violation": false,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 9 quarters ago",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000607530",
-        "echo_status_label": "Recent violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.961143,
-          36.376285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "TENNESSEE VALLEY AUTHORITY (TVA) - JOHN SEVIER FOSSIL PLANT (JSF)",
         "SourceID": "TNR051449",
         "RegistryID": "110072134296",
         "FacLat": "36.36953",
@@ -598,6 +558,46 @@
         "coordinates": [
           -82.965087,
           36.36953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "TENNESSEE VALLEY AUTHORITY (TVA) - JOHN SEVIER FOSSIL PLANT (JSF)",
+        "SourceID": "TN0005436",
+        "RegistryID": "110000607530",
+        "FacLat": "36.376285",
+        "FacLong": "-82.961143",
+        "PermitName": "Tennessee Valley Authority (TVA)",
+        "CWPStatus": "No Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVV_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "echo_source_id": "TN0005436",
+        "echo_display_name": "TENNESSEE VALLEY AUTHORITY (TVA) - JOHN SEVIER FOSSIL PLANT (JSF)",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000607530",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.961143,
+          36.376285
         ]
       }
     },

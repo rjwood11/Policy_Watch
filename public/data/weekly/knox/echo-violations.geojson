@@ -847,8 +847,8 @@
         "CWPName": "KINDER MORGAN SOUTHEAST TERMINALS-KNOXVILLE",
         "SourceID": "TN0002216",
         "RegistryID": "110000373523",
-        "FacLat": "35.962581",
-        "FacLong": "-83.995742",
+        "FacLat": "35.9644",
+        "FacLong": "-83.9991",
         "PermitName": "Kinder Morgan Southeast Terminals LLC",
         "CWPStatus": "Violation Identified",
         "CWPSNCStatus": null,
@@ -876,8 +876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.995742,
-          35.962581
+          -83.9991,
+          35.9644
         ]
       }
     },
@@ -967,8 +967,8 @@
         "CWPName": "KNOXVILLE UTILITIES BOARD (KUB) - LOVES CREEK WASTEWATER TREATMENT PLANT (STP)",
         "SourceID": "TN0021822",
         "RegistryID": "110000551661",
-        "FacLat": "36.008529",
-        "FacLong": "-83.830696",
+        "FacLat": "36.00866",
+        "FacLong": "-83.83159",
         "PermitName": "Knoxville Utilities Board (KUB)",
         "CWPStatus": "Violation Identified",
         "CWPSNCStatus": null,
@@ -996,8 +996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.830696,
-          36.008529
+          -83.83159,
+          36.00866
         ]
       }
     },
@@ -1127,8 +1127,8 @@
         "CWPName": "KUB - KUWAHEE STP",
         "SourceID": "TN0023582",
         "RegistryID": "110009492307",
-        "FacLat": "35.944642",
-        "FacLong": "-83.930089",
+        "FacLat": "35.945549",
+        "FacLong": "-83.927151",
         "PermitName": "Knoxville Utilities Board (KUB)",
         "CWPStatus": "Violation Identified",
         "CWPSNCStatus": null,
@@ -1156,8 +1156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.930089,
-          35.944642
+          -83.927151,
+          35.945549
         ]
       }
     },

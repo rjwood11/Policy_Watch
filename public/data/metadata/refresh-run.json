@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24",
+  "checkedAt": "2026-10-31",
   "failures": [
     "county GIS inputs: \"['landfill_id', 'site_id', 'landfill_name', 'permittee_names', 'permit_types', 'permit_type_counts', 'permit_actions', 'status_group', 'status_label', 'permit_count', 'unique_permit_count', 'active_permits', 'pending_permits', 'permit_numbers', 'additional_permit_count', 'site_location', 'site_city', 'site_zip', 'county', 'latitude', 'longitude', 'latest_issuance_date', 'latest_effective_date', 'latest_expiration_date', 'latest_termination_date', 'record_url'] not in index\"",
     "Some TDEC / ECHO counties could not refresh; see weekly manifest"

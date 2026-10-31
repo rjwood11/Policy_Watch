@@ -5,46 +5,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "COCKE COUNTY QUARRY",
-        "SourceID": "TN0066613",
-        "RegistryID": "110009786589",
-        "FacLat": "35.950301",
-        "FacLong": "-83.179962",
-        "PermitName": "Cocke County Highway Dept.",
-        "CWPStatus": "No Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "4",
-        "CWPViolStatus": "No",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "VVVV_________",
-        "ViolFlag": "1",
-        "CurrVioFlag": "0",
-        "CurrSvFlag": "0",
-        "EffExceeds": "0",
-        "VioLastYear": "0",
-        "echo_source_id": "TN0066613",
-        "echo_display_name": "COCKE COUNTY QUARRY",
-        "echo_violation_count": 4.0,
-        "echo_current_violation": false,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 9 quarters ago",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786589",
-        "echo_status_label": "Recent violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.179962,
-          35.950301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "COCKE COUNTY QUARRY",
         "SourceID": "TN0070726",
         "RegistryID": "110071944487",
         "FacLat": "35.93572",
@@ -78,6 +38,46 @@
         "coordinates": [
           -83.18917,
           35.93572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "COCKE COUNTY QUARRY",
+        "SourceID": "TN0066613",
+        "RegistryID": "110009786589",
+        "FacLat": "35.950301",
+        "FacLong": "-83.179962",
+        "PermitName": "Cocke County Highway Dept.",
+        "CWPStatus": "No Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVVV_________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "echo_source_id": "TN0066613",
+        "echo_display_name": "COCKE COUNTY QUARRY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 9 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786589",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.179962,
+          35.950301
         ]
       }
     },
