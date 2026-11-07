@@ -205,46 +205,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "CLARKSVILLE QUARRY",
-        "SourceID": "TN0066583",
-        "RegistryID": "110009786570",
-        "FacLat": "36.53709",
-        "FacLong": "-87.40029",
-        "PermitName": "Winn Materials, LLC",
-        "CWPStatus": "No Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "4",
-        "CWPViolStatus": "No",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "_VV______VV__",
-        "ViolFlag": "1",
-        "CurrVioFlag": "0",
-        "CurrSvFlag": "0",
-        "EffExceeds": "4",
-        "VioLastYear": "1",
-        "echo_source_id": "TN0066583",
-        "echo_display_name": "CLARKSVILLE QUARRY",
-        "echo_violation_count": 4.0,
-        "echo_current_violation": false,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 2 quarters ago",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786570",
-        "echo_status_label": "Recent violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.40029,
-          36.53709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "CLARKSVILLE QUARRY",
         "SourceID": "TN0026476",
         "RegistryID": "110007189390",
         "FacLat": "36.542592",
@@ -278,6 +238,46 @@
         "coordinates": [
           -87.369642,
           36.542592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CLARKSVILLE QUARRY",
+        "SourceID": "TN0066583",
+        "RegistryID": "110009786570",
+        "FacLat": "36.53709",
+        "FacLong": "-87.40029",
+        "PermitName": "Winn Materials, LLC",
+        "CWPStatus": "No Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_VV______VV__",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "CurrSvFlag": "0",
+        "EffExceeds": "4",
+        "VioLastYear": "1",
+        "echo_source_id": "TN0066583",
+        "echo_display_name": "CLARKSVILLE QUARRY",
+        "echo_violation_count": 4.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 2 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786570",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.40029,
+          36.53709
         ]
       }
     },
@@ -372,7 +372,7 @@
         "PermitName": "FIRST STUDENT INC",
         "CWPStatus": "No Violation Identified",
         "CWPSNCStatus": null,
-        "CWPVioStatus": null,
+        "CWPVioStatus": "",
         "CWPSNCStatusDate": "06/30/2026",
         "CWPQtrsWithNC": "6",
         "CWPViolStatus": "No",

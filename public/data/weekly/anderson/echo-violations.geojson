@@ -205,46 +205,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "EAGLE BEND MANUFACTURING INC.",
-        "SourceID": "TNR050016",
-        "RegistryID": "110000578321",
-        "FacLat": "36.0901",
-        "FacLong": "-84.11894",
-        "PermitName": "EAGLE BEND MFG. INC.",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR050016",
-        "echo_display_name": "EAGLE BEND MANUFACTURING INC.",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000578321",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.11894,
-          36.0901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "EAGLE BEND MANUFACTURING INC.",
         "SourceID": "TN0064564",
         "RegistryID": "110000578321",
         "FacLat": "36.0901",
@@ -272,6 +232,46 @@
         "echo_latest_violation": "Violation 9 quarters ago",
         "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000578321",
         "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11894,
+          36.0901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "EAGLE BEND MANUFACTURING INC.",
+        "SourceID": "TNR050016",
+        "RegistryID": "110000578321",
+        "FacLat": "36.0901",
+        "FacLong": "-84.11894",
+        "PermitName": "EAGLE BEND MFG. INC.",
+        "CWPStatus": "Significant/Category I Noncompliance",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___________S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR050016",
+        "echo_display_name": "EAGLE BEND MANUFACTURING INC.",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": true,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110000578321",
+        "echo_status_label": "Current violation"
       },
       "geometry": {
         "type": "Point",
