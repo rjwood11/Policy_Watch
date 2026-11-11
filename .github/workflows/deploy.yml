@@ -13,6 +13,11 @@ on:
         required: true
         type: boolean
         default: false
+      include_landcover:
+        description: "Also download land cover now (normally checked monthly)"
+        required: true
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -59,7 +64,13 @@ jobs:
         if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
         env:
           CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
-        run: npm run data:refresh-online
+          INCLUDE_LANDCOVER: ${{ github.event_name == 'workflow_dispatch' && inputs.include_landcover }}
+        run: |
+          if [ "$INCLUDE_LANDCOVER" = "true" ]; then
+            npm run data:refresh-online -- --include-landcover
+          else
+            npm run data:refresh-online
+          fi
 
       - name: Check refresh failure handling
         if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
