@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { assetPath } from "@/lib/assetPath";
+import { CensusAttribution } from "@/components/CensusAttribution";
 import "maplibre-gl/dist/maplibre-gl.css";
 import "./globals.css";
 
@@ -85,6 +86,7 @@ export default function RootLayout({
         </header>
         <main>{children}</main>
         <footer className="mt-10 border-t border-ink/10 bg-white/80">
+          <div className="shell pt-6"><CensusAttribution /></div>
           <div className="shell flex flex-col gap-4 py-6 sm:flex-row sm:items-center sm:justify-between">
             <div>
               <p className="text-sm font-semibold text-ink">PolicyWatch</p>

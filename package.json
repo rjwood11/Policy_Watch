@@ -12,10 +12,15 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "data:refresh-weekly": "python -m scripts.refresh.weekly_layers",
     "data:refresh-online": "python -u -m scripts.refresh.online_sources",
+    "data:refresh-districts": "python -u -m scripts.refresh.districts",
+    "data:refresh-census": "python -u -m scripts.refresh.census",
     "data:refresh-echo": "python -m scripts.refresh.weekly_layers --source echo --metadata-if-changed",
     "data:refresh-superfund": "python -m scripts.refresh.superfund",
     "data:build-landuse": "python -m scripts.refresh.landuse",
     "data:build": "python -m scripts.summaries.build_prototype_data",
+    "data:archive": "python -m scripts.common.source_archive snapshot",
+    "data:archive-verify": "python -m scripts.common.source_archive verify",
+    "data:archive-list": "python -m scripts.common.source_archive list",
     "check": "npm run lint && npm run build"
   },
   "dependencies": {

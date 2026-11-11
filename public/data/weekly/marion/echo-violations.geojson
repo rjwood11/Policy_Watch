@@ -129,7 +129,7 @@
         "RegistryID": "110035818871",
         "FacLat": "34.99767",
         "FacLong": "-85.64357",
-        "PermitName": "Colonial Chemical",
+        "PermitName": "Colonial Chemical, Inc.",
         "CWPStatus": "Significant/Category I Noncompliance",
         "CWPSNCStatus": "Failure to Report DMR - Not Received",
         "CWPVioStatus": "Failure to Report DMR - Not Received",
@@ -365,46 +365,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "JASPER TN PELLETS, LLC",
-        "SourceID": "TNR059147",
-        "RegistryID": "110005002914",
-        "FacLat": "35.04813",
-        "FacLong": "-85.6386",
-        "PermitName": "Jasper TN Pellets, LLC",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR059147",
-        "echo_display_name": "JASPER TN PELLETS, LLC",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110005002914",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.6386,
-          35.04813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "JASPER TN PELLETS, LLC",
         "SourceID": "TNR058246",
         "RegistryID": "110005002914",
         "FacLat": "35.04813",
@@ -425,6 +385,46 @@
         "EffExceeds": "0",
         "VioLastYear": "1",
         "echo_source_id": "TNR058246",
+        "echo_display_name": "JASPER TN PELLETS, LLC",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": true,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110005002914",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6386,
+          35.04813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "JASPER TN PELLETS, LLC",
+        "SourceID": "TNR059147",
+        "RegistryID": "110005002914",
+        "FacLat": "35.04813",
+        "FacLong": "-85.6386",
+        "PermitName": "Jasper TN Pellets, LLC",
+        "CWPStatus": "Significant/Category I Noncompliance",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___________S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR059147",
         "echo_display_name": "JASPER TN PELLETS, LLC",
         "echo_violation_count": 1.0,
         "echo_current_violation": true,
@@ -524,6 +524,46 @@
     {
       "type": "Feature",
       "properties": {
+        "CWPName": "MONTEAGLE SAND PLANT (FKA SAND SWITCH MINE)",
+        "SourceID": "TN0065897",
+        "RegistryID": "110009786669",
+        "FacLat": "35.222609",
+        "FacLong": "-85.870838",
+        "PermitName": "SRM Materials, LLC",
+        "CWPStatus": "No Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "_____V_______",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "CurrSvFlag": "0",
+        "EffExceeds": "1",
+        "VioLastYear": "0",
+        "echo_source_id": "TN0065897",
+        "echo_display_name": "MONTEAGLE SAND PLANT (FKA SAND SWITCH MINE)",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation 7 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786669",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.870838,
+          35.222609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "CWPName": "MONTEAGLE WTP",
         "SourceID": "TN0060372",
         "RegistryID": "110009706372",
@@ -610,28 +650,28 @@
         "FacLat": "35.27374",
         "FacLong": "-85.55366",
         "PermitName": "Lexington Coal Company, LLC",
-        "CWPStatus": "No Violation Identified",
+        "CWPStatus": "Violation Identified",
         "CWPSNCStatus": null,
         "CWPVioStatus": null,
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "3",
-        "CWPViolStatus": "No",
+        "CWPQtrsWithNC": "4",
+        "CWPViolStatus": "Yes",
         "CWPQtrsWithSNC": "1",
         "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "_VS_____V____",
+        "CWP13qtrsComplHistory": "_VS_____V___V",
         "ViolFlag": "1",
-        "CurrVioFlag": "0",
+        "CurrVioFlag": "1",
         "CurrSvFlag": "0",
         "EffExceeds": "2",
         "VioLastYear": "1",
         "echo_source_id": "TN0052132",
         "echo_display_name": "PREPARATION PLANT",
-        "echo_violation_count": 3.0,
-        "echo_current_violation": false,
+        "echo_violation_count": 4.0,
+        "echo_current_violation": true,
         "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 4 quarters ago",
+        "echo_latest_violation": "Violation Identified",
         "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009788177",
-        "echo_status_label": "Recent violation"
+        "echo_status_label": "Current violation"
       },
       "geometry": {
         "type": "Point",
@@ -804,46 +844,6 @@
     {
       "type": "Feature",
       "properties": {
-        "CWPName": "SAND SWITCH MINE",
-        "SourceID": "TN0065897",
-        "RegistryID": "110009786669",
-        "FacLat": "35.222609",
-        "FacLong": "-85.870838",
-        "PermitName": "SRM Materials, LLC",
-        "CWPStatus": "No Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "No",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "_____V_______",
-        "ViolFlag": "1",
-        "CurrVioFlag": "0",
-        "CurrSvFlag": "0",
-        "EffExceeds": "1",
-        "VioLastYear": "0",
-        "echo_source_id": "TN0065897",
-        "echo_display_name": "SAND SWITCH MINE",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": false,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 7 quarters ago",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009786669",
-        "echo_status_label": "Recent violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.870838,
-          35.222609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "CWPName": "SOUTH PITTSBURG MOUNTAIN STONE",
         "SourceID": "TNR050312",
         "RegistryID": "110071446966",
@@ -854,11 +854,11 @@
         "CWPSNCStatus": null,
         "CWPVioStatus": "Other Violation",
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "4",
+        "CWPQtrsWithNC": "3",
         "CWPViolStatus": "Yes",
         "CWPQtrsWithSNC": "0",
         "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "_________VVVV",
+        "CWP13qtrsComplHistory": "_________VVV_",
         "ViolFlag": "1",
         "CurrVioFlag": "1",
         "CurrSvFlag": "0",
@@ -866,7 +866,7 @@
         "VioLastYear": "1",
         "echo_source_id": "TNR050312",
         "echo_display_name": "SOUTH PITTSBURG MOUNTAIN STONE",
-        "echo_violation_count": 4.0,
+        "echo_violation_count": 3.0,
         "echo_current_violation": true,
         "echo_significant_violation": false,
         "echo_latest_violation": "Violation Identified",
@@ -1038,6 +1038,46 @@
         "coordinates": [
           -85.6441,
           35.04647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "VULCAN MATERIALS COMPANY",
+        "SourceID": "TN0070727",
+        "RegistryID": "110071668482",
+        "FacLat": "35.03512",
+        "FacLong": "-85.56778",
+        "PermitName": "Vulcan Construction Materials, LLC",
+        "CWPStatus": "No Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "No",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____S________",
+        "ViolFlag": "1",
+        "CurrVioFlag": "0",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "echo_source_id": "TN0070727",
+        "echo_display_name": "VULCAN MATERIALS COMPANY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": false,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Significant noncompliance 8 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071668482",
+        "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56778,
+          35.03512
         ]
       }
     },

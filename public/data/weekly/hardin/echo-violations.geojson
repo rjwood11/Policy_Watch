@@ -245,46 +245,6 @@
       "type": "Feature",
       "properties": {
         "CWPName": "PACKAGING CORPORATION OF AMERICA",
-        "SourceID": "TNR050417",
-        "RegistryID": "110017418338",
-        "FacLat": "35.044181",
-        "FacLong": "-88.265252",
-        "PermitName": "Packaging Corporation of America",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR050417",
-        "echo_display_name": "PACKAGING CORPORATION OF AMERICA",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110017418338",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.265252,
-          35.044181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "PACKAGING CORPORATION OF AMERICA",
         "SourceID": "TN0002232",
         "RegistryID": "110017418338",
         "FacLat": "35.044181",
@@ -312,6 +272,46 @@
         "echo_latest_violation": "Violation 12 quarters ago",
         "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110017418338",
         "echo_status_label": "Recent violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.265252,
+          35.044181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "PACKAGING CORPORATION OF AMERICA",
+        "SourceID": "TNR050417",
+        "RegistryID": "110017418338",
+        "FacLat": "35.044181",
+        "FacLong": "-88.265252",
+        "PermitName": "Packaging Corporation of America",
+        "CWPStatus": "Significant/Category I Noncompliance",
+        "CWPSNCStatus": "Failure to Report DMR - Not Received",
+        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "1",
+        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
+        "CWP13qtrsComplHistory": "___________S_",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "1",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR050417",
+        "echo_display_name": "PACKAGING CORPORATION OF AMERICA",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": true,
+        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110017418338",
+        "echo_status_label": "Current violation"
       },
       "geometry": {
         "type": "Point",

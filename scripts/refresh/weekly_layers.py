@@ -12,6 +12,8 @@ from typing import Any
 import requests
 
 from scripts.common.prototype_config import COUNTIES_DIR, METADATA_DIR, PUBLIC_DATA
+from scripts.common.source_archive import archived_refresh, archive_json
+from scripts.common.file_io import retry_file_operation, write_text_atomic
 
 WEEKLY_DIR = PUBLIC_DATA / "weekly"
 TDEC_PERMITS_URL = "https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query"
@@ -33,18 +35,17 @@ Properties = dict[str, Any]
 
 
 def read_json(path: Path) -> Any:
-    return json.loads(path.read_text(encoding="utf8"))
+    return json.loads(retry_file_operation(lambda: path.read_text(encoding="utf8")))
 
 
-def write_json(path: Path, payload: Any) -> bool:
+def write_json(path: Path, payload: Any, *, compact: bool = False) -> bool:
     path.parent.mkdir(parents=True, exist_ok=True)
-    output = json.dumps(payload, indent=2, sort_keys=False) + "\n"
-    if path.exists() and path.read_text(encoding="utf8") == output:
+    output = json.dumps(payload, indent=None if compact else 2, sort_keys=False,
+                        separators=(",", ":") if compact else None) + "\n"
+    if path.exists() and retry_file_operation(lambda: path.read_text(encoding="utf8")) == output:
         return False
 
-    temporary = path.with_suffix(f"{path.suffix}.tmp")
-    temporary.write_text(output, encoding="utf8")
-    temporary.replace(path)
+    write_text_atomic(path, output)
     return True
 
 
@@ -357,7 +358,10 @@ def fetch_echo_violations(session: requests.Session, county_name: str) -> Featur
 
     query_id = echo_query_id(query_payload)
     if not query_id:
-        return normalize_echo_collection(echo_facility_collection(query_payload))
+        collection = echo_facility_collection(query_payload)
+        archive_json("EPA ECHO facilities", query_payload, url=f"{ECHO_CWA_SERVICES_URL}.get_facilities",
+                     params={"county": county_name})
+        return normalize_echo_collection(collection)
 
     pages = max(1, math.ceil(echo_query_rows(query_payload) / ECHO_RESPONSE_SET))
     features: list[Feature] = []
@@ -378,10 +382,14 @@ def fetch_echo_violations(session: requests.Session, county_name: str) -> Featur
             raise RuntimeError(f"ECHO page request failed for {county_name}: {page_error}")
 
         page_features = echo_facility_collection(page_payload).get("features", [])
+        archive_json("EPA ECHO facility page", page_payload, url=f"{ECHO_CWA_SERVICES_URL}.get_qid",
+                     params={"county": county_name, "page": page})
         features.extend(page_features)
         if len(page_features) < ECHO_RESPONSE_SET:
             break
 
+    archive_json("EPA ECHO query", query_payload, url=f"{ECHO_CWA_SERVICES_URL}.get_facilities",
+                 params={"county": county_name})
     return normalize_echo_collection({"type": "FeatureCollection", "features": features})
 
 
@@ -394,11 +402,12 @@ def fetch_paged_geojson(
     max_pages: int = 12,
 ) -> FeatureCollection:
     features: list[Feature] = []
+    offset = 0
 
     for page in range(max_pages):
         params = {
             **base_params,
-            "resultOffset": str(page * page_size),
+            "resultOffset": str(offset),
             "resultRecordCount": str(page_size),
         }
         payload = request_json(session, url, params=params)
@@ -406,6 +415,7 @@ def fetch_paged_geojson(
             raise ValueError(f"Invalid ArcGIS response from {url}: {str(payload)[:300]}")
         page_features = payload["features"]
         features.extend(page_features)
+        offset += len(page_features)
 
         exceeded_limit = bool(payload.get("exceededTransferLimit") or payload.get("properties", {}).get("exceededTransferLimit"))
         if not exceeded_limit and len(page_features) < page_size:
@@ -415,7 +425,9 @@ def fetch_paged_geojson(
     else:
         raise ValueError(f"ArcGIS response exceeded {max_pages} pages: {url}")
 
-    return {"type": "FeatureCollection", "features": features}
+    collection = {"type": "FeatureCollection", "features": features}
+    archive_json("ArcGIS source features", collection, url=url, params=base_params)
+    return collection
 
 
 def permit_status(properties: Properties) -> str:
@@ -552,7 +564,12 @@ def update_source_metadata(
             key = {"TDEC DWR public water resources permits": "tdec", "EPA ECHO CWA permit compliance": "echo"}.get(source.get("dataset"))
             if key and any(result[key]["status"] != "skipped" for result in results):
                 source["lastChecked"] = refresh_date
-                source["refreshStatus"] = "Current" if complete(key) else "Partial refresh; some counties retain older data"
+                statuses = [result[key]["status"] for result in results if result[key]["status"] != "skipped"]
+                source["refreshStatus"] = (
+                    "Current" if all(status == "ok" for status in statuses)
+                    else "Partial refresh; some counties retain older data" if "ok" in statuses
+                    else "Refresh failed; previous data retained"
+                )
             if source.get("dataset") == "TDEC DWR public water resources permits" and tdec_ok:
                 source["refreshFrequency"] = "Weekly cache"
                 source["lastUpdated"] = refresh_date
@@ -640,6 +657,7 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+@archived_refresh("TDEC / ECHO county refresh")
 def main() -> None:
     args = parse_args()
     counties = load_counties(args.county)

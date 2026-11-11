@@ -44,6 +44,46 @@
     {
       "type": "Feature",
       "properties": {
+        "CWPName": "FRED HALL TOPSOIL SCREENING OPERATION",
+        "SourceID": "TN0070629",
+        "RegistryID": "110070949255",
+        "FacLat": "35.6625",
+        "FacLong": "-85.865",
+        "PermitName": "Fred Hall",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TN0070629",
+        "echo_display_name": "FRED HALL TOPSOIL SCREENING OPERATION",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070949255",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.865,
+          35.6625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "CWPName": "GLOBAL AUTO SALVAGE LLC",
         "SourceID": "TNR050788",
         "RegistryID": "110071782443",
@@ -78,46 +118,6 @@
         "coordinates": [
           -85.885081,
           35.635838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "ISHA INSTITUTE OF INNER SCIENCES",
-        "SourceID": "TNR172063",
-        "RegistryID": "110070383532",
-        "FacLat": "35.56559",
-        "FacLong": "-85.56208",
-        "PermitName": "ISHA Foundation, Inc.",
-        "CWPStatus": "Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": "Reportable Noncompliance",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "6",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "______VVVVVV_",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "0",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR172063",
-        "echo_display_name": "ISHA INSTITUTE OF INNER SCIENCES",
-        "echo_violation_count": 6.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation Identified",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070383532",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.56208,
-          35.56559
         ]
       }
     },

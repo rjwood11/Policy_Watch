@@ -19,7 +19,12 @@ import type {
 import type { CountyMapRecord } from "@/lib/data";
 import { loadCountyLandUse, sampleLandUse, type LoadedLandUse, type LandUseClass } from "@/lib/landuse";
 import { CountyMapLegend, type LayerKey, type LegendGroup } from "@/components/CountyMapLegend";
-import { TENNESSEE_LEGISLATORS, tennesseeLegislatorUrl } from "@/lib/tennesseeLegislators";
+import {
+  TENNESSEE_LEGISLATORS,
+  TENNESSEE_CONGRESSIONAL_ELECTION_WINNERS,
+  tennesseeLegislatorUrl,
+  tennesseeCongressionalResultUrl
+} from "@/lib/tennesseeLegislators";
 import { assetPath } from "@/lib/assetPath";
 
 type Bounds = {
@@ -1367,9 +1372,14 @@ function districtPopupHtml(layerId: string, properties: GeoJsonProperties | null
   }
 
   if (info.prefix === "") {
+    const member = TENNESSEE_CONGRESSIONAL_ELECTION_WINNERS[`TN-${district.padStart(2, "0")}`];
     return `
       <div class="space-y-1 text-sm">
-        <p class="font-semibold">Congressional District ${escapeHtml(district)}</p>
+        <p class="font-semibold">Congressional District ${escapeHtml(district)} · 2026 plan</p>
+        ${member ? `<p>${escapeHtml(member.name)} (${escapeHtml(member.party)})</p>` : ""}
+        <p>2026 election winner · unofficial results</p>
+        <p>Congressional term begins January 3, 2027.</p>
+        <a href="${escapeHtml(tennesseeCongressionalResultUrl(district))}" target="_blank" rel="noreferrer">View reported election result</a>
       </div>
     `;
   }
@@ -1383,10 +1393,10 @@ function districtPopupHtml(layerId: string, properties: GeoJsonProperties | null
       <p class="font-semibold">${escapeHtml(info.chamber)} District ${escapeHtml(district)}</p>
       ${
         legislator
-          ? `<p>${escapeHtml(legislator.name)}${escapeHtml(party)}</p>`
-          : `<p>Current member not found in the local legislator lookup.</p>`
+          ? `<p>${escapeHtml(legislator.name)}${escapeHtml(party)}${legislator.newlyElected ? " · Newly elected in 2026" : ""}</p>`
+          : `<p>Member not found in the local legislator lookup.</p>`
       }
-      <a href="${escapeHtml(tennesseeLegislatorUrl(code))}" target="_blank" rel="noreferrer">Tennessee General Assembly profile</a>
+      <a href="${escapeHtml(tennesseeLegislatorUrl(code))}" target="_blank" rel="noreferrer">115th General Assembly profile</a>
     </div>
   `;
 }
@@ -1452,13 +1462,17 @@ function districtStackPopupHtml(features: maplibregl.MapGeoJSONFeature[]) {
     }
 
     if (info.prefix === "") {
-      return `<p><span class="font-semibold">Congressional District ${escapeHtml(district)}</span></p>`;
+      const member = TENNESSEE_CONGRESSIONAL_ELECTION_WINNERS[`TN-${district.padStart(2, "0")}`];
+      const label = member ? `${member.name} (${member.party})` : "Result not found";
+      return `<p><span class="font-semibold">Congressional District ${escapeHtml(district)} · 2026 plan</span><br />
+        <a href="${escapeHtml(tennesseeCongressionalResultUrl(district))}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a><br />
+        <span>2026 winner · unofficial; term begins January 3, 2027</span></p>`;
     }
 
     const code = `${info.prefix}${district}`;
     const legislator = TENNESSEE_LEGISLATORS[code];
     const party = legislator?.party ? ` (${legislator.party})` : "";
-    const label = legislator ? `${legislator.name}${party}` : "Member not found";
+    const label = legislator ? `${legislator.name}${party}${legislator.newlyElected ? " · Newly elected in 2026" : ""}` : "Member not found";
 
     return `
       <p>
@@ -2034,7 +2048,7 @@ function CountyDetailMapView({
     {
       key: "districts", label: "Legislative districts",
       entries: [
-        { label: "Congressional boundary", color: "#547a76", symbol: "dashed" },
+        { label: "Congressional boundary (2026 plan)", color: "#547a76", symbol: "dashed" },
         { label: "State Senate boundary", color: "#af8401", symbol: "dashed" },
         { label: "State House boundary", color: "#8b742f", symbol: "dashed" }
       ],

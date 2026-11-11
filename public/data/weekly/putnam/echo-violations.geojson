@@ -204,7 +204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "CWPName": "CHAMPION HOUSE APARTMENTS",
+        "CWPName": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
         "SourceID": "TNR172587",
         "RegistryID": "110071729662",
         "FacLat": "36.202972",
@@ -225,7 +225,7 @@
         "EffExceeds": "0",
         "VioLastYear": "1",
         "echo_source_id": "TNR172587",
-        "echo_display_name": "CHAMPION HOUSE APARTMENTS",
+        "echo_display_name": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
         "echo_violation_count": 1.0,
         "echo_current_violation": true,
         "echo_significant_violation": false,
@@ -238,6 +238,46 @@
         "coordinates": [
           -85.51305,
           36.202972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
+        "SourceID": "TNR172524",
+        "RegistryID": "110071525689",
+        "FacLat": "36.20684",
+        "FacLong": "-85.50971",
+        "PermitName": "Kelly Averitt",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Resolved - Pending",
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "____________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TNR172524",
+        "echo_display_name": "CHAMPION HOUSE APARTMENTS AKA KELLY AVERITT PROPERTY",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071525689",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50971,
+          36.20684
         ]
       }
     },
@@ -284,40 +324,40 @@
     {
       "type": "Feature",
       "properties": {
-        "CWPName": "CONTECH ENGINEERED SOLUTIONS LLC",
-        "SourceID": "TNR058389",
-        "RegistryID": "110070003074",
-        "FacLat": "36.14161",
-        "FacLong": "-85.52409",
-        "PermitName": "Contech Engineered Solutions LLC",
-        "CWPStatus": "Significant/Category I Noncompliance",
-        "CWPSNCStatus": "Failure to Report DMR - Not Received",
-        "CWPVioStatus": "Failure to Report DMR - Not Received",
+        "CWPName": "CITY OF MONTEREY- WATER RESOURCE RECOVERY FACILITY",
+        "SourceID": "TN0064688",
+        "RegistryID": "110009789586",
+        "FacLat": "36.15351",
+        "FacLong": "-85.29338",
+        "PermitName": "Town of Monterey",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": "Other Violation",
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
+        "CWPQtrsWithNC": "11",
         "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "1",
-        "CWPSNCEventDesc": "SNC DMR Non-Receipt Violation",
-        "CWP13qtrsComplHistory": "___________S_",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "VVV_VVVVVVVV_",
         "ViolFlag": "1",
         "CurrVioFlag": "1",
-        "CurrSvFlag": "1",
-        "EffExceeds": "0",
+        "CurrSvFlag": "0",
+        "EffExceeds": "24",
         "VioLastYear": "1",
-        "echo_source_id": "TNR058389",
-        "echo_display_name": "CONTECH ENGINEERED SOLUTIONS LLC",
-        "echo_violation_count": 1.0,
+        "echo_source_id": "TN0064688",
+        "echo_display_name": "CITY OF MONTEREY- WATER RESOURCE RECOVERY FACILITY",
+        "echo_violation_count": 11.0,
         "echo_current_violation": true,
-        "echo_significant_violation": true,
-        "echo_latest_violation": "SNC DMR Non-Receipt Violation (06/30/2026)",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070003074",
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789586",
         "echo_status_label": "Current violation"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.52409,
-          36.14161
+          -85.29338,
+          36.15351
         ]
       }
     },
@@ -484,46 +524,6 @@
     {
       "type": "Feature",
       "properties": {
-        "CWPName": "KELLY AVERITT PROPERTY",
-        "SourceID": "TNR172524",
-        "RegistryID": "110071525689",
-        "FacLat": "36.20684",
-        "FacLong": "-85.50971",
-        "PermitName": "Kelly Averitt",
-        "CWPStatus": "Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": "Resolved - Pending",
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "1",
-        "CWPViolStatus": "Yes",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "____________V",
-        "ViolFlag": "1",
-        "CurrVioFlag": "1",
-        "CurrSvFlag": "0",
-        "EffExceeds": "0",
-        "VioLastYear": "1",
-        "echo_source_id": "TNR172524",
-        "echo_display_name": "KELLY AVERITT PROPERTY",
-        "echo_violation_count": 1.0,
-        "echo_current_violation": true,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation Identified",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071525689",
-        "echo_status_label": "Current violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.50971,
-          36.20684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "CWPName": "LEONARD MACHINE CO. LLC",
         "SourceID": "TNR054496",
         "RegistryID": "110064514315",
@@ -564,40 +564,40 @@
     {
       "type": "Feature",
       "properties": {
-        "CWPName": "MONTEREY WWTP",
-        "SourceID": "TN0064688",
-        "RegistryID": "110009789586",
-        "FacLat": "36.15351",
-        "FacLong": "-85.29338",
-        "PermitName": "Town of Monterey",
-        "CWPStatus": "Violation Identified",
+        "CWPName": "PADDINGTON PLACE TOWNHOMES PHASE 1-4",
+        "SourceID": "TNR172378",
+        "RegistryID": "110071337988",
+        "FacLat": "36.143185",
+        "FacLong": "-85.62738",
+        "PermitName": "Schubert Enterprises",
+        "CWPStatus": "No Violation Identified",
         "CWPSNCStatus": null,
-        "CWPVioStatus": "Other Violation",
+        "CWPVioStatus": null,
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "11",
-        "CWPViolStatus": "Yes",
+        "CWPQtrsWithNC": "2",
+        "CWPViolStatus": "No",
         "CWPQtrsWithSNC": "0",
         "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "VVV_VVVVVVVV_",
+        "CWP13qtrsComplHistory": "__V____V_____",
         "ViolFlag": "1",
-        "CurrVioFlag": "1",
+        "CurrVioFlag": "0",
         "CurrSvFlag": "0",
-        "EffExceeds": "24",
-        "VioLastYear": "1",
-        "echo_source_id": "TN0064688",
-        "echo_display_name": "MONTEREY WWTP",
-        "echo_violation_count": 11.0,
-        "echo_current_violation": true,
+        "EffExceeds": "0",
+        "VioLastYear": "0",
+        "echo_source_id": "TNR172378",
+        "echo_display_name": "PADDINGTON PLACE TOWNHOMES PHASE 1-4",
+        "echo_violation_count": 2.0,
+        "echo_current_violation": false,
         "echo_significant_violation": false,
-        "echo_latest_violation": "Violation Identified",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110009789586",
-        "echo_status_label": "Current violation"
+        "echo_latest_violation": "Violation 5 quarters ago",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071337988",
+        "echo_status_label": "Recent violation"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.29338,
-          36.15351
+          -85.62738,
+          36.143185
         ]
       }
     },
@@ -758,46 +758,6 @@
         "coordinates": [
           -85.631116,
           36.36592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CWPName": "SCHUBERT ENTERPRISES-DALE MIRES LANE",
-        "SourceID": "TNR172378",
-        "RegistryID": "110071337988",
-        "FacLat": "36.143185",
-        "FacLong": "-85.62738",
-        "PermitName": "Schubert Enterprises",
-        "CWPStatus": "No Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "2",
-        "CWPViolStatus": "No",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "__V____V_____",
-        "ViolFlag": "1",
-        "CurrVioFlag": "0",
-        "CurrSvFlag": "0",
-        "EffExceeds": "0",
-        "VioLastYear": "0",
-        "echo_source_id": "TNR172378",
-        "echo_display_name": "SCHUBERT ENTERPRISES-DALE MIRES LANE",
-        "echo_violation_count": 2.0,
-        "echo_current_violation": false,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 5 quarters ago",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110071337988",
-        "echo_status_label": "Recent violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.62738,
-          36.143185
         ]
       }
     }

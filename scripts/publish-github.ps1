@@ -6,14 +6,35 @@ param(
 
 $ErrorActionPreference = 'Stop'
 Set-Location (Split-Path -Parent $PSScriptRoot)
+. (Join-Path $PSScriptRoot 'publish-github-lib.ps1')
+$transcriptStarted = $false
+$logPath = Join-Path (Get-Location) '.codex-local\publish-github.log'
 
-function Invoke-Git {
-    # Publishing must never pause inside Git's interactive pager ("END").
-    & git --no-pager @args
-    if ($LASTEXITCODE -ne 0) { throw "git $($args -join ' ') failed (exit $LASTEXITCODE)." }
+function Invoke-PublishChecks {
+    Write-Host 'Checking lint and building the local static site...'
+    if (-not (Test-Path node_modules)) {
+        & npm.cmd ci
+        if ($LASTEXITCODE -ne 0) { throw 'Dependency installation failed.' }
+    }
+    $savedBasePath = $env:NEXT_PUBLIC_BASE_PATH
+    try {
+        $env:NEXT_PUBLIC_BASE_PATH = ''
+        & npm.cmd run check
+        if ($LASTEXITCODE -ne 0) { throw 'Validation failed. Fix the errors before publishing.' }
+        if (Get-Command python -ErrorAction SilentlyContinue) {
+            & python -m scripts.validate.validate_prototype_outputs
+            if ($LASTEXITCODE -ne 0) { throw 'Saved data validation failed. Nothing was pushed.' }
+        }
+    } finally {
+        $env:NEXT_PUBLIC_BASE_PATH = $savedBasePath
+    }
 }
 
 try {
+    New-Item -ItemType Directory -Force (Split-Path -Parent $logPath) | Out-Null
+    Start-Transcript -LiteralPath $logPath -Append | Out-Null
+    $transcriptStarted = $true
+    Write-Host "Publisher log: $logPath"
     foreach ($command in @('git', 'node', 'npm.cmd')) {
         if (-not (Get-Command $command -ErrorAction SilentlyContinue)) {
             throw "Install $command and reopen this launcher. Git for Windows and Node.js 22 LTS are required."
@@ -27,19 +48,7 @@ try {
     }
     if (Invoke-Git diff --name-only --diff-filter=U) { throw 'Resolve Git conflicts before publishing.' }
 
-    Write-Host 'Checking lint and building the local static site...'
-    if (-not (Test-Path node_modules)) {
-        & npm.cmd ci
-        if ($LASTEXITCODE -ne 0) { throw 'Dependency installation failed.' }
-    }
-    $savedBasePath = $env:NEXT_PUBLIC_BASE_PATH
-    try {
-        $env:NEXT_PUBLIC_BASE_PATH = ''
-        & npm.cmd run check
-        if ($LASTEXITCODE -ne 0) { throw 'Validation failed. Fix the errors before publishing.' }
-    } finally {
-        $env:NEXT_PUBLIC_BASE_PATH = $savedBasePath
-    }
+    Invoke-PublishChecks
     if ($CheckOnly) {
         Write-Host 'Checks passed. No files were staged, committed, or pushed.'
         exit 0
@@ -59,21 +68,16 @@ try {
     }
 
     Invoke-Git fetch origin
-    & git show-ref --verify --quiet refs/remotes/origin/main
-    if ($LASTEXITCODE -eq 0) {
-        $behind = Invoke-Git rev-list --count HEAD..origin/main
-        if ([int]$behind -gt 0) {
-            throw 'GitHub has commits missing locally. Ask Codex to safely integrate origin/main with your local edits, then run this launcher again.'
-        }
-    } elseif ($LASTEXITCODE -ne 1) {
-        throw 'Could not inspect origin/main.'
-    }
 
     Write-Host 'Including all new, modified, and deleted files except Git-ignored files:'
     Invoke-Git status --short
     Invoke-Git add --all
     $stagedFiles = Invoke-Git diff --cached --name-only --diff-filter=ACMR
     foreach ($file in $stagedFiles) {
+        if ($file -match '^(data/(archives|restored|raw)/|\.codex-local/|out/|\.next/)' -or
+            ($file -match '(^|/)\.env($|\.)' -and $file -ne '.env.example')) {
+            throw "Private or generated local-only files must not be published: $file"
+        }
         $item = Get-Item -LiteralPath $file
         if ($item.Length -ge 100MB) { throw "GitHub cannot accept this file: $file. Ask Codex to move or exclude it." }
     }
@@ -97,6 +101,11 @@ try {
     } else {
         throw 'Could not inspect staged changes.'
     }
+    $integrated = Sync-RemoteMain
+    if ($integrated) {
+        Write-Host 'Checking the integrated version before pushing...'
+        Invoke-PublishChecks
+    }
     Invoke-Git push --set-upstream origin main
     Write-Host ''
     Write-Host 'Push succeeded. GitHub Actions will deploy new commits; deployment takes a few minutes.'
@@ -107,4 +116,6 @@ try {
 } catch {
     Write-Host "ERROR: $($_.Exception.Message)" -ForegroundColor Red
     exit 1
+} finally {
+    if ($transcriptStarted) { Stop-Transcript | Out-Null }
 }

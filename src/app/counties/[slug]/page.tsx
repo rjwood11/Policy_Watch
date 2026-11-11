@@ -7,8 +7,10 @@ import type { CountyRecord, StateRank } from "@/lib/data";
 import { getCounty, getCountyIndex, getDataSources } from "@/lib/data";
 import { getCountyIntroduction } from "@/lib/countyIntroductions";
 import {
-  TENNESSEE_CONGRESSIONAL_REPRESENTATIVES,
-  TENNESSEE_LEGISLATORS
+  TENNESSEE_CONGRESSIONAL_ELECTION_WINNERS,
+  TENNESSEE_LEGISLATORS,
+  LEGISLATOR_REVIEWED_AT,
+  LEGISLATOR_ROSTER_NOTE
 } from "@/lib/tennesseeLegislators";
 
 const TN_WATER_WATCH_COUNTIES = new Set(["davidson", "williamson"]);
@@ -187,17 +189,17 @@ function stateLegislatorDisplay(districtLabel: string) {
     return districtLabel;
   }
 
-  return `${districtLabel} - ${chamber === "House" ? "Rep." : "Sen."} ${legislator.name}`;
+  return `${districtLabel} - ${chamber === "House" ? "Rep." : "Sen."} ${legislator.name}${legislator.newlyElected ? " (newly elected)" : ""}`;
 }
 
 function congressionalRepresentativeDisplay(districtLabel: string) {
-  const legislator = TENNESSEE_CONGRESSIONAL_REPRESENTATIVES[districtLabel];
+  const legislator = TENNESSEE_CONGRESSIONAL_ELECTION_WINNERS[districtLabel];
 
   if (!legislator) {
     return districtLabel;
   }
 
-  return `${districtLabel} - Rep. ${legislator.name}`;
+  return `${districtLabel} - ${legislator.name} (${legislator.party}), 2026 winner`;
 }
 
 function DistrictSummaryList({
@@ -255,7 +257,7 @@ function CountyContextTile({ county }: { county: CountyRecord }) {
           </dd>
         </div>
         <div>
-          <dt className="font-medium text-ink">Congressional districts</dt>
+          <dt className="font-medium text-ink">Congressional districts · 2026 plan</dt>
           <dd className="mt-1 text-ink/70">
             <DistrictSummaryList
               districts={county.congressionalDistricts}
@@ -266,6 +268,8 @@ function CountyContextTile({ county }: { county: CountyRecord }) {
           </dd>
         </div>
       </dl>
+      <p className="mt-4 text-xs leading-5 text-ink/70">{LEGISLATOR_ROSTER_NOTE}</p>
+      <p className="mt-2 text-xs text-ink/60">Officials reviewed {LEGISLATOR_REVIEWED_AT}</p>
       <p className="mt-4 text-xs uppercase tracking-normal text-river">Last rebuilt {county.buildDate}</p>
     </article>
   );

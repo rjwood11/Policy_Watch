@@ -32,6 +32,19 @@ jobs:
       - name: Refresh committed ECHO cache
         run: npm run data:refresh-echo -- --strict
 
+      - name: Verify source archive
+        if: always()
+        run: python -m scripts.common.source_archive verify
+
+      - name: Preserve source archive for download
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: policywatch-echo-source-archive-${{ github.run_id }}-${{ github.run_attempt }}
+          path: data/archives/
+          if-no-files-found: error
+          retention-days: 90
+
       - name: Commit cache changes
         run: |
           if git diff --quiet -- public/data/weekly public/data/metadata; then

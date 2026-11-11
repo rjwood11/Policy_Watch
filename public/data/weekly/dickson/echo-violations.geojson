@@ -44,46 +44,6 @@
     {
       "type": "Feature",
       "properties": {
-        "CWPName": "BURNS MUNICIPAL PARK",
-        "SourceID": "TNR149281",
-        "RegistryID": "110070155787",
-        "FacLat": "36.046667",
-        "FacLong": "-87.269167",
-        "PermitName": "Town of Burns",
-        "CWPStatus": "No Violation Identified",
-        "CWPSNCStatus": null,
-        "CWPVioStatus": null,
-        "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "4",
-        "CWPViolStatus": "No",
-        "CWPQtrsWithSNC": "0",
-        "CWPSNCEventDesc": null,
-        "CWP13qtrsComplHistory": "VVVV_________",
-        "ViolFlag": "1",
-        "CurrVioFlag": "0",
-        "CurrSvFlag": "0",
-        "EffExceeds": "0",
-        "VioLastYear": "0",
-        "echo_source_id": "TNR149281",
-        "echo_display_name": "BURNS MUNICIPAL PARK",
-        "echo_violation_count": 4.0,
-        "echo_current_violation": false,
-        "echo_significant_violation": false,
-        "echo_latest_violation": "Violation 9 quarters ago",
-        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110070155787",
-        "echo_status_label": "Recent violation"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.269167,
-          36.046667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "CWPName": "CHEATHAM HYDRO POWER PLANT",
         "SourceID": "TN0068144",
         "RegistryID": "110009706791",

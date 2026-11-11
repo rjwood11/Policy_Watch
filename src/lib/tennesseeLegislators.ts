@@ -1,27 +1,33 @@
 export type TennesseeLegislator = {
   name: string;
   party: "D" | "I" | "R" | "";
+  newlyElected?: boolean;
 };
 
+export const LEGISLATOR_REVIEWED_AT = "2026-11-11";
+export const LEGISLATOR_ROSTER_NOTE = "State names reflect the 115th General Assembly directory, including the November 2026 election. U.S. House names show reported 2026 winners (unofficial); the new congressional term begins January 3, 2027.";
+
+// State roster: official House/Senate directories, reviewed November 11, 2026.
+// Keep roster updates separate from district geometry and agency NAME fields.
 export const TENNESSEE_LEGISLATORS: Record<string, TennesseeLegislator> = {
-  H1: { name: "John Crawford", party: "R" },
-  H2: { name: "Bud Hulsey", party: "R" },
+  H1: { name: "Jessica Means", party: "R", newlyElected: true },
+  H2: { name: "Gary Stidham", party: "R", newlyElected: true },
   H3: { name: "Timothy Hill", party: "R" },
   H4: { name: "Renea Jones", party: "R" },
   H5: { name: "David B. Hawk", party: "R" },
   H6: { name: "Tim Hicks", party: "R" },
   H7: { name: "Rebecca K. Alexander", party: "R" },
-  H8: { name: "Jerome Moon", party: "R" },
+  H8: { name: "Jordan Henderson", party: "R", newlyElected: true },
   H9: { name: "Gary Hicks", party: "R" },
   H10: { name: "Rick Eldridge", party: "R" },
-  H11: { name: "Jeremy Faison", party: "R" },
+  H11: { name: "Kenny Cody", party: "R", newlyElected: true },
   H12: { name: "Fred Atchley", party: "R" },
-  H13: { name: "Robert Stevens", party: "R" },
+  H13: { name: "Brett Windrow", party: "D", newlyElected: true },
   H14: { name: "Jason Zachary", party: "R" },
   H15: { name: "Sam McKenzie", party: "D" },
   H16: { name: "Michele Carringer", party: "R" },
   H17: { name: "Andrew Farmer", party: "R" },
-  H18: { name: "Elaine Davis", party: "R" },
+  H18: { name: "Bryan Goldberg", party: "D", newlyElected: true },
   H19: { name: "Dave Wright", party: "R" },
   H20: { name: "Tom Stinnett", party: "R" },
   H21: { name: "Lowell Russell", party: "R" },
@@ -34,12 +40,12 @@ export const TENNESSEE_LEGISLATORS: Record<string, TennesseeLegislator> = {
   H28: { name: "Yusuf Hakeem", party: "D" },
   H29: { name: "Greg Vital", party: "R" },
   H30: { name: "Esther Helton-Haynes", party: "R" },
-  H31: { name: "Ron Travis", party: "R" },
-  H32: { name: "Monty Fritts", party: "R" },
+  H31: { name: "Andy J. Swafford", party: "R", newlyElected: true },
+  H32: { name: "Jack L. Stockton", party: "R", newlyElected: true },
   H33: { name: "Rick Scarbrough", party: "R" },
-  H34: { name: "Tim Rudd", party: "R" },
+  H34: { name: "Owen Farnsworth", party: "D", newlyElected: true },
   H35: { name: "William Slater", party: "R" },
-  H36: { name: "Dennis Powers", party: "R" },
+  H36: { name: "Noah Smith", party: "R", newlyElected: true },
   H37: { name: "Charlie Baum", party: "R" },
   H38: { name: "Kelly Keisling", party: "R" },
   H39: { name: "Iris Rudder", party: "R" },
@@ -48,11 +54,11 @@ export const TENNESSEE_LEGISLATORS: Record<string, TennesseeLegislator> = {
   H42: { name: "Ryan Williams", party: "R" },
   H43: { name: "Paul Sherrell", party: "R" },
   H44: { name: "William Lamberth", party: "R" },
-  H45: { name: "Johnny Garrett", party: "R" },
+  H45: { name: "Brian Stewart", party: "R", newlyElected: true },
   H46: { name: "Clark Boyd", party: "R" },
   H47: { name: "Rush Bricken", party: "R" },
   H48: { name: "Bryan Terry", party: "R" },
-  H49: { name: "Mike Sparks", party: "R" },
+  H49: { name: "Connie Casha", party: "D", newlyElected: true },
   H50: { name: "Bo Mitchell", party: "D" },
   H51: { name: "Aftyn Behn", party: "D" },
   H52: { name: "Justin Jones", party: "D" },
@@ -62,7 +68,7 @@ export const TENNESSEE_LEGISLATORS: Record<string, TennesseeLegislator> = {
   H56: { name: "Bob Freeman", party: "D" },
   H57: { name: "Susan M. Lynn", party: "R" },
   H58: { name: "Harold Love Jr.", party: "D" },
-  H59: { name: "Caleb Hemmer", party: "D" },
+  H59: { name: "Mark Proctor", party: "D", newlyElected: true },
   H60: { name: "Shaundelle Brooks", party: "D" },
   H61: { name: "Gino Bulso", party: "R" },
   H62: { name: "Pat Marsh", party: "R" },
@@ -78,16 +84,16 @@ export const TENNESSEE_LEGISLATORS: Record<string, TennesseeLegislator> = {
   H72: { name: "Kirk Haston", party: "R" },
   H73: { name: "Chris Todd", party: "R" },
   H74: { name: "Jay D. Reedy", party: "R" },
-  H75: { name: "Michael Lankford", party: "R" },
+  H75: { name: "Allie Phillips", party: "D", newlyElected: true },
   H76: { name: "Tandy Darby", party: "R" },
   H77: { name: "Rusty Grills", party: "R" },
-  H78: { name: "Mary Littleton", party: "R" },
+  H78: { name: "Perry Keenan", party: "R", newlyElected: true },
   H79: { name: "Brock Martin", party: "R" },
-  H80: { name: "Johnny Shaw", party: "D" },
-  H81: { name: "Debra Moody", party: "R" },
+  H80: { name: "Andrea Bond Johnson", party: "D", newlyElected: true },
+  H81: { name: "Brett A. Giannini", party: "R", newlyElected: true },
   H82: { name: "Chris Hurt", party: "R" },
   H83: { name: "Mark White", party: "R" },
-  H84: { name: "Joe Towns Jr.", party: "D" },
+  H84: { name: "Matthew Szalaj", party: "D", newlyElected: true },
   H85: { name: "Jesse Chism", party: "D" },
   H86: { name: "Justin J. Pearson", party: "D" },
   H87: { name: "Karen D. Camper", party: "D" },
@@ -96,18 +102,18 @@ export const TENNESSEE_LEGISLATORS: Record<string, TennesseeLegislator> = {
   H90: { name: "Gloria Johnson", party: "D" },
   H91: { name: "Torrey C. Harris", party: "D" },
   H92: { name: "Todd Warner", party: "R" },
-  H93: { name: "T.J. Hardaway", party: "D" },
+  H93: { name: "John Bradley", party: "D", newlyElected: true },
   H94: { name: "Ron M. Gant", party: "R" },
   H95: { name: "Kevin Vaughan", party: "R" },
-  H96: { name: "Gabby Salinas", party: "D" },
-  H97: { name: "John Gillespie", party: "R" },
+  H96: { name: "Telisa Franklin", party: "D", newlyElected: true },
+  H97: { name: "Jesse Huseth", party: "D", newlyElected: true },
   H98: { name: "Antonio Parkinson", party: "D" },
   H99: { name: "Tom Leatherwood", party: "R" },
   S1: { name: "Adam Lowe", party: "R" },
   S2: { name: "Tom Hatcher", party: "R" },
   S3: { name: "Rusty Crowe", party: "R" },
   S4: { name: "Bobby Harshbarger", party: "R" },
-  S5: { name: "Randy McNally", party: "R" },
+  S5: { name: "Jimmy Matlock", party: "R", newlyElected: true },
   S6: { name: "Becky D. Massey", party: "R" },
   S7: { name: "Richard Briggs", party: "R" },
   S8: { name: "Jessie Seal", party: "R" },
@@ -138,18 +144,24 @@ export const TENNESSEE_LEGISLATORS: Record<string, TennesseeLegislator> = {
   S33: { name: "London Lamar", party: "D" }
 };
 
-export const TENNESSEE_CONGRESSIONAL_REPRESENTATIVES: Record<string, TennesseeLegislator> = {
+export const TENNESSEE_CONGRESSIONAL_ELECTION_WINNERS: Record<string, TennesseeLegislator> = {
   "TN-01": { name: "Diana Harshbarger", party: "R" },
   "TN-02": { name: "Tim Burchett", party: "R" },
   "TN-03": { name: "Chuck Fleischmann", party: "R" },
-  "TN-04": { name: "Scott DesJarlais", party: "R" },
-  "TN-05": { name: "Andy Ogles", party: "R" },
-  "TN-06": { name: "John Rose", party: "R" },
+  "TN-04": { name: "Victoria Broderick", party: "D", newlyElected: true },
+  "TN-05": { name: "Charlie Hatcher", party: "R", newlyElected: true },
+  "TN-06": { name: "Johnny Garrett", party: "R", newlyElected: true },
   "TN-07": { name: "Matt Van Epps", party: "R" },
   "TN-08": { name: "David Kustoff", party: "R" },
-  "TN-09": { name: "Steve Cohen", party: "D" }
+  "TN-09": { name: "Brent Taylor", party: "R", newlyElected: true }
 };
 
 export function tennesseeLegislatorUrl(code: string) {
-  return `https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=${code}`;
+  return `https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=${code}&ga=115`;
+}
+
+// Reported results, pending certification; these are not current-member
+// contact links for the outgoing congressional districts.
+export function tennesseeCongressionalResultUrl(district: string) {
+  return `https://tnfirefly.com/results/november-2026-general/us-house-${Number(district.replace("TN-", ""))}`;
 }

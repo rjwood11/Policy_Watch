@@ -1,4 +1,5 @@
 import { DataSourceTable } from "@/components/DataSourceTable";
+import { CensusAttribution } from "@/components/CensusAttribution";
 import { getDataSources, getLastUpdated } from "@/lib/data";
 
 export default function SourcesPage() {
@@ -24,6 +25,7 @@ export default function SourcesPage() {
           rebuilt together; unavailable optional overlays retain their previous data.
         </p>
       </div>
+      <CensusAttribution />
       <section className="grid gap-4 md:grid-cols-3 xl:grid-cols-6">
         {Object.entries(lastUpdated).map(([key, value]) => (
           <article key={key} className="card p-4">

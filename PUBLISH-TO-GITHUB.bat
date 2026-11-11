@@ -4,10 +4,12 @@ cd /d "%~dp0"
 echo PolicyWatch - Commit, push, and deploy to GitHub Pages
 echo Checks run first, followed by a brief change summary and a commit description prompt.
 echo To cancel before committing, press Ctrl+C at the description prompt.
+echo A publisher log is saved in .codex-local\publish-github.log.
 echo.
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0scripts\publish-github.ps1" %*
 set "RESULT=%ERRORLEVEL%"
 echo.
 if not "%RESULT%"=="0" echo Publishing stopped. Read the message above; your local files are still available.
+if not "%RESULT%"=="0" echo For the full error, open .codex-local\publish-github.log.
 if /I not "%POLICYWATCH_NO_PAUSE%"=="1" pause
 exit /b %RESULT%

@@ -3,7 +3,7 @@
   "name": "Rhea",
   "region": "East Tennessee",
   "population": 33992,
-  "buildDate": "2026-10-15",
+  "buildDate": "2026-11-11",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -290,7 +290,7 @@
       "definition": "ACS 5-year total county population.",
       "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
       "sourceDataset": "ACS indicators",
-      "updatedAt": "2026-08-27",
+      "updatedAt": "2026-11-11",
       "stateRank": {
         "rank": 45,
         "total": 95,
@@ -306,7 +306,7 @@
       "definition": "Share of people below the poverty level based on ACS table B17001.",
       "caveat": "County-wide rates can hide tract-level variation.",
       "sourceDataset": "ACS indicators",
-      "updatedAt": "2026-08-27",
+      "updatedAt": "2026-11-11",
       "stateRank": {
         "rank": 46,
         "total": 95,

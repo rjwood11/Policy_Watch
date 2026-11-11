@@ -1,4 +1,5 @@
 from __future__ import annotations
+from scripts.common.source_archive import archived_refresh
 
 from scripts.common.prototype_config import (
     LAYERS_DIR,
@@ -34,6 +35,7 @@ from scripts.summaries.county_contracts import write_county_map_payloads, write_
 from scripts.validate.validate_prototype_outputs import validate_outputs
 
 
+@archived_refresh("County data rebuild")
 def main(inputs: dict | None = None) -> None:
     ensure_dirs()
     context = get_build_context()

@@ -4,15 +4,18 @@ import json
 
 import geopandas as gpd
 import pandas as pd
+from scripts.common.file_io import write_text_atomic
 from shapely.geometry import Point, box
 
 from scripts.common.prototype_config import (
     ACS_URL,
+    acs_source_notes,
     ACTIVE_PERMITS_PATH,
     AREA_CRS,
     COUNTIES_DIR,
     COUNTY_ZIP_URL,
     COUNTY_MAPS_DIR,
+    DISTRICT_SOURCE_NOTES,
     FEATURED_COUNTIES,
     IMPAIRMENT_2026_PATH,
     JUSTICE40_PATH,
@@ -787,6 +790,11 @@ def _clip_to_frame(
     simplify_meters: float,
     keep_columns: list[str],
 ) -> gpd.GeoDataFrame:
+    # Optional download failures can supply a geometry-only empty layer.
+    # There are no attributes to select; preserve the output schema so the
+    # refresh can finish and restore that overlay from the previous map.
+    if source.empty:
+        return gpd.GeoDataFrame(columns=keep_columns + ["geometry"], geometry="geometry", crs="EPSG:4326")
     clip_proj = clip_frame.to_crs(AREA_CRS)
     source_proj = source.to_crs(AREA_CRS)
     clip_geometry = clip_proj.geometry.iloc[0]
@@ -1161,9 +1169,8 @@ def write_county_map_payloads(
             },
         }
 
-        (COUNTY_MAPS_DIR / f"{county.slug}.json").write_text(
+        write_text_atomic(COUNTY_MAPS_DIR / f"{county.slug}.json",
             json.dumps(payload, separators=(",", ":")),
-            encoding="utf8",
         )
 
 
@@ -1489,12 +1496,12 @@ def write_processed_summary(
             build_date=build_date,
         )
 
-        (COUNTIES_DIR / f"{county.slug}.json").write_text(json.dumps(county_payload, indent=2), encoding="utf8")
+        write_text_atomic(COUNTIES_DIR / f"{county.slug}.json", json.dumps(county_payload, indent=2))
 
     county_index.sort(key=lambda item: item["name"])
     search_index.sort(key=lambda item: item["label"])
-    (COUNTIES_DIR / "index.json").write_text(json.dumps(county_index, indent=2), encoding="utf8")
-    (SEARCH_DIR / "search-index.json").write_text(json.dumps(search_index, indent=2), encoding="utf8")
+    write_text_atomic(COUNTIES_DIR / "index.json", json.dumps(county_index, indent=2))
+    write_text_atomic(SEARCH_DIR / "search-index.json", json.dumps(search_index, indent=2))
 
 
 def write_metadata(*, build_date: str) -> None:
@@ -1529,11 +1536,11 @@ def write_metadata(*, build_date: str) -> None:
         {
             "dataset": "Legislative districts",
             "purpose": "State and congressional district overlays and county overlap summaries.",
-            "sourceName": "TNMap Legislative Districts service",
-            "sourceUrl": TN_LEG_URL,
+            "sourceName": "TNMap state districts / Comptroller congressional plan",
+            "sourceUrl": "https://comptroller.tn.gov/maps.html",
             "refreshFrequency": "Redistricting / official updates",
             "lastUpdated": build_date,
-            "notes": "Prototype uses the Tennessee 2022 district service for senate, house, and congressional boundaries.",
+            "notes": DISTRICT_SOURCE_NOTES,
         },
         {
             "dataset": "ACS indicators",
@@ -1542,7 +1549,7 @@ def write_metadata(*, build_date: str) -> None:
             "sourceUrl": f"{ACS_URL}.html",
             "refreshFrequency": "Annual",
             "lastUpdated": build_date,
-            "notes": "Prototype pulls population, median household income, and poverty-related values and writes them into county summary JSON.",
+            "notes": acs_source_notes(2024),
         },
         {
             "dataset": "Justice40 / CEJST local snapshot",
@@ -1662,7 +1669,21 @@ def write_metadata(*, build_date: str) -> None:
             "notes": "County map overlays use the Tennessee subset of the USGS PAD-US combined inventory, cached as raw GeoJSON during the local data build and clipped to the padded county viewport. Features include the PAD-US protection mechanism category, owner and manager labels, public access, GAP status, acres, easement holder, source name, and source date where available.",
         },
     ]
-    (METADATA_DIR / "data-sources.json").write_text(json.dumps(sources, indent=2), encoding="utf8")
+    officials_path = METADATA_DIR / "legislative-update.json"
+    if officials_path.exists():
+        reviewed = json.loads(officials_path.read_text(encoding="utf8"))["reviewedAt"]
+        sources.append({
+            "dataset": "Elected officials",
+            "purpose": "State district member names and reported November 2026 U.S. House winners.",
+            "sourceName": "115th General Assembly directories / reported 2026 election results",
+            "sourceUrl": "https://wapp.capitol.tn.gov/apps/LegislatorInfo/Directory?chamber=H",
+            "refreshFrequency": "Manual review after elections and vacancies",
+            "lastUpdated": reviewed,
+            "lastChecked": reviewed,
+            "refreshStatus": "Reviewed roster; U.S. House results unofficial",
+            "notes": "State names follow the official House and Senate directories for the 115th General Assembly. U.S. House winners follow Tennessee Firefly's reporting of Secretary of State returns, pending certification; the incoming congressional term begins January 3, 2027. Boundary refreshes do not refresh member names. Detailed sources and changes are saved in data/metadata/legislative-update.json.",
+        })
+    write_text_atomic(METADATA_DIR / "data-sources.json", json.dumps(sources, indent=2))
 
     last_updated = {
         "county-pages": build_date,
@@ -1684,4 +1705,4 @@ def write_metadata(*, build_date: str) -> None:
         "service-line-inventory": build_date,
         "protected-areas": build_date,
     }
-    (METADATA_DIR / "last-updated.json").write_text(json.dumps(last_updated, indent=2), encoding="utf8")
+    write_text_atomic(METADATA_DIR / "last-updated.json", json.dumps(last_updated, indent=2))

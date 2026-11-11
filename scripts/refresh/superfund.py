@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 import re
 from datetime import date
@@ -10,6 +11,8 @@ from urllib.parse import urlencode, urlparse
 from urllib.request import urlopen
 
 from scripts.common.prototype_config import COUNTY_MAPS_DIR, LAYERS_DIR, METADATA_DIR
+from scripts.common.source_archive import archived_refresh, archive_json
+from scripts.common.file_io import write_text_atomic
 
 SOURCE_URL = (
     "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/"
@@ -19,6 +22,7 @@ CACHE_PATH = LAYERS_DIR / "superfund-sites.geojson"
 FIELDS = "Site_Name,Site_EPA_ID,State,City,County,Status,Site_Progress_Profile,Listing_Date,Deletion_Date"
 
 
+@archived_refresh("Superfund source refresh")
 def refresh_cache() -> dict:
     params = urlencode({
         "where": "State = 'Tennessee'", "outFields": FIELDS,
@@ -30,6 +34,7 @@ def refresh_cache() -> dict:
         raise ValueError(f"EPA returned an invalid or empty Superfund response: {payload}")
     if payload.get("exceededTransferLimit") or payload.get("properties", {}).get("exceededTransferLimit"):
         raise ValueError("EPA Superfund response exceeded the transfer limit; cache was preserved.")
+    original_payload = copy.deepcopy(payload)
     seen = set()
     for feature in payload["features"]:
         properties = feature["properties"]
@@ -48,7 +53,8 @@ def refresh_cache() -> dict:
     payload.pop("crs", None)
     payload["sourceUrl"] = SOURCE_URL
     payload["retrievedAt"] = date.today().isoformat()
-    CACHE_PATH.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf8")
+    archive_json("EPA Superfund source features", original_payload, url=SOURCE_URL, params={"where": "State = 'Tennessee'"})
+    write_text_atomic(CACHE_PATH, json.dumps(payload, indent=2) + "\n")
     return payload
 
 
@@ -68,7 +74,7 @@ def apply_cached_superfund() -> None:
         relevant_counties += bool(features)
         county["superfundSites"] = {"type": "FeatureCollection", "features": features}
         county["superfundUpdatedAt"] = payload["retrievedAt"]
-        path.write_text(json.dumps(county, separators=(",", ":")), encoding="utf8")
+        write_text_atomic(path, json.dumps(county, separators=(",", ":")))
     if len(assigned) != len(payload["features"]):
         raise ValueError("Some EPA Superfund sites could not be assigned to a county.")
     sources_path = METADATA_DIR / "data-sources.json"
@@ -83,10 +89,11 @@ def apply_cached_superfund() -> None:
         "lastUpdated": payload["retrievedAt"],
         "notes": "Point layer used in EPA's official Where You Live map. Includes current and deleted NPL sites; status is retained as published. County assignment follows EPA's County field, including multi-county sites. Markers are reference locations, not site or contamination boundaries. An empty county means no sites in this dataset, not an absence of all contaminated properties.",
     })
-    sources_path.write_text(json.dumps(sources, indent=2) + "\n", encoding="utf8")
+    write_text_atomic(sources_path, json.dumps(sources, indent=2) + "\n")
     print(f"Attached {len(assigned)} EPA Superfund sites to {relevant_counties} county maps.")
 
 
+@archived_refresh("Superfund refresh")
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--cached", action="store_true", help="Apply the committed cache without downloading.")

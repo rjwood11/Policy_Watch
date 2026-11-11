@@ -24,6 +24,12 @@ ACS_URL = "https://api.census.gov/data/2024/acs/acs5"
 WBD_HUC8_URL = "https://hydro.nationalmap.gov/arcgis/rest/services/wbd/MapServer/4/query"
 WBD_HUC6_URL = "https://hydro.nationalmap.gov/arcgis/rest/services/wbd/MapServer/3/query"
 TN_LEG_URL = "https://tnmap.tn.gov/arcgis/rest/services/ADMINISTRATIVE_BOUNDARIES/LEGISLATIVE_DISTRICTS/MapServer"
+TN_CONGRESSIONAL_ZIP_URL = "https://comptroller.tn.gov/maps/u-s--congress-districts/redirect-tn-us-congressional-map-shape-files.html"
+DISTRICT_SOURCE_NOTES = (
+    "State House and Senate boundaries come from TNMap. Congressional boundaries use the Comptroller's "
+    "May 2026 plan adopted for the November 2026 election. County maps and county overlap lists are rebuilt together. "
+    "Legislator names are maintained separately from boundary-service attributes."
+)
 TDEC_WATER_SERVICE_AREAS_URL = "https://services5.arcgis.com/bPacKTm9cauMXVfn/arcgis/rest/services/TN_Public_Water_System_Service_Area_Boundaries_WFL1/FeatureServer/0"
 TDEC_SERVICE_LINE_INVENTORY_URL = "https://services5.arcgis.com/bPacKTm9cauMXVfn/arcgis/rest/services/Service_Line_Inventory_PWS_Service_Area/FeatureServer/0"
 TDEC_SOLID_WASTE_PERMITS_URL = "https://tdeconline.tn.gov/arcgis/rest/services/SWM_Permits/MapServer/0"
@@ -89,6 +95,16 @@ class BuildContext:
 def get_build_context() -> BuildContext:
     build_date = os.getenv("POLICYWATCH_DATA_DATE", date.today().isoformat())
     return BuildContext(build_date=build_date)
+
+
+def acs_source_notes(year: int) -> str:
+    return (
+        f"Source: U.S. Census Bureau, {year - 4}–{year} American Community Survey five-year estimates. "
+        "Population uses B01003_001E. Poverty rate is calculated as B17001_002E / B17001_001E × 100 "
+        "and displayed to one decimal place; county rankings use that displayed precision. "
+        "Median household income (B19013_001E) is retrieved but is not displayed. "
+        "This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau."
+    )
 
 
 def ensure_dirs() -> None:

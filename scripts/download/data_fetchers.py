@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import tempfile
 import time
 import zipfile
 from pathlib import Path
@@ -9,6 +10,8 @@ from pathlib import Path
 import geopandas as gpd
 import pandas as pd
 import requests
+from scripts.common.source_archive import archive_json, archive_bytes, archive_file
+from scripts.common.file_io import write_text_atomic, write_bytes_atomic
 
 from scripts.common.prototype_config import (
     ACS_URL,
@@ -25,12 +28,14 @@ from scripts.common.prototype_config import (
     MONITORING_STATIONS_PATH,
     PADUS_PROTECTION_MECHANISM_URL,
     RAW_DIR,
+    ROOT,
     REGION_COUNTIES_PATH,
     SCENIC_RIVERS_PATH,
     TDEC_SERVICE_LINE_INVENTORY_URL,
     TENNESSEE_STATEFP,
     TDEC_SOLID_WASTE_PERMITS_URL,
     TN_LEG_URL,
+    TN_CONGRESSIONAL_ZIP_URL,
     WBD_HUC6_URL,
     WBD_HUC8_URL,
     WATER_SERVICE_AREAS_PATH,
@@ -110,7 +115,11 @@ PADUS_PROTECTED_AREAS_FIELDS = [
 def fetch_json(url: str, *, params: dict[str, str] | None = None) -> dict:
     response = requests.get(url, params=params, headers=REQUEST_HEADERS, timeout=120)
     response.raise_for_status()
-    return response.json()
+    payload = response.json()
+    if isinstance(payload, dict) and "error" in payload:
+        raise ValueError(f"Source returned an error: {url}")
+    archive_json("JSON source response", payload, url=url, params=params)
+    return payload
 
 
 def fetch_geojson(url: str, *, params: dict[str, str]) -> gpd.GeoDataFrame:
@@ -120,7 +129,9 @@ def fetch_geojson(url: str, *, params: dict[str, str]) -> gpd.GeoDataFrame:
             response = requests.get(url, params=params, headers=REQUEST_HEADERS, timeout=120)
             response.raise_for_status()
             payload = response.json()
-            return gpd.GeoDataFrame.from_features(payload["features"], crs="EPSG:4326")
+            frame = gpd.GeoDataFrame.from_features(payload["features"], crs="EPSG:4326")
+            archive_json("ArcGIS source features", payload, url=url, params=params)
+            return frame
         except (KeyError, ValueError, requests.RequestException) as exc:
             last_error = exc
             if attempt < 2:
@@ -138,7 +149,7 @@ def fetch_paged_geojson(
     features: list[dict] = []
     offset = 0
 
-    while True:
+    for _ in range(500):
         page_params = {
             **params,
             "resultOffset": str(offset),
@@ -147,21 +158,27 @@ def fetch_paged_geojson(
         response = requests.get(url, params=page_params, headers=REQUEST_HEADERS, timeout=180)
         response.raise_for_status()
         payload = response.json()
-        page_features = payload.get("features", [])
+        if not isinstance(payload, dict) or payload.get("type") != "FeatureCollection" or not isinstance(payload.get("features"), list):
+            raise ValueError(f"Invalid ArcGIS source response: {url}")
+        page_features = payload["features"]
         features.extend(page_features)
 
         exceeded = bool(payload.get("properties", {}).get("exceededTransferLimit") or payload.get("exceededTransferLimit"))
         if len(page_features) < page_size and not exceeded:
             break
         if not page_features:
-            break
+            raise ValueError(f"ArcGIS pagination stopped before completion: {url}")
 
-        offset += page_size
+        offset += len(page_features)
+    else:
+        raise ValueError(f"ArcGIS source exceeded pagination limit: {url}")
 
-    return {
+    collection = {
         "type": "FeatureCollection",
         "features": features,
     }
+    archive_json("ArcGIS source features", collection, url=url, params=params)
+    return collection
 
 
 def _load_cached_public_layer(filename: str) -> gpd.GeoDataFrame:
@@ -173,10 +190,11 @@ def _load_cached_public_layer(filename: str) -> gpd.GeoDataFrame:
 
 def load_tennessee_counties() -> gpd.GeoDataFrame:
     local_zip = RAW_DIR / "tl_2024_us_county.zip"
+    downloaded = not local_zip.exists()
     if not local_zip.exists():
         response = requests.get(COUNTY_ZIP_URL, timeout=180)
         response.raise_for_status()
-        local_zip.write_bytes(response.content)
+        write_bytes_atomic(local_zip, response.content)
 
     with zipfile.ZipFile(local_zip) as archive:
         shapefile_name = next(name for name in archive.namelist() if name.endswith(".shp"))
@@ -186,6 +204,10 @@ def load_tennessee_counties() -> gpd.GeoDataFrame:
     counties = counties[counties["STATEFP"] == TENNESSEE_STATEFP].copy()
     counties["slug"] = counties["NAME"].str.lower().str.replace(" ", "-", regex=False)
     counties = counties[["GEOID", "NAME", "NAMELSAD", "slug", "geometry"]].sort_values("NAME")
+    if len(counties) != 95:
+        raise ValueError("Census county boundary download is incomplete")
+    archive_file("Census TIGER county boundaries", local_zip, url=COUNTY_ZIP_URL,
+                 kind="validated-download" if downloaded else "existing-cached-input")
     return counties
 
 
@@ -221,8 +243,31 @@ def load_huc6() -> gpd.GeoDataFrame:
     return huc6[["huc6", "name", "states", "areasqkm", "geometry"]].sort_values("huc6")
 
 
+def download_congressional_districts(session: requests.Session) -> gpd.GeoDataFrame:
+    """Read the Comptroller's official plan, not outdated member-name fields."""
+    response = session.get(TN_CONGRESSIONAL_ZIP_URL, timeout=120)
+    response.raise_for_status()
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    with tempfile.TemporaryDirectory(prefix="congress-districts-", dir=RAW_DIR) as folder:
+        archive = Path(folder) / "districts.zip"
+        archive.write_bytes(response.content)
+        layer = gpd.read_file(archive)
+    layer = layer.rename(columns={"LONGNAME": "NAME", "TOTAL": "POPULATION"})
+    layer["DISTRICT"] = layer["DISTRICT"].astype(int).astype(str)
+    if len(layer) != 9 or set(layer.DISTRICT) != {str(i) for i in range(1, 10)}:
+        raise ValueError("Congressional plan must contain all nine Tennessee districts")
+    if layer.crs is None or layer.geometry.isna().any() or layer.geometry.is_empty.any():
+        raise ValueError("Congressional plan has missing geometry or projection")
+    archive_bytes("Tennessee congressional plan", response.content, filename="congressional-districts.zip",
+                  url=TN_CONGRESSIONAL_ZIP_URL)
+    return layer[["DISTRICT", "NAME", "POPULATION", "geometry"]].to_crs("EPSG:4326")
+
+
 def load_legislative_layer(layer_id: int) -> gpd.GeoDataFrame:
     try:
+        if layer_id == 2:
+            with requests.Session() as session:
+                return download_congressional_districts(session)
         layer = fetch_geojson(
             f"{TN_LEG_URL}/{layer_id}/query",
             params={
@@ -232,7 +277,7 @@ def load_legislative_layer(layer_id: int) -> gpd.GeoDataFrame:
                 "f": "geojson",
             },
         )
-    except RuntimeError:
+    except (RuntimeError, ValueError, requests.RequestException):
         cached_layers = {
             0: "senate-districts.geojson",
             1: "house-districts.geojson",
@@ -267,13 +312,27 @@ def _load_cached_acs(counties: gpd.GeoDataFrame) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def census_api_key() -> str | None:
+    """Use the Actions/process secret first, then the ignored local config."""
+    configured = os.getenv("CENSUS_API_KEY")
+    if configured:
+        return configured
+    local_config = ROOT / ".env.local"
+    if local_config.exists():
+        for line in local_config.read_text(encoding="utf8").splitlines():
+            name, separator, value = line.strip().partition("=")
+            if separator and name.strip() == "CENSUS_API_KEY":
+                return value.strip().strip("\"'") or None
+    return None
+
+
 def load_acs(counties: gpd.GeoDataFrame | None = None) -> pd.DataFrame:
     params = {
         "get": "NAME,B01003_001E,B19013_001E,B17001_001E,B17001_002E",
         "for": "county:*",
         "in": "state:47",
     }
-    api_key = os.getenv("CENSUS_API_KEY")
+    api_key = census_api_key()
     if api_key:
         params["key"] = api_key
 
@@ -283,7 +342,7 @@ def load_acs(counties: gpd.GeoDataFrame | None = None) -> pd.DataFrame:
     except requests.RequestException as exc:
         # Request exceptions can include the API key in the URL. Keep secrets
         # out of the public refresh report and workflow summaries.
-        raise RuntimeError("ACS request failed; check Census availability and API key configuration.") from exc
+        raise RuntimeError("ACS request failed; check Census availability and API key configuration.") from None
     try:
         rows = response.json()
     except requests.exceptions.JSONDecodeError as exc:
@@ -300,6 +359,11 @@ def load_acs(counties: gpd.GeoDataFrame | None = None) -> pd.DataFrame:
     frame["poverty_total"] = frame["B17001_001E"].astype(int)
     frame["poverty_count"] = frame["B17001_002E"].astype(int)
     frame["poverty_rate"] = (frame["poverty_count"] / frame["poverty_total"]) * 100
+    if (len(frame) != 95 or frame.geoid.duplicated().any() or not frame.geoid.str.startswith("47").all()
+            or (frame.population <= 0).any() or (frame.poverty_total <= 0).any()
+            or not frame.poverty_rate.between(0, 100).all()):
+        raise ValueError("Census ACS response is incomplete or contains invalid values")
+    archive_json("Census ACS five-year county estimates", rows, url=ACS_URL, params=params)
     return frame[["geoid", "NAME", "population", "median_income", "poverty_rate"]]
 
 
@@ -344,7 +408,7 @@ def load_service_line_inventory() -> gpd.GeoDataFrame:
                 "orderByFields": "PWSID",
             },
         )
-        TDEC_SERVICE_LINE_INVENTORY_CACHE.write_text(json.dumps(payload, separators=(",", ":")), encoding="utf8")
+        write_text_atomic(TDEC_SERVICE_LINE_INVENTORY_CACHE, json.dumps(payload, separators=(",", ":")))
     except (KeyError, RuntimeError, ValueError, requests.RequestException):
         if TDEC_SERVICE_LINE_INVENTORY_CACHE.exists():
             return gpd.read_file(TDEC_SERVICE_LINE_INVENTORY_CACHE)
@@ -375,7 +439,7 @@ def load_solid_waste_landfills() -> gpd.GeoDataFrame:
                 "orderByFields": "COUNTY,PERMITTEE_NAME,PERMIT_TYPE",
             },
         )
-        TDEC_LANDFILLS_CACHE.write_text(json.dumps(payload, separators=(",", ":")), encoding="utf8")
+        write_text_atomic(TDEC_LANDFILLS_CACHE, json.dumps(payload, separators=(",", ":")))
     except (ValueError, requests.RequestException) as exc:
         if not TDEC_LANDFILLS_CACHE.exists():
             raise RuntimeError(f"TDEC solid waste landfill request failed: {exc}") from exc
@@ -395,7 +459,7 @@ def load_protected_areas() -> gpd.GeoDataFrame:
                 "outSR": "4326",
             },
         )
-        PADUS_PROTECTED_AREAS_CACHE.write_text(json.dumps(payload, separators=(",", ":")), encoding="utf8")
+        write_text_atomic(PADUS_PROTECTED_AREAS_CACHE, json.dumps(payload, separators=(",", ":")))
 
     return gpd.read_file(PADUS_PROTECTED_AREAS_CACHE)
 

@@ -7,6 +7,7 @@ from typing import Callable
 import geopandas as gpd
 
 from scripts.common.prototype_config import AREA_CRS
+from scripts.common.file_io import write_text_atomic
 
 
 def simplify_for_web(frame: gpd.GeoDataFrame, tolerance_meters: float) -> gpd.GeoDataFrame:
@@ -17,7 +18,7 @@ def simplify_for_web(frame: gpd.GeoDataFrame, tolerance_meters: float) -> gpd.Ge
 
 def write_geojson(frame: gpd.GeoDataFrame, path: Path) -> None:
     json_data = json.loads(frame.to_json())
-    path.write_text(json.dumps(json_data, separators=(",", ":")), encoding="utf8")
+    write_text_atomic(path, json.dumps(json_data, separators=(",", ":")))
 
 
 def spatial_labels(

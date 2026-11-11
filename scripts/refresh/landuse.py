@@ -28,6 +28,8 @@ from rasterio.io import MemoryFile
 from rasterio.mask import mask
 
 from scripts.common.prototype_config import LAYERS_DIR, METADATA_DIR, PUBLIC_DATA, RAW_DIR
+from scripts.common.source_archive import archived_refresh, archive_bytes
+from scripts.common.file_io import atomic_output, retry_file_operation, write_text_atomic
 
 YEAR = 2025
 RESOLUTION = 300  # Web Mercator meters, approximately 240–250 ground meters in Tennessee.
@@ -62,13 +64,16 @@ def download_subset(counties: gpd.GeoDataFrame, force: bool) -> None:
         return
     bounds = counties.total_bounds
     params = {
-        "service": "WCS", "version": "2.0.1", "request": "GetCoverage",
-        "coverageId": COVERAGE.replace(":", "__"),
-        "subsettingCrs": "http://www.opengis.net/def/crs/EPSG/0/3857",
-        "outputCrs": "http://www.opengis.net/def/crs/EPSG/0/3857",
-        "subset": [f"X({bounds[0]},{bounds[2]})", f"Y({bounds[1]},{bounds[3]})", f'time("{YEAR}-01-01T00:00:00Z")'],
-        "scaleSize": f"i({int(np.ceil((bounds[2] - bounds[0]) / RESOLUTION))}),j({int(np.ceil((bounds[3] - bounds[1]) / RESOLUTION))})",
-        "format": "image/tiff", "interpolation": "http://www.opengis.net/def/interpolation/OGC/1/nearest-neighbor",
+        # USGS's WCS 2 GetCoverage currently fails with a null startTime for
+        # this temporal mosaic. WCS 1 accepts an explicit observation time
+        # and returns the same categorical GeoTIFF (not a rendered RGB map).
+        "service": "WCS", "version": "1.0.0", "request": "GetCoverage",
+        "coverage": COVERAGE, "time": f"{YEAR}-01-01T00:00:00.000Z",
+        "crs": "EPSG:3857", "response_crs": "EPSG:3857",
+        "bbox": ",".join(str(value) for value in bounds),
+        "width": int(np.ceil((bounds[2] - bounds[0]) / RESOLUTION)),
+        "height": int(np.ceil((bounds[3] - bounds[1]) / RESOLUTION)),
+        "format": "GeoTIFF", "interpolation": "nearest neighbor",
     }
     print(f"Downloading Tennessee-only {YEAR} Annual NLCD at coarse resolution...", flush=True)
     response = requests.get(SOURCE_URL, params=params, timeout=180)
@@ -89,7 +94,9 @@ def download_subset(counties: gpd.GeoDataFrame, force: bool) -> None:
             with rasterio.open(temp_path, "w", **profile) as output:
                 output.write(data, 1)
                 output.update_tags(source=SOURCE_URL, year=str(YEAR), resampling="nearest")
-    temp_path.replace(CACHE_PATH)
+    archive_bytes("USGS Annual NLCD source raster", response.content, filename=f"annual-nlcd-{YEAR}.tif",
+                  url=SOURCE_URL, params=params)
+    retry_file_operation(lambda: temp_path.replace(CACHE_PATH))
     print(f"Cached regional raster: {CACHE_PATH.stat().st_size / 1024 / 1024:.2f} MB", flush=True)
 
 
@@ -106,7 +113,7 @@ def write_source_metadata(manifest: dict) -> None:
         "lastUpdated": manifest["retrievedAt"],
         "notes": f"Tennessee-only WCS subset, nearest-neighbor sampled at 300 Web Mercator meters (approximately 240–250 ground meters), grouped into broad classes and masked to county boundaries. Local compressed PNGs are loaded only when enabled. Small features can be omitted; this is land cover, not zoning or an official urban/rural classification. The source observation year is {manifest['year']}.",
     })
-    path.write_text(json.dumps(sources, indent=2) + "\n", encoding="utf8")
+    write_text_atomic(path, json.dumps(sources, indent=2) + "\n")
 
 
 def apply_cached_landuse_metadata() -> None:
@@ -115,6 +122,7 @@ def apply_cached_landuse_metadata() -> None:
         write_source_metadata(json.loads(path.read_text(encoding="utf8")))
 
 
+@archived_refresh("Land-cover county raster build")
 def build_county_rasters(force: bool = False) -> dict:
     counties = gpd.read_file(LAYERS_DIR / "counties.geojson").to_crs("EPSG:3857")
     download_subset(counties, force)
@@ -145,7 +153,8 @@ def build_county_rasters(force: bool = False) -> dict:
             image_path = OUTPUT_DIR / f"{county.slug}.png"
             image = Image.fromarray(grouped).convert("P")
             image.putpalette(palette)
-            image.save(image_path, transparency=0, optimize=True, bits=4)
+            with atomic_output(image_path) as temporary:
+                image.save(temporary, transparency=0, optimize=True, bits=4)
             total_bytes += image_path.stat().st_size
             manifest["counties"][county.slug] = {
                 "imageUrl": f"/data/landuse/{county.slug}.png", "width": width, "height": height,
@@ -154,12 +163,13 @@ def build_county_rasters(force: bool = False) -> dict:
                 "classCounts": {str(item["id"]): int(np.count_nonzero(grouped == item["id"])) for item in CLASSES},
                 "bytes": image_path.stat().st_size,
             }
-    (OUTPUT_DIR / "manifest.json").write_text(json.dumps(manifest, separators=(",", ":")) + "\n", encoding="utf8")
+    write_text_atomic(OUTPUT_DIR / "manifest.json", json.dumps(manifest, separators=(",", ":")) + "\n")
     write_source_metadata(manifest)
     print(f"Exported {len(manifest['counties'])} county images: {total_bytes / 1024 / 1024:.2f} MB total.")
     return manifest
 
 
+@archived_refresh("Land-cover refresh")
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--download", action="store_true", help="Download a fresh regional subset even if cached.")

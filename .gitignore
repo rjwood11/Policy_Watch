@@ -16,6 +16,8 @@ data/processed/*
 !data/processed/.gitkeep
 data/raw/*
 !data/raw/.gitkeep
+data/archives/
+data/restored/
 public/data/weekly/*
 !public/data/weekly/README.md
 !public/data/weekly/*/

@@ -1,0 +1,187 @@
+{
+  "reviewedAt": "2026-11-11",
+  "electionDate": "2026-11-03",
+  "stateAssembly": 115,
+  "stateRosterSources": [
+    {
+      "name": "Official House directory (115th General Assembly)",
+      "url": "https://wapp.capitol.tn.gov/apps/LegislatorInfo/Directory?chamber=H"
+    },
+    {
+      "name": "Official Senate directory (115th General Assembly)",
+      "url": "https://wapp.capitol.tn.gov/apps/LegislatorInfo/Directory?chamber=S"
+    }
+  ],
+  "congressionalResults": {
+    "status": "Reported results; unofficial pending certification",
+    "termBegins": "2027-01-03",
+    "sourceName": "Tennessee Firefly reporting Tennessee Secretary of State returns",
+    "sourceUrl": "https://tnfirefly.com/results/november-2026-general",
+    "note": "The Secretary of State results endpoint returned HTTP 403 during this review. Incoming winners are labeled as election results rather than current congressional officeholders; existing House.gov profiles still list the outgoing delegation."
+  },
+  "boundaries": {
+    "stateSource": "https://tnmap.tn.gov/arcgis/rest/services/ADMINISTRATIVE_BOUNDARIES/LEGISLATIVE_DISTRICTS/MapServer",
+    "congressionalPlan": "May 2026 plan used for the November 2026 election",
+    "congressionalSource": "https://comptroller.tn.gov/maps/u-s--congress-districts.html",
+    "congressionalDownload": "https://comptroller.tn.gov/content/dam/cot/pa/documents/district-maps/congress-districts/NewCongressional26.zip"
+  },
+  "changes": [
+    {
+      "district": "H1",
+      "previousName": "John Crawford",
+      "name": "Jessica Means",
+      "party": "R"
+    },
+    {
+      "district": "H2",
+      "previousName": "Bud Hulsey",
+      "name": "Gary Stidham",
+      "party": "R"
+    },
+    {
+      "district": "H8",
+      "previousName": "Jerome Moon",
+      "name": "Jordan Henderson",
+      "party": "R"
+    },
+    {
+      "district": "H11",
+      "previousName": "Jeremy Faison",
+      "name": "Kenny Cody",
+      "party": "R"
+    },
+    {
+      "district": "H13",
+      "previousName": "Robert Stevens",
+      "name": "Brett Windrow",
+      "party": "D"
+    },
+    {
+      "district": "H18",
+      "previousName": "Elaine Davis",
+      "name": "Bryan Goldberg",
+      "party": "D"
+    },
+    {
+      "district": "H31",
+      "previousName": "Ron Travis",
+      "name": "Andy J. Swafford",
+      "party": "R"
+    },
+    {
+      "district": "H32",
+      "previousName": "Monty Fritts",
+      "name": "Jack L. Stockton",
+      "party": "R"
+    },
+    {
+      "district": "H34",
+      "previousName": "Tim Rudd",
+      "name": "Owen Farnsworth",
+      "party": "D"
+    },
+    {
+      "district": "H36",
+      "previousName": "Dennis Powers",
+      "name": "Noah Smith",
+      "party": "R"
+    },
+    {
+      "district": "H45",
+      "previousName": "Johnny Garrett",
+      "name": "Brian Stewart",
+      "party": "R"
+    },
+    {
+      "district": "H49",
+      "previousName": "Mike Sparks",
+      "name": "Connie Casha",
+      "party": "D"
+    },
+    {
+      "district": "H59",
+      "previousName": "Caleb Hemmer",
+      "name": "Mark Proctor",
+      "party": "D"
+    },
+    {
+      "district": "H75",
+      "previousName": "Michael Lankford",
+      "name": "Allie Phillips",
+      "party": "D"
+    },
+    {
+      "district": "H78",
+      "previousName": "Mary Littleton",
+      "name": "Perry Keenan",
+      "party": "R"
+    },
+    {
+      "district": "H80",
+      "previousName": "Johnny Shaw",
+      "name": "Andrea Bond Johnson",
+      "party": "D"
+    },
+    {
+      "district": "H81",
+      "previousName": "Debra Moody",
+      "name": "Brett A. Giannini",
+      "party": "R"
+    },
+    {
+      "district": "H84",
+      "previousName": "Joe Towns Jr.",
+      "name": "Matthew Szalaj",
+      "party": "D"
+    },
+    {
+      "district": "H93",
+      "previousName": "T.J. Hardaway",
+      "name": "John Bradley",
+      "party": "D"
+    },
+    {
+      "district": "H96",
+      "previousName": "Gabby Salinas",
+      "name": "Telisa Franklin",
+      "party": "D"
+    },
+    {
+      "district": "H97",
+      "previousName": "John Gillespie",
+      "name": "Jesse Huseth",
+      "party": "D"
+    },
+    {
+      "district": "S5",
+      "previousName": "Randy McNally",
+      "name": "Jimmy Matlock",
+      "party": "R"
+    },
+    {
+      "district": "TN-04",
+      "previousName": "Scott DesJarlais",
+      "name": "Victoria Broderick",
+      "party": "D"
+    },
+    {
+      "district": "TN-05",
+      "previousName": "Andy Ogles",
+      "name": "Charlie Hatcher",
+      "party": "R"
+    },
+    {
+      "district": "TN-06",
+      "previousName": "John Rose",
+      "name": "Johnny Garrett",
+      "party": "R"
+    },
+    {
+      "district": "TN-09",
+      "previousName": "Steve Cohen",
+      "name": "Brent Taylor",
+      "party": "R"
+    }
+  ],
+  "note": "State directories include continuing senators. Brent Taylor remains listed for state Senate district 31 and is also the reported incoming U.S. House district 9 winner; no successor is inferred."
+}

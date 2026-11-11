@@ -22,6 +22,8 @@ from xml.etree import ElementTree
 import geopandas as gpd
 
 from scripts.common import prototype_config as config
+from scripts.common.source_archive import archived_refresh, archive_json, archive_file, archive_bytes
+from scripts.common.file_io import copy_file_atomic, retry_file_operation, write_text_atomic, write_bytes_atomic
 from scripts.download import data_fetchers as fetchers
 from scripts.refresh.weekly_layers import fetch_paged_geojson, read_json, write_json, request_json
 from scripts.summaries.build_prototype_data import main as build_data
@@ -65,7 +67,7 @@ def transaction(action) -> None:
     # Back up only generated public data; never move or remove the workspace.
     with tempfile.TemporaryDirectory(prefix="policywatch-refresh-") as directory:
         backup = Path(directory) / "data"
-        shutil.copytree(config.PUBLIC_DATA, backup)
+        shutil.copytree(config.PUBLIC_DATA, backup, copy_function=copy_file_atomic)
         try:
             action()
         except (Exception, SystemExit) as exc:
@@ -73,11 +75,11 @@ def transaction(action) -> None:
                 if path.is_file():
                     target = config.PUBLIC_DATA / path.relative_to(backup)
                     target.parent.mkdir(parents=True, exist_ok=True)
-                    shutil.copy2(path, target)
+                    copy_file_atomic(path, target)
             # Remove newly generated files that had no previous counterpart.
             for path in config.PUBLIC_DATA.rglob("*"):
                 if path.is_file() and not (backup / path.relative_to(config.PUBLIC_DATA)).exists():
-                    path.unlink()
+                    retry_file_operation(path.unlink)
             if isinstance(exc, SystemExit):
                 raise RuntimeError(f"Data build validation failed: {exc}") from exc
             raise
@@ -89,6 +91,7 @@ def geo(session, url, where="1=1", fields="*"):
     oid = metadata.get("objectIdField") or next(
         field["name"] for field in metadata.get("fields", []) if field["type"] == "esriFieldTypeOID"
     )
+    archive_json("ArcGIS layer definition", metadata, url=url.removesuffix('/query'), kind="service-definition")
     payload = fetch_paged_geojson(session, f"{url.removesuffix('/query')}/query", {
         "where": where, "outFields": fields, "returnGeometry": "true",
         "outSR": "4326", "f": "geojson", "orderByFields": oid,
@@ -110,18 +113,19 @@ def latest_census(session, kind: str):
         if kind == "acs":
             if "B01003_001E" not in response.json().get("variables", {}):
                 raise ValueError("Census returned unexpected ACS metadata")
+            archive_json("Census ACS variable definitions", response.json(), url=url)
         elif f"tl_{year}_us_county.zip" not in response.text:
             continue
         return year
     raise ValueError(f"No supported published Census {kind} release found")
 
 
+@archived_refresh("County GIS refresh")
 def refresh_gis() -> list[str]:
     session = requests.Session()
     session.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 PolicyWatch/0.1",
                             "Origin": "https://tdeconline.tn.gov", "Referer": "https://tdeconline.tn.gov/"})
     county_year = latest_census(session, "counties")
-    acs_year = latest_census(session, "acs")
     county_url = f"https://www2.census.gov/geo/tiger/TIGER{county_year}/COUNTY/tl_{county_year}_us_county.zip"
     response = session.get(county_url, timeout=180)
     response.raise_for_status()
@@ -134,7 +138,7 @@ def refresh_gis() -> list[str]:
     counties = counties[["GEOID", "NAME", "NAMELSAD", "slug", "geometry"]].sort_values("NAME")
     if len(counties) != 95:
         raise ValueError("Census did not return all 95 Tennessee counties")
-    acs_url = f"https://api.census.gov/data/{acs_year}/acs/acs5"
+    archive_file("Census TIGER county boundaries", archive, url=county_url)
     old_acs_url = fetchers.ACS_URL
     unavailable = {}
     overlay_names = {"acs": "ACS indicators", "water_service_areas": "Public water system service areas",
@@ -142,6 +146,8 @@ def refresh_gis() -> list[str]:
                      "solid_waste_landfills": "Solid waste landfill permit locations",
                      "protected_areas": "Protected areas and conservation easements"}
     try:
+        acs_year = latest_census(session, "acs")
+        acs_url = f"https://api.census.gov/data/{acs_year}/acs/acs5"
         fetchers.ACS_URL = acs_url
         acs = fetchers.load_acs()  # No cached fallback: successful dates must mean fresh data.
     except Exception as exc:
@@ -155,10 +161,11 @@ def refresh_gis() -> list[str]:
     inputs = {"counties": counties, "acs": acs}
     for key, url in [("huc6", config.WBD_HUC6_URL), ("huc8", config.WBD_HUC8_URL)]:
         inputs[key] = geo(session, url, "states LIKE '%TN%'")
-    for key, layer in [("senate", 0), ("house", 1), ("congress", 2)]:
+    for key, layer in [("senate", 0), ("house", 1)]:
         frame = geo(session, f"{config.TN_LEG_URL}/{layer}")
         frame["DISTRICT"] = frame.DISTRICT.astype(str)
         inputs[key] = frame
+    inputs["congress"] = fetchers.download_congressional_districts(session)
     for key, url, where in [
         ("water_service_areas", config.TDEC_WATER_SERVICE_AREAS_URL, "1=1"),
         ("service_line_inventory", config.TDEC_SERVICE_LINE_INVENTORY_URL, "1=1"),
@@ -222,11 +229,15 @@ def refresh_gis() -> list[str]:
                     old = old_utilities.get(properties["pwsid"])
                     if old:
                         properties.update({field: old.get(field) for field in fields})
-            map_path.write_text(json.dumps(county_map, separators=(",", ":")), encoding="utf8")
+            write_text_atomic(map_path, json.dumps(county_map, separators=(",", ":")))
         sources = registry()
         for source in sources:
+            if source["dataset"] == "Legislative districts":
+                source.update(sourceName="TNMap state districts / Comptroller congressional plan",
+                              sourceUrl="https://comptroller.tn.gov/maps.html", notes=config.DISTRICT_SOURCE_NOTES)
             if source["dataset"] == "ACS indicators" and "acs" not in unavailable:
-                source.update(sourceName=f"U.S. Census ACS {acs_year} 5-year API", sourceUrl=f"{acs_url}.html")
+                source.update(sourceName=f"U.S. Census ACS {acs_year} 5-year API", sourceUrl=f"{acs_url}.html",
+                              notes=config.acs_source_notes(acs_year))
             if source["dataset"] == "Tennessee counties":
                 source.update(sourceName=f"Census TIGER/Line {county_year} Counties", sourceUrl=county_url)
             if source["dataset"] == "Public water system service areas":
@@ -242,6 +253,7 @@ def refresh_gis() -> list[str]:
     return [f"{overlay_names[key]}: {message}" for key, message in unavailable.items()]
 
 
+@archived_refresh("Land-cover refresh")
 def refresh_landcover() -> None:
     from scripts.refresh import landuse
     response = requests.get(landuse.SOURCE_URL, params={
@@ -254,6 +266,9 @@ def refresh_landcover() -> None:
              for match in [re.match(r"(20\d{2})-", element.text or "")] if match]
     if not years:
         raise ValueError("USGS did not advertise land-cover observation years")
+    from scripts.common.source_archive import archive_bytes
+    archive_bytes("USGS land-cover coverage definition", response.content, filename="coverage.xml",
+                  url=landuse.SOURCE_URL, kind="service-definition")
     year = max(years)
     if year < read_json(landuse.OUTPUT_DIR / "manifest.json")["year"]:
         raise ValueError("USGS advertised an older release; existing imagery retained")
@@ -274,8 +289,14 @@ def configure_registry() -> None:
             source["refreshFrequency"] = "Monthly check for latest annual release"
             source.setdefault("refreshStatus", "Awaiting first scheduled refresh")
         elif name in LIVE_DATASETS:
-            source["refreshFrequency"] = "Live queries; weekly availability check"
+            source["refreshFrequency"] = (
+                "Live queries; weekly availability check and local data backup"
+                if name == "EPA ATTAINS assessment geospatial layer" else "Live queries; weekly availability check"
+            )
             source.setdefault("refreshStatus", "Live service; agency publication date varies")
+        elif name == "Elected officials":
+            source["refreshFrequency"] = "Manual review after elections and vacancies"
+            source["refreshStatus"] = "Reviewed roster; U.S. House results unofficial"
         else:
             source["refreshFrequency"] = "Local snapshot; manual replacement required"
             source["refreshStatus"] = "Local snapshot"
@@ -287,6 +308,34 @@ def configure_registry() -> None:
     write_json(config.METADATA_DIR / "last-updated.json", dates)
 
 
+def refresh_reference_evidence() -> list[str]:
+    """Keep the cited roster/result documents without changing reviewed names."""
+    path = config.METADATA_DIR / "legislative-update.json"
+    if not path.exists():
+        return []
+    provenance = read_json(path)
+    sources = [(item["name"], item["url"], f"state-directory-{index}.html", "member?district=")
+               for index, item in enumerate(provenance.get("stateRosterSources", []))]
+    results = provenance.get("congressionalResults", {})
+    if results.get("sourceUrl"):
+        sources.append((results["sourceName"], results["sourceUrl"], "congressional-election-results.html", "november 2026"))
+    failures = []
+    with requests.Session() as session:
+        session.headers.update({"User-Agent": "Mozilla/5.0 PolicyWatch source preservation"})
+        for name, url, filename, marker in sources:
+            try:
+                response = session.get(url, timeout=60)
+                response.raise_for_status()
+                if "<html" not in response.text.lower() or marker not in response.text.lower():
+                    raise ValueError("Reference source did not return the expected document")
+                archive_bytes(name, response.content, filename=filename, url=url, kind="reference-document; roster not automatically verified")
+                write_bytes_atomic(config.RAW_DIR / "reference-documents" / filename, response.content)
+            except (requests.RequestException, ValueError) as exc:
+                failures.append(f"Reference-source backup ({name}): {exc}")
+    return failures
+
+
+@archived_refresh("Online data refresh")
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--configure-only", action="store_true", help="Describe refresh policies without downloading or redating sources.")
@@ -322,8 +371,23 @@ def main():
                 response.raise_for_status()
                 if "error" in response.json():
                     raise ValueError("Service returned an error")
+                archive_json(source["dataset"], response.json(), url=source["sourceUrl"], kind="service-definition")
+                if source["dataset"] == "EPA ATTAINS assessment geospatial layer":
+                    definition = response.json()
+                    oid = definition.get("objectIdField") or next(
+                        field["name"] for field in definition.get("fields", []) if field["type"] == "esriFieldTypeOID"
+                    )
+                    with requests.Session() as backup_session:
+                        payload = fetch_paged_geojson(backup_session, source["sourceUrl"] + "/query", {
+                        "where": "state = 'TN'", "outFields": "*", "returnGeometry": "true",
+                        "outSR": "4326", "f": "geojson", "orderByFields": oid,
+                        }, max_pages=500)
+                    if not payload["features"]:
+                        raise ValueError("Unexpected empty Tennessee ATTAINS backup")
+                    write_json(config.RAW_DIR / "epa-attains-tn.geojson", payload, compact=True)
                 record({source["dataset"]}, "Live service available; queried when used")
             run(source["dataset"], {source["dataset"]}, check_live)
+    run("legislator reference documents", set(), refresh_reference_evidence)
     # Separate process keeps the weekly script's CLI and per-county failure isolation.
     result = subprocess.run([sys.executable, "-u", "-m", "scripts.refresh.weekly_layers", "--strict"], check=False)
     if result.returncode:

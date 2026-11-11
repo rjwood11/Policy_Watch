@@ -63,7 +63,20 @@ jobs:
 
       - name: Check refresh failure handling
         if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
-        run: python -m unittest scripts.validate.test_refresh
+        run: python -m unittest scripts.validate.test_refresh scripts.validate.test_archive
+
+      - name: Verify source archive
+        if: ${{ always() && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers)) }}
+        run: python -m scripts.common.source_archive verify
+
+      - name: Preserve source archive for download
+        if: ${{ always() && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers)) }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: policywatch-source-archive-${{ github.run_id }}-${{ github.run_attempt }}
+          path: data/archives/
+          if-no-files-found: error
+          retention-days: 90
 
       - name: Validate refreshed data
         if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}

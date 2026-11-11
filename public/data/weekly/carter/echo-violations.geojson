@@ -94,11 +94,11 @@
         "CWPSNCStatus": "Effluent - Monthly Average Limit",
         "CWPVioStatus": "Effluent - Monthly Average Limit",
         "CWPSNCStatusDate": "06/30/2026",
-        "CWPQtrsWithNC": "6",
+        "CWPQtrsWithNC": "7",
         "CWPViolStatus": "Yes",
         "CWPQtrsWithSNC": "4",
         "CWPSNCEventDesc": "SNC Effluent Violation Monthly Average",
-        "CWP13qtrsComplHistory": "_V__VSSS___S_",
+        "CWP13qtrsComplHistory": "_V__VSSS___SV",
         "ViolFlag": "1",
         "CurrVioFlag": "1",
         "CurrSvFlag": "1",
@@ -106,7 +106,7 @@
         "VioLastYear": "1",
         "echo_source_id": "TN0023698",
         "echo_display_name": "HAMPTON ELEMENTARY SCHOOL",
-        "echo_violation_count": 6.0,
+        "echo_violation_count": 7.0,
         "echo_current_violation": true,
         "echo_significant_violation": true,
         "echo_latest_violation": "SNC Effluent Violation Monthly Average (06/30/2026)",
@@ -158,6 +158,46 @@
         "coordinates": [
           -82.173491,
           36.290017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CWPName": "KEENBURG ELEMENTARY SCHOOL",
+        "SourceID": "TN0023736",
+        "RegistryID": "110006690544",
+        "FacLat": "36.378997",
+        "FacLong": "-82.222077",
+        "PermitName": "Carter County Board of Education dba Carter County Schools",
+        "CWPStatus": "Violation Identified",
+        "CWPSNCStatus": null,
+        "CWPVioStatus": null,
+        "CWPSNCStatusDate": "06/30/2026",
+        "CWPQtrsWithNC": "1",
+        "CWPViolStatus": "Yes",
+        "CWPQtrsWithSNC": "0",
+        "CWPSNCEventDesc": null,
+        "CWP13qtrsComplHistory": "UUU_________V",
+        "ViolFlag": "1",
+        "CurrVioFlag": "1",
+        "CurrSvFlag": "0",
+        "EffExceeds": "0",
+        "VioLastYear": "1",
+        "echo_source_id": "TN0023736",
+        "echo_display_name": "KEENBURG ELEMENTARY SCHOOL",
+        "echo_violation_count": 1.0,
+        "echo_current_violation": true,
+        "echo_significant_violation": false,
+        "echo_latest_violation": "Violation Identified",
+        "echo_detail_url": "https://echo.epa.gov/detailed-facility-report?fid=110006690544",
+        "echo_status_label": "Current violation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.222077,
+          36.378997
         ]
       }
     },

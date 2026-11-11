@@ -5,10 +5,10 @@
     "sourceName": "Census TIGER/Line 2026 Counties",
     "sourceUrl": "https://www2.census.gov/geo/tiger/TIGER2026/COUNTY/tl_2026_us_county.zip",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "Prototype exports a simplified Tennessee-only county layer from the national TIGER/Line shapefile.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "HUC6 basins",
@@ -16,10 +16,10 @@
     "sourceName": "USGS WBD MapServer layer 3",
     "sourceUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/wbd/MapServer/3",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "Prototype filters the official WBD basin layer to hydrologic units whose state list includes Tennessee and labels statewide map polygons by the WBD name field.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "HUC8 watersheds",
@@ -27,21 +27,21 @@
     "sourceName": "USGS WBD MapServer layer 4",
     "sourceUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/wbd/MapServer/4",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "Prototype filters the official WBD subbasin layer to hydrologic units whose state list includes Tennessee.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "Legislative districts",
     "purpose": "State and congressional district overlays and county overlap summaries.",
-    "sourceName": "TNMap Legislative Districts service",
-    "sourceUrl": "https://tnmap.tn.gov/arcgis/rest/services/ADMINISTRATIVE_BOUNDARIES/LEGISLATIVE_DISTRICTS/MapServer",
+    "sourceName": "TNMap state districts / Comptroller congressional plan",
+    "sourceUrl": "https://comptroller.tn.gov/maps.html",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
-    "notes": "Prototype uses the Tennessee 2022 district service for senate, house, and congressional boundaries.",
+    "lastUpdated": "2026-11-11",
+    "notes": "State House and Senate boundaries come from TNMap. Congressional boundaries use the Comptroller's May 2026 plan adopted for the November 2026 election. County maps and county overlap lists are rebuilt together. Legislator names are maintained separately from boundary-service attributes.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "ACS indicators",
@@ -49,10 +49,10 @@
     "sourceName": "U.S. Census ACS 2024 5-year API",
     "sourceUrl": "https://api.census.gov/data/2024/acs/acs5.html",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-08-27",
-    "notes": "Prototype pulls population, median household income, and poverty-related values and writes them into county summary JSON.",
-    "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-15"
+    "lastUpdated": "2026-11-11",
+    "notes": "Source: U.S. Census Bureau, 2020\u20132024 American Community Survey five-year estimates. Population uses B01003_001E. Poverty rate is calculated as B17001_002E / B17001_001E \u00d7 100 and displayed to one decimal place; county rankings use that displayed precision. Median household income (B19013_001E) is retrieved but is not displayed. This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.",
+    "refreshStatus": "Current",
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "Justice40 / CEJST local snapshot",
@@ -79,11 +79,11 @@
     "purpose": "Interactive county-map overlay for impaired, good, and unassessed river status from EPA How's My Waterway / ATTAINS assessment data.",
     "sourceName": "EPA ATTAINS Assessment MapServer layer 1",
     "sourceUrl": "https://gispub.epa.gov/arcgis/rest/services/OW/ATTAINS_Assessment/MapServer/1",
-    "refreshFrequency": "Live queries; weekly availability check",
+    "refreshFrequency": "Live queries; weekly availability check and local data backup",
     "lastUpdated": "2026-08-27",
     "notes": "County maps query the public EPA geospatial service by county bounding box at runtime and display coded ATTAINS impairment causes when available. Maps fall back to the local 2026 303(d) layer if the service is unavailable.",
     "refreshStatus": "Live service available; queried when used",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "DWR monitoring stations",
@@ -101,10 +101,10 @@
     "sourceName": "TDEC DWR Public MapServer layer 1",
     "sourceUrl": "https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "County maps use a static weekly cache generated from the public TDEC DWR MapServer. The browser falls back to the live service when a cache file is unavailable.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "Solid waste landfill permit locations",
@@ -112,10 +112,10 @@
     "sourceName": "TDEC SWM Permits MapServer layer 0",
     "sourceUrl": "https://tdeconline.tn.gov/arcgis/rest/services/SWM_Permits/MapServer/0",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "County maps include only solid waste permit records whose PERMIT_TYPE is CLASS I, CLASS II, CLASS III, CLASS IV, or COAL ASH. Convenience centers, recycling centers, transfer stations, tire storage, processing, land application, and special waste records are excluded. Multiple permit records at the same site are aggregated into one landfill point and clipped to a padded county context viewport.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "EPA ECHO CWA permit compliance",
@@ -123,10 +123,10 @@
     "sourceName": "EPA ECHO CWA REST Services get_facilities and get_qid",
     "sourceUrl": "https://echodata.epa.gov/echo/cwa_rest_services.get_facilities",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "County maps load committed ECHO CWA violation cache files first. Weekly refreshes update those files when ECHO responds and leave the last good cache in place when the service is unavailable.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "Active permitted features",
@@ -147,7 +147,7 @@
     "lastUpdated": "2026-08-27",
     "notes": "Address searches are submitted from the client and filtered to the selected county bounding box before the map zooms to a result.",
     "refreshStatus": "Live service available; queried when used",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "Tennessee scenic rivers",
@@ -165,10 +165,10 @@
     "sourceName": "TDEC TN Public Water System Service Area Boundaries",
     "sourceUrl": "https://services5.arcgis.com/bPacKTm9cauMXVfn/arcgis/rest/services/TN_Public_Water_System_Service_Area_Boundaries_WFL1/FeatureServer/0",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "Refreshed from TDEC's online service. County summaries and map polygons are rebuilt together; service-line inventory values are joined by PWSID.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "Lead service line inventory",
@@ -176,10 +176,10 @@
     "sourceName": "TDEC Service_Line_Inventory_PWS_Service_Area",
     "sourceUrl": "https://services5.arcgis.com/bPacKTm9cauMXVfn/arcgis/rest/services/Service_Line_Inventory_PWS_Service_Area/FeatureServer/0",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "County map overlays join TDEC service-line inventory values to public water system service area polygons by PWSID. Popups include Total Lines, Lead Lines, Non-Lead Lines, GRR, and Unknown Lines.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
   },
   {
     "dataset": "Protected areas and conservation easements",
@@ -187,21 +187,32 @@
     "sourceName": "USGS PAD-US Protection Mechanism Category",
     "sourceUrl": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Protection_Mechanism_Category_PADUS/FeatureServer/0",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "County map overlays use the Tennessee subset of the USGS PAD-US combined inventory, cached as raw GeoJSON during the local data build and clipped to the padded county viewport. Features include the PAD-US protection mechanism category, owner and manager labels, public access, GAP status, acres, easement holder, source name, and source date where available.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11"
+  },
+  {
+    "dataset": "Elected officials",
+    "purpose": "State district member names and reported November 2026 U.S. House winners.",
+    "sourceName": "115th General Assembly directories / reported 2026 election results",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/LegislatorInfo/Directory?chamber=H",
+    "refreshFrequency": "Manual review after elections and vacancies",
+    "lastUpdated": "2026-11-11",
+    "lastChecked": "2026-11-11",
+    "refreshStatus": "Reviewed roster; U.S. House results unofficial",
+    "notes": "State names follow the official House and Senate directories for the 115th General Assembly. U.S. House winners follow Tennessee Firefly's reporting of Secretary of State returns, pending certification; the incoming congressional term begins January 3, 2027. Boundary refreshes do not refresh member names. Detailed sources and changes are saved in data/metadata/legislative-update.json."
   },
   {
     "dataset": "Land use / land cover",
     "purpose": "Basic county land-cover context with category explanations on hover.",
-    "sourceName": "USGS Annual NLCD 2025, Collection 1.2",
+    "sourceName": "USGS Annual NLCD 2025",
     "sourceUrl": "https://www.usgs.gov/centers/eros/science/annual-nlcd-data-access",
     "refreshFrequency": "Monthly check for latest annual release",
-    "lastUpdated": "2026-10-05",
+    "lastUpdated": "2026-11-11",
     "notes": "Tennessee-only WCS subset, nearest-neighbor sampled at 300 Web Mercator meters (approximately 240\u2013250 ground meters), grouped into broad classes and masked to county boundaries. Local compressed PNGs are loaded only when enabled. Small features can be omitted; this is land cover, not zoning or an official urban/rural classification. The source observation year is 2025.",
-    "refreshStatus": "Refresh failed; previous data retained",
-    "lastChecked": "2026-10-15"
+    "lastChecked": "2026-11-11",
+    "refreshStatus": "Current"
   },
   {
     "dataset": "Superfund sites",
@@ -209,9 +220,9 @@
     "sourceName": "US EPA Superfund NPL Sites with Status Information",
     "sourceUrl": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/Superfund_National_Priorities_List_(NPL)_Sites_with_Status_Information/FeatureServer/0",
     "refreshFrequency": "Weekly check; latest available agency release",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-11-11",
     "notes": "Point layer used in EPA's official Where You Live map. Includes current and deleted NPL sites; status is retained as published. County assignment follows EPA's County field, including multi-county sites. Markers are reference locations, not site or contamination boundaries. An empty county means no sites in this dataset, not an absence of all contaminated properties.",
-    "lastChecked": "2026-10-15",
+    "lastChecked": "2026-11-11",
     "refreshStatus": "Current"
   }
 ]

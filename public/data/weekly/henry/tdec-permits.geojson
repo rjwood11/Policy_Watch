@@ -6,1852 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.43889999999999,
-          36.22060000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00373",
-        "PERMITTEE_NAME": "Lemonds Farms",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1785283200000,
-        "EFFECTIVE_DATE": 1785283200000,
-        "EXPIRATION_DATE": 1798675200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Henry Midway Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00373",
-        "LATITUDE": 36.220600000000005,
-        "LONGITUDE": -88.4389,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.28849999999994,
-          36.31250000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR051299",
-        "PERMITTEE_NAME": "Delta Contracting Company, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1761868800000,
-        "EFFECTIVE_DATE": 1761868800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1815 East Wood Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051299",
-        "LATITUDE": 36.3125,
-        "LONGITUDE": -88.2885,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.51945399999994,
-          36.37266000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00375",
-        "PERMITTEE_NAME": "Walters Hog Farm",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hayes Rd., Cottage Grove, TN",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00375",
-        "LATITUDE": 36.372659999999996,
-        "LONGITUDE": -88.519454,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30840899999998,
-          36.28427000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNG830295",
-        "PERMITTEE_NAME": "PM Environmental",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "UST",
-        "ISSUANCE_DATE": 1744070400000,
-        "EFFECTIVE_DATE": 1744070400000,
-        "EXPIRATION_DATE": 1853884800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1110 Mineral Wells Avenue",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830295",
-        "LATITUDE": 36.28427,
-        "LONGITUDE": -88.308409,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.26954199999994,
-          36.326242000000036
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123038",
-        "PERMITTEE_NAME": "SHED PROPERTIES USA, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "US HWY 79",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123038",
-        "LATITUDE": 36.326242,
-        "LONGITUDE": -88.269542,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.29934499999996,
-          36.29025400000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123173",
-        "PERMITTEE_NAME": "Owens Construction of Paris, LLC",
-        "PERMITTING_ACTION": "Pending",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Diamond Cove",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123173",
-        "LATITUDE": 36.290254,
-        "LONGITUDE": -88.299345,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.13666099999995,
-          36.49348900000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOP-26013",
-        "PERMITTEE_NAME": "Paris Pro Exterior Cleaning",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "SOP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "2010 Charlie Wynn Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-26013",
-        "LATITUDE": 36.493489,
-        "LONGITUDE": -88.13666099999999,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.26653999999996,
-          36.39107500000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00382",
-        "PERMITTEE_NAME": "Broadway Farms",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1788825600000,
-        "EFFECTIVE_DATE": 1788825600000,
-        "EXPIRATION_DATE": 1930003200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1645 Jim Merrell Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00382",
-        "LATITUDE": 36.391075,
-        "LONGITUDE": -88.26653999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.09248299999996,
-          36.43215500000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS26.205",
-        "PERMITTEE_NAME": "Tennessee Department of General Services",
-        "PERMITTING_ACTION": "Pending",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "16055 Highway 79 North",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.205",
-        "LATITUDE": 36.432155,
-        "LONGITUDE": -88.092483,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30565599999994,
-          36.28616400000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2602.042",
-        "PERMITTEE_NAME": "City of Paris",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1020 Maurice Fields Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.042",
-        "LATITUDE": 36.286164,
-        "LONGITUDE": -88.305656,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.50798199999997,
-          36.19874400000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123159",
-        "PERMITTEE_NAME": "Tosh Farms",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "6730 SR-140",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123159",
-        "LATITUDE": 36.198744,
-        "LONGITUDE": -88.507982,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30565599999994,
-          36.28616400000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.105",
-        "PERMITTEE_NAME": "City of Paris",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1768176000000,
-        "EFFECTIVE_DATE": 1768176000000,
-        "EXPIRATION_DATE": 1905033600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1020 Maurice Fields Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.105",
-        "LATITUDE": 36.286164,
-        "LONGITUDE": -88.305656,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30565599999994,
-          36.28616400000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.104",
-        "PERMITTEE_NAME": "City of Paris",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1768176000000,
-        "EFFECTIVE_DATE": 1768176000000,
-        "EXPIRATION_DATE": 1905033600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1020 Maurice Fields Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.104",
-        "LATITUDE": 36.286164,
-        "LONGITUDE": -88.305656,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32155099999994,
-          36.28629600000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123102",
-        "PERMITTEE_NAME": "Henry County",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1115 Tyson Avenue",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123102",
-        "LATITUDE": 36.286296,
-        "LONGITUDE": -88.321551,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30171399999995,
-          36.447700000000054
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123112",
-        "PERMITTEE_NAME": "Pure Power Contractors, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1425 Highway 140 E",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123112",
-        "LATITUDE": 36.447700000000005,
-        "LONGITUDE": -88.30171399999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30780999999996,
-          36.30088600000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123201",
-        "PERMITTEE_NAME": "Barrow Development,LLC",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Project bounded by Lone Oak road, Blythe Street and Cornerstone Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123201",
-        "LATITUDE": 36.300886,
-        "LONGITUDE": -88.30780999999999,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30171399999995,
-          36.447700000000054
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123113",
-        "PERMITTEE_NAME": "Pure Power Contractors, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1425 Highway 140 E",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123113",
-        "LATITUDE": 36.447700000000005,
-        "LONGITUDE": -88.30171399999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.31403699999998,
-          36.27035300000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123133",
-        "PERMITTEE_NAME": "Paris Henry County Industrial Committee",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Paris Bypass (TN-218)",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123133",
-        "LATITUDE": 36.270353,
-        "LONGITUDE": -88.314037,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.05389999999994,
-          36.38940000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS22.179",
-        "PERMITTEE_NAME": "FHWA Eastern Federal Lands Highway Division",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1675382400000,
-        "EFFECTIVE_DATE": 1675382400000,
-        "EXPIRATION_DATE": 1833062400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Bennets Creek Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.179",
-        "LATITUDE": 36.3894,
-        "LONGITUDE": -88.0539,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30722699999995,
-          36.282591000000025
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122694",
-        "PERMITTEE_NAME": "Project Builders Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1210 Mineral Wells Avenue",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122694",
-        "LATITUDE": 36.282591,
-        "LONGITUDE": -88.307227,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.19881199999998,
-          36.49756000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122681",
-        "PERMITTEE_NAME": "Jesse Morris",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "3345 Blood River Church Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122681",
-        "LATITUDE": 36.49756,
-        "LONGITUDE": -88.19881199999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.11838999999998,
-          36.433106000000066
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122899",
-        "PERMITTEE_NAME": "High Performance Properties",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hwy 79 North & Tate Dr.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122899",
-        "LATITUDE": 36.433105999999995,
-        "LONGITUDE": -88.11838999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43889999999999,
-          36.22060000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122588",
-        "PERMITTEE_NAME": "Dakota Lemonds",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Henry Midway Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122588",
-        "LATITUDE": 36.220600000000005,
-        "LONGITUDE": -88.4389,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12868099999997,
-          36.246534000000054
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.064",
-        "PERMITTEE_NAME": "Paris Henry County Public Utility District",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1754956800000,
-        "EFFECTIVE_DATE": 1754956800000,
-        "EXPIRATION_DATE": 1786492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hagler Ridge Road and Atchison Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.064",
-        "LATITUDE": 36.246534,
-        "LONGITUDE": -88.128681,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32619999999997,
-          36.29980000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR050508",
-        "PERMITTEE_NAME": "Eurotranciatura U.S.A., LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1759708800000,
-        "EFFECTIVE_DATE": 1759708800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "200 Highway 69 North",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050508",
-        "LATITUDE": 36.299800000000005,
-        "LONGITUDE": -88.3262,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.11798099999999,
-          36.49702400000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123045",
-        "PERMITTEE_NAME": "William Belew",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "301 CHEROKEE HILLS DR",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123045",
-        "LATITUDE": 36.497023999999996,
-        "LONGITUDE": -88.117981,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.31403699999998,
-          36.27035300000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123090",
-        "PERMITTEE_NAME": "Paris Henry County Industrial Committee",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Paris Bypass (TN-218)",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123090",
-        "LATITUDE": 36.270353,
-        "LONGITUDE": -88.314037,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30211299999996,
-          36.272752000000025
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123166",
-        "PERMITTEE_NAME": "Security Bank and Trust Company",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Mineral Wells Ave.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123166",
-        "LATITUDE": 36.272752,
-        "LONGITUDE": -88.30211299999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.26653899999997,
-          36.40237100000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123087",
-        "PERMITTEE_NAME": "Skylar Lofton",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "6033 Shady Grove Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123087",
-        "LATITUDE": 36.402370999999995,
-        "LONGITUDE": -88.266539,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30565599999994,
-          36.28616400000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123109",
-        "PERMITTEE_NAME": "City of Paris",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1020 Maurice Fields Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123109",
-        "LATITUDE": 36.286164,
-        "LONGITUDE": -88.305656,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.26132399999995,
-          36.31027400000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR051767",
-        "PERMITTEE_NAME": "Dana Sealing Products, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1761436800000,
-        "EFFECTIVE_DATE": 1761436800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "100 PLUMLEY DR",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051767",
-        "LATITUDE": 36.310274,
-        "LONGITUDE": -88.261324,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32686699999994,
-          36.244417000000055
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123138",
-        "PERMITTEE_NAME": "Springhill Baptist Church of Paris, TN, INC.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1301 SPRING HILL RD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123138",
-        "LATITUDE": 36.244417,
-        "LONGITUDE": -88.326867,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.33139999999997,
-          36.46470000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR192404",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "SR-54, From near Howard Road to the Kentucky State Line (IA) (TMA)",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192404",
-        "LATITUDE": 36.4647,
-        "LONGITUDE": -88.3314,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.33471799999995,
-          36.30434500000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR051520",
-        "PERMITTEE_NAME": "KWT Railway, Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1774224000000,
-        "EFFECTIVE_DATE": 1774224000000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "908 DEPOT STREET",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051520",
-        "LATITUDE": 36.304345,
-        "LONGITUDE": -88.334718,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12611099999998,
-          36.311717000000044
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122780",
-        "PERMITTEE_NAME": "Edward J. Riddle",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "3595 Old Springville Rd.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122780",
-        "LATITUDE": 36.311717,
-        "LONGITUDE": -88.126111,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.10416699999996,
-          36.261794000000066
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.066",
-        "PERMITTEE_NAME": "Martin Thompson",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "145 Shore Line Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.066",
-        "LATITUDE": 36.261794,
-        "LONGITUDE": -88.10416699999999,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43610299999995,
-          36.47117900000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123002",
-        "PERMITTEE_NAME": "Owen Hostetler",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Jones Mill Crossland Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123002",
-        "LATITUDE": 36.471179,
-        "LONGITUDE": -88.436103,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.08411899999999,
-          36.49388700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123020",
-        "PERMITTEE_NAME": "Cypress Bay Marina and Resort, Inc.",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "110 Cypress Resort Loop",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123020",
-        "LATITUDE": 36.493887,
-        "LONGITUDE": -88.084119,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.28781099999998,
-          36.310501000000045
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123069",
-        "PERMITTEE_NAME": "Grant Guinn",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Northeast Corner of South Bell Ave and Fairgrounds Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123069",
-        "LATITUDE": 36.310500999999995,
-        "LONGITUDE": -88.28781099999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.48505199999994,
-          36.49838900000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123035",
-        "PERMITTEE_NAME": "Mitchell Pritchard",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hwy 69",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123035",
-        "LATITUDE": 36.498388999999996,
-        "LONGITUDE": -88.485052,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.19881199999998,
-          36.49756000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR059070",
-        "PERMITTEE_NAME": "Morris Gravel Pit, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1752019200000,
-        "EFFECTIVE_DATE": 1752019200000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "3345 Blood River Church Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059070",
-        "LATITUDE": 36.49756,
-        "LONGITUDE": -88.19881199999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.33582999999999,
-          36.27027000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123001",
-        "PERMITTEE_NAME": "Circle K",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "2680 Highway 79 South",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123001",
-        "LATITUDE": 36.27027,
-        "LONGITUDE": -88.33583,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.21364199999994,
-          36.362479000000064
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123100",
-        "PERMITTEE_NAME": "Henry County Board of Education",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "6745 HIGHWAY 79 N",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123100",
-        "LATITUDE": 36.362479,
-        "LONGITUDE": -88.213642,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.33139999999997,
-          36.46470000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS24.193",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Pending",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1786665600000,
-        "EFFECTIVE_DATE": 1742860800000,
-        "EXPIRATION_DATE": 1900540800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "SR-54, From near Howard Road to the Kentucky State Line (IA) (TMA)",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.193",
-        "LATITUDE": 36.4647,
-        "LONGITUDE": -88.3314,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.26394799999997,
-          36.48077200000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122936",
-        "PERMITTEE_NAME": "Victor Koehn",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "South of Mt Pleasant Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122936",
-        "LATITUDE": 36.480772,
-        "LONGITUDE": -88.263948,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.05389999999994,
-          36.38940000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122662",
-        "PERMITTEE_NAME": "Federal Highways Administration - Eastern Federal Lands Highway Division",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Bennets Creek Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122662",
-        "LATITUDE": 36.3894,
-        "LONGITUDE": -88.0539,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.16149999999999,
-          36.39470000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122767",
-        "PERMITTEE_NAME": "High Performance Properties, LLC",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Off Hwy 79",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122767",
-        "LATITUDE": 36.3947,
-        "LONGITUDE": -88.1615,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.42027799999994,
-          36.240278000000046
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "407002",
-        "PERMITTEE_NAME": "Middle Fork Obion W.D.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1764720000000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1858377600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "9nw Trainer Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:407002",
-        "LATITUDE": 36.240277999999996,
-        "LONGITUDE": -88.420278,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.42777799999999,
-          36.33972200000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "407032",
-        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1710979200000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1804550400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "8sw Walnut Fork Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:407032",
-        "LATITUDE": 36.339722,
-        "LONGITUDE": -88.42777799999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12744999999995,
-          36.31803800000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS23.227",
-        "PERMITTEE_NAME": "Britton Ford Campground",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1725408000000,
-        "EFFECTIVE_DATE": 1725408000000,
-        "EXPIRATION_DATE": 1883088000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "380 Dickson Lane",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.227",
-        "LATITUDE": 36.318038,
-        "LONGITUDE": -88.12745,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25495299999994,
-          36.281063000000074
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR051066",
-        "PERMITTEE_NAME": "Gerdau Ameristeel US Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1761868800000,
-        "EFFECTIVE_DATE": 1761868800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "2605 HIGHWAY 69 S",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051066",
-        "LATITUDE": 36.281062999999996,
-        "LONGITUDE": -88.254953,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.29446899999994,
-          36.273240000000044
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122822",
-        "PERMITTEE_NAME": "West Williams",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "5230 Highway 218 Bypass",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122822",
-        "LATITUDE": 36.27324,
-        "LONGITUDE": -88.29446899999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.09940799999998,
-          36.45382300000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122894",
-        "PERMITTEE_NAME": "KENNETH AUSTION",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "226 Swan Bay Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122894",
-        "LATITUDE": 36.453823,
-        "LONGITUDE": -88.099408,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30211299999996,
-          36.272752000000025
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122966",
-        "PERMITTEE_NAME": "Paris Crossing LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Mineral Wells Ave.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122966",
-        "LATITUDE": 36.272752,
-        "LONGITUDE": -88.30211299999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32299999999998,
-          36.28300000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122984",
-        "PERMITTEE_NAME": "City of Paris",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1555 Tyson Avenue",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122984",
-        "LATITUDE": 36.283,
-        "LONGITUDE": -88.32300000000001,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.41110299999997,
-          36.45907100000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122978",
-        "PERMITTEE_NAME": "Lyle Becker",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Caldwell Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122978",
-        "LATITUDE": 36.459071,
-        "LONGITUDE": -88.411103,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.31316299999997,
-          36.30396600000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123032",
-        "PERMITTEE_NAME": "The Levi Miles Foundation",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "539 East Washington Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123032",
-        "LATITUDE": 36.303965999999996,
-        "LONGITUDE": -88.313163,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30293099999994,
-          36.29029200000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122804",
-        "PERMITTEE_NAME": "Owens Construction of Paris",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Off of Volunteer Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122804",
-        "LATITUDE": 36.290292,
-        "LONGITUDE": -88.302931,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.11629999999997,
-          36.390300000000025
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122854",
-        "PERMITTEE_NAME": "Michael Autry",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "4069 East Antioch Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122854",
-        "LATITUDE": 36.3903,
-        "LONGITUDE": -88.11630000000001,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12465999999995,
-          36.40592000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122689",
-        "PERMITTEE_NAME": "Dan Perryman",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Meadowood Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122689",
-        "LATITUDE": 36.40592,
-        "LONGITUDE": -88.12465999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43525399999999,
-          36.42316900000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122563",
-        "PERMITTEE_NAME": "Pennington Pork Farms, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Bell Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122563",
-        "LATITUDE": 36.423169,
-        "LONGITUDE": -88.435254,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30287899999996,
-          36.30515200000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122719",
-        "PERMITTEE_NAME": "Robert W. Medlin and Chris Medlin",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "NE Corner of Hillcrest Drive and E.Wood Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122719",
-        "LATITUDE": 36.305152,
-        "LONGITUDE": -88.30287899999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43525399999999,
-          36.42316900000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00378",
-        "PERMITTEE_NAME": "K & N Farms 2",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1784678400000,
-        "EFFECTIVE_DATE": 1784678400000,
-        "EXPIRATION_DATE": 1822262400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Bell Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00378",
-        "LATITUDE": 36.423169,
-        "LONGITUDE": -88.435254,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32346099999995,
-          36.281416000000036
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122676",
-        "PERMITTEE_NAME": "Michael Turner",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1635 HIGHWAY 79 S",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122676",
-        "LATITUDE": 36.281416,
-        "LONGITUDE": -88.323461,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32846599999993,
-          36.30197300000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNS088340",
-        "PERMITTEE_NAME": "City of Paris, Tennessee",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "MS4",
-        "ISSUANCE_DATE": 1679270400000,
-        "EFFECTIVE_DATE": 1680307200000,
-        "EXPIRATION_DATE": 1819670400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "100 N. Caldwell Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS088340",
-        "LATITUDE": 36.301973,
-        "LONGITUDE": -88.32846599999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30100799999997,
-          36.27642300000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122717",
-        "PERMITTEE_NAME": "Setco Automotive (NA), Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1731 MINERAL WELLS AVE",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122717",
-        "LATITUDE": 36.276423,
-        "LONGITUDE": -88.301008,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43019999999996,
-          36.190900000000056
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122660",
-        "PERMITTEE_NAME": "Delta Contracting Company, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Intersection of SR-76/Austin Peay Memorial Hwy & Pigtail Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122660",
-        "LATITUDE": 36.1909,
-        "LONGITUDE": -88.4302,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.51988299999994,
-          36.37195600000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00372",
-        "PERMITTEE_NAME": "Walters Hog Farm",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1784678400000,
-        "EFFECTIVE_DATE": 1784678400000,
-        "EXPIRATION_DATE": 1790726400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hayes Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00372",
-        "LATITUDE": 36.371956,
-        "LONGITUDE": -88.519883,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.33409999999998,
-          36.310200000000066
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122611",
-        "PERMITTEE_NAME": "City of Paris",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Rison Street, over Town Creek at L.M. 0.52",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122611",
-        "LATITUDE": 36.3102,
-        "LONGITUDE": -88.3341,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.47938499999998,
-          36.487767000000076
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122941",
-        "PERMITTEE_NAME": "Tyler Koehn (as of 8/27/26)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Terrapin Creek Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122941",
-        "LATITUDE": 36.487767,
-        "LONGITUDE": -88.479385,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43644999999998,
-          36.20103900000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR054560",
-        "PERMITTEE_NAME": "Universal Coatings Corp.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1755043200000,
-        "EFFECTIVE_DATE": 1755043200000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "835 RADFORD LAKE RD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054560",
-        "LATITUDE": 36.201039,
-        "LONGITUDE": -88.43645,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.50732099999999,
           36.32034700000003
         ]
@@ -1871,6 +25,58 @@
         "LATITUDE": 36.320347,
         "LONGITUDE": -88.50732099999999,
         "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41596699999997,
+          36.21083600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050102",
+        "PERMITTEE_NAME": "GHYERS TIMBER & SAWMILL, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595894400000,
+        "EFFECTIVE_DATE": 1646265600000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "2040 Lumber Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050102",
+        "LATITUDE": 36.210836,
+        "LONGITUDE": -88.415967,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50965799999994,
+          36.15596900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050424",
+        "PERMITTEE_NAME": "Allegion",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "155 Republic Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050424",
+        "LATITUDE": 36.155969,
+        "LONGITUDE": -88.509658,
+        "permit_status": "Active"
       }
     },
     {
@@ -1956,84 +162,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.41596699999997,
-          36.21083600000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR050102",
-        "PERMITTEE_NAME": "GHYERS TIMBER & SAWMILL, LLC",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1595894400000,
-        "EFFECTIVE_DATE": 1646265600000,
-        "EXPIRATION_DATE": 1751241600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "2040 Lumber Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050102",
-        "LATITUDE": 36.210836,
-        "LONGITUDE": -88.415967,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.50965799999994,
-          36.15596900000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR050424",
-        "PERMITTEE_NAME": "Allegion",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1758153600000,
-        "EFFECTIVE_DATE": 1758153600000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "155 Republic Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050424",
-        "LATITUDE": 36.155969,
-        "LONGITUDE": -88.509658,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.31156999999996,
-          36.28291000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNG110151",
-        "PERMITTEE_NAME": "Southern Concrete Products, Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "RMCP",
-        "ISSUANCE_DATE": 1671580800000,
-        "EFFECTIVE_DATE": 1672531200000,
-        "EXPIRATION_DATE": 1824940800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "535 Russell Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110151",
-        "LATITUDE": 36.28291,
-        "LONGITUDE": -88.31156999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.39816999999994,
           36.23562000000004
         ]
@@ -2052,84 +180,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051083",
         "LATITUDE": 36.23562,
         "LONGITUDE": -88.39817,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.28867399999996,
-          36.27628900000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR053558",
-        "PERMITTEE_NAME": "United Parcel Service, Inc. - Paris",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1759708800000,
-        "EFFECTIVE_DATE": 1759708800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1555 Highway 641 South",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053558",
-        "LATITUDE": 36.276289,
-        "LONGITUDE": -88.288674,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.50749999999994,
-          36.15527800000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR052102",
-        "PERMITTEE_NAME": "Profile, Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1754438400000,
-        "EFFECTIVE_DATE": 1754438400000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "370 Republic Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052102",
-        "LATITUDE": 36.155277999999996,
-        "LONGITUDE": -88.50750000000001,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38138799999996,
-          36.49944400000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR056357",
-        "PERMITTEE_NAME": "Craig Forest Products, Inc",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1759238821000,
-        "EFFECTIVE_DATE": 1759238821000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "4230 Mill Creek Rd.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056357",
-        "LATITUDE": 36.499444,
-        "LONGITUDE": -88.381388,
         "permit_status": "Active"
       }
     },
@@ -2164,6 +214,110 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.38138799999996,
+          36.49944400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056357",
+        "PERMITTEE_NAME": "Craig Forest Products, Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759238821000,
+        "EFFECTIVE_DATE": 1759238821000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "4230 Mill Creek Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056357",
+        "LATITUDE": 36.499444,
+        "LONGITUDE": -88.381388,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50749999999994,
+          36.15527800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR052102",
+        "PERMITTEE_NAME": "Profile, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1754438400000,
+        "EFFECTIVE_DATE": 1754438400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "370 Republic Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR052102",
+        "LATITUDE": 36.155277999999996,
+        "LONGITUDE": -88.50750000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31156999999996,
+          36.28291000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG110151",
+        "PERMITTEE_NAME": "Southern Concrete Products, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "RMCP",
+        "ISSUANCE_DATE": 1671580800000,
+        "EFFECTIVE_DATE": 1672531200000,
+        "EXPIRATION_DATE": 1824940800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "535 Russell Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG110151",
+        "LATITUDE": 36.28291,
+        "LONGITUDE": -88.31156999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28867399999996,
+          36.27628900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053558",
+        "PERMITTEE_NAME": "United Parcel Service, Inc. - Paris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1555 Highway 641 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053558",
+        "LATITUDE": 36.276289,
+        "LONGITUDE": -88.288674,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.51417499999997,
           36.16076400000003
         ]
@@ -2182,6 +336,58 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056746",
         "LATITUDE": 36.160764,
         "LONGITUDE": -88.514175,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11219999999997,
+          36.428300000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120482",
+        "PERMITTEE_NAME": "Dr. Joe D. Mobley",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Eagle Nest Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120482",
+        "LATITUDE": 36.4283,
+        "LONGITUDE": -88.1122,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32472999999999,
+          36.282080000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120774",
+        "PERMITTEE_NAME": "Michael Turner - Turner's Landscaping",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1600 Hwy 79 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120774",
+        "LATITUDE": 36.28208,
+        "LONGITUDE": -88.32473,
         "permit_status": "Active"
       }
     },
@@ -2242,188 +448,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.11219999999997,
-          36.428300000000036
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120482",
-        "PERMITTEE_NAME": "Dr. Joe D. Mobley",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Eagle Nest Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120482",
-        "LATITUDE": 36.4283,
-        "LONGITUDE": -88.1122,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.30304999999998,
-          36.29666000000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120849",
-        "PERMITTEE_NAME": "Morningside of Paris, L.P.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "350 Volunteer Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120849",
-        "LATITUDE": 36.296659999999996,
-        "LONGITUDE": -88.30305,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.34567199999998,
-          36.274627000000066
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120775",
-        "PERMITTEE_NAME": "Terry Crouch",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hwy 218 Bypass, 7 tenths mile from Hwy 79",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120775",
-        "LATITUDE": 36.274626999999995,
-        "LONGITUDE": -88.345672,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.41620999999998,
-          36.19583000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120933",
-        "PERMITTEE_NAME": "Nathan Replogle",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hwy 79",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120933",
-        "LATITUDE": 36.19583,
-        "LONGITUDE": -88.41620999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.31805599999996,
-          36.291667000000075
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120969",
-        "PERMITTEE_NAME": "Optimum Properties, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Tyson Avenue @ Veterans Drive, northwest quadrant of intersection, next to sonic",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120969",
-        "LATITUDE": 36.291667,
-        "LONGITUDE": -88.318056,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.29610999999994,
-          36.273330000000044
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120834",
-        "PERMITTEE_NAME": "Site Finders, LLC.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Mockingbird Road, Paris TN 38242",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120834",
-        "LATITUDE": 36.27333,
-        "LONGITUDE": -88.29611,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32472999999999,
-          36.282080000000065
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120774",
-        "PERMITTEE_NAME": "Michael Turner - Turner's Landscaping",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1600 Hwy 79 South",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120774",
-        "LATITUDE": 36.28208,
-        "LONGITUDE": -88.32473,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.28111999999999,
           36.32145000000003
         ]
@@ -2476,13 +500,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.38319999999999,
-          36.33940000000007
+          -88.31805599999996,
+          36.291667000000075
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR121037",
-        "PERMITTEE_NAME": "Henry County Airport",
+        "PERMIT_NUMBER": "TNR120969",
+        "PERMITTEE_NAME": "Optimum Properties, LLC",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -2490,36 +514,10 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "1949 Diggs Rd.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121037",
-        "LATITUDE": 36.339400000000005,
-        "LONGITUDE": -88.3832,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.27449999999999,
-          36.26848000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121006",
-        "PERMITTEE_NAME": "Sam and Norma Knott",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Located on the southeast portion of 218 bypass around Paris between 641 and hwy 69",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121006",
-        "LATITUDE": 36.26848,
-        "LONGITUDE": -88.2745,
+        "SITE_LOCATION": "Tyson Avenue @ Veterans Drive, northwest quadrant of intersection, next to sonic",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120969",
+        "LATITUDE": 36.291667,
+        "LONGITUDE": -88.318056,
         "permit_status": "Active"
       }
     },
@@ -2580,84 +578,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.30945999999994,
-          36.31715000000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121029",
-        "PERMITTEE_NAME": "David Hassell",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Jackson Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121029",
-        "LATITUDE": 36.31715,
-        "LONGITUDE": -88.30946,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.46197899999999,
-          36.150434000000075
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00010",
-        "PERMITTEE_NAME": "Tosh Farms - McKenzie",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1784592000000,
-        "EFFECTIVE_DATE": 1784592000000,
-        "EXPIRATION_DATE": 1822262400000,
-        "TERMINATION_DATE": 1530748800000,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Joy Sparks Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00010",
-        "LATITUDE": 36.150434,
-        "LONGITUDE": -88.461979,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.23814999999996,
-          36.418690000000026
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00049",
-        "PERMITTEE_NAME": "Don Cox Farm",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1441756800000,
-        "EFFECTIVE_DATE": 1441756800000,
-        "EXPIRATION_DATE": 1588204800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "75 Tower Ln",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00049",
-        "LATITUDE": 36.41869,
-        "LONGITUDE": -88.23814999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.42795499999994,
           36.31275300000004
         ]
@@ -2676,84 +596,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00002",
         "LATITUDE": 36.312753,
         "LONGITUDE": -88.427955,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12969999999996,
-          36.33080000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121323",
-        "PERMITTEE_NAME": "U. S. Fish and Wildlife Service, TN National Wildlife Refuge",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Swamp Creek Road, West Sandy Dike",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121323",
-        "LATITUDE": 36.3308,
-        "LONGITUDE": -88.1297,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.10866699999997,
-          36.07613800000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121361",
-        "PERMITTEE_NAME": "Deer Ridge, LP",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "201 Oakdale Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121361",
-        "LATITUDE": 36.076138,
-        "LONGITUDE": -88.108667,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.28236099999998,
-          36.268583000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121320",
-        "PERMITTEE_NAME": "MNL, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "3675 Highway 641 S",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121320",
-        "LATITUDE": 36.268583,
-        "LONGITUDE": -88.282361,
         "permit_status": "Active"
       }
     },
@@ -2788,24 +630,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.38319999999999,
-          36.33940000000007
+          -88.23814999999996,
+          36.418690000000026
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR121331",
-        "PERMITTEE_NAME": "Henry County Airport",
+        "PERMIT_NUMBER": "SOPC00049",
+        "PERMITTEE_NAME": "Don Cox Farm",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1441756800000,
+        "EFFECTIVE_DATE": 1441756800000,
+        "EXPIRATION_DATE": 1588204800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "1949 Diggs Rd.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121331",
-        "LATITUDE": 36.339400000000005,
-        "LONGITUDE": -88.3832,
+        "SITE_LOCATION": "75 Tower Ln",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00049",
+        "LATITUDE": 36.41869,
+        "LONGITUDE": -88.23814999999999,
         "permit_status": "Active"
       }
     },
@@ -2814,24 +656,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.28388899999999,
-          36.29888900000003
+          -88.46197899999999,
+          36.150434000000075
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR121314",
-        "PERMITTEE_NAME": "Lonny Noble",
+        "PERMIT_NUMBER": "SOPC00010",
+        "PERMITTEE_NAME": "Tosh Farms - McKenzie",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1784592000000,
+        "EFFECTIVE_DATE": 1784592000000,
+        "EXPIRATION_DATE": 1822262400000,
+        "TERMINATION_DATE": 1530748800000,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "Foxfire Road, off Lone Oak Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121314",
-        "LATITUDE": 36.298888999999996,
-        "LONGITUDE": -88.283889,
+        "SITE_LOCATION": "Joy Sparks Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00010",
+        "LATITUDE": 36.150434,
+        "LONGITUDE": -88.461979,
         "permit_status": "Active"
       }
     },
@@ -2859,136 +701,6 @@
         "LATITUDE": 36.2194,
         "LONGITUDE": -88.296,
         "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12969999999996,
-          36.33080000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121342",
-        "PERMITTEE_NAME": "U.S. Fish and Wildlife Service",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Swamp Creek Road, West Sandy Dike",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121342",
-        "LATITUDE": 36.3308,
-        "LONGITUDE": -88.1297,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.47791699999999,
-          36.31024400000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00102",
-        "PERMITTEE_NAME": "Pigsville Farm",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1785283200000,
-        "EFFECTIVE_DATE": 1785283200000,
-        "EXPIRATION_DATE": 1790726400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Bill Lamb Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00102",
-        "LATITUDE": 36.310244,
-        "LONGITUDE": -88.47791699999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.11162999999999,
-          36.43262000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121523",
-        "PERMITTEE_NAME": "Randy Stutts",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hwy 79",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121523",
-        "LATITUDE": 36.43262,
-        "LONGITUDE": -88.11162999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.44529999999997,
-          36.19990000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00247",
-        "PERMITTEE_NAME": "Beecham Farms",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1785369600000,
-        "EFFECTIVE_DATE": 1785369600000,
-        "EXPIRATION_DATE": 1803772800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1225 Radford Lane",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00247",
-        "LATITUDE": 36.1999,
-        "LONGITUDE": -88.4453,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.15138899999994,
-          36.334444000000076
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121370",
-        "PERMITTEE_NAME": "Randy Stephens",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "5240 Elkhorn Nobles Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121370",
-        "LATITUDE": 36.334444,
-        "LONGITUDE": -88.151389,
-        "permit_status": "Active"
       }
     },
     {
@@ -3048,6 +760,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.47791699999999,
+          36.31024400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00102",
+        "PERMITTEE_NAME": "Pigsville Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1790726400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Bill Lamb Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00102",
+        "LATITUDE": 36.310244,
+        "LONGITUDE": -88.47791699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44529999999997,
+          36.19990000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00247",
+        "PERMITTEE_NAME": "Beecham Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785369600000,
+        "EFFECTIVE_DATE": 1785369600000,
+        "EXPIRATION_DATE": 1803772800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1225 Radford Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00247",
+        "LATITUDE": 36.1999,
+        "LONGITUDE": -88.4453,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.48256399999997,
           36.25334000000004
         ]
@@ -3066,110 +830,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00255",
         "LATITUDE": 36.25334,
         "LONGITUDE": -88.482564,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43372999999997,
-          36.19001000000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121584",
-        "PERMITTEE_NAME": "James Tosh",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1586 Atlantic Avenue",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121584",
-        "LATITUDE": 36.19001,
-        "LONGITUDE": -88.43373,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12969999999996,
-          36.33080000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121537",
-        "PERMITTEE_NAME": "US Fish and Wildlife Service",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Swamp Creek Road, West Sandy Dike",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121537",
-        "LATITUDE": 36.3308,
-        "LONGITUDE": -88.1297,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.48999999999995,
-          36.29790000000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00283",
-        "PERMITTEE_NAME": "Dennis Yoder",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1441152000000,
-        "EFFECTIVE_DATE": 1441152000000,
-        "EXPIRATION_DATE": 1569801600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "6025 Briarpatch LK Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00283",
-        "LATITUDE": 36.2979,
-        "LONGITUDE": -88.49,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.27569999999997,
-          36.26900000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121694",
-        "PERMITTEE_NAME": "McCartney Produce, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Culley Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121694",
-        "LATITUDE": 36.269,
-        "LONGITUDE": -88.2757,
         "permit_status": "Active"
       }
     },
@@ -3204,6 +864,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.48999999999995,
+          36.29790000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00283",
+        "PERMITTEE_NAME": "Dennis Yoder",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1441152000000,
+        "EFFECTIVE_DATE": 1441152000000,
+        "EXPIRATION_DATE": 1569801600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "6025 Briarpatch LK Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00283",
+        "LATITUDE": 36.2979,
+        "LONGITUDE": -88.49,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.27210999999994,
           36.32319400000006
         ]
@@ -3222,6 +908,32 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121766",
         "LATITUDE": 36.323194,
         "LONGITUDE": -88.27211,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46989999999994,
+          36.49070000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00338",
+        "PERMITTEE_NAME": "Jeremy Walters",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785715200000,
+        "EFFECTIVE_DATE": 1785715200000,
+        "EXPIRATION_DATE": 1885420800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "North Fork Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00338",
+        "LATITUDE": 36.490700000000004,
+        "LONGITUDE": -88.46990000000001,
         "permit_status": "Active"
       }
     },
@@ -3430,6 +1142,32 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:407009",
         "LATITUDE": 36.326944,
         "LONGITUDE": -88.519722,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15861099999995,
+          36.409722000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "407042",
+        "PERMITTEE_NAME": "Paris Sand and Gravel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1853539200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "19nw Trib-s. Fork Eagle Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:407042",
+        "LATITUDE": 36.409721999999995,
+        "LONGITUDE": -88.158611,
         "permit_status": "Active"
       }
     },
@@ -3750,84 +1488,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.15861099999995,
-          36.409722000000045
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "407042",
-        "PERMITTEE_NAME": "Paris Sand and Gravel",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1761696000000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1853539200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "19nw Trib-s. Fork Eagle Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:407042",
-        "LATITUDE": 36.409721999999995,
-        "LONGITUDE": -88.158611,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.46989999999994,
-          36.49070000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00338",
-        "PERMITTEE_NAME": "Jeremy Walters",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1785715200000,
-        "EFFECTIVE_DATE": 1785715200000,
-        "EXPIRATION_DATE": 1885420800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "North Fork Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00338",
-        "LATITUDE": 36.490700000000004,
-        "LONGITUDE": -88.46990000000001,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32806999999997,
-          36.299450000000036
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121861",
-        "PERMITTEE_NAME": "Paris Board of Public Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Jenkins Street, S. Caldwell St., Blythe St.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121861",
-        "LATITUDE": 36.29945,
-        "LONGITUDE": -88.32807,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.32409999999999,
           36.325600000000065
         ]
@@ -3846,84 +1506,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.036",
         "LATITUDE": 36.3256,
         "LONGITUDE": -88.3241,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.28624999999994,
-          36.297120000000064
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121837",
-        "PERMITTEE_NAME": "Lonny Noble",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Extension of Winding Way",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121837",
-        "LATITUDE": 36.29712,
-        "LONGITUDE": -88.28625,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.26889999999997,
-          36.43350600000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121927",
-        "PERMITTEE_NAME": "Jeremy and Autumn Robinson",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "3425 Hwy 140E",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121927",
-        "LATITUDE": 36.433506,
-        "LONGITUDE": -88.2689,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.51317899999998,
-          36.20249400000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00348",
-        "PERMITTEE_NAME": "Crutchfield Sow Unit",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1785715200000,
-        "EFFECTIVE_DATE": 1785715200000,
-        "EXPIRATION_DATE": 1853884800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "HWY 140",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00348",
-        "LATITUDE": 36.202494,
-        "LONGITUDE": -88.513179,
         "permit_status": "Active"
       }
     },
@@ -4010,6 +1592,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.51317899999998,
+          36.20249400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00348",
+        "PERMITTEE_NAME": "Crutchfield Sow Unit",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785715200000,
+        "EFFECTIVE_DATE": 1785715200000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "HWY 140",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00348",
+        "LATITUDE": 36.202494,
+        "LONGITUDE": -88.513179,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28624999999994,
+          36.297120000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122003",
+        "PERMITTEE_NAME": "Lonny Noble",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Extension of Winding Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122003",
+        "LATITUDE": 36.29712,
+        "LONGITUDE": -88.28625,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.26890199999997,
           36.43350600000008
         ]
@@ -4028,84 +1662,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00349",
         "LATITUDE": 36.433506,
         "LONGITUDE": -88.268902,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.11523699999998,
-          36.43067700000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122059",
-        "PERMITTEE_NAME": "Shayne Harris",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hwy 79, next to Pizza Pro",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122059",
-        "LATITUDE": 36.430676999999996,
-        "LONGITUDE": -88.115237,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.51499999999999,
-          36.459010000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS17.305",
-        "PERMITTEE_NAME": "Tosh Farms",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1532390400000,
-        "EFFECTIVE_DATE": 1532390400000,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Wiggins Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.305",
-        "LATITUDE": 36.45901,
-        "LONGITUDE": -88.515,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.44019999999995,
-          36.37870000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00355",
-        "PERMITTEE_NAME": "K and N Farms",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1510099200000,
-        "EFFECTIVE_DATE": 1510099200000,
-        "EXPIRATION_DATE": 1596153600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Hwy 69 South",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00355",
-        "LATITUDE": 36.3787,
-        "LONGITUDE": -88.4402,
         "permit_status": "Active"
       }
     },
@@ -4140,24 +1696,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.24641599999995,
-          36.41108400000007
+          -88.51499999999999,
+          36.459010000000035
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122135",
-        "PERMITTEE_NAME": "Chad Cox",
+        "PERMIT_NUMBER": "NRS17.305",
+        "PERMITTEE_NAME": "Tosh Farms",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1532390400000,
+        "EFFECTIVE_DATE": 1532390400000,
+        "EXPIRATION_DATE": null,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "605 Rodgers Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122135",
-        "LATITUDE": 36.411083999999995,
-        "LONGITUDE": -88.246416,
+        "SITE_LOCATION": "Wiggins Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.305",
+        "LATITUDE": 36.45901,
+        "LONGITUDE": -88.515,
         "permit_status": "Active"
       }
     },
@@ -4166,13 +1722,221 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.28624999999994,
-          36.297120000000064
+          -88.11523699999998,
+          36.43067700000006
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122003",
-        "PERMITTEE_NAME": "Lonny Noble",
+        "PERMIT_NUMBER": "TNR122059",
+        "PERMITTEE_NAME": "Shayne Harris",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Hwy 79, next to Pizza Pro",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122059",
+        "LATITUDE": 36.430676999999996,
+        "LONGITUDE": -88.115237,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44019999999995,
+          36.37870000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00355",
+        "PERMITTEE_NAME": "K and N Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1510099200000,
+        "EFFECTIVE_DATE": 1510099200000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Hwy 69 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00355",
+        "LATITUDE": 36.3787,
+        "LONGITUDE": -88.4402,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30100799999997,
+          36.27642300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053323",
+        "PERMITTEE_NAME": "Setco Automotive (NA) Inc",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767052800000,
+        "EFFECTIVE_DATE": 1767052800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1731 MINERAL WELLS AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053323",
+        "LATITUDE": 36.276423,
+        "LONGITUDE": -88.301008,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25989999999996,
+          36.310110000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054074",
+        "PERMITTEE_NAME": "NOBEL AUTOMOTIVE TENNESSEE LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755648000000,
+        "EFFECTIVE_DATE": 1755648000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "190 County Home Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054074",
+        "LATITUDE": 36.31011,
+        "LONGITUDE": -88.2599,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12465999999995,
+          36.40592000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2202.066",
+        "PERMITTEE_NAME": "Dan Perryman",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Meadowood Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2202.066",
+        "LATITUDE": 36.40592,
+        "LONGITUDE": -88.12465999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.36051799999996,
+          36.315788000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053299",
+        "PERMITTEE_NAME": "City of Paris - Henry County Lanfill",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1766016000000,
+        "EFFECTIVE_DATE": 1766016000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1140 JONES BEND RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053299",
+        "LATITUDE": 36.315788,
+        "LONGITUDE": -88.360518,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33409999999998,
+          36.310200000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.038",
+        "PERMITTEE_NAME": "City of Paris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1785456000000,
+        "EFFECTIVE_DATE": 1785456000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Rison Street, over Town Creek at L.M. 0.52",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.038",
+        "LATITUDE": 36.3102,
+        "LONGITUDE": -88.3341,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47539299999994,
+          36.37026700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059727",
+        "PERMITTEE_NAME": "Wagler And Sons Sawmill Gen Ptr",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1770163200000,
+        "EFFECTIVE_DATE": 1770163200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "6305 HIGHWAY 140 N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059727",
+        "LATITUDE": 36.370267,
+        "LONGITUDE": -88.475393,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33525599999996,
+          36.270110000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122291",
+        "PERMITTEE_NAME": "Larry Smith",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -4180,11 +1944,167 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "Extension of Winding Way",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122003",
-        "LATITUDE": 36.29712,
-        "LONGITUDE": -88.28625,
+        "SITE_LOCATION": "Hwy 79 S, Paris, TN 38242",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122291",
+        "LATITUDE": 36.270109999999995,
+        "LONGITUDE": -88.335256,
         "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.14676099999997,
+          36.391455000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059867",
+        "PERMITTEE_NAME": "Jay Crosby dba Crosby Gravel Pit",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Antioch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059867",
+        "LATITUDE": 36.391455,
+        "LONGITUDE": -88.146761,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12922999999995,
+          36.409050000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122526",
+        "PERMITTEE_NAME": "Aaron Perryman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "242 Ham Williams Rd,, Springville, TN\r\nMap 047, Parcel 033.00",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122526",
+        "LATITUDE": 36.40905,
+        "LONGITUDE": -88.12922999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37350999999995,
+          36.37910800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00368",
+        "PERMITTEE_NAME": "Jerry Stewart",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "3299 Osage Whitlock Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00368",
+        "LATITUDE": 36.379107999999995,
+        "LONGITUDE": -88.37351,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50369099999995,
+          36.36335800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG670644",
+        "PERMITTEE_NAME": "ANR Pipeline Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Hydrostatic",
+        "ISSUANCE_DATE": 1781136000000,
+        "EFFECTIVE_DATE": 1781136000000,
+        "EXPIRATION_DATE": 1935273600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Near Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670644",
+        "LATITUDE": 36.363358,
+        "LONGITUDE": -88.50369099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28930099999997,
+          36.27334100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122468",
+        "PERMITTEE_NAME": "Jay Sukhadia",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "460 Clifty Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122468",
+        "LATITUDE": 36.273340999999995,
+        "LONGITUDE": -88.289301,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28408099999996,
+          36.31124200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122467",
+        "PERMITTEE_NAME": "Jubilee Estates",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "130 Abbott Lane, Paris, TN 38242",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122467",
+        "LATITUDE": 36.311242,
+        "LONGITUDE": -88.284081,
+        "permit_status": "Pending"
       }
     },
     {
@@ -4270,6 +2190,760 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.12465999999995,
+          36.40592000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122689",
+        "PERMITTEE_NAME": "Dan Perryman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Meadowood Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122689",
+        "LATITUDE": 36.40592,
+        "LONGITUDE": -88.12465999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28849999999994,
+          36.31250000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051299",
+        "PERMITTEE_NAME": "Delta Contracting Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1815 East Wood Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051299",
+        "LATITUDE": 36.3125,
+        "LONGITUDE": -88.2885,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43889999999999,
+          36.22060000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00373",
+        "PERMITTEE_NAME": "Lemonds Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785283200000,
+        "EFFECTIVE_DATE": 1785283200000,
+        "EXPIRATION_DATE": 1798675200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Henry Midway Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00373",
+        "LATITUDE": 36.220600000000005,
+        "LONGITUDE": -88.4389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43889999999999,
+          36.22060000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122588",
+        "PERMITTEE_NAME": "Dakota Lemonds",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Henry Midway Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122588",
+        "LATITUDE": 36.220600000000005,
+        "LONGITUDE": -88.4389,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32846599999993,
+          36.30197300000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNS088340",
+        "PERMITTEE_NAME": "City of Paris, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "MS4",
+        "ISSUANCE_DATE": 1679270400000,
+        "EFFECTIVE_DATE": 1680307200000,
+        "EXPIRATION_DATE": 1819670400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "100 N. Caldwell Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNS088340",
+        "LATITUDE": 36.301973,
+        "LONGITUDE": -88.32846599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19881199999998,
+          36.49756000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122681",
+        "PERMITTEE_NAME": "Jesse Morris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "3345 Blood River Church Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122681",
+        "LATITUDE": 36.49756,
+        "LONGITUDE": -88.19881199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43644999999998,
+          36.20103900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054560",
+        "PERMITTEE_NAME": "Universal Coatings Corp.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1755043200000,
+        "EFFECTIVE_DATE": 1755043200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "835 RADFORD LAKE RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054560",
+        "LATITUDE": 36.201039,
+        "LONGITUDE": -88.43645,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05389999999994,
+          36.38940000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.179",
+        "PERMITTEE_NAME": "FHWA Eastern Federal Lands Highway Division",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1675382400000,
+        "EFFECTIVE_DATE": 1675382400000,
+        "EXPIRATION_DATE": 1833062400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Bennets Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.179",
+        "LATITUDE": 36.3894,
+        "LONGITUDE": -88.0539,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05389999999994,
+          36.38940000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122662",
+        "PERMITTEE_NAME": "Federal Highways Administration - Eastern Federal Lands Highway Division",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Bennets Creek Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122662",
+        "LATITUDE": 36.3894,
+        "LONGITUDE": -88.0539,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12744999999995,
+          36.31803800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS23.227",
+        "PERMITTEE_NAME": "Britton Ford Campground",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1725408000000,
+        "EFFECTIVE_DATE": 1725408000000,
+        "EXPIRATION_DATE": 1883088000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "380 Dickson Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS23.227",
+        "LATITUDE": 36.318038,
+        "LONGITUDE": -88.12745,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12611099999998,
+          36.311717000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122780",
+        "PERMITTEE_NAME": "Edward J. Riddle",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "3595 Old Springville Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122780",
+        "LATITUDE": 36.311717,
+        "LONGITUDE": -88.126111,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42027799999994,
+          36.240278000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "407002",
+        "PERMITTEE_NAME": "Middle Fork Obion W.D.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1764720000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1858377600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "9nw Trainer Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:407002",
+        "LATITUDE": 36.240277999999996,
+        "LONGITUDE": -88.420278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42777799999999,
+          36.33972200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "407032",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1710979200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1804550400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "8sw Walnut Fork Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:407032",
+        "LATITUDE": 36.339722,
+        "LONGITUDE": -88.42777799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51945399999994,
+          36.37266000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00375",
+        "PERMITTEE_NAME": "Walters Hog Farm",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Hayes Rd., Cottage Grove, TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00375",
+        "LATITUDE": 36.372659999999996,
+        "LONGITUDE": -88.519454,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09940799999998,
+          36.45382300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122894",
+        "PERMITTEE_NAME": "KENNETH AUSTION",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "226 Swan Bay Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122894",
+        "LATITUDE": 36.453823,
+        "LONGITUDE": -88.099408,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30293099999994,
+          36.29029200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122804",
+        "PERMITTEE_NAME": "Owens Construction of Paris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Off of Volunteer Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122804",
+        "LATITUDE": 36.290292,
+        "LONGITUDE": -88.302931,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11838999999998,
+          36.433106000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122899",
+        "PERMITTEE_NAME": "High Performance Properties",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Hwy 79 North & Tate Dr.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122899",
+        "LATITUDE": 36.433105999999995,
+        "LONGITUDE": -88.11838999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29446899999994,
+          36.273240000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122822",
+        "PERMITTEE_NAME": "West Williams",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "5230 Highway 218 Bypass",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122822",
+        "LATITUDE": 36.27324,
+        "LONGITUDE": -88.29446899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11629999999997,
+          36.390300000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122854",
+        "PERMITTEE_NAME": "Michael Autry",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "4069 East Antioch Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122854",
+        "LATITUDE": 36.3903,
+        "LONGITUDE": -88.11630000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16149999999999,
+          36.39470000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122767",
+        "PERMITTEE_NAME": "High Performance Properties, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Off Hwy 79",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122767",
+        "LATITUDE": 36.3947,
+        "LONGITUDE": -88.1615,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43019999999996,
+          36.190900000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122660",
+        "PERMITTEE_NAME": "Delta Contracting Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Intersection of SR-76/Austin Peay Memorial Hwy & Pigtail Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122660",
+        "LATITUDE": 36.1909,
+        "LONGITUDE": -88.4302,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32346099999995,
+          36.281416000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122676",
+        "PERMITTEE_NAME": "Michael Turner",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1635 HIGHWAY 79 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122676",
+        "LATITUDE": 36.281416,
+        "LONGITUDE": -88.323461,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30100799999997,
+          36.27642300000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122717",
+        "PERMITTEE_NAME": "Setco Automotive (NA), Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1731 MINERAL WELLS AVE",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122717",
+        "LATITUDE": 36.276423,
+        "LONGITUDE": -88.301008,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43525399999999,
+          36.42316900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00378",
+        "PERMITTEE_NAME": "K & N Farms 2",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1784678400000,
+        "EFFECTIVE_DATE": 1784678400000,
+        "EXPIRATION_DATE": 1822262400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Bell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00378",
+        "LATITUDE": 36.423169,
+        "LONGITUDE": -88.435254,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30287899999996,
+          36.30515200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122719",
+        "PERMITTEE_NAME": "Robert W. Medlin and Chris Medlin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "NE Corner of Hillcrest Drive and E.Wood Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122719",
+        "LATITUDE": 36.305152,
+        "LONGITUDE": -88.30287899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31316299999997,
+          36.30396600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123032",
+        "PERMITTEE_NAME": "The Levi Miles Foundation",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "539 East Washington Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123032",
+        "LATITUDE": 36.303965999999996,
+        "LONGITUDE": -88.313163,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30211299999996,
+          36.272752000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122966",
+        "PERMITTEE_NAME": "Paris Crossing LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Mineral Wells Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122966",
+        "LATITUDE": 36.272752,
+        "LONGITUDE": -88.30211299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32299999999998,
+          36.28300000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122984",
+        "PERMITTEE_NAME": "City of Paris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1555 Tyson Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122984",
+        "LATITUDE": 36.283,
+        "LONGITUDE": -88.32300000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41110299999997,
+          36.45907100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122978",
+        "PERMITTEE_NAME": "Lyle Becker",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Caldwell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122978",
+        "LATITUDE": 36.459071,
+        "LONGITUDE": -88.411103,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.32039999999995,
           36.28880000000004
         ]
@@ -4296,50 +2970,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.25989999999996,
-          36.310110000000066
+          -88.08411899999999,
+          36.49388700000003
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR054074",
-        "PERMITTEE_NAME": "NOBEL AUTOMOTIVE TENNESSEE LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1755648000000,
-        "EFFECTIVE_DATE": 1755648000000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "190 County Home Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054074",
-        "LATITUDE": 36.31011,
-        "LONGITUDE": -88.2599,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12465999999995,
-          36.40592000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2202.066",
-        "PERMITTEE_NAME": "Dan Perryman",
+        "PERMIT_NUMBER": "TNR123020",
+        "PERMITTEE_NAME": "Cypress Bay Marina and Resort, Inc.",
         "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "ARAP",
+        "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
         "EFFECTIVE_DATE": null,
         "EXPIRATION_DATE": null,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "Meadowood Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2202.066",
-        "LATITUDE": 36.40592,
-        "LONGITUDE": -88.12465999999999,
+        "SITE_LOCATION": "110 Cypress Resort Loop",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123020",
+        "LATITUDE": 36.493887,
+        "LONGITUDE": -88.084119,
         "permit_status": "Pending"
       }
     },
@@ -4348,65 +2996,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.30100799999997,
-          36.27642300000008
+          -88.33582999999999,
+          36.27027000000004
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR053323",
-        "PERMITTEE_NAME": "Setco Automotive (NA) Inc",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1767052800000,
-        "EFFECTIVE_DATE": 1767052800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1731 MINERAL WELLS AVE",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053323",
-        "LATITUDE": 36.276423,
-        "LONGITUDE": -88.301008,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.36051799999996,
-          36.315788000000055
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR053299",
-        "PERMITTEE_NAME": "City of Paris - Henry County Lanfill",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1766016000000,
-        "EFFECTIVE_DATE": 1766016000000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "1140 JONES BEND RD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053299",
-        "LATITUDE": 36.315788,
-        "LONGITUDE": -88.360518,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32189999999997,
-          36.31190000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122310",
-        "PERMITTEE_NAME": "Paris Board of Public Utilities",
+        "PERMIT_NUMBER": "TNR123001",
+        "PERMITTEE_NAME": "Circle K",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -4414,10 +3010,10 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "west of Gibson Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122310",
-        "LATITUDE": 36.3119,
-        "LONGITUDE": -88.3219,
+        "SITE_LOCATION": "2680 Highway 79 South",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123001",
+        "LATITUDE": 36.27027,
+        "LONGITUDE": -88.33583,
         "permit_status": "Active"
       }
     },
@@ -4426,13 +3022,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.33525599999996,
-          36.270110000000045
+          -88.19881199999998,
+          36.49756000000008
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122291",
-        "PERMITTEE_NAME": "Larry Smith",
+        "PERMIT_NUMBER": "TNR059070",
+        "PERMITTEE_NAME": "Morris Gravel Pit, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752019200000,
+        "EFFECTIVE_DATE": 1752019200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "3345 Blood River Church Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059070",
+        "LATITUDE": 36.49756,
+        "LONGITUDE": -88.19881199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43610299999995,
+          36.47117900000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123002",
+        "PERMITTEE_NAME": "Owen Hostetler",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -4440,10 +3062,10 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "Hwy 79 S, Paris, TN 38242",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122291",
-        "LATITUDE": 36.270109999999995,
-        "LONGITUDE": -88.335256,
+        "SITE_LOCATION": "Jones Mill Crossland Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123002",
+        "LATITUDE": 36.471179,
+        "LONGITUDE": -88.436103,
         "permit_status": "Active"
       }
     },
@@ -4452,24 +3074,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.47539299999994,
-          36.37026700000007
+          -88.48505199999994,
+          36.49838900000003
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR059727",
-        "PERMITTEE_NAME": "Wagler And Sons Sawmill Gen Ptr",
+        "PERMIT_NUMBER": "TNR123035",
+        "PERMITTEE_NAME": "Mitchell Pritchard",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Hwy 69",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123035",
+        "LATITUDE": 36.498388999999996,
+        "LONGITUDE": -88.485052,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21364199999994,
+          36.362479000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123100",
+        "PERMITTEE_NAME": "Henry County Board of Education",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "6745 HIGHWAY 79 N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123100",
+        "LATITUDE": 36.362479,
+        "LONGITUDE": -88.213642,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28781099999998,
+          36.310501000000045
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123069",
+        "PERMITTEE_NAME": "Grant Guinn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Northeast Corner of South Bell Ave and Fairgrounds Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123069",
+        "LATITUDE": 36.310500999999995,
+        "LONGITUDE": -88.28781099999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25495299999994,
+          36.281063000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051066",
+        "PERMITTEE_NAME": "Gerdau Ameristeel US Inc.",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1770163200000,
-        "EFFECTIVE_DATE": 1770163200000,
+        "ISSUANCE_DATE": 1761868800000,
+        "EFFECTIVE_DATE": 1761868800000,
         "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "6305 HIGHWAY 140 N",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059727",
-        "LATITUDE": 36.370267,
-        "LONGITUDE": -88.475393,
+        "SITE_LOCATION": "2605 HIGHWAY 69 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051066",
+        "LATITUDE": 36.281062999999996,
+        "LONGITUDE": -88.254953,
         "permit_status": "Active"
       }
     },
@@ -4478,24 +3178,362 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.33409999999998,
-          36.310200000000066
+          -88.26954199999994,
+          36.326242000000036
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2602.038",
-        "PERMITTEE_NAME": "City of Paris",
+        "PERMIT_NUMBER": "TNR123038",
+        "PERMITTEE_NAME": "SHED PROPERTIES USA, LLC",
         "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "US HWY 79",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123038",
+        "LATITUDE": 36.326242,
+        "LONGITUDE": -88.269542,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33139999999997,
+          36.46470000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS24.193",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Pending",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1785456000000,
-        "EFFECTIVE_DATE": 1785456000000,
-        "EXPIRATION_DATE": 1905033600000,
+        "ISSUANCE_DATE": 1786665600000,
+        "EFFECTIVE_DATE": 1742860800000,
+        "EXPIRATION_DATE": 1900540800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "Rison Street, over Town Creek at L.M. 0.52",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.038",
-        "LATITUDE": 36.3102,
-        "LONGITUDE": -88.3341,
+        "SITE_LOCATION": "SR-54, From near Howard Road to the Kentucky State Line (IA) (TMA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS24.193",
+        "LATITUDE": 36.4647,
+        "LONGITUDE": -88.3314,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30840899999998,
+          36.28427000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830295",
+        "PERMITTEE_NAME": "PM Environmental",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1744070400000,
+        "EFFECTIVE_DATE": 1744070400000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1110 Mineral Wells Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830295",
+        "LATITUDE": 36.28427,
+        "LONGITUDE": -88.308409,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26394799999997,
+          36.48077200000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122936",
+        "PERMITTEE_NAME": "Victor Koehn",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "South of Mt Pleasant Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122936",
+        "LATITUDE": 36.480772,
+        "LONGITUDE": -88.263948,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10416699999996,
+          36.261794000000066
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.066",
+        "PERMITTEE_NAME": "Martin Thompson",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "145 Shore Line Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.066",
+        "LATITUDE": 36.261794,
+        "LONGITUDE": -88.10416699999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32619999999997,
+          36.29980000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050508",
+        "PERMITTEE_NAME": "Eurotranciatura U.S.A., LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "200 Highway 69 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050508",
+        "LATITUDE": 36.299800000000005,
+        "LONGITUDE": -88.3262,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11798099999999,
+          36.49702400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123045",
+        "PERMITTEE_NAME": "William Belew",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "301 CHEROKEE HILLS DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123045",
+        "LATITUDE": 36.497023999999996,
+        "LONGITUDE": -88.117981,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33471799999995,
+          36.30434500000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051520",
+        "PERMITTEE_NAME": "KWT Railway, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1774224000000,
+        "EFFECTIVE_DATE": 1774224000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "908 DEPOT STREET",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051520",
+        "LATITUDE": 36.304345,
+        "LONGITUDE": -88.334718,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30211299999996,
+          36.272752000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123166",
+        "PERMITTEE_NAME": "Security Bank and Trust Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Mineral Wells Ave.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123166",
+        "LATITUDE": 36.272752,
+        "LONGITUDE": -88.30211299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33139999999997,
+          36.46470000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192404",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "SR-54, From near Howard Road to the Kentucky State Line (IA) (TMA)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192404",
+        "LATITUDE": 36.4647,
+        "LONGITUDE": -88.3314,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26653899999997,
+          36.40237100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123087",
+        "PERMITTEE_NAME": "Skylar Lofton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "6033 Shady Grove Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123087",
+        "LATITUDE": 36.402370999999995,
+        "LONGITUDE": -88.266539,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51988299999994,
+          36.37195600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00372",
+        "PERMITTEE_NAME": "Walters Hog Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1784678400000,
+        "EFFECTIVE_DATE": 1784678400000,
+        "EXPIRATION_DATE": 1790726400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Hayes Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00372",
+        "LATITUDE": 36.371956,
+        "LONGITUDE": -88.519883,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47938499999998,
+          36.487767000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122941",
+        "PERMITTEE_NAME": "Tyler Koehn (as of 8/27/26)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Terrapin Creek Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122941",
+        "LATITUDE": 36.487767,
+        "LONGITUDE": -88.479385,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43525399999999,
+          36.42316900000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122563",
+        "PERMITTEE_NAME": "Pennington Pork Farms, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Bell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122563",
+        "LATITUDE": 36.423169,
+        "LONGITUDE": -88.435254,
         "permit_status": "Active"
       }
     },
@@ -4530,6 +3568,396 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.12868099999997,
+          36.246534000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.064",
+        "PERMITTEE_NAME": "Paris Henry County Public Utility District",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1754956800000,
+        "EFFECTIVE_DATE": 1754956800000,
+        "EXPIRATION_DATE": 1786492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Hagler Ridge Road and Atchison Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.064",
+        "LATITUDE": 36.246534,
+        "LONGITUDE": -88.128681,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30171399999995,
+          36.447700000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123112",
+        "PERMITTEE_NAME": "Pure Power Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1425 Highway 140 E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123112",
+        "LATITUDE": 36.447700000000005,
+        "LONGITUDE": -88.30171399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30565599999994,
+          36.28616400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.104",
+        "PERMITTEE_NAME": "City of Paris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768176000000,
+        "EFFECTIVE_DATE": 1768176000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1020 Maurice Fields Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.104",
+        "LATITUDE": 36.286164,
+        "LONGITUDE": -88.305656,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26132399999995,
+          36.31027400000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051767",
+        "PERMITTEE_NAME": "Dana Sealing Products, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761436800000,
+        "EFFECTIVE_DATE": 1761436800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "100 PLUMLEY DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051767",
+        "LATITUDE": 36.310274,
+        "LONGITUDE": -88.261324,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31403699999998,
+          36.27035300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123090",
+        "PERMITTEE_NAME": "Paris Henry County Industrial Committee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Paris Bypass (TN-218)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123090",
+        "LATITUDE": 36.270353,
+        "LONGITUDE": -88.314037,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50798199999997,
+          36.19874400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123159",
+        "PERMITTEE_NAME": "Tosh Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "6730 SR-140",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123159",
+        "LATITUDE": 36.198744,
+        "LONGITUDE": -88.507982,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30565599999994,
+          36.28616400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.105",
+        "PERMITTEE_NAME": "City of Paris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1768176000000,
+        "EFFECTIVE_DATE": 1768176000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1020 Maurice Fields Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.105",
+        "LATITUDE": 36.286164,
+        "LONGITUDE": -88.305656,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32686699999994,
+          36.244417000000055
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123138",
+        "PERMITTEE_NAME": "Springhill Baptist Church of Paris, TN, INC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1301 SPRING HILL RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123138",
+        "LATITUDE": 36.244417,
+        "LONGITUDE": -88.326867,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32155099999994,
+          36.28629600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123102",
+        "PERMITTEE_NAME": "Henry County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1115 Tyson Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123102",
+        "LATITUDE": 36.286296,
+        "LONGITUDE": -88.321551,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30565599999994,
+          36.28616400000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123109",
+        "PERMITTEE_NAME": "City of Paris",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1020 Maurice Fields Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123109",
+        "LATITUDE": 36.286164,
+        "LONGITUDE": -88.305656,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30171399999995,
+          36.447700000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123113",
+        "PERMITTEE_NAME": "Pure Power Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1425 Highway 140 E",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123113",
+        "LATITUDE": 36.447700000000005,
+        "LONGITUDE": -88.30171399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30780999999996,
+          36.30088600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123201",
+        "PERMITTEE_NAME": "Barrow Development,LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Project bounded by Lone Oak road, Blythe Street and Cornerstone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123201",
+        "LATITUDE": 36.300886,
+        "LONGITUDE": -88.30780999999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31403699999998,
+          36.27035300000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123133",
+        "PERMITTEE_NAME": "Paris Henry County Industrial Committee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Paris Bypass (TN-218)",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123133",
+        "LATITUDE": 36.270353,
+        "LONGITUDE": -88.314037,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29934499999996,
+          36.29025400000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123173",
+        "PERMITTEE_NAME": "Owens Construction of Paris, LLC",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "Diamond Cove",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123173",
+        "LATITUDE": 36.290254,
+        "LONGITUDE": -88.299345,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13666099999995,
+          36.49348900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOP-26013",
+        "PERMITTEE_NAME": "Paris Pro Exterior Cleaning",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "SOP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "2010 Charlie Wynn Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOP-26013",
+        "LATITUDE": 36.493489,
+        "LONGITUDE": -88.13666099999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.33027799999996,
           36.34500000000003
         ]
@@ -4548,162 +3976,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:407016",
         "LATITUDE": 36.345,
         "LONGITUDE": -88.33027799999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.18149999999997,
-          36.164900000000046
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122406",
-        "PERMITTEE_NAME": "Paris Board of Public Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Paris, TN",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122406",
-        "LATITUDE": 36.1649,
-        "LONGITUDE": -88.1815,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.12922999999995,
-          36.409050000000036
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122526",
-        "PERMITTEE_NAME": "Aaron Perryman",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "242 Ham Williams Rd,, Springville, TN\r\nMap 047, Parcel 033.00",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122526",
-        "LATITUDE": 36.40905,
-        "LONGITUDE": -88.12922999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.50369099999995,
-          36.36335800000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNG670644",
-        "PERMITTEE_NAME": "ANR Pipeline Company",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Hydrostatic",
-        "ISSUANCE_DATE": 1781136000000,
-        "EFFECTIVE_DATE": 1781136000000,
-        "EXPIRATION_DATE": 1935273600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Near Grove Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG670644",
-        "LATITUDE": 36.363358,
-        "LONGITUDE": -88.50369099999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.28930099999997,
-          36.27334100000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122468",
-        "PERMITTEE_NAME": "Jay Sukhadia",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "460 Clifty Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122468",
-        "LATITUDE": 36.273340999999995,
-        "LONGITUDE": -88.289301,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.14676099999997,
-          36.391455000000065
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR059867",
-        "PERMITTEE_NAME": "Jay Crosby dba Crosby Gravel Pit",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1765929600000,
-        "EFFECTIVE_DATE": 1765929600000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "Antioch Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059867",
-        "LATITUDE": 36.391455,
-        "LONGITUDE": -88.146761,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.37350999999995,
-          36.37910800000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00368",
-        "PERMITTEE_NAME": "Jerry Stewart",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henry",
-        "SITE_LOCATION": "3299 Osage Whitlock Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00368",
-        "LATITUDE": 36.379107999999995,
-        "LONGITUDE": -88.37351,
         "permit_status": "Active"
       }
     },
@@ -4738,24 +4010,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.28408099999996,
-          36.31124200000005
+          -88.30565599999994,
+          36.28616400000004
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122467",
-        "PERMITTEE_NAME": "Jubilee Estates",
+        "PERMIT_NUMBER": "NR2602.042",
+        "PERMITTEE_NAME": "City of Paris",
         "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "CGP",
+        "PERMIT_TYPE": "ARAP",
         "ISSUANCE_DATE": null,
         "EFFECTIVE_DATE": null,
         "EXPIRATION_DATE": null,
         "TERMINATION_DATE": null,
         "COUNTY": "Henry",
-        "SITE_LOCATION": "130 Abbott Lane, Paris, TN 38242",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122467",
-        "LATITUDE": 36.311242,
-        "LONGITUDE": -88.284081,
+        "SITE_LOCATION": "1020 Maurice Fields Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.042",
+        "LATITUDE": 36.286164,
+        "LONGITUDE": -88.305656,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26653999999996,
+          36.39107500000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00382",
+        "PERMITTEE_NAME": "Broadway Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1788825600000,
+        "EFFECTIVE_DATE": 1788825600000,
+        "EXPIRATION_DATE": 1930003200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "1645 Jim Merrell Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00382",
+        "LATITUDE": 36.391075,
+        "LONGITUDE": -88.26653999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09248299999996,
+          36.43215500000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.205",
+        "PERMITTEE_NAME": "Tennessee Department of General Services",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henry",
+        "SITE_LOCATION": "16055 Highway 79 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.205",
+        "LATITUDE": 36.432155,
+        "LONGITUDE": -88.092483,
         "permit_status": "Pending"
       }
     }
