@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:12:21+00:00",
+  "generatedAt": "2026-11-11T20:13:12+00:00",
   "refreshDate": "2026-11-11",
   "sources": {
     "tdec": {
@@ -16,9 +16,9 @@
       "slug": "anderson",
       "name": "Anderson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Anderson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 135,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -32,9 +32,9 @@
       "slug": "bedford",
       "name": "Bedford",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Bedford%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 147,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -48,9 +48,9 @@
       "slug": "benton",
       "name": "Benton",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Benton%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 58,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -64,9 +64,9 @@
       "slug": "bledsoe",
       "name": "Bledsoe",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Bledsoe%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 37,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -80,9 +80,9 @@
       "slug": "blount",
       "name": "Blount",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Blount%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 238,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -96,9 +96,9 @@
       "slug": "bradley",
       "name": "Bradley",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Bradley%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 198,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -112,9 +112,9 @@
       "slug": "campbell",
       "name": "Campbell",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Campbell%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 104,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -128,9 +128,9 @@
       "slug": "cannon",
       "name": "Cannon",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Cannon%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 29,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -144,9 +144,9 @@
       "slug": "carroll",
       "name": "Carroll",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Carroll%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 137,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -160,9 +160,9 @@
       "slug": "carter",
       "name": "Carter",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Carter%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 109,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -176,9 +176,9 @@
       "slug": "cheatham",
       "name": "Cheatham",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Cheatham%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 116,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -192,9 +192,9 @@
       "slug": "chester",
       "name": "Chester",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Chester%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 46,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -208,9 +208,9 @@
       "slug": "claiborne",
       "name": "Claiborne",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Claiborne%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 63,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -224,9 +224,9 @@
       "slug": "clay",
       "name": "Clay",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Clay%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 17,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -240,9 +240,9 @@
       "slug": "cocke",
       "name": "Cocke",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Cocke%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 59,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -256,9 +256,9 @@
       "slug": "coffee",
       "name": "Coffee",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Coffee%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 156,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -272,9 +272,9 @@
       "slug": "crockett",
       "name": "Crockett",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Crockett%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 29,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -288,9 +288,9 @@
       "slug": "cumberland",
       "name": "Cumberland",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Cumberland%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 284,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -304,9 +304,9 @@
       "slug": "davidson",
       "name": "Davidson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Davidson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 1694,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -320,9 +320,9 @@
       "slug": "decatur",
       "name": "Decatur",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Decatur%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 51,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -336,9 +336,9 @@
       "slug": "dekalb",
       "name": "DeKalb",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27DeKalb%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 68,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -352,9 +352,9 @@
       "slug": "dickson",
       "name": "Dickson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Dickson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 173,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -368,9 +368,9 @@
       "slug": "dyer",
       "name": "Dyer",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Dyer%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 93,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -384,9 +384,9 @@
       "slug": "fayette",
       "name": "Fayette",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Fayette%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 297,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -400,9 +400,9 @@
       "slug": "fentress",
       "name": "Fentress",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Fentress%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 53,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -416,9 +416,9 @@
       "slug": "franklin",
       "name": "Franklin",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Franklin%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 103,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -432,9 +432,9 @@
       "slug": "gibson",
       "name": "Gibson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Gibson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 133,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -448,9 +448,9 @@
       "slug": "giles",
       "name": "Giles",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Giles%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 50,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -464,9 +464,9 @@
       "slug": "grainger",
       "name": "Grainger",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Grainger%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 30,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -480,9 +480,9 @@
       "slug": "greene",
       "name": "Greene",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Greene%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 160,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -496,9 +496,9 @@
       "slug": "grundy",
       "name": "Grundy",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Grundy%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 64,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -512,9 +512,9 @@
       "slug": "hamblen",
       "name": "Hamblen",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Hamblen%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 168,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -528,9 +528,9 @@
       "slug": "hamilton",
       "name": "Hamilton",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Hamilton%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 1028,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -544,9 +544,9 @@
       "slug": "hancock",
       "name": "Hancock",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Hancock%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 28,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -560,9 +560,9 @@
       "slug": "hardeman",
       "name": "Hardeman",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Hardeman%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 72,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -576,9 +576,9 @@
       "slug": "hardin",
       "name": "Hardin",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Hardin%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 156,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -592,9 +592,9 @@
       "slug": "hawkins",
       "name": "Hawkins",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Hawkins%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 146,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -608,9 +608,9 @@
       "slug": "haywood",
       "name": "Haywood",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Haywood%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 55,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -624,9 +624,9 @@
       "slug": "henderson",
       "name": "Henderson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Henderson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 118,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -640,9 +640,9 @@
       "slug": "henry",
       "name": "Henry",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Henry%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 157,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -656,9 +656,9 @@
       "slug": "hickman",
       "name": "Hickman",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Hickman%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 63,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -672,9 +672,9 @@
       "slug": "houston",
       "name": "Houston",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Houston%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 24,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -688,9 +688,9 @@
       "slug": "humphreys",
       "name": "Humphreys",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Humphreys%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 114,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -704,9 +704,9 @@
       "slug": "jackson",
       "name": "Jackson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Jackson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 55,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -720,9 +720,9 @@
       "slug": "jefferson",
       "name": "Jefferson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Jefferson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 127,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -736,9 +736,9 @@
       "slug": "johnson",
       "name": "Johnson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Johnson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 78,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -752,9 +752,9 @@
       "slug": "knox",
       "name": "Knox",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Knox%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 767,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -768,9 +768,9 @@
       "slug": "lake",
       "name": "Lake",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Lake%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 14,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -784,9 +784,9 @@
       "slug": "lauderdale",
       "name": "Lauderdale",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Lauderdale%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 39,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -800,9 +800,9 @@
       "slug": "lawrence",
       "name": "Lawrence",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Lawrence%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 91,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -816,9 +816,9 @@
       "slug": "lewis",
       "name": "Lewis",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Lewis%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 24,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -832,9 +832,9 @@
       "slug": "lincoln",
       "name": "Lincoln",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Lincoln%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 44,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -848,9 +848,9 @@
       "slug": "loudon",
       "name": "Loudon",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Loudon%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 262,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -864,9 +864,9 @@
       "slug": "macon",
       "name": "Macon",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Macon%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 65,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -880,9 +880,9 @@
       "slug": "madison",
       "name": "Madison",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Madison%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 322,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -896,9 +896,9 @@
       "slug": "marion",
       "name": "Marion",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Marion%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 115,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -912,9 +912,9 @@
       "slug": "marshall",
       "name": "Marshall",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Marshall%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 103,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -928,9 +928,9 @@
       "slug": "maury",
       "name": "Maury",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Maury%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 358,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -944,9 +944,9 @@
       "slug": "mcminn",
       "name": "McMinn",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27McMinn%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 145,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -960,9 +960,9 @@
       "slug": "mcnairy",
       "name": "McNairy",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27McNairy%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 74,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -976,9 +976,9 @@
       "slug": "meigs",
       "name": "Meigs",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Meigs%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 33,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -992,9 +992,9 @@
       "slug": "monroe",
       "name": "Monroe",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Monroe%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 116,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1008,9 +1008,9 @@
       "slug": "montgomery",
       "name": "Montgomery",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Montgomery%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 849,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1024,9 +1024,9 @@
       "slug": "moore",
       "name": "Moore",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Moore%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 23,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1040,9 +1040,9 @@
       "slug": "morgan",
       "name": "Morgan",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Morgan%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 34,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1056,9 +1056,9 @@
       "slug": "obion",
       "name": "Obion",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Obion%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 92,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1072,9 +1072,9 @@
       "slug": "overton",
       "name": "Overton",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Overton%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 72,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1088,9 +1088,9 @@
       "slug": "perry",
       "name": "Perry",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Perry%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 31,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1104,9 +1104,9 @@
       "slug": "pickett",
       "name": "Pickett",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Pickett%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 14,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1120,9 +1120,9 @@
       "slug": "polk",
       "name": "Polk",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Polk%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 46,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1136,9 +1136,9 @@
       "slug": "putnam",
       "name": "Putnam",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Putnam%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 201,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1152,9 +1152,9 @@
       "slug": "rhea",
       "name": "Rhea",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Rhea%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 109,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1168,9 +1168,9 @@
       "slug": "roane",
       "name": "Roane",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Roane%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 155,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1184,9 +1184,9 @@
       "slug": "robertson",
       "name": "Robertson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Robertson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 313,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1200,9 +1200,9 @@
       "slug": "rutherford",
       "name": "Rutherford",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Rutherford%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 1109,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1216,9 +1216,9 @@
       "slug": "scott",
       "name": "Scott",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Scott%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 33,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1232,9 +1232,9 @@
       "slug": "sequatchie",
       "name": "Sequatchie",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Sequatchie%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 35,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1248,9 +1248,9 @@
       "slug": "sevier",
       "name": "Sevier",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Sevier%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 446,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1264,9 +1264,9 @@
       "slug": "shelby",
       "name": "Shelby",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Shelby%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 1193,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1280,9 +1280,9 @@
       "slug": "smith",
       "name": "Smith",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Smith%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 54,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1296,9 +1296,9 @@
       "slug": "stewart",
       "name": "Stewart",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Stewart%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 49,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1312,9 +1312,9 @@
       "slug": "sullivan",
       "name": "Sullivan",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Sullivan%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 230,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1328,9 +1328,9 @@
       "slug": "sumner",
       "name": "Sumner",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Sumner%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 731,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1344,9 +1344,9 @@
       "slug": "tipton",
       "name": "Tipton",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Tipton%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 92,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1360,9 +1360,9 @@
       "slug": "trousdale",
       "name": "Trousdale",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Trousdale%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 32,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1376,9 +1376,9 @@
       "slug": "unicoi",
       "name": "Unicoi",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Unicoi%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 65,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1392,9 +1392,9 @@
       "slug": "union",
       "name": "Union",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Union%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 83,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1408,9 +1408,9 @@
       "slug": "van-buren",
       "name": "Van Buren",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Van+Buren%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 51,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1424,9 +1424,9 @@
       "slug": "warren",
       "name": "Warren",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Warren%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 109,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1440,9 +1440,9 @@
       "slug": "washington",
       "name": "Washington",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Washington%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 240,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1456,9 +1456,9 @@
       "slug": "wayne",
       "name": "Wayne",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Wayne%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 43,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1472,9 +1472,9 @@
       "slug": "weakley",
       "name": "Weakley",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Weakley%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 104,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1488,9 +1488,9 @@
       "slug": "white",
       "name": "White",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27White%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 67,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1504,9 +1504,9 @@
       "slug": "williamson",
       "name": "Williamson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Williamson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 877,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {
@@ -1520,9 +1520,9 @@
       "slug": "wilson",
       "name": "Wilson",
       "tdec": {
-        "status": "error",
-        "features": 0,
-        "message": "Request failed for https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query?where=COUNTY+%3D+%27Wilson%27+AND+PERMITTING_ACTION+IN+%28%27Active%27%2C%27Pending%27%2C%27Incomplete%27%29&outFields=PERMIT_NUMBER%2CPERMITTEE_NAME%2CPERMITTING_ACTION%2CPERMIT_TYPE%2CISSUANCE_DATE%2CEFFECTIVE_DATE%2CEXPIRATION_DATE%2CTERMINATION_DATE%2CCOUNTY%2CSITE_LOCATION%2CURL%2CLATITUDE%2CLONGITUDE&returnGeometry=true&outSR=4326&f=geojson&resultOffset=0&resultRecordCount=1000",
+        "status": "ok",
+        "features": 818,
+        "changed": false,
         "lastSuccessfulRefresh": "2026-11-11"
       },
       "echo": {

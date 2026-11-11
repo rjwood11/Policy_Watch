@@ -32,6 +32,33 @@ The owner explicitly chose to preserve the existing full permit coverage.
 
 ## Restoring unattended refreshes
 
+The owner chose a weekly **local** water-permit refresh, Fridays at **9 AM
+America/Chicago**, followed by validation, a scoped data commit, and a push to
+GitHub. A Codex scheduled task performs this work on the owner's computer;
+the computer and app must be running. Source downloads and before/after versions
+are preserved in the ignored local `data/archives/` directory. Only the refreshed
+public caches and metadata are committed. The task stops if the checkout contains
+unrelated changes, the downloads fail, or validation fails.
+
+GitHub-hosted full refreshes now run the weekly ECHO source only, preserving
+the locally published TDEC water cache and its success status/date. Local full
+refreshes still attempt both sources. This policy applies to the weekly water
+permit cache; the separate landfill and survey permit-detail feeds keep their
+existing refresh behavior.
+
+To run the water refresh manually from the project directory:
+
+```powershell
+python -u -m scripts.refresh.weekly_layers --source tdec --strict
+python -m scripts.validate.validate_prototype_outputs
+npm run check
+```
+
+After successful checks, use `PUBLISH-TO-GITHUB.bat` to publish deliberate local
+changes. The scheduled task commits only its TDEC water data and metadata.
+
+### Future direct GitHub access
+
 TDEC must provide an approved public endpoint or bulk download with equivalent
 records and fields, or permit access from a GitHub refresh runner. This repository
 does not route requests through third-party proxies or install a local runner.

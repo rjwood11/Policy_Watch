@@ -20,6 +20,13 @@ import requests
 
 
 class RefreshTests(unittest.TestCase):
+    def test_cloud_refresh_preserves_locally_managed_tdec_water_cache(self):
+        with patch.dict(os.environ, {"GITHUB_ACTIONS": "true"}):
+            command = online.weekly_refresh_command()
+            self.assertEqual(command[-2:], ["--source", "echo"])
+        with patch.dict(os.environ, {"GITHUB_ACTIONS": ""}):
+            self.assertNotIn("--source", online.weekly_refresh_command())
+
     def test_tdec_forbidden_is_actionable_and_not_retried(self):
         session = Mock()
         session.get.return_value.status_code = 403

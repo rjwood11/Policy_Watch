@@ -284,7 +284,10 @@ def configure_registry() -> None:
     sources = registry()
     for source in sources:
         name = source["dataset"]
-        if name in GIS_DATASETS or name in {"TDEC DWR public water resources permits", "EPA ECHO CWA permit compliance", "Superfund sites", "Decentralized wastewater systems", "Decentralized wastewater permit details"}:
+        if name == "TDEC DWR public water resources permits":
+            source["refreshFrequency"] = "Weekly local refresh; published to GitHub"
+            source.setdefault("refreshStatus", "Awaiting first local refresh")
+        elif name in GIS_DATASETS or name in {"EPA ECHO CWA permit compliance", "Superfund sites", "Decentralized wastewater systems", "Decentralized wastewater permit details"}:
             source["refreshFrequency"] = "Weekly check; latest available agency release"
             source.setdefault("refreshStatus", "Awaiting first scheduled refresh")
         elif name == "Land use / land cover":
@@ -393,9 +396,9 @@ def main():
             run(source["dataset"], {source["dataset"]}, check_live)
     run("legislator reference documents", set(), refresh_reference_evidence)
     # Separate process keeps the weekly script's CLI and per-county failure isolation.
-    result = subprocess.run([sys.executable, "-u", "-m", "scripts.refresh.weekly_layers", "--strict"], check=False)
+    result = subprocess.run(weekly_refresh_command(), check=False)
     if result.returncode:
-        failures.append("Some TDEC / ECHO counties could not refresh; see weekly manifest")
+        failures.append("Some weekly permit/compliance counties could not refresh; see weekly manifest")
     configure_registry()
     summary = "\n".join(["## Data refresh", f"Checked: {TODAY}", *[f"- {item}" for item in failures]])
     if os.environ.get("GITHUB_STEP_SUMMARY"):
@@ -404,6 +407,16 @@ def main():
     print(summary)
     # The workflow publishes successful sources and then reports degraded runs.
     write_json(config.METADATA_DIR / "refresh-run.json", {"checkedAt": TODAY, "failures": failures})
+
+
+def weekly_refresh_command() -> list[str]:
+    command = [sys.executable, "-u", "-m", "scripts.refresh.weekly_layers", "--strict"]
+    # The owner refreshes TDEC water permits locally and publishes the cache.
+    # Cloud jobs must preserve that source's successful date/status rather than
+    # replace them with the known GitHub-hosted access denial each Saturday.
+    if os.environ.get("GITHUB_ACTIONS", "").lower() == "true":
+        command.extend(["--source", "echo"])
+    return command
 
 
 if __name__ == "__main__":

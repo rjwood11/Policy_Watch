@@ -100,10 +100,10 @@
     "purpose": "Interactive county-map overlay differentiating active permit records from pending or incomplete permit records.",
     "sourceName": "TDEC DWR Public MapServer layer 1",
     "sourceUrl": "https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1",
-    "refreshFrequency": "Weekly check; latest available agency release",
+    "refreshFrequency": "Weekly local refresh; published to GitHub",
     "lastUpdated": "2026-11-11",
     "notes": "County maps use a static weekly cache generated from the public TDEC DWR MapServer. The browser falls back to the live service when a cache file is unavailable.",
-    "refreshStatus": "Refresh failed; previous data retained",
+    "refreshStatus": "Current",
     "lastChecked": "2026-11-11"
   },
   {

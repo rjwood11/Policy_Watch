@@ -604,7 +604,7 @@ def update_source_metadata(
                     else "Refresh failed; previous data retained"
                 )
             if source.get("dataset") == "TDEC DWR public water resources permits" and tdec_ok:
-                source["refreshFrequency"] = "Weekly cache"
+                source["refreshFrequency"] = "Weekly local refresh; published to GitHub"
                 source["lastUpdated"] = refresh_date
                 source["notes"] = (
                     "County maps use a static weekly cache generated from the public TDEC DWR MapServer. "
