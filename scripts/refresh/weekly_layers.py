@@ -8,6 +8,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlsplit
 
 import requests
 
@@ -32,6 +33,10 @@ ECHO_FIELDS = (
 FeatureCollection = dict[str, Any]
 Feature = dict[str, Any]
 Properties = dict[str, Any]
+
+
+class TdecAccessError(RuntimeError):
+    """The agency rejected access before returning any permit data."""
 
 
 def read_json(path: Path) -> Any:
@@ -79,6 +84,14 @@ def request_json(
     for attempt in range(attempts):
         try:
             response = session.get(url, params=params, timeout=timeout)
+            if response.status_code == 403 and urlsplit(url).hostname == "tdeconline.tn.gov":
+                raise TdecAccessError(
+                    f"TDEC returned HTTP 403 Forbidden for {url}. No source data was received. "
+                    "Keep the previous complete permit cache and its successful-refresh date. "
+                    "Unattended GitHub updates require TDEC to allow this runner or provide "
+                    "an approved endpoint with the same complete permit coverage. "
+                    "See docs/tdec-feed-access.md."
+                )
             if response.status_code == 429 and attempt < attempts - 1:
                 retry_after = response.headers.get("Retry-After")
                 try:
@@ -487,7 +500,25 @@ def load_counties(filters: list[str]) -> list[dict[str, Any]]:
     return selected
 
 
-def refresh_county(session: requests.Session, county: dict[str, Any], sources: set[str]) -> dict[str, Any]:
+def tdec_preflight_error(session: requests.Session, sources: set[str]) -> str | None:
+    """Check shared service access once before starting the county workers."""
+    if "tdec" not in sources:
+        return None
+    try:
+        payload = request_json(session, TDEC_PERMITS_URL, params={
+            "f": "json", "where": "1=1", "returnCountOnly": "true",
+        })
+        if not isinstance(payload, dict) or type(payload.get("count")) is not int or payload["count"] <= 0:
+            raise ValueError("TDEC statewide permit count is missing, empty, or invalid")
+    except Exception as exc:  # A shared outage must not overwrite any county's cache.
+        return str(exc)
+    return None
+
+
+def refresh_county(
+    session: requests.Session, county: dict[str, Any], sources: set[str],
+    *, tdec_error: str | None = None,
+) -> dict[str, Any]:
     slug = str(county["slug"])
     name = str(county["name"])
     county_dir = WEEKLY_DIR / slug
@@ -500,6 +531,8 @@ def refresh_county(session: requests.Session, county: dict[str, Any], sources: s
 
     if "tdec" in sources:
         try:
+            if tdec_error is not None:
+                raise RuntimeError(tdec_error)
             permits = fetch_tdec_permits(session, name)
             changed = write_json(county_dir / "tdec-permits.geojson", permits)
             result["tdec"] = {"status": "ok", "features": len(permits.get("features", [])), "changed": changed}
@@ -677,12 +710,15 @@ def main() -> None:
     )
 
     WEEKLY_DIR.mkdir(parents=True, exist_ok=True)
+    tdec_error = tdec_preflight_error(session, sources)
+    if tdec_error:
+        print(f"TDEC service preflight failed: {tdec_error}", flush=True)
     results: list[dict[str, Any]] = []
     def download(county):
         # Each worker owns its session; requests.Session is not shared across threads.
         with requests.Session() as worker_session:
             worker_session.headers.update(session.headers)
-            return refresh_county(worker_session, county, sources)
+            return refresh_county(worker_session, county, sources, tdec_error=tdec_error)
 
     with ThreadPoolExecutor(max_workers=args.workers) as executor:
         for index, result in enumerate(executor.map(download, counties), start=1):

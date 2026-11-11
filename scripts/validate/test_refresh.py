@@ -20,6 +20,50 @@ import requests
 
 
 class RefreshTests(unittest.TestCase):
+    def test_tdec_forbidden_is_actionable_and_not_retried(self):
+        session = Mock()
+        session.get.return_value.status_code = 403
+        with patch.object(weekly.time, "sleep") as sleep:
+            with self.assertRaisesRegex(weekly.TdecAccessError, "approved endpoint"):
+                weekly.request_json(session, weekly.TDEC_PERMITS_URL, params={"f": "json"})
+        self.assertEqual(session.get.call_count, 1)
+        sleep.assert_not_called()
+
+    def test_temporary_server_error_still_retries(self):
+        session = Mock()
+        session.get.side_effect = [Mock(status_code=503), Mock(status_code=200)]
+        with patch.object(weekly.time, "sleep"):
+            weekly.request_json(session, weekly.TDEC_PERMITS_URL, params={"f": "json"})
+        self.assertEqual(session.get.call_count, 2)
+
+    def test_tdec_preflight_is_skipped_for_echo_and_rejects_invalid_counts(self):
+        with patch.object(weekly, "request_json") as fetch:
+            self.assertIsNone(weekly.tdec_preflight_error(Mock(), {"echo"}))
+            fetch.assert_not_called()
+            for payload in [{}, {"count": 0}, {"count": True}, {"error": {"message": "Unavailable"}}]:
+                fetch.return_value = payload
+                self.assertIsNotNone(weekly.tdec_preflight_error(Mock(), {"tdec"}))
+            fetch.return_value = {"count": 123}
+            self.assertIsNone(weekly.tdec_preflight_error(Mock(), {"tdec"}))
+
+    def test_shared_tdec_access_failure_preserves_caches_and_continues_echo(self):
+        with tempfile.TemporaryDirectory() as folder:
+            directory = Path(folder)
+            path = directory / "a" / "tdec-permits.geojson"
+            weekly.write_json(path, {"type": "FeatureCollection", "features": [{"id": "retained"}]})
+            previous = path.read_bytes()
+            with patch.object(weekly, "WEEKLY_DIR", directory), \
+                 patch.object(weekly, "fetch_tdec_permits") as tdec, \
+                 patch.object(weekly, "fetch_echo_violations", return_value=weekly.empty_collection()) as echo:
+                result = weekly.refresh_county(Mock(), {"slug": "a", "name": "A"},
+                                              {"tdec", "echo"}, tdec_error="TDEC HTTP 403")
+            tdec.assert_not_called()
+            echo.assert_called_once()
+            self.assertEqual(path.read_bytes(), previous)
+            self.assertEqual(result["tdec"]["status"], "error")
+            self.assertEqual(result["tdec"]["message"], "TDEC HTTP 403")
+            self.assertEqual(result["echo"]["status"], "ok")
+
     def test_census_key_stays_local_and_environment_takes_precedence(self):
         with tempfile.TemporaryDirectory() as folder:
             directory = Path(folder)

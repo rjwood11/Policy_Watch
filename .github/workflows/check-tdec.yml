@@ -8,49 +8,13 @@ permissions:
 
 jobs:
   check:
-    strategy:
-      fail-fast: false
-      matrix:
-        os: [macos-latest]
-    runs-on: ${{ matrix.os }}
-    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: python -m pip install requests
-      - name: Check public layer metadata and queries
-        shell: python
-        run: |
-          import requests
-          bases = [
-              "https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1",
-              "https://tdeconline.tn.gov/arcgis/rest/services/SWM_Permits/MapServer/0",
-              "https://maps.tdec.tn.gov/hosting/rest/services/Permitted_Tennessee_Landfills/FeatureServer/0",
-          ]
-          for base in bases:
-              for browser in (False, True):
-                  with requests.Session() as session:
-                      if browser:
-                          session.headers.update({
-                              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 PolicyWatch/0.1",
-                              "Origin": "https://tdeconline.tn.gov",
-                              "Referer": "https://tdeconline.tn.gov/",
-                          })
-                      for method, path, params in [
-                          ("GET", "", {"f": "json"}),
-                          ("GET", "/query", {"f": "json", "where": "1=1", "returnCountOnly": "true"}),
-                          ("POST", "/query", {"f": "json", "where": "1=1", "returnCountOnly": "true"}),
-                      ]:
-                          try:
-                              args = {"params" if method == "GET" else "data": params}
-                              response = session.request(method, base + path, timeout=25, **args)
-                              print(base, browser, method, path, response.status_code,
-                                    response.headers.get("Content-Type"), flush=True)
-                              try:
-                                  data = response.json()
-                                  print({key: data[key] for key in ("name", "count", "error") if key in data}, flush=True)
-                              except ValueError:
-                                  print(response.text[:300], flush=True)
-                          except requests.RequestException as exc:
-                              print(type(exc).__name__, flush=True)
+      - name: Verify complete permit feeds are accessible
+        run: python -m scripts.validate.check_tdec
