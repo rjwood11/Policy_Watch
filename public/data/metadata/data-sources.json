@@ -103,7 +103,7 @@
     "refreshFrequency": "Weekly check; latest available agency release",
     "lastUpdated": "2026-11-11",
     "notes": "County maps use a static weekly cache generated from the public TDEC DWR MapServer. The browser falls back to the live service when a cache file is unavailable.",
-    "refreshStatus": "Current",
+    "refreshStatus": "Refresh failed; previous data retained",
     "lastChecked": "2026-11-11"
   },
   {
@@ -114,7 +114,7 @@
     "refreshFrequency": "Weekly check; latest available agency release",
     "lastUpdated": "2026-11-11",
     "notes": "County maps include only solid waste permit records whose PERMIT_TYPE is CLASS I, CLASS II, CLASS III, CLASS IV, or COAL ASH. Convenience centers, recycling centers, transfer stations, tire storage, processing, land application, and special waste records are excluded. Multiple permit records at the same site are aggregated into one landfill point and clipped to a padded county context viewport.",
-    "refreshStatus": "Current",
+    "refreshStatus": "Refresh failed; previous data retained",
     "lastChecked": "2026-11-11"
   },
   {
@@ -204,17 +204,6 @@
     "notes": "State names follow the official House and Senate directories for the 115th General Assembly. U.S. House winners follow Tennessee Firefly's reporting of Secretary of State returns, pending certification; the incoming congressional term begins January 3, 2027. Boundary refreshes do not refresh member names. Detailed sources and changes are saved in data/metadata/legislative-update.json."
   },
   {
-    "dataset": "Land use / land cover",
-    "purpose": "Basic county land-cover context with category explanations on hover.",
-    "sourceName": "USGS Annual NLCD 2025",
-    "sourceUrl": "https://www.usgs.gov/centers/eros/science/annual-nlcd-data-access",
-    "refreshFrequency": "Monthly check for latest annual release",
-    "lastUpdated": "2026-11-11",
-    "notes": "Tennessee-only WCS subset, nearest-neighbor sampled at 300 Web Mercator meters (approximately 240\u2013250 ground meters), grouped into broad classes and masked to county boundaries. Local compressed PNGs are loaded only when enabled. Small features can be omitted; this is land cover, not zoning or an official urban/rural classification. The source observation year is 2025.",
-    "lastChecked": "2026-11-11",
-    "refreshStatus": "Current"
-  },
-  {
     "dataset": "Superfund sites",
     "purpose": "Locate EPA Superfund sites on county maps with listing status and site profiles.",
     "sourceName": "US EPA Superfund NPL Sites with Status Information",
@@ -222,6 +211,17 @@
     "refreshFrequency": "Weekly check; latest available agency release",
     "lastUpdated": "2026-11-11",
     "notes": "Point layer used in EPA's official Where You Live map. Includes current and deleted NPL sites; status is retained as published. County assignment follows EPA's County field, including multi-county sites. Markers are reference locations, not site or contamination boundaries. An empty county means no sites in this dataset, not an absence of all contaminated properties.",
+    "lastChecked": "2026-11-11",
+    "refreshStatus": "Current"
+  },
+  {
+    "dataset": "Land use / land cover",
+    "purpose": "Basic county land-cover context with category explanations on hover.",
+    "sourceName": "USGS Annual NLCD 2025",
+    "sourceUrl": "https://www.usgs.gov/centers/eros/science/annual-nlcd-data-access",
+    "refreshFrequency": "Monthly check for latest annual release",
+    "lastUpdated": "2026-11-11",
+    "notes": "Tennessee-only WCS subset, nearest-neighbor sampled at 300 Web Mercator meters (approximately 240\u2013250 ground meters), grouped into broad classes and masked to county boundaries. Local compressed PNGs are loaded only when enabled. Small features can be omitted; this is land cover, not zoning or an official urban/rural classification. The source observation year is 2025.",
     "lastChecked": "2026-11-11",
     "refreshStatus": "Current"
   }

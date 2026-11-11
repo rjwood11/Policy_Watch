@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-11-11",
-  "failures": [],
-  "recoveredOnRetry": [
-    "GIS and Superfund refreshed successfully after adding atomic writes and bounded Windows file-lock retries."
+  "failures": [
+    "Solid waste landfill permit locations: Request failed for https://tdeconline.tn.gov/arcgis/rest/services/SWM_Permits/MapServer/0: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/SWM_Permits/MapServer/0?f=json",
+    "Some TDEC / ECHO counties could not refresh; see weekly manifest"
   ]
 }
