@@ -158,6 +158,8 @@ export type CountyMapRecord = {
   landfills: CountyMapCollection;
   superfundSites: CountyMapCollection;
   superfundUpdatedAt: string;
+  decentralizedWastewater: CountyMapCollection;
+  decentralizedWastewaterUpdatedAt: string;
   districts: {
     senate: CountyMapCollection;
     house: CountyMapCollection;

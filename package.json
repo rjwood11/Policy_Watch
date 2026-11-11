@@ -16,6 +16,7 @@
     "data:refresh-census": "python -u -m scripts.refresh.census",
     "data:refresh-echo": "python -m scripts.refresh.weekly_layers --source echo --metadata-if-changed",
     "data:refresh-superfund": "python -m scripts.refresh.superfund",
+    "data:refresh-wastewater": "python -m scripts.refresh.decentralized_wastewater",
     "data:build-landuse": "python -m scripts.refresh.landuse",
     "data:build": "python -m scripts.summaries.build_prototype_data",
     "data:archive": "python -m scripts.common.source_archive snapshot",

@@ -30,6 +30,7 @@ from scripts.download.data_fetchers import (
 )
 from scripts.normalize.spatial_processing import simplify_for_web, spatial_labels, write_geojson
 from scripts.refresh.superfund import apply_cached_superfund
+from scripts.refresh.decentralized_wastewater import apply_cached as apply_cached_wastewater
 from scripts.refresh.landuse import apply_cached_landuse_metadata
 from scripts.summaries.county_contracts import write_county_map_payloads, write_metadata, write_processed_summary
 from scripts.validate.validate_prototype_outputs import validate_outputs
@@ -145,6 +146,7 @@ def main(inputs: dict | None = None) -> None:
     )
     write_metadata(build_date=context.build_date)
     apply_cached_superfund()
+    apply_cached_wastewater()
     apply_cached_landuse_metadata()
 
     errors = validate_outputs()

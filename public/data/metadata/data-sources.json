@@ -224,5 +224,27 @@
     "notes": "Tennessee-only WCS subset, nearest-neighbor sampled at 300 Web Mercator meters (approximately 240\u2013250 ground meters), grouped into broad classes and masked to county boundaries. Local compressed PNGs are loaded only when enabled. Small features can be omitted; this is land cover, not zoning or an official urban/rural classification. The source observation year is 2025.",
     "lastChecked": "2026-11-11",
     "refreshStatus": "Current"
+  },
+  {
+    "dataset": "Decentralized wastewater systems",
+    "purpose": "Locate decentralized wastewater systems surveyed by TDEC.",
+    "sourceName": "TDEC Division of Water Resources \u2014 SOP Drip Investigation Survey",
+    "sourceUrl": "https://www.arcgis.com/apps/dashboards/c83fa34306ce4283b6cdec1f8e35259a",
+    "lastUpdated": "2026-11-11",
+    "lastChecked": "2026-11-11",
+    "refreshFrequency": "Weekly check; latest available agency release",
+    "refreshStatus": "Current",
+    "notes": "One marker per SOP or TN permit at its latest surveyed location; repeat visits are grouped. Full system names use the survey's coded-value labels. The dashboard's removal filter is preserved. Survey points may locate drip fields rather than treatment buildings and do not establish current operating status. This survey is not a complete statewide plant inventory. No photos, attachments, inspector names, or inspection narratives are downloaded. Agency data last edited: 2026-03-18."
+  },
+  {
+    "dataset": "Decentralized wastewater permit details",
+    "purpose": "Identify listed permittees and basic permit information for surveyed systems.",
+    "sourceName": "TDEC DWR public water resources permits",
+    "sourceUrl": "https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1/query",
+    "lastUpdated": "2026-11-11",
+    "lastChecked": "2026-11-11",
+    "refreshFrequency": "Weekly check; latest available agency release",
+    "refreshStatus": "Current",
+    "notes": "Joined by exact normalized SOP/TN permit number, across all permit actions. Permittee is the agency's listed entity, not independently verified legal ownership. Unmatched systems retain their survey names with no inferred owner. When TDEC rejects access, earlier permit details and their retrieval dates are retained independently of survey updates."
   }
 ]

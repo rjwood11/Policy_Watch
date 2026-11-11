@@ -1,6 +1,6 @@
 import { GlossaryText } from "@/components/GlossaryText";
 
-export type LayerKey = "watershed" | "utilities" | "protected" | "landfills" | "superfund" | "landuse" | "districts" | "impaired" | "permits" | "echo";
+export type LayerKey = "watershed" | "utilities" | "protected" | "landfills" | "superfund" | "wastewater" | "landuse" | "districts" | "impaired" | "permits" | "echo";
 
 export type LegendGroup = {
   key: LayerKey;

@@ -61,6 +61,16 @@ Point `--source` at the extracted directory containing `objects/` and `runs/`. I
 
 ## Live-service limits
 
+Decentralized wastewater refreshes preserve the TDEC drip survey's selected basic
+attributes and its field definitions (including full system-name labels), plus
+the basic water-permit records used to identify listed permittees. Photos,
+attachments, inspector identities, and inspection narratives are not requested.
+The committed cache groups repeat visits into one reference point per permit;
+the local archive retains the individual basic survey records before grouping.
+Survey and permit-detail retrieval dates are tracked separately. If the water
+permit service rejects GitHub access, the survey can still update while earlier
+permit details and their dates are retained.
+
 ATTAINS data can be recovered from the saved Tennessee GeoJSON even if EPA removes that endpoint. The browser's existing fallback still uses the local TDEC impairment layer; recovery of the archived EPA snapshot is a separate operation, and the archive does not change which overlay the browser uses.
 
 The TNMap address locator's service definition is archived, but its private search index cannot be exported through that endpoint. Individual addresses entered by users are not logged or archived. OpenStreetMap background tiles and externally hosted fonts are presentation services, not the saved environmental datasets; this backup does not mirror their global tile/font catalogs. Those services would need a replacement provider or a separately licensed offline package if discontinued. The locally stored environmental geometries, summaries, and source history are independent of them.

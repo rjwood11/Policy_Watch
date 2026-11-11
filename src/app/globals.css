@@ -68,3 +68,8 @@ a {
 #county-map .maplibregl-popup-content:has(> .maplibregl-popup-close-button) {
   padding-right: 44px;
 }
+
+#county-map .wastewater-popup .maplibregl-popup-content {
+  max-height: min(320px, 60vh);
+  overflow-y: auto;
+}

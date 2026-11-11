@@ -74,7 +74,7 @@ jobs:
 
       - name: Check refresh failure handling
         if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers) }}
-        run: python -m unittest scripts.validate.test_refresh scripts.validate.test_archive
+        run: python -m unittest scripts.validate.test_refresh scripts.validate.test_archive scripts.validate.test_wastewater
 
       - name: Verify source archive
         if: ${{ always() && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_live_layers)) }}

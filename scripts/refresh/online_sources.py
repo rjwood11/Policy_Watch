@@ -57,19 +57,21 @@ def record(names, status: str, *, successful: bool = False) -> None:
             if successful:
                 source["lastUpdated"] = TODAY
                 dates[GIS_DATASETS.get(source["dataset"], {
-                    "Superfund sites": "superfund", "Land use / land cover": "land-cover"
+                    "Superfund sites": "superfund", "Land use / land cover": "land-cover",
+                    "Decentralized wastewater systems": "decentralized-wastewater",
+                    "Decentralized wastewater permit details": "decentralized-wastewater-permits",
                 }.get(source["dataset"], source["dataset"]))] = TODAY
     write_json(config.METADATA_DIR / "data-sources.json", sources)
     write_json(config.METADATA_DIR / "last-updated.json", dates)
 
 
-def transaction(action) -> None:
+def transaction(action):
     # Back up only generated public data; never move or remove the workspace.
     with tempfile.TemporaryDirectory(prefix="policywatch-refresh-") as directory:
         backup = Path(directory) / "data"
         shutil.copytree(config.PUBLIC_DATA, backup, copy_function=copy_file_atomic)
         try:
-            action()
+            return action()
         except (Exception, SystemExit) as exc:
             for path in backup.rglob("*"):
                 if path.is_file():
@@ -282,7 +284,7 @@ def configure_registry() -> None:
     sources = registry()
     for source in sources:
         name = source["dataset"]
-        if name in GIS_DATASETS or name in {"TDEC DWR public water resources permits", "EPA ECHO CWA permit compliance", "Superfund sites"}:
+        if name in GIS_DATASETS or name in {"TDEC DWR public water resources permits", "EPA ECHO CWA permit compliance", "Superfund sites", "Decentralized wastewater systems", "Decentralized wastewater permit details"}:
             source["refreshFrequency"] = "Weekly check; latest available agency release"
             source.setdefault("refreshStatus", "Awaiting first scheduled refresh")
         elif name == "Land use / land cover":
@@ -362,6 +364,8 @@ def main():
         apply_cached_superfund()
         record({"Superfund sites"}, "Current", successful=True)
     run("Superfund", {"Superfund sites"}, lambda: transaction(superfund))
+    from scripts.refresh.decentralized_wastewater import refresh as refresh_wastewater
+    run("decentralized wastewater", {"Decentralized wastewater systems"}, lambda: transaction(refresh_wastewater))
     if args.include_landcover or date.today().day <= 7:
         run("land cover", {"Land use / land cover"}, lambda: transaction(refresh_landcover))
     for source in registry():

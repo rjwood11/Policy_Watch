@@ -8,7 +8,7 @@ Water Policy Watch helps people explore water quality and environmental conditio
 
 - Choose a county from the Tennessee map or county directory.
 - Explore rivers, water-quality assessments, watersheds, water permits, and compliance records.
-- Turn map layers on and off to view drinking-water service areas, protected lands, landfills, Superfund sites, land cover, and legislative districts.
+- Turn map layers on and off to view drinking-water service areas, decentralized wastewater systems, protected lands, landfills, Superfund sites, land cover, and legislative districts.
 - Read county summaries covering population, poverty, monitoring stations, impaired river miles, and environmental screening indicators.
 - Compare counties through statewide rankings and review the Sources page.
 - Enable ECHO violations on a county map to read a short explanation of the compliance flags, and use the Glossary for agency, mapping, and permit acronyms. Dotted-underlined acronyms also provide hover definitions.
@@ -32,6 +32,20 @@ To refresh locally, run `npm run data:refresh-online` (Python dependencies: `pip
 If Census requires authentication, add an agency-issued API key as the repository Actions secret `CENSUS_API_KEY` (or as a local environment variable). Without it, existing ACS indicators and their dates are retained while other sources can refresh. USGS and other agency outages are also reported without advancing affected refresh dates.
 
 For local Census updates, set `CENSUS_API_KEY` in the ignored `.env.local` file (see `.env.example`) and run `npm run data:refresh-census`, then `npm run check`. Python refreshes use the process environment first, then `.env.local`; keys are never written into generated datasets or browser code. This command discovers the newest published ACS five-year release, updates all 95 county population and poverty indicators and their rankings, and retains other map layers. County geography was refreshed separately from Census TIGER/Line. Publishing local files does not configure the GitHub Actions secret; add `CENSUS_API_KEY` in the repository's Actions secrets for hosted refreshes.
+
+Run `npm run data:refresh-wastewater` to update the decentralized wastewater map layer
+from TDEC's [Drip Survey Dashboard](https://www.arcgis.com/apps/dashboards/c83fa34306ce4283b6cdec1f8e35259a).
+The full online refresh includes this layer. `-- --cached` reapplies the saved
+layer without network access. Repeat visits are grouped by SOP/TN permit number;
+the latest survey supplies the reference location and the coded-value label
+supplies the full system name. These may be drip-field locations, not treatment
+buildings, and the survey is not a complete statewide inventory of operating plants.
+Popups retain the permit number, system name, listed permittee, permit address,
+served use, survey date, and basic permit information. Legal ownership is not
+inferred from the permittee. Photos and attachments are excluded. Three of the
+initial 373 permit locations had no matching basic permit record. Survey and
+permit-detail dates/statuses appear separately on Sources: the hosted ArcGIS
+survey can update even if the separate TDEC permit endpoint rejects GitHub access.
 
 The application prominently displays the Census Bureau's required notice in its site footer and on the Sources page: “This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.” Agency links, source vintages, and the poverty-rate calculation accompany the Census source record. See the [Census API Terms of Service](https://www.census.gov/data/developers/about/terms-of-service.html).
 

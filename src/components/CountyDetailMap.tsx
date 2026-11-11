@@ -125,6 +125,7 @@ const TNMAP_LOCATOR_URL =
 const LAYER_GROUPS: Record<LayerKey, string[]> = {
   landuse: ["landuse-raster"],
   superfund: ["superfund-sites"],
+  wastewater: ["decentralized-wastewater"],
   watershed: ["watershed-fill", "watershed-line", "watershed-hover-fill", "watershed-hover-line"],
   utilities: [
     "utility-fill",
@@ -161,6 +162,7 @@ const LAYER_GROUPS: Record<LayerKey, string[]> = {
 };
 
 const INTERACTIVE_LAYERS = [
+  "decentralized-wastewater",
   "superfund-sites",
   "echo-current-violation",
   "echo-recent-violation",
@@ -1315,6 +1317,18 @@ function addCountyMapLayers(map: MapLibreMap) {
     }
   });
   ensureLayer(map, {
+    id: "decentralized-wastewater",
+    type: "circle",
+    source: "decentralized-wastewater",
+    paint: {
+      "circle-color": "#7c3aed",
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 6, 12, 10],
+      "circle-stroke-color": "#ffffff",
+      "circle-stroke-width": 2,
+      "circle-opacity": 0.95
+    }
+  });
+  ensureLayer(map, {
     id: "superfund-sites",
     type: "circle",
     source: "superfund",
@@ -1658,6 +1672,25 @@ function hoverPopupHtml(feature: maplibregl.MapGeoJSONFeature) {
 function popupHtml(feature: maplibregl.MapGeoJSONFeature) {
   const properties = feature.properties ?? {};
 
+  if (feature.layer.id === "decentralized-wastewater") {
+    const number = String(properties.permit_number ?? "");
+    const permitUrl = `https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:${encodeURIComponent(number)}`;
+    return `<div class="space-y-1 text-sm">
+      <p class="font-semibold">${escapeHtml(properties.system_name || "Decentralized wastewater system")}</p>
+      <p><a href="${escapeHtml(permitUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(number)} · TDEC permit record</a></p>
+      <p>Listed permittee: ${escapeHtml(properties.permittee || "Not available in the permit data")}</p>
+      ${properties.address ? `<p>Permit location: ${escapeHtml(properties.address)}</p>` : ""}
+      ${properties.serves ? `<p>Serves: ${escapeHtml(properties.serves)}</p>` : ""}
+      ${properties.permit_action ? `<p>Recorded permit action: ${escapeHtml(properties.permit_action)}</p>` : ""}
+      ${properties.expires ? `<p>Recorded expiration: ${escapeHtml(properties.expires)}</p>` : ""}
+      ${properties.survey_date ? `<p>Latest survey: ${escapeHtml(properties.survey_date)}</p>` : ""}
+      <p>${escapeHtml(properties.survey_count)} survey record(s) grouped under this permit.</p>
+      ${properties.permit_details_date ? `<p>Permit details retrieved: ${escapeHtml(properties.permit_details_date)}</p>` : ""}
+      <p>Survey location; may be a drip field. Listed permittee; legal ownership unverified.</p>
+      <p>Source: <a href="https://www.arcgis.com/apps/dashboards/c83fa34306ce4283b6cdec1f8e35259a" target="_blank" rel="noopener noreferrer">TDEC Drip Survey Dashboard</a></p>
+    </div>`;
+  }
+
   if (feature.layer.id === "superfund-sites") {
     const url = String(properties.profile_url ?? "");
     const link = url.startsWith("https://cumulis.epa.gov/")
@@ -1932,6 +1965,7 @@ function CountyDetailMapView({
     protected: false,
     landfills: false,
     superfund: false,
+    wastewater: false,
     landuse: false,
     districts: false,
     impaired: true,
@@ -2036,6 +2070,7 @@ function CountyDetailMapView({
     feature.properties?.echo_current_violation === true && feature.properties?.echo_significant_violation === true
   ).length;
   const superfundFeatures = map.superfundSites?.features ?? [];
+  const wastewaterFeatures = map.decentralizedWastewater?.features ?? [];
   const legendGroups: LegendGroup[] = [
     {
       key: "impaired", label: "EPA impaired status", status: remoteLegendStatus(epaStatusLabel),
@@ -2080,6 +2115,11 @@ function CountyDetailMapView({
         { label: "Pending landfill", color: "#af8401", symbol: "point", count: landfillStats.pending },
         { label: "Inactive / historic landfill", color: "#665f56", symbol: "point", count: landfillStats.inactive }
       ]
+    },
+    {
+      key: "wastewater", label: "Decentralized wastewater",
+      entries: [{ label: "Surveyed system (one point per permit)", color: "#7c3aed", symbol: "point", count: wastewaterFeatures.length }],
+      note: "TDEC drip survey locations; may represent a drip field. Survey coverage is not a complete statewide inventory or confirmation of current operation. Click a point for system and permit details."
     },
     {
       key: "superfund", label: "Superfund sites",
@@ -2308,6 +2348,7 @@ function CountyDetailMapView({
     setGeoJsonSource(mapInstance, "protected-areas", featureCollection(map.protectedAreas as FeatureCollection));
     setGeoJsonSource(mapInstance, "landfills", featureCollection(map.landfills as FeatureCollection));
     setGeoJsonSource(mapInstance, "superfund", featureCollection(map.superfundSites as FeatureCollection));
+    setGeoJsonSource(mapInstance, "decentralized-wastewater", featureCollection(map.decentralizedWastewater as FeatureCollection));
     setGeoJsonSource(mapInstance, "epa-impairment", epaImpairment);
     setGeoJsonSource(mapInstance, "permits", permits);
     setGeoJsonSource(mapInstance, "echo-violations", echoViolations);
@@ -2363,6 +2404,7 @@ function CountyDetailMapView({
         (feature) =>
           feature.layer.id.startsWith("landfill") ||
           feature.layer.id === "superfund-sites" ||
+          feature.layer.id === "decentralized-wastewater" ||
           feature.layer.id.startsWith("permit") ||
           feature.layer.id.startsWith("echo-")
       );
@@ -2377,7 +2419,10 @@ function CountyDetailMapView({
       hoverPopupRef.current?.remove();
 
       if (pointFeature) {
-        popupRef.current = new maplibregl.Popup({ maxWidth: "340px" })
+        popupRef.current = new maplibregl.Popup({
+          maxWidth: "340px",
+          className: pointFeature.layer.id === "decentralized-wastewater" ? "wastewater-popup" : ""
+        })
           .setLngLat(event.lngLat)
           .setHTML(popupHtml(pointFeature))
           .addTo(mapInstance);
@@ -2685,7 +2730,7 @@ function CountyDetailMapView({
         <p className="text-xs uppercase tracking-normal text-river">County map</p>
         <h2 className="mt-2 text-2xl font-semibold">{map.name} County interactive map</h2>
         <p className="mt-3 max-w-3xl text-sm leading-6 text-ink/75">
-          <GlossaryText text="Address search, EPA assessment status, legislative districts, protected areas, drinking water utility areas, landfill locations, TDEC permit records, EPA ECHO compliance signals, and HUC8 watershed areas are now layered on an interactive map." />
+          <GlossaryText text="Address search, EPA assessment status, legislative districts, protected areas, drinking water utility areas, decentralized wastewater systems, landfill locations, TDEC permit records, EPA ECHO compliance signals, and HUC8 watershed areas are now layered on an interactive map." />
         </p>
         <Link href="/glossary" className="mt-2 inline-block text-sm">Acronyms and map terms explained</Link>
       </div>
@@ -2785,6 +2830,11 @@ function CountyDetailMapView({
               <p className="mt-2">{protectedAreaStatusLabel}</p>
               <p className="mt-2">{landfillStatusLabel}</p>
               <p className="mt-2">
+                {wastewaterFeatures.length} decentralized wastewater survey permit locations in {map.name} County
+                {map.decentralizedWastewaterUpdatedAt ? `; retrieved ${map.decentralizedWastewaterUpdatedAt}` : ""}.
+                {wastewaterFeatures.length === 0 ? " No systems are listed here in this TDEC survey; other systems may exist." : " Click a purple point for the SOP number, system name, and listed permittee."}
+              </p>
+              <p className="mt-2">
                 {map.superfundSites?.features.length ?? 0} EPA Superfund sites associated with {map.name} County
                 {map.superfundUpdatedAt ? `; retrieved ${map.superfundUpdatedAt}` : ""}.
               </p>
@@ -2823,6 +2873,11 @@ function CountyDetailMapView({
                 checked={visibleLayers.landfills}
                 label="Landfills"
                 onChange={(checked) => setVisibleLayers((current) => ({ ...current, landfills: checked }))}
+              />
+              <LayerToggle
+                checked={visibleLayers.wastewater}
+                label="Decentralized wastewater"
+                onChange={(checked) => setVisibleLayers((current) => ({ ...current, wastewater: checked }))}
               />
               {(map.superfundSites?.features.length ?? 0) > 0 ? (
                 <LayerToggle

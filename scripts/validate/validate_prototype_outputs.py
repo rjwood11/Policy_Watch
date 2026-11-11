@@ -72,6 +72,18 @@ def validate_outputs() -> list[str]:
             errors.append(f"Missing county map payload for slug '{slug}'.")
         else:
             county_map_payload = _read_json(county_map_path)
+            wastewater = county_map_payload.get("decentralizedWastewater")
+            if not isinstance(wastewater, dict) or wastewater.get("type") != "FeatureCollection":
+                errors.append(f"{county_map_path.name} is missing the decentralized wastewater collection.")
+            else:
+                seen_systems = set()
+                for feature in wastewater.get("features", []):
+                    properties = feature.get("properties", {})
+                    system_id = properties.get("system_id")
+                    if (not system_id or system_id in seen_systems or properties.get("county_slug") != slug
+                            or feature.get("geometry", {}).get("type") != "Point"):
+                        errors.append(f"{county_map_path.name} contains an invalid decentralized wastewater location.")
+                    seen_systems.add(system_id)
             superfund = county_map_payload.get("superfundSites")
             if not isinstance(superfund, dict) or superfund.get("type") != "FeatureCollection":
                 errors.append(f"{county_map_path.name} is missing the Superfund collection.")
