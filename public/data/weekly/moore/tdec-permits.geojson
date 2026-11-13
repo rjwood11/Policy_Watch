@@ -6,188 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.39869999999996,
-          35.26420000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR056476",
-        "PERMITTEE_NAME": "Jack Daniel Distillery, Lem Motlow Prop., Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1761609600000,
-        "EFFECTIVE_DATE": 1761609600000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "1926 FAYETTEVILLE HIGHWAY",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056476",
-        "LATITUDE": 35.2642,
-        "LONGITUDE": -86.3987,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.41628799999995,
-          35.24040700000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR050887",
-        "PERMITTEE_NAME": "Jack Daniel Distillery, Lem Motlow, Prop., Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1761177600000,
-        "EFFECTIVE_DATE": 1761177600000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "3760 FAYETTEVILLE HIGHWAY",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050887",
-        "LATITUDE": 35.240407,
-        "LONGITUDE": -86.416288,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.39489999999995,
-          35.27210000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNB025101",
-        "PERMITTEE_NAME": "Lynchburg STP",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Biosolids",
-        "ISSUANCE_DATE": 1757635200000,
-        "EFFECTIVE_DATE": 1757635200000,
-        "EXPIRATION_DATE": 1914364800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "193 T Motlow",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB025101",
-        "LATITUDE": 35.2721,
-        "LONGITUDE": -86.3949,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.37739999999997,
-          35.273000000000025
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR182647",
-        "PERMITTEE_NAME": "The Retreat at Whiskey Creek, LLC.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "975 Main Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182647",
-        "LATITUDE": 35.273,
-        "LONGITUDE": -86.37740000000001,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.35512399999999,
-          35.291964000000064
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR182886",
-        "PERMITTEE_NAME": "Lynchburg Renewable Fuels, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "852 GOODBRANCH ROAD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182886",
-        "LATITUDE": 35.291964,
-        "LONGITUDE": -86.35512399999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.28017999999997,
-          35.34427000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR183140",
-        "PERMITTEE_NAME": "SR EPC, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "1950-2954 Cumberland Springs Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183140",
-        "LATITUDE": 35.34427,
-        "LONGITUDE": -86.28018,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.33539999999994,
-          35.35250000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR183099",
-        "PERMITTEE_NAME": "Jason Charlton",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "Between Hilltop Circle and SR-55 on parcel 011019.00",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183099",
-        "LATITUDE": 35.3525,
-        "LONGITUDE": -86.3354,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -86.35277699999995,
           35.285833000000025
         ]
@@ -214,50 +32,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.35512399999999,
-          35.291964000000064
+          -86.27534299999996,
+          35.30774500000007
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR183168",
-        "PERMITTEE_NAME": "Lynchburg Renewable Fuels, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "852 GOODBRANCH ROAD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183168",
-        "LATITUDE": 35.291964,
-        "LONGITUDE": -86.35512399999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.27369999999996,
-          35.350700000000074
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2508.4028",
-        "PERMITTEE_NAME": "SR Tullahoma, LLC",
+        "PERMIT_NUMBER": "NR2608.4100",
+        "PERMITTEE_NAME": "Metro Moore County Utility Department",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1748304000000,
-        "EFFECTIVE_DATE": 1748304000000,
+        "ISSUANCE_DATE": 1769040000000,
+        "EFFECTIVE_DATE": 1769040000000,
         "EXPIRATION_DATE": 1905033600000,
         "TERMINATION_DATE": null,
         "COUNTY": "Moore",
-        "SITE_LOCATION": "North and South of Lynchburg Hwy, West of Tullahoma TN",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4028",
-        "LATITUDE": 35.3507,
-        "LONGITUDE": -86.2737,
+        "SITE_LOCATION": "Turkey Creek Church Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4100",
+        "LATITUDE": 35.307745,
+        "LONGITUDE": -86.27534299999999,
         "permit_status": "Active"
       }
     },
@@ -266,154 +58,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.28017999999997,
-          35.34427000000005
+          -86.31209799999993,
+          35.208233000000064
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR192357",
-        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "1950-2954 Cumberland Springs Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192357",
-        "LATITUDE": 35.34427,
-        "LONGITUDE": -86.28018,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.27730499999996,
-          35.359503000000075
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR183282",
-        "PERMITTEE_NAME": "LPL Solar, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "8753 Lynchburg Highway3279 Cumberland Springs Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183282",
-        "LATITUDE": 35.359503,
-        "LONGITUDE": -86.277305,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.27369999999996,
-          35.350700000000074
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2508.4018",
-        "PERMITTEE_NAME": "SR Tullahoma, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1748304000000,
-        "EFFECTIVE_DATE": 1748304000000,
-        "EXPIRATION_DATE": 1905033600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "North and South of Lynchburg Hwy, West of Tullahoma TN",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4018",
-        "LATITUDE": 35.3507,
-        "LONGITUDE": -86.2737,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.27369999999996,
-          35.350700000000074
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2508.4017",
-        "PERMITTEE_NAME": "SR Tullahoma, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1748304000000,
-        "EFFECTIVE_DATE": 1748304000000,
-        "EXPIRATION_DATE": 1905033600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "North and South of Lynchburg Hwy, West of Tullahoma TN",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2508.4017",
-        "LATITUDE": 35.3507,
-        "LONGITUDE": -86.2737,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.30559999999997,
-          35.37050000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR25.235",
+        "PERMIT_NUMBER": "NR26.119",
         "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1760400000000,
-        "EFFECTIVE_DATE": 1760400000000,
+        "ISSUANCE_DATE": 1781568000000,
+        "EFFECTIVE_DATE": 1781568000000,
         "EXPIRATION_DATE": 1905033600000,
         "TERMINATION_DATE": null,
         "COUNTY": "Moore",
-        "SITE_LOCATION": "SR-130 @ LM 1.06, Intersection with Highland Hall Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.235",
-        "LATITUDE": 35.3705,
-        "LONGITUDE": -86.3056,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.31339999999994,
-          35.37820000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR25.234",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1760400000000,
-        "EFFECTIVE_DATE": 1760400000000,
-        "EXPIRATION_DATE": 1905033600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Moore",
-        "SITE_LOCATION": "SR-130 at LM 0.3",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.234",
-        "LATITUDE": 35.3782,
-        "LONGITUDE": -86.3134,
+        "SITE_LOCATION": "SR-50 L.M. 9.87",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.119",
+        "LATITUDE": 35.208233,
+        "LONGITUDE": -86.31209799999999,
         "permit_status": "Active"
       }
     },
@@ -474,24 +136,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.27534299999996,
-          35.30774500000007
+          -86.31339999999994,
+          35.37820000000005
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2608.4100",
-        "PERMITTEE_NAME": "Metro Moore County Utility Department",
+        "PERMIT_NUMBER": "NR25.234",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1769040000000,
-        "EFFECTIVE_DATE": 1769040000000,
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
         "EXPIRATION_DATE": 1905033600000,
         "TERMINATION_DATE": null,
         "COUNTY": "Moore",
-        "SITE_LOCATION": "Turkey Creek Church Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2608.4100",
-        "LATITUDE": 35.307745,
-        "LONGITUDE": -86.27534299999999,
+        "SITE_LOCATION": "SR-130 at LM 0.3",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.234",
+        "LATITUDE": 35.3782,
+        "LONGITUDE": -86.3134,
         "permit_status": "Active"
       }
     },
@@ -500,24 +162,206 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.31209799999993,
-          35.208233000000064
+          -86.41628799999995,
+          35.24040700000006
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR26.119",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMIT_NUMBER": "TNR050887",
+        "PERMITTEE_NAME": "Jack Daniel Distillery, Lem Motlow, Prop., Inc.",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1781568000000,
-        "EFFECTIVE_DATE": 1781568000000,
-        "EXPIRATION_DATE": 1905033600000,
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761177600000,
+        "EFFECTIVE_DATE": 1761177600000,
+        "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Moore",
-        "SITE_LOCATION": "SR-50 L.M. 9.87",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.119",
-        "LATITUDE": 35.208233,
-        "LONGITUDE": -86.31209799999999,
+        "SITE_LOCATION": "3760 FAYETTEVILLE HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050887",
+        "LATITUDE": 35.240407,
+        "LONGITUDE": -86.416288,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.39869999999996,
+          35.26420000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR056476",
+        "PERMITTEE_NAME": "Jack Daniel Distillery, Lem Motlow Prop., Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761609600000,
+        "EFFECTIVE_DATE": 1761609600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "1926 FAYETTEVILLE HIGHWAY",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR056476",
+        "LATITUDE": 35.2642,
+        "LONGITUDE": -86.3987,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.39489999999995,
+          35.27210000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB025101",
+        "PERMITTEE_NAME": "Lynchburg STP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1757635200000,
+        "EFFECTIVE_DATE": 1757635200000,
+        "EXPIRATION_DATE": 1914364800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "193 T Motlow",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB025101",
+        "LATITUDE": 35.2721,
+        "LONGITUDE": -86.3949,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.35512399999999,
+          35.291964000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183168",
+        "PERMITTEE_NAME": "Lynchburg Renewable Fuels, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "852 GOODBRANCH ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183168",
+        "LATITUDE": 35.291964,
+        "LONGITUDE": -86.35512399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.37739999999997,
+          35.273000000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182647",
+        "PERMITTEE_NAME": "The Retreat at Whiskey Creek, LLC.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "975 Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182647",
+        "LATITUDE": 35.273,
+        "LONGITUDE": -86.37740000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.35512399999999,
+          35.291964000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR182886",
+        "PERMITTEE_NAME": "Lynchburg Renewable Fuels, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "852 GOODBRANCH ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR182886",
+        "LATITUDE": 35.291964,
+        "LONGITUDE": -86.35512399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.27730499999996,
+          35.359503000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183282",
+        "PERMITTEE_NAME": "LPL Solar, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "8753 Lynchburg Highway3279 Cumberland Springs Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183282",
+        "LATITUDE": 35.359503,
+        "LONGITUDE": -86.277305,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.35512399999999,
+          35.291964000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051579",
+        "PERMITTEE_NAME": "Lynchburg Renewable Fuels, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1781568000000,
+        "EFFECTIVE_DATE": 1781568000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "852 GOODBRANCH ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051579",
+        "LATITUDE": 35.291964,
+        "LONGITUDE": -86.35512399999999,
         "permit_status": "Active"
       }
     },
@@ -552,24 +396,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.35512399999999,
-          35.291964000000064
+          -86.30559999999997,
+          35.37050000000005
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR051579",
-        "PERMITTEE_NAME": "Lynchburg Renewable Fuels, LLC",
+        "PERMIT_NUMBER": "NR25.235",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1781568000000,
-        "EFFECTIVE_DATE": 1781568000000,
-        "EXPIRATION_DATE": 1909008000000,
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1760400000000,
+        "EFFECTIVE_DATE": 1760400000000,
+        "EXPIRATION_DATE": 1905033600000,
         "TERMINATION_DATE": null,
         "COUNTY": "Moore",
-        "SITE_LOCATION": "852 GOODBRANCH ROAD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051579",
-        "LATITUDE": 35.291964,
-        "LONGITUDE": -86.35512399999999,
+        "SITE_LOCATION": "SR-130 @ LM 1.06, Intersection with Highland Hall Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR25.235",
+        "LATITUDE": 35.3705,
+        "LONGITUDE": -86.3056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.28017999999997,
+          35.34427000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192357",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "1950-2954 Cumberland Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192357",
+        "LATITUDE": 35.34427,
+        "LONGITUDE": -86.28018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.28017999999997,
+          35.34427000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183140",
+        "PERMITTEE_NAME": "SR EPC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "1950-2954 Cumberland Springs Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183140",
+        "LATITUDE": 35.34427,
+        "LONGITUDE": -86.28018,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.33539999999994,
+          35.35250000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR183099",
+        "PERMITTEE_NAME": "Jason Charlton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Moore",
+        "SITE_LOCATION": "Between Hilltop Circle and SR-55 on parcel 011019.00",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR183099",
+        "LATITUDE": 35.3525,
+        "LONGITUDE": -86.3354,
         "permit_status": "Active"
       }
     },

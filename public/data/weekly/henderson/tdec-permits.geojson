@@ -6,24 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.37963299999996,
-          35.694785000000024
+          -88.35197999999997,
+          35.52825000000007
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR050350",
-        "PERMITTEE_NAME": "Petter Bergman",
+        "PERMIT_NUMBER": "TNR122736",
+        "PERMITTEE_NAME": "Troy Steiner",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1761091200000,
-        "EFFECTIVE_DATE": 1761091200000,
-        "EXPIRATION_DATE": 1909008000000,
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "200 ROBERT WALLACE DR",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050350",
-        "LATITUDE": 35.694784999999996,
-        "LONGITUDE": -88.379633,
+        "SITE_LOCATION": "Hwy 104s",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122736",
+        "LATITUDE": 35.52825,
+        "LONGITUDE": -88.35198,
         "permit_status": "Active"
       }
     },
@@ -32,24 +32,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.37907099999995,
-          35.667080000000055
+          -88.24722199999997,
+          35.783889000000045
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR050527",
-        "PERMITTEE_NAME": "Nidec Motor Corporation dba  Leroy Somer Americas",
+        "PERMIT_NUMBER": "397002",
+        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1761925761000,
-        "EFFECTIVE_DATE": 1761925761000,
-        "EXPIRATION_DATE": 1909008000000,
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1755561600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1840233600000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "669 Natchez Trace Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050527",
-        "LATITUDE": 35.66708,
-        "LONGITUDE": -88.379071,
+        "SITE_LOCATION": "21sw Cub Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:397002",
+        "LATITUDE": 35.783888999999995,
+        "LONGITUDE": -88.247222,
         "permit_status": "Active"
       }
     },
@@ -58,24 +58,362 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.38596899999999,
-          35.68421200000006
+          -88.51317599999999,
+          35.75593200000003
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR050459",
-        "PERMITTEE_NAME": "Fluid Routing Solutions, LLC",
+        "PERMIT_NUMBER": "TNG830280",
+        "PERMITTEE_NAME": "ATC Group Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1700438400000,
+        "EFFECTIVE_DATE": 1701388800000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "7311 HIGHWAY 104 N",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830280",
+        "LATITUDE": 35.755932,
+        "LONGITUDE": -88.513176,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38310999999999,
+          35.69137000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053793",
+        "PERMITTEE_NAME": "DeWayne's Quality Metal Coatings, LLC",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1753833600000,
-        "EFFECTIVE_DATE": 1753833600000,
+        "ISSUANCE_DATE": 1759708800000,
+        "EFFECTIVE_DATE": 1759708800000,
         "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "1921 North Broad Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050459",
-        "LATITUDE": 35.684211999999995,
-        "LONGITUDE": -88.385969,
+        "SITE_LOCATION": "205 N INDUSTRIAL DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053793",
+        "LATITUDE": 35.69137,
+        "LONGITUDE": -88.38311,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44049099999995,
+          35.66576200000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123085",
+        "PERMITTEE_NAME": "Adkisson Properties LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Hwy 412 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123085",
+        "LATITUDE": 35.665762,
+        "LONGITUDE": -88.440491,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25421999999998,
+          35.77468700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.055",
+        "PERMITTEE_NAME": "Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1752451200000,
+        "EFFECTIVE_DATE": 1752451200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Cabin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.055",
+        "LATITUDE": 35.774687,
+        "LONGITUDE": -88.25421999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25421999999998,
+          35.77468700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123079",
+        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM) Division",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Cabin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123079",
+        "LATITUDE": 35.774687,
+        "LONGITUDE": -88.25421999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25421999999998,
+          35.77468700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123080",
+        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM) Division",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Cabin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123080",
+        "LATITUDE": 35.774687,
+        "LONGITUDE": -88.25421999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40327199999996,
+          35.544020000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123093",
+        "PERMITTEE_NAME": "Paul Hayes",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "409 Stegall Rd 570 Stegall Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123093",
+        "LATITUDE": 35.544019999999996,
+        "LONGITUDE": -88.403272,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25421999999998,
+          35.77468700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123077",
+        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM) Division",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Cabin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123077",
+        "LATITUDE": 35.774687,
+        "LONGITUDE": -88.25421999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37510799999995,
+          35.66399800000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123073",
+        "PERMITTEE_NAME": "Distinct Contracting LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Derek drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123073",
+        "LATITUDE": 35.663998,
+        "LONGITUDE": -88.375108,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49849999999998,
+          35.51470000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123018",
+        "PERMITTEE_NAME": "MID VALLEY PIPELINE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "35.5147, -88.4985",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123018",
+        "LATITUDE": 35.514700000000005,
+        "LONGITUDE": -88.4985,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41351999999995,
+          35.65999500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192409",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Bob Henderson Dr",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192409",
+        "LATITUDE": 35.659994999999995,
+        "LONGITUDE": -88.41351999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38156799999996,
+          35.71966900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051533",
+        "PERMITTEE_NAME": "Bravo, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1775520000000,
+        "EFFECTIVE_DATE": 1775520000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "58 Elliot Power Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051533",
+        "LATITUDE": 35.719668999999996,
+        "LONGITUDE": -88.381568,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43657999999994,
+          35.63405000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.188",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1793059200000,
+        "EFFECTIVE_DATE": 1793059200000,
+        "EXPIRATION_DATE": 1950739200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "SR-459 Construction Project",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.188",
+        "LATITUDE": 35.634049999999995,
+        "LONGITUDE": -88.43657999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51374699999997,
+          35.75451900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192407",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "I-40 Interchange @ SR-104",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192407",
+        "LATITUDE": 35.754518999999995,
+        "LONGITUDE": -88.513747,
         "permit_status": "Active"
       }
     },
@@ -110,24 +448,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.32416599999999,
-          35.50888800000007
+          -88.38596899999999,
+          35.68421200000006
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR055075",
-        "PERMITTEE_NAME": "B & B Sawmill, Inc.",
+        "PERMIT_NUMBER": "TNR050459",
+        "PERMITTEE_NAME": "Fluid Routing Solutions, LLC",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1752796800000,
-        "EFFECTIVE_DATE": 1752796800000,
+        "ISSUANCE_DATE": 1753833600000,
+        "EFFECTIVE_DATE": 1753833600000,
         "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "5605 Hwy 100",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055075",
-        "LATITUDE": 35.508888,
-        "LONGITUDE": -88.32416599999999,
+        "SITE_LOCATION": "1921 North Broad Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050459",
+        "LATITUDE": 35.684211999999995,
+        "LONGITUDE": -88.385969,
         "permit_status": "Active"
       }
     },
@@ -136,24 +474,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.40648599999997,
-          35.63634600000006
+          -88.37907099999995,
+          35.667080000000055
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR053810",
-        "PERMITTEE_NAME": "Grimes Recycling, LLC",
+        "PERMIT_NUMBER": "TNR050527",
+        "PERMITTEE_NAME": "Nidec Motor Corporation dba  Leroy Somer Americas",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1595116800000,
-        "EFFECTIVE_DATE": 1595203200000,
-        "EXPIRATION_DATE": 1751241600000,
+        "ISSUANCE_DATE": 1761925761000,
+        "EFFECTIVE_DATE": 1761925761000,
+        "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "210 McKnight Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053810",
-        "LATITUDE": 35.636345999999996,
-        "LONGITUDE": -88.406486,
+        "SITE_LOCATION": "669 Natchez Trace Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050527",
+        "LATITUDE": 35.66708,
+        "LONGITUDE": -88.379071,
         "permit_status": "Active"
       }
     },
@@ -188,24 +526,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.40573499999994,
-          35.68516100000005
+          -88.32416599999999,
+          35.50888800000007
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR120711",
-        "PERMITTEE_NAME": "Vision Loan Associates",
+        "PERMIT_NUMBER": "TNR055075",
+        "PERMITTEE_NAME": "B & B Sawmill, Inc.",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1752796800000,
+        "EFFECTIVE_DATE": 1752796800000,
+        "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "End of Deerhaven Lane",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120711",
-        "LATITUDE": 35.685161,
-        "LONGITUDE": -88.40573499999999,
+        "SITE_LOCATION": "5605 Hwy 100",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR055075",
+        "LATITUDE": 35.508888,
+        "LONGITUDE": -88.32416599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37963299999996,
+          35.694785000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050350",
+        "PERMITTEE_NAME": "Petter Bergman",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761091200000,
+        "EFFECTIVE_DATE": 1761091200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "200 ROBERT WALLACE DR",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050350",
+        "LATITUDE": 35.694784999999996,
+        "LONGITUDE": -88.379633,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40648599999997,
+          35.63634600000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053810",
+        "PERMITTEE_NAME": "Grimes Recycling, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1595116800000,
+        "EFFECTIVE_DATE": 1595203200000,
+        "EXPIRATION_DATE": 1751241600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "210 McKnight Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053810",
+        "LATITUDE": 35.636345999999996,
+        "LONGITUDE": -88.406486,
         "permit_status": "Active"
       }
     },
@@ -232,6 +622,58 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120442",
         "LATITUDE": 35.686,
         "LONGITUDE": -88.5069,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25939999999997,
+          35.689400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120271",
+        "PERMITTEE_NAME": "Beech River Watershed Development Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271",
+        "LATITUDE": 35.6894,
+        "LONGITUDE": -88.2594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40573499999994,
+          35.68516100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120711",
+        "PERMITTEE_NAME": "Vision Loan Associates",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "End of Deerhaven Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120711",
+        "LATITUDE": 35.685161,
+        "LONGITUDE": -88.40573499999999,
         "permit_status": "Active"
       }
     },
@@ -292,13 +734,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.25939999999997,
-          35.689400000000035
+          -88.38408999999996,
+          35.68516000000005
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR120271",
-        "PERMITTEE_NAME": "Beech River Watershed Development Authority",
+        "PERMIT_NUMBER": "TNR121050",
+        "PERMITTEE_NAME": "Jason Usery",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -306,10 +748,10 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271",
-        "LATITUDE": 35.6894,
-        "LONGITUDE": -88.2594,
+        "SITE_LOCATION": "Lisa Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121050",
+        "LATITUDE": 35.685159999999996,
+        "LONGITUDE": -88.38409,
         "permit_status": "Active"
       }
     },
@@ -344,32 +786,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.38408999999996,
-          35.68516000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121050",
-        "PERMITTEE_NAME": "Jason Usery",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Lisa Lane",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121050",
-        "LATITUDE": 35.685159999999996,
-        "LONGITUDE": -88.38409,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.39574999999996,
           35.606670000000065
         ]
@@ -396,13 +812,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.38729999999998,
-          35.65340000000003
+          -88.25939999999997,
+          35.689400000000035
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR121517",
-        "PERMITTEE_NAME": "First Pentecostal Church",
+        "PERMIT_NUMBER": "TNR120271.13",
+        "PERMITTEE_NAME": "Lennon Haggard",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -410,10 +826,114 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "175 Natchez Trace Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121517",
-        "LATITUDE": 35.653400000000005,
-        "LONGITUDE": -88.38730000000001,
+        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.13",
+        "LATITUDE": 35.6894,
+        "LONGITUDE": -88.2594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25939999999997,
+          35.689400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120271.14",
+        "PERMITTEE_NAME": "Ted & Cynthia Choate",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.14",
+        "LATITUDE": 35.6894,
+        "LONGITUDE": -88.2594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25939999999997,
+          35.689400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120271.15",
+        "PERMITTEE_NAME": "John Talbott",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.15",
+        "LATITUDE": 35.6894,
+        "LONGITUDE": -88.2594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25939999999997,
+          35.689400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120271.16",
+        "PERMITTEE_NAME": "Sommer Pearson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.16",
+        "LATITUDE": 35.6894,
+        "LONGITUDE": -88.2594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25939999999997,
+          35.689400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120271.05",
+        "PERMITTEE_NAME": "Travis Boring",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.05",
+        "LATITUDE": 35.6894,
+        "LONGITUDE": -88.2594,
         "permit_status": "Active"
       }
     },
@@ -492,6 +1012,32 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.12",
         "LATITUDE": 35.6894,
         "LONGITUDE": -88.2594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44699999999995,
+          35.66900000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR121687",
+        "PERMITTEE_NAME": "First Pentecostal Church of Lexington",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "9485 Hwy 412 W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121687",
+        "LATITUDE": 35.669000000000004,
+        "LONGITUDE": -88.447,
         "permit_status": "Active"
       }
     },
@@ -708,32 +1254,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.44699999999995,
-          35.66900000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR121687",
-        "PERMITTEE_NAME": "First Pentecostal Church of Lexington",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "9485 Hwy 412 W",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121687",
-        "LATITUDE": 35.669000000000004,
-        "LONGITUDE": -88.447,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.25939999999997,
           35.689400000000035
         ]
@@ -750,188 +1270,6 @@
         "COUNTY": "Henderson",
         "SITE_LOCATION": "Corinth and Redbud Lake Roads",
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.10",
-        "LATITUDE": 35.6894,
-        "LONGITUDE": -88.2594,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25939999999997,
-          35.689400000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120271.14",
-        "PERMITTEE_NAME": "Ted & Cynthia Choate",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.14",
-        "LATITUDE": 35.6894,
-        "LONGITUDE": -88.2594,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25939999999997,
-          35.689400000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120271.05",
-        "PERMITTEE_NAME": "Travis Boring",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.05",
-        "LATITUDE": 35.6894,
-        "LONGITUDE": -88.2594,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25939999999997,
-          35.689400000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120271.15",
-        "PERMITTEE_NAME": "John Talbott",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.15",
-        "LATITUDE": 35.6894,
-        "LONGITUDE": -88.2594,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25939999999997,
-          35.689400000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120271.16",
-        "PERMITTEE_NAME": "Sommer Pearson",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.16",
-        "LATITUDE": 35.6894,
-        "LONGITUDE": -88.2594,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25939999999997,
-          35.689400000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120271.13",
-        "PERMITTEE_NAME": "Lennon Haggard",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120271.13",
-        "LATITUDE": 35.6894,
-        "LONGITUDE": -88.2594,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.32721899999996,
-          35.79400400000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR1602.032",
-        "PERMITTEE_NAME": "William F. Hatch",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Frank Hatch farm north of Farmsville Rd.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR1602.032",
-        "LATITUDE": 35.794004,
-        "LONGITUDE": -88.327219,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25939999999997,
-          35.689400000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120217.19",
-        "PERMITTEE_NAME": "Troy Millican",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120217.19",
         "LATITUDE": 35.6894,
         "LONGITUDE": -88.2594,
         "permit_status": "Active"
@@ -960,32 +1298,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:397001",
         "LATITUDE": 35.726389,
         "LONGITUDE": -88.2925,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.49666699999995,
-          35.770278000000076
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "397020",
-        "PERMITTEE_NAME": "Michael Corrigan",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1742169600000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1834790400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "10sw Trib-spring Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:397020",
-        "LATITUDE": 35.770278,
-        "LONGITUDE": -88.496667,
         "permit_status": "Active"
       }
     },
@@ -1150,6 +1462,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.49666699999995,
+          35.770278000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "397020",
+        "PERMITTEE_NAME": "Michael Corrigan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1742169600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1834790400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "10sw Trib-spring Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:397020",
+        "LATITUDE": 35.770278,
+        "LONGITUDE": -88.496667,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25939999999997,
+          35.689400000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR120217.19",
+        "PERMITTEE_NAME": "Troy Millican",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Corinth and Redbud Lake Roads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120217.19",
+        "LATITUDE": 35.6894,
+        "LONGITUDE": -88.2594,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32721899999996,
+          35.79400400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR1602.032",
+        "PERMITTEE_NAME": "William F. Hatch",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Frank Hatch farm north of Farmsville Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR1602.032",
+        "LATITUDE": 35.794004,
+        "LONGITUDE": -88.327219,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.19673999999998,
           35.62339600000007
         ]
@@ -1228,24 +1618,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.37969999999996,
-          35.71870000000007
+          -88.41825799999998,
+          35.663478000000055
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122409",
-        "PERMITTEE_NAME": "City of Lexington Industrial Development Board",
+        "PERMIT_NUMBER": "NRS18.214",
+        "PERMITTEE_NAME": "Beech River Watershed Development Authority",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1543190400000,
+        "EFFECTIVE_DATE": 1571097600000,
+        "EXPIRATION_DATE": 1669420800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "Off Bud Crockett Drive in Lexington Industrial Park",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122409",
-        "LATITUDE": 35.7187,
-        "LONGITUDE": -88.3797,
+        "SITE_LOCATION": "Dam Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.214",
+        "LATITUDE": 35.663478,
+        "LONGITUDE": -88.418258,
         "permit_status": "Active"
       }
     },
@@ -1254,24 +1644,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.49928499999999,
-          35.74924900000008
+          -88.41902999999996,
+          35.55878000000007
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNG830259",
-        "PERMITTEE_NAME": "ATC Group Services, LLC",
+        "PERMIT_NUMBER": "NRS18.102",
+        "PERMITTEE_NAME": "Tommy Colbert",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "UST",
-        "ISSUANCE_DATE": 1701129600000,
-        "EFFECTIVE_DATE": 1701216000000,
-        "EXPIRATION_DATE": 1853884800000,
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1544572800000,
+        "EXPIRATION_DATE": 1617667200000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "8300 Highway 104 North",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830259",
-        "LATITUDE": 35.749249,
-        "LONGITUDE": -88.499285,
+        "SITE_LOCATION": "1466 Mt. Zion Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.102",
+        "LATITUDE": 35.55878,
+        "LONGITUDE": -88.41902999999999,
         "permit_status": "Active"
       }
     },
@@ -1306,13 +1696,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.40359999999998,
-          35.63680000000005
+          -88.44099999999997,
+          35.80660000000006
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122455",
-        "PERMITTEE_NAME": "Dennis Sumler",
+        "PERMIT_NUMBER": "TNR122171",
+        "PERMITTEE_NAME": "Trang Nguyen LLC",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -1320,10 +1710,10 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "625 S. Broad Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122455",
-        "LATITUDE": 35.6368,
-        "LONGITUDE": -88.4036,
+        "SITE_LOCATION": "1711 White Cemetery Road, Cedar Grove, TN 38321",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122171",
+        "LATITUDE": 35.8066,
+        "LONGITUDE": -88.441,
         "permit_status": "Active"
       }
     },
@@ -1332,24 +1722,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.49861099999998,
-          35.784167000000025
+          -88.38109999999995,
+          35.63730000000004
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "397016",
-        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMIT_NUMBER": "NRS21.008",
+        "PERMITTEE_NAME": "Lexington Utilities",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1715040000000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1808179200000,
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1616716800000,
+        "EFFECTIVE_DATE": 1616716800000,
+        "EXPIRATION_DATE": 1774396800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "10sw Trib-cane Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:397016",
-        "LATITUDE": 35.784167,
-        "LONGITUDE": -88.498611,
+        "SITE_LOCATION": "572 Franklin Avenue",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.008",
+        "LATITUDE": 35.6373,
+        "LONGITUDE": -88.3811,
         "permit_status": "Active"
       }
     },
@@ -1358,24 +1748,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.41462799999994,
-          35.62522700000005
+          -88.45306699999998,
+          35.80571100000003
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR050173",
-        "PERMITTEE_NAME": "Royal NY Company Holdings, LLC",
+        "PERMIT_NUMBER": "TNR122437",
+        "PERMITTEE_NAME": "Nguyen, LLC",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1771372800000,
-        "EFFECTIVE_DATE": 1771372800000,
-        "EXPIRATION_DATE": 1909008000000,
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "560 RUSH ST",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050173",
-        "LATITUDE": 35.625226999999995,
-        "LONGITUDE": -88.414628,
+        "SITE_LOCATION": "355 Judge McClough Rd., Cedar Grove, TN 38321",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122437",
+        "LATITUDE": 35.805710999999995,
+        "LONGITUDE": -88.45306699999999,
         "permit_status": "Active"
       }
     },
@@ -1384,24 +1774,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.38529999999997,
-          35.71998200000007
+          -88.39072999999996,
+          35.79736200000008
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR059880",
-        "PERMITTEE_NAME": "Jones Bros. Contractors, LLC",
+        "PERMIT_NUMBER": "TNR122446",
+        "PERMITTEE_NAME": "Juan Marcias",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1760486400000,
-        "EFFECTIVE_DATE": 1760486400000,
-        "EXPIRATION_DATE": 1909008000000,
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "221 Bud Crockett Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059880",
-        "LATITUDE": 35.719982,
-        "LONGITUDE": -88.3853,
+        "SITE_LOCATION": "Highway 22, Parker's Crossroads",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122446",
+        "LATITUDE": 35.797362,
+        "LONGITUDE": -88.39072999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49928499999999,
+          35.74924900000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830259",
+        "PERMITTEE_NAME": "ATC Group Services, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1701129600000,
+        "EFFECTIVE_DATE": 1701216000000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "8300 Highway 104 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830259",
+        "LATITUDE": 35.749249,
+        "LONGITUDE": -88.499285,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.37969999999996,
+          35.71870000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122409",
+        "PERMITTEE_NAME": "City of Lexington Industrial Development Board",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Off Bud Crockett Drive in Lexington Industrial Park",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122409",
+        "LATITUDE": 35.7187,
+        "LONGITUDE": -88.3797,
         "permit_status": "Active"
       }
     },
@@ -1488,1150 +1930,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.41825799999998,
-          35.663478000000055
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS18.214",
-        "PERMITTEE_NAME": "Beech River Watershed Development Authority",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1543190400000,
-        "EFFECTIVE_DATE": 1571097600000,
-        "EXPIRATION_DATE": 1669420800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Dam Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.214",
-        "LATITUDE": 35.663478,
-        "LONGITUDE": -88.418258,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.41902999999996,
-          35.55878000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS18.102",
-        "PERMITTEE_NAME": "Tommy Colbert",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1544572800000,
-        "EXPIRATION_DATE": 1617667200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "1466 Mt. Zion Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS18.102",
-        "LATITUDE": 35.55878,
-        "LONGITUDE": -88.41902999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43657999999994,
-          35.63405000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS19.036",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1560297600000,
-        "EFFECTIVE_DATE": 1560297600000,
-        "EXPIRATION_DATE": 1718150400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "SR-459 Construction Project",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.036",
-        "LATITUDE": 35.634049999999995,
-        "LONGITUDE": -88.43657999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38815599999998,
-          35.71556000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122819",
-        "PERMITTEE_NAME": "Lexington Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "SR-22, approx.1200 feet south of Bud Crockett Rd.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122819",
-        "LATITUDE": 35.715559999999996,
-        "LONGITUDE": -88.388156,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.51317599999999,
-          35.75593200000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNG830280",
-        "PERMITTEE_NAME": "ATC Group Services, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "UST",
-        "ISSUANCE_DATE": 1700438400000,
-        "EFFECTIVE_DATE": 1701388800000,
-        "EXPIRATION_DATE": 1853884800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "7311 HIGHWAY 104 N",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830280",
-        "LATITUDE": 35.755932,
-        "LONGITUDE": -88.513176,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38007699999997,
-          35.72685100000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122910",
-        "PERMITTEE_NAME": "Henderson County, Tennessee",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Kirby Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122910",
-        "LATITUDE": 35.726850999999996,
-        "LONGITUDE": -88.380077,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.36790699999995,
-          35.559273000000076
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122853",
-        "PERMITTEE_NAME": "Beech River Watershed Development Authority",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "24524 HIGHWAY 104 S",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122853",
-        "LATITUDE": 35.559273,
-        "LONGITUDE": -88.367907,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.24722199999997,
-          35.783889000000045
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "397002",
-        "PERMITTEE_NAME": "Tennessee Department of Environment and Conservation (TDEC)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1755561600000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1840233600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "21sw Cub Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:397002",
-        "LATITUDE": 35.783888999999995,
-        "LONGITUDE": -88.247222,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38327199999998,
-          35.53993800000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122881",
-        "PERMITTEE_NAME": "Lexington Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Highway 22 south of Lexington from Presley Rd. to Hwy 100",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122881",
-        "LATITUDE": 35.539938,
-        "LONGITUDE": -88.38327199999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.44099999999997,
-          35.80660000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122171",
-        "PERMITTEE_NAME": "Trang Nguyen LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "1711 White Cemetery Road, Cedar Grove, TN 38321",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122171",
-        "LATITUDE": 35.8066,
-        "LONGITUDE": -88.441,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.40018199999997,
-          35.55659700000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS22.260",
-        "PERMITTEE_NAME": "Mark White",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1675814400000,
-        "EXPIRATION_DATE": 1743984000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "1210 Pine Ridge Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.260",
-        "LATITUDE": 35.556597,
-        "LONGITUDE": -88.400182,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.35197999999997,
-          35.52825000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122736",
-        "PERMITTEE_NAME": "Troy Steiner",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Hwy 104s",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122736",
-        "LATITUDE": 35.52825,
-        "LONGITUDE": -88.35198,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25421999999998,
-          35.77468700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122993",
-        "PERMITTEE_NAME": "TN Dept. of General Services",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Cabin Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122993",
-        "LATITUDE": 35.774687,
-        "LONGITUDE": -88.25421999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.41627999999997,
-          35.64995000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122905",
-        "PERMITTEE_NAME": "Jordan Gross",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Old Jackson Road, west side of Beech River behind Walmart",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122905",
-        "LATITUDE": 35.64995,
-        "LONGITUDE": -88.41628,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.51374699999997,
-          35.75451900000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS25.102",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1758758400000,
-        "EFFECTIVE_DATE": 1758758400000,
-        "EXPIRATION_DATE": 1916438400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "I-40 Interchange @ SR-104",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.102",
-        "LATITUDE": 35.754518999999995,
-        "LONGITUDE": -88.513747,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.21772099999998,
-          35.79996500000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.013",
-        "PERMITTEE_NAME": "Sunoco Pipeline LP",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1743120000000,
-        "EFFECTIVE_DATE": 1743120000000,
-        "EXPIRATION_DATE": 1775347200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Site 190: Pritchard Road & Site 221: Pope Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.013",
-        "LATITUDE": 35.799965,
-        "LONGITUDE": -88.217721,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.39776999999998,
-          35.60976800000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123096",
-        "PERMITTEE_NAME": "MM&J Properties/ Jeremy Johnson",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "8021 HIGHWAY 22 S",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123096",
-        "LATITUDE": 35.609767999999995,
-        "LONGITUDE": -88.39777,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.40148999999997,
-          35.644400000000076
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123023",
-        "PERMITTEE_NAME": "City of Lexington Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "390 S Broad St",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123023",
-        "LATITUDE": 35.644400000000005,
-        "LONGITUDE": -88.40149,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.45329999999996,
-          35.769209000000046
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR192369",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "I-40, From the Shelby/Fayette County Line to near I-840 in Dickson County",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192369",
-        "LATITUDE": 35.769209,
-        "LONGITUDE": -88.4533,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.41231999999997,
-          35.66214000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.032",
-        "PERMITTEE_NAME": "Beech River Watershed Development",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1747267200000,
-        "EFFECTIVE_DATE": 1747267200000,
-        "EXPIRATION_DATE": 1780185600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "149 Eastern Shores Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.032",
-        "LATITUDE": 35.66214,
-        "LONGITUDE": -88.41232,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.50948999999997,
-          35.51952000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR192345",
-        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "451 South Broad St",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192345",
-        "LATITUDE": 35.51952,
-        "LONGITUDE": -88.50949,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.49849999999998,
-          35.51470000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.012",
-        "PERMITTEE_NAME": "Sunoco Pipeline LP",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1742860800000,
-        "EFFECTIVE_DATE": 1742860800000,
-        "EXPIRATION_DATE": 1774396800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "35.5147, -88.4985",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.012",
-        "LATITUDE": 35.514700000000005,
-        "LONGITUDE": -88.4985,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.36569999999995,
-          35.636600000000044
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123014",
-        "PERMITTEE_NAME": "Henderson County",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "South of HWY 412 and West of Roy Pruitt Lane",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123014",
-        "LATITUDE": 35.6366,
-        "LONGITUDE": -88.3657,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38310999999999,
-          35.69137000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR053793",
-        "PERMITTEE_NAME": "DeWayne's Quality Metal Coatings, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1759708800000,
-        "EFFECTIVE_DATE": 1759708800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "205 N INDUSTRIAL DR",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053793",
-        "LATITUDE": 35.69137,
-        "LONGITUDE": -88.38311,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25421999999998,
-          35.77468700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123070",
-        "PERMITTEE_NAME": "State of Tennessee, Department of General Services",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Cabin Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123070",
-        "LATITUDE": 35.774687,
-        "LONGITUDE": -88.25421999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.40327199999996,
-          35.544020000000046
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123093",
-        "PERMITTEE_NAME": "Paul Hayes",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "409 Stegall Rd 570 Stegall Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123093",
-        "LATITUDE": 35.544019999999996,
-        "LONGITUDE": -88.403272,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43734999999998,
-          35.69332000000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.023",
-        "PERMITTEE_NAME": "City of Lexington Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1743465600000,
-        "EFFECTIVE_DATE": 1743465600000,
-        "EXPIRATION_DATE": 1775001600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Starting at 234 Black Bottom Road to 400 Longsought Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.023",
-        "LATITUDE": 35.69332,
-        "LONGITUDE": -88.43735,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38938499999995,
-          35.725787000000025
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR124000",
-        "PERMITTEE_NAME": "City of Lexington, Tennessee",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "66 Technology Way",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR124000",
-        "LATITUDE": 35.725787,
-        "LONGITUDE": -88.38938499999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.39463999999998,
-          35.680750000000046
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122971",
-        "PERMITTEE_NAME": "Andrew Bryant",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "62 Pine Cone Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122971",
-        "LATITUDE": 35.680749999999996,
-        "LONGITUDE": -88.39464,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38938499999995,
-          35.725787000000025
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122982",
-        "PERMITTEE_NAME": "Tennessee Board of Regents",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "66 Technology Way",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122982",
-        "LATITUDE": 35.725787,
-        "LONGITUDE": -88.38938499999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.50948999999997,
-          35.51952000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS25.003",
-        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1747785600000,
-        "EFFECTIVE_DATE": 1747785600000,
-        "EXPIRATION_DATE": 1905465600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "451 South Broad St",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.003",
-        "LATITUDE": 35.51952,
-        "LONGITUDE": -88.50949,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25421999999998,
-          35.77468700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123079",
-        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM) Division",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Cabin Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123079",
-        "LATITUDE": 35.774687,
-        "LONGITUDE": -88.25421999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.45329999999996,
-          35.769209000000046
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS25.018",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1744329600000,
-        "EFFECTIVE_DATE": 1744329600000,
-        "EXPIRATION_DATE": 1902009600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "I-40, From the Shelby/Fayette County Line to near I-840 in Dickson County",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.018",
-        "LATITUDE": 35.769209,
-        "LONGITUDE": -88.4533,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25421999999998,
-          35.77468700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123080",
-        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM) Division",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Cabin Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123080",
-        "LATITUDE": 35.774687,
-        "LONGITUDE": -88.25421999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25421999999998,
-          35.77468700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123083",
-        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Cabin Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123083",
-        "LATITUDE": 35.774687,
-        "LONGITUDE": -88.25421999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.29552999999999,
-          35.61378000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.026",
-        "PERMITTEE_NAME": "Henderson County Highway Department",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1743984000000,
-        "EFFECTIVE_DATE": 1743984000000,
-        "EXPIRATION_DATE": 1775520000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Belton Robison Road over Beech River",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.026",
-        "LATITUDE": 35.61378,
-        "LONGITUDE": -88.29553,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.43734999999998,
-          35.69332000000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.024",
-        "PERMITTEE_NAME": "City of Lexington - Lexington Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1743465600000,
-        "EFFECTIVE_DATE": 1743465600000,
-        "EXPIRATION_DATE": 1775001600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Starting at 234 Black Bottom Road to 400 Longsought Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.024",
-        "LATITUDE": 35.69332,
-        "LONGITUDE": -88.43735,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.49849999999998,
-          35.51470000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123019",
-        "PERMITTEE_NAME": "MID VALLEY PIPELINE",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "35.5147, -88.4985",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123019",
-        "LATITUDE": 35.514700000000005,
-        "LONGITUDE": -88.4985,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25421999999998,
-          35.77468700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123078",
-        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM) Division",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Cabin Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123078",
-        "LATITUDE": 35.774687,
-        "LONGITUDE": -88.25421999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.41351999999995,
-          35.65999500000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR192409",
-        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Bob Henderson Dr",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192409",
-        "LATITUDE": 35.659994999999995,
-        "LONGITUDE": -88.41351999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.37510799999995,
-          35.66399800000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123073",
-        "PERMITTEE_NAME": "Distinct Contracting LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Derek drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123073",
-        "LATITUDE": 35.663998,
-        "LONGITUDE": -88.375108,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38156799999996,
-          35.71966900000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR051533",
-        "PERMITTEE_NAME": "Bravo, Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1775520000000,
-        "EFFECTIVE_DATE": 1775520000000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "58 Elliot Power Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051533",
-        "LATITUDE": 35.719668999999996,
-        "LONGITUDE": -88.381568,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.49849999999998,
-          35.51470000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123018",
-        "PERMITTEE_NAME": "MID VALLEY PIPELINE",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "35.5147, -88.4985",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123018",
-        "LATITUDE": 35.514700000000005,
-        "LONGITUDE": -88.4985,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25421999999998,
-          35.77468700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123077",
-        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM) Division",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Cabin Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123077",
-        "LATITUDE": 35.774687,
-        "LONGITUDE": -88.25421999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.19555999999994,
           35.65556000000004
         ]
@@ -2658,232 +1956,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.41085599999997,
-          35.62690200000003
+          -88.49861099999998,
+          35.784167000000025
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122603",
-        "PERMITTEE_NAME": "Paul Ward ",
+        "PERMIT_NUMBER": "397016",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "77 Rush Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122603",
-        "LATITUDE": 35.626902,
-        "LONGITUDE": -88.410856,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.25421999999998,
-          35.77468700000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.055",
-        "PERMITTEE_NAME": "Department of General Services",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1752451200000,
-        "EFFECTIVE_DATE": 1752451200000,
-        "EXPIRATION_DATE": 1905033600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Cabin Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.055",
-        "LATITUDE": 35.774687,
-        "LONGITUDE": -88.25421999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.39072999999996,
-          35.79736200000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122446",
-        "PERMITTEE_NAME": "Juan Marcias",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Highway 22, Parker's Crossroads",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122446",
-        "LATITUDE": 35.797362,
-        "LONGITUDE": -88.39072999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38109999999995,
-          35.63730000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS21.008",
-        "PERMITTEE_NAME": "Lexington Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1616716800000,
-        "EFFECTIVE_DATE": 1616716800000,
-        "EXPIRATION_DATE": 1774396800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "572 Franklin Avenue",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.008",
-        "LATITUDE": 35.6373,
-        "LONGITUDE": -88.3811,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.51374699999997,
-          35.75451900000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR192407",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "I-40 Interchange @ SR-104",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192407",
-        "LATITUDE": 35.754518999999995,
-        "LONGITUDE": -88.513747,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.44049099999995,
-          35.66576200000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123085",
-        "PERMITTEE_NAME": "Adkisson Properties LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "Hwy 412 West",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123085",
-        "LATITUDE": 35.665762,
-        "LONGITUDE": -88.440491,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.35850799999997,
-          35.46197600000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR051652",
-        "PERMITTEE_NAME": "CR METALS, LLC",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": null,
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1715040000000,
         "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
+        "EXPIRATION_DATE": 1808179200000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "300 Henderson Rd.",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051652",
-        "LATITUDE": 35.461976,
-        "LONGITUDE": -88.358508,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.41486199999997,
-          35.65055700000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2602.031",
-        "PERMITTEE_NAME": "Lexington Utilities",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1780876800000,
-        "EFFECTIVE_DATE": 1780876800000,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "600 Old Jackson Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.031",
-        "LATITUDE": 35.650557,
-        "LONGITUDE": -88.414862,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.38879299999996,
-          35.71772600000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123164",
-        "PERMITTEE_NAME": "Bhavna Patel",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Henderson",
-        "SITE_LOCATION": "16220 Highway 22 North",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123164",
-        "LATITUDE": 35.717726,
-        "LONGITUDE": -88.38879299999999,
+        "SITE_LOCATION": "10sw Trib-cane Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:397016",
+        "LATITUDE": 35.784167,
+        "LONGITUDE": -88.498611,
         "permit_status": "Active"
       }
     },
@@ -2944,24 +2034,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.45306699999998,
-          35.80571100000003
+          -88.41462799999994,
+          35.62522700000005
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122437",
-        "PERMITTEE_NAME": "Nguyen, LLC",
+        "PERMIT_NUMBER": "TNR050173",
+        "PERMITTEE_NAME": "Royal NY Company Holdings, LLC",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1771372800000,
+        "EFFECTIVE_DATE": 1771372800000,
+        "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "355 Judge McClough Rd., Cedar Grove, TN 38321",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122437",
-        "LATITUDE": 35.805710999999995,
-        "LONGITUDE": -88.45306699999999,
+        "SITE_LOCATION": "560 RUSH ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050173",
+        "LATITUDE": 35.625226999999995,
+        "LONGITUDE": -88.414628,
         "permit_status": "Active"
       }
     },
@@ -2996,6 +2086,786 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.38007699999997,
+          35.72685100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122910",
+        "PERMITTEE_NAME": "Henderson County, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Kirby Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122910",
+        "LATITUDE": 35.726850999999996,
+        "LONGITUDE": -88.380077,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38327199999998,
+          35.53993800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122881",
+        "PERMITTEE_NAME": "Lexington Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Highway 22 south of Lexington from Presley Rd. to Hwy 100",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122881",
+        "LATITUDE": 35.539938,
+        "LONGITUDE": -88.38327199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38529999999997,
+          35.71998200000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059880",
+        "PERMITTEE_NAME": "Jones Bros. Contractors, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1760486400000,
+        "EFFECTIVE_DATE": 1760486400000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "221 Bud Crockett Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059880",
+        "LATITUDE": 35.719982,
+        "LONGITUDE": -88.3853,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40018199999997,
+          35.55659700000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS22.260",
+        "PERMITTEE_NAME": "Mark White",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1675814400000,
+        "EXPIRATION_DATE": 1743984000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "1210 Pine Ridge Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS22.260",
+        "LATITUDE": 35.556597,
+        "LONGITUDE": -88.400182,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38815599999998,
+          35.71556000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122819",
+        "PERMITTEE_NAME": "Lexington Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "SR-22, approx.1200 feet south of Bud Crockett Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122819",
+        "LATITUDE": 35.715559999999996,
+        "LONGITUDE": -88.388156,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.36790699999995,
+          35.559273000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122853",
+        "PERMITTEE_NAME": "Beech River Watershed Development Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "24524 HIGHWAY 104 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122853",
+        "LATITUDE": 35.559273,
+        "LONGITUDE": -88.367907,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25421999999998,
+          35.77468700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123083",
+        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Cabin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123083",
+        "LATITUDE": 35.774687,
+        "LONGITUDE": -88.25421999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.36569999999995,
+          35.636600000000044
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123014",
+        "PERMITTEE_NAME": "Henderson County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "South of HWY 412 and West of Roy Pruitt Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123014",
+        "LATITUDE": 35.6366,
+        "LONGITUDE": -88.3657,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40148999999997,
+          35.644400000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123023",
+        "PERMITTEE_NAME": "City of Lexington Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "390 S Broad St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123023",
+        "LATITUDE": 35.644400000000005,
+        "LONGITUDE": -88.40149,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38938499999995,
+          35.725787000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR124000",
+        "PERMITTEE_NAME": "City of Lexington, Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "66 Technology Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR124000",
+        "LATITUDE": 35.725787,
+        "LONGITUDE": -88.38938499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49849999999998,
+          35.51470000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123019",
+        "PERMITTEE_NAME": "MID VALLEY PIPELINE",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "35.5147, -88.4985",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123019",
+        "LATITUDE": 35.514700000000005,
+        "LONGITUDE": -88.4985,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25421999999998,
+          35.77468700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123078",
+        "PERMITTEE_NAME": "State of Tennessee Real Estate Asset Management (STREAM) Division",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Cabin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123078",
+        "LATITUDE": 35.774687,
+        "LONGITUDE": -88.25421999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45329999999996,
+          35.769209000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192369",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "I-40, From the Shelby/Fayette County Line to near I-840 in Dickson County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192369",
+        "LATITUDE": 35.769209,
+        "LONGITUDE": -88.4533,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43734999999998,
+          35.69332000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.024",
+        "PERMITTEE_NAME": "City of Lexington - Lexington Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743465600000,
+        "EFFECTIVE_DATE": 1743465600000,
+        "EXPIRATION_DATE": 1775001600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Starting at 234 Black Bottom Road to 400 Longsought Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.024",
+        "LATITUDE": 35.69332,
+        "LONGITUDE": -88.43735,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38879299999996,
+          35.71772600000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123164",
+        "PERMITTEE_NAME": "Bhavna Patel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "16220 Highway 22 North",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123164",
+        "LATITUDE": 35.717726,
+        "LONGITUDE": -88.38879299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49849999999998,
+          35.51470000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.012",
+        "PERMITTEE_NAME": "Sunoco Pipeline LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1742860800000,
+        "EFFECTIVE_DATE": 1742860800000,
+        "EXPIRATION_DATE": 1774396800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "35.5147, -88.4985",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.012",
+        "LATITUDE": 35.514700000000005,
+        "LONGITUDE": -88.4985,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35850799999997,
+          35.46197600000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051652",
+        "PERMITTEE_NAME": "CR METALS, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "300 Henderson Rd.",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051652",
+        "LATITUDE": 35.461976,
+        "LONGITUDE": -88.358508,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29102399999994,
+          35.43532300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.050",
+        "PERMITTEE_NAME": "Kinder Morgan",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "no address listed",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.050",
+        "LATITUDE": 35.435323,
+        "LONGITUDE": -88.291024,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51374699999997,
+          35.75451900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.052",
+        "PERMITTEE_NAME": "Tn Dept. of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "I-40 Interchange @ SR-104",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.052",
+        "LATITUDE": 35.754518999999995,
+        "LONGITUDE": -88.513747,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25421999999998,
+          35.77468700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123070",
+        "PERMITTEE_NAME": "State of Tennessee, Department of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Cabin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123070",
+        "LATITUDE": 35.774687,
+        "LONGITUDE": -88.25421999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21772099999998,
+          35.79996500000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.013",
+        "PERMITTEE_NAME": "Sunoco Pipeline LP",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743120000000,
+        "EFFECTIVE_DATE": 1743120000000,
+        "EXPIRATION_DATE": 1775347200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Site 190: Pritchard Road & Site 221: Pope Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.013",
+        "LATITUDE": 35.799965,
+        "LONGITUDE": -88.217721,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41231999999997,
+          35.66214000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.032",
+        "PERMITTEE_NAME": "Beech River Watershed Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747267200000,
+        "EFFECTIVE_DATE": 1747267200000,
+        "EXPIRATION_DATE": 1780185600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "149 Eastern Shores Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.032",
+        "LATITUDE": 35.66214,
+        "LONGITUDE": -88.41232,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50948999999997,
+          35.51952000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192345",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "451 South Broad St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192345",
+        "LATITUDE": 35.51952,
+        "LONGITUDE": -88.50949,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51374699999997,
+          35.75451900000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.102",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1758758400000,
+        "EFFECTIVE_DATE": 1758758400000,
+        "EXPIRATION_DATE": 1916438400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "I-40 Interchange @ SR-104",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.102",
+        "LATITUDE": 35.754518999999995,
+        "LONGITUDE": -88.513747,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.39776999999998,
+          35.60976800000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123096",
+        "PERMITTEE_NAME": "MM&J Properties/ Jeremy Johnson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "8021 HIGHWAY 22 S",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123096",
+        "LATITUDE": 35.609767999999995,
+        "LONGITUDE": -88.39777,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43734999999998,
+          35.69332000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.023",
+        "PERMITTEE_NAME": "City of Lexington Utilities",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743465600000,
+        "EFFECTIVE_DATE": 1743465600000,
+        "EXPIRATION_DATE": 1775001600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Starting at 234 Black Bottom Road to 400 Longsought Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.023",
+        "LATITUDE": 35.69332,
+        "LONGITUDE": -88.43735,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.29552999999999,
+          35.61378000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.026",
+        "PERMITTEE_NAME": "Henderson County Highway Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743984000000,
+        "EFFECTIVE_DATE": 1743984000000,
+        "EXPIRATION_DATE": 1775520000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Belton Robison Road over Beech River",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.026",
+        "LATITUDE": 35.61378,
+        "LONGITUDE": -88.29553,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.39463999999998,
+          35.680750000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122971",
+        "PERMITTEE_NAME": "Andrew Bryant",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "62 Pine Cone Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122971",
+        "LATITUDE": 35.680749999999996,
+        "LONGITUDE": -88.39464,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50948999999997,
+          35.51952000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.003",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1747785600000,
+        "EFFECTIVE_DATE": 1747785600000,
+        "EXPIRATION_DATE": 1905465600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "451 South Broad St",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.003",
+        "LATITUDE": 35.51952,
+        "LONGITUDE": -88.50949,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38938499999995,
+          35.725787000000025
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122982",
+        "PERMITTEE_NAME": "Tennessee Board of Regents",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "66 Technology Way",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122982",
+        "LATITUDE": 35.725787,
+        "LONGITUDE": -88.38938499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.41028999999997,
           35.56636000000003
         ]
@@ -3022,25 +2892,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.29102399999994,
-          35.43532300000004
+          -88.41486199999997,
+          35.65055700000005
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2602.050",
-        "PERMITTEE_NAME": "Kinder Morgan",
-        "PERMITTING_ACTION": "Pending",
+        "PERMIT_NUMBER": "NR2602.031",
+        "PERMITTEE_NAME": "Lexington Utilities",
+        "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
+        "ISSUANCE_DATE": 1780876800000,
+        "EFFECTIVE_DATE": 1780876800000,
         "EXPIRATION_DATE": null,
         "TERMINATION_DATE": null,
         "COUNTY": "Henderson",
-        "SITE_LOCATION": "no address listed",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.050",
-        "LATITUDE": 35.435323,
-        "LONGITUDE": -88.291024,
-        "permit_status": "Pending"
+        "SITE_LOCATION": "600 Old Jackson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.031",
+        "LATITUDE": 35.650557,
+        "LONGITUDE": -88.414862,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45329999999996,
+          35.769209000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS25.018",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1744329600000,
+        "EFFECTIVE_DATE": 1744329600000,
+        "EXPIRATION_DATE": 1902009600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "I-40, From the Shelby/Fayette County Line to near I-840 in Dickson County",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.018",
+        "LATITUDE": 35.769209,
+        "LONGITUDE": -88.4533,
+        "permit_status": "Active"
       }
     },
     {
@@ -3066,6 +2962,58 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123200",
         "LATITUDE": 35.642426,
         "LONGITUDE": -88.375923,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.41627999999997,
+          35.64995000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122905",
+        "PERMITTEE_NAME": "Jordan Gross",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Old Jackson Road, west side of Beech River behind Walmart",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122905",
+        "LATITUDE": 35.64995,
+        "LONGITUDE": -88.41628,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25421999999998,
+          35.77468700000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122993",
+        "PERMITTEE_NAME": "TN Dept. of General Services",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Henderson",
+        "SITE_LOCATION": "Cabin Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122993",
+        "LATITUDE": 35.774687,
+        "LONGITUDE": -88.25421999999999,
         "permit_status": "Active"
       }
     }

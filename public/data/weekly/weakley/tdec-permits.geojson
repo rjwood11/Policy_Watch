@@ -6,6 +6,526 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.88829999999996,
+          36.353500000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS19.200",
+        "PERMITTEE_NAME": "Allison Whitledge",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "UN Trib to Little Cypress Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.200",
+        "LATITUDE": 36.353500000000004,
+        "LONGITUDE": -88.8883,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.74706399999997,
+          36.155061000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122671",
+        "PERMITTEE_NAME": "Nancy Doan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "24 Hwy 124",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122671",
+        "LATITUDE": 36.155060999999996,
+        "LONGITUDE": -88.747064,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.88829999999996,
+          36.353500000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.043",
+        "PERMITTEE_NAME": "Alan Cary",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1749772800000,
+        "EFFECTIVE_DATE": 1749772800000,
+        "EXPIRATION_DATE": 1781308800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "UN Trib to Little Cypress Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.043",
+        "LATITUDE": 36.353500000000004,
+        "LONGITUDE": -88.8883,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61489999999998,
+          36.21794100000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050389",
+        "PERMITTEE_NAME": "Best-Wade Petroleum, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1763769600000,
+        "EFFECTIVE_DATE": 1763769600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "108 West Union Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050389",
+        "LATITUDE": 36.217940999999996,
+        "LONGITUDE": -88.6149,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63611099999997,
+          36.33083300000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "927009",
+        "PERMITTEE_NAME": "David K. Parham, Jerry Perry, and Thomas W. Spence",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1581465600000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1670630400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "443SW Trib-Cypress Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:927009",
+        "LATITUDE": 36.330833,
+        "LONGITUDE": -88.636111,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.89249999999998,
+          36.379444000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "927026",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1774828800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1868054400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "435nw Trib-little Cypress Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:927026",
+        "LATITUDE": 36.379444,
+        "LONGITUDE": -88.8925,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54372699999999,
+          36.49016300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00379",
+        "PERMITTEE_NAME": "Jeremy Walters",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1785715200000,
+        "EFFECTIVE_DATE": 1785715200000,
+        "EXPIRATION_DATE": 1830211200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Old Bethel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00379",
+        "LATITUDE": 36.490162999999995,
+        "LONGITUDE": -88.54372699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.80703999999997,
+          36.18121000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.107",
+        "PERMITTEE_NAME": "City of Greenfield",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765843200000,
+        "EFFECTIVE_DATE": 1765843200000,
+        "EXPIRATION_DATE": 1797379200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "north of Greenfield, east of Hwy. 45 E, south of Bean Switch Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.107",
+        "LATITUDE": 36.18121,
+        "LONGITUDE": -88.80704,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.80703999999997,
+          36.18121000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.108",
+        "PERMITTEE_NAME": "City of Greenfield",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1765843200000,
+        "EFFECTIVE_DATE": 1765843200000,
+        "EXPIRATION_DATE": 1797379200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "north of Greenfield, east of Hwy. 45 E, south of Bean Switch Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.108",
+        "LATITUDE": 36.18121,
+        "LONGITUDE": -88.80704,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.86563199999995,
+          36.338944000000026
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123146",
+        "PERMITTEE_NAME": "University of Tennessee",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "315 HANNINGS LN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123146",
+        "LATITUDE": 36.338944,
+        "LONGITUDE": -88.86563199999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.70262799999995,
+          36.29183500000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123144",
+        "PERMITTEE_NAME": "Susan Cox Development",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "East Main Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123144",
+        "LATITUDE": 36.291835,
+        "LONGITUDE": -88.70262799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.80682399999995,
+          36.18183000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123101",
+        "PERMITTEE_NAME": "Weakley County",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Bean Switch Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123101",
+        "LATITUDE": 36.18183,
+        "LONGITUDE": -88.80682399999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53900799999997,
+          36.49488800000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123123",
+        "PERMITTEE_NAME": "Thu Bui",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "900 Old Bethel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123123",
+        "LATITUDE": 36.494887999999996,
+        "LONGITUDE": -88.539008,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64089999999999,
+          36.24210000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053759",
+        "PERMITTEE_NAME": "Old Hickory Clay Company",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1756339200000,
+        "EFFECTIVE_DATE": 1756339200000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "5420 Old Highway 22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053759",
+        "LATITUDE": 36.2421,
+        "LONGITUDE": -88.6409,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.85419999999993,
+          36.33200000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122553",
+        "PERMITTEE_NAME": "TF Holdings LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "112 Peach Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122553",
+        "LATITUDE": 36.332,
+        "LONGITUDE": -88.8542,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.70422899999994,
+          36.38712600000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00371",
+        "PERMITTEE_NAME": "G3D Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "571 Turbeville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00371",
+        "LATITUDE": 36.387125999999995,
+        "LONGITUDE": -88.704229,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.89104999999995,
+          36.35479000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123143",
+        "PERMITTEE_NAME": "Greg Vise",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "259 Hwy 431",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123143",
+        "LATITUDE": 36.35479,
+        "LONGITUDE": -88.89104999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.89153799999997,
+          36.35445100000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122989",
+        "PERMITTEE_NAME": "Mid State Investments",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "289 TN-431",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122989",
+        "LATITUDE": 36.354451,
+        "LONGITUDE": -88.891538,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.82132499999994,
+          36.335124000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR054406",
+        "PERMITTEE_NAME": "MTD CONSUMER GROUP INC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1761696000000,
+        "EFFECTIVE_DATE": 1761696000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "136 Industrial Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054406",
+        "LATITUDE": 36.335124,
+        "LONGITUDE": -88.821325,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.63337999999999,
+          36.23533000000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR053128",
+        "PERMITTEE_NAME": "Gleason Clay Company LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758153600000,
+        "EFFECTIVE_DATE": 1758153600000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "5110 Old SR-22",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053128",
+        "LATITUDE": 36.23533,
+        "LONGITUDE": -88.63338,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.64916699999998,
           36.21777800000007
         ]
@@ -110,58 +630,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.63337999999999,
-          36.23533000000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR053128",
-        "PERMITTEE_NAME": "Gleason Clay Company LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1758153600000,
-        "EFFECTIVE_DATE": 1758153600000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "5110 Old SR-22",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053128",
-        "LATITUDE": 36.23533,
-        "LONGITUDE": -88.63338,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.82132499999994,
-          36.335124000000064
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR054406",
-        "PERMITTEE_NAME": "MTD CONSUMER GROUP INC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1761696000000,
-        "EFFECTIVE_DATE": 1761696000000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "136 Industrial Park Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR054406",
-        "LATITUDE": 36.335124,
-        "LONGITUDE": -88.821325,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.84975899999995,
           36.36141600000008
         ]
@@ -214,32 +682,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.88227299999994,
-          36.33955400000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR120770",
-        "PERMITTEE_NAME": "Phil Dane",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "South of Hawks Road, west of Skyhawk Parkway in southwest quadrant of Martin, Tennessee",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120770",
-        "LATITUDE": 36.339554,
-        "LONGITUDE": -88.882273,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.87829999999997,
           36.34250000000003
         ]
@@ -258,32 +700,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR120717",
         "LATITUDE": 36.3425,
         "LONGITUDE": -88.87830000000001,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.61193999999995,
-          36.246390000000076
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR058028",
-        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1758844800000,
-        "EFFECTIVE_DATE": 1758844800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "1166 Janes Mill Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058028",
-        "LATITUDE": 36.24639,
-        "LONGITUDE": -88.61193999999999,
         "permit_status": "Active"
       }
     },
@@ -318,6 +734,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.61193999999995,
+          36.246390000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR058028",
+        "PERMITTEE_NAME": "Tennessee Valley Authority (TVA)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1758844800000,
+        "EFFECTIVE_DATE": 1758844800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "1166 Janes Mill Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR058028",
+        "LATITUDE": 36.24639,
+        "LONGITUDE": -88.61193999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.66749999999996,
           36.26805600000006
         ]
@@ -336,6 +778,32 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121069",
         "LATITUDE": 36.268056,
         "LONGITUDE": -88.6675,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.67673999999994,
+          36.353890000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00006",
+        "PERMITTEE_NAME": "R & R Farms - Bennett Facility",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1447027200000,
+        "EFFECTIVE_DATE": 1447027200000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "779 Ragan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00006",
+        "LATITUDE": 36.35389,
+        "LONGITUDE": -88.67674,
         "permit_status": "Active"
       }
     },
@@ -448,32 +916,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.67673999999994,
-          36.353890000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00006",
-        "PERMITTEE_NAME": "R & R Farms - Bennett Facility",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1447027200000,
-        "EFFECTIVE_DATE": 1447027200000,
-        "EXPIRATION_DATE": 1596153600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "779 Ragan Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00006",
-        "LATITUDE": 36.35389,
-        "LONGITUDE": -88.67674,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.57059999999996,
           36.394900000000064
         ]
@@ -518,32 +960,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00258",
         "LATITUDE": 36.1181,
         "LONGITUDE": -88.65096,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.59884599999998,
-          36.141991000000075
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00341",
-        "PERMITTEE_NAME": "Sycamore Farm",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1784073600000,
-        "EFFECTIVE_DATE": 1784073600000,
-        "EXPIRATION_DATE": 1790726400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Blaylock Store Road, McKenzie TN",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00341",
-        "LATITUDE": 36.141991,
-        "LONGITUDE": -88.598846,
         "permit_status": "Active"
       }
     },
@@ -622,6 +1038,32 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00297",
         "LATITUDE": 36.4345,
         "LONGITUDE": -88.6581,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59884599999998,
+          36.141991000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00341",
+        "PERMITTEE_NAME": "Sycamore Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1784073600000,
+        "EFFECTIVE_DATE": 1784073600000,
+        "EXPIRATION_DATE": 1790726400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Blaylock Store Road, McKenzie TN",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00341",
+        "LATITUDE": 36.141991,
+        "LONGITUDE": -88.598846,
         "permit_status": "Active"
       }
     },
@@ -1020,32 +1462,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.61527799999999,
-          36.33111100000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "927016",
-        "PERMITTEE_NAME": "Dennis Doster, Donald Perkins, and Terry Odie",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1675900800000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1762819200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "443SE Cypress Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:927016",
-        "LATITUDE": 36.331111,
-        "LONGITUDE": -88.61527799999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.61374399999994,
           36.29584500000004
         ]
@@ -1072,24 +1488,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.77287299999995,
-          36.25976200000008
+          -88.61527799999999,
+          36.33111100000008
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "SOPC00359",
-        "PERMITTEE_NAME": "Nanney Hog Farms",
+        "PERMIT_NUMBER": "927016",
+        "PERMITTEE_NAME": "Dennis Doster, Donald Perkins, and Terry Odie",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1525305600000,
-        "EFFECTIVE_DATE": 1525305600000,
-        "EXPIRATION_DATE": 1596153600000,
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1675900800000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1762819200000,
         "TERMINATION_DATE": null,
         "COUNTY": "Weakley",
-        "SITE_LOCATION": "900 Macedonia Church Road ",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00359",
-        "LATITUDE": 36.259761999999995,
-        "LONGITUDE": -88.77287299999999,
+        "SITE_LOCATION": "443SE Cypress Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:927016",
+        "LATITUDE": 36.331111,
+        "LONGITUDE": -88.61527799999999,
         "permit_status": "Active"
       }
     },
@@ -1124,6 +1540,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.54372699999999,
+          36.49016300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00360",
+        "PERMITTEE_NAME": "Rodriguez Farm",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1526601600000,
+        "EFFECTIVE_DATE": 1526601600000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Old Bethel Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00360",
+        "LATITUDE": 36.490162999999995,
+        "LONGITUDE": -88.54372699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.77287299999995,
+          36.25976200000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00359",
+        "PERMITTEE_NAME": "Nanney Hog Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1525305600000,
+        "EFFECTIVE_DATE": 1525305600000,
+        "EXPIRATION_DATE": 1596153600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "900 Macedonia Church Road ",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00359",
+        "LATITUDE": 36.259761999999995,
+        "LONGITUDE": -88.77287299999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.82680199999999,
           36.23395000000005
         ]
@@ -1142,214 +1610,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830248",
         "LATITUDE": 36.23395,
         "LONGITUDE": -88.826802,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.69142499999998,
-          36.14865000000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR059442",
-        "PERMITTEE_NAME": "Mr. Matthew McCollum dba McCollum Timber and Lumber Company",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1765929600000,
-        "EFFECTIVE_DATE": 1765929600000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "3220 HIGHWAY 124",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059442",
-        "LATITUDE": 36.148649999999996,
-        "LONGITUDE": -88.691425,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.85821599999997,
-          36.334640000000036
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122351",
-        "PERMITTEE_NAME": "Chad McDaniel",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Murphy Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122351",
-        "LATITUDE": 36.33464,
-        "LONGITUDE": -88.858216,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.83526299999994,
-          36.324625000000026
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122241",
-        "PERMITTEE_NAME": "Vowell Ventures",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Sand Hill Rd and Kenny Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122241",
-        "LATITUDE": 36.324625,
-        "LONGITUDE": -88.835263,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.74706399999997,
-          36.155061000000046
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122513",
-        "PERMITTEE_NAME": "Nancy Doan",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "24 Hwy 124",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122513",
-        "LATITUDE": 36.155060999999996,
-        "LONGITUDE": -88.747064,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.66027799999995,
-          36.320303000000024
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122424",
-        "PERMITTEE_NAME": "Bryan Hart",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "175 Matheny Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122424",
-        "LATITUDE": 36.320302999999996,
-        "LONGITUDE": -88.66027799999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.65203099999997,
-          36.32991400000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122495",
-        "PERMITTEE_NAME": "Robert Martin",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Richardson Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122495",
-        "LATITUDE": 36.329913999999995,
-        "LONGITUDE": -88.652031,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.65017499999999,
-          36.32931400000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122496",
-        "PERMITTEE_NAME": "Nathaniel Martin",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Richardson Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122496",
-        "LATITUDE": 36.329314,
-        "LONGITUDE": -88.65017499999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.57427999999999,
-          36.500740000000064
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122524",
-        "PERMITTEE_NAME": "David Nguyen",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Emerson Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122524",
-        "LATITUDE": 36.50074,
-        "LONGITUDE": -88.57428,
         "permit_status": "Active"
       }
     },
@@ -1384,310 +1644,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.94250999999997,
-          36.284080000000074
+          -88.69142499999998,
+          36.14865000000003
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122140",
-        "PERMITTEE_NAME": "Steven Vu",
+        "PERMIT_NUMBER": "TNR059442",
+        "PERMITTEE_NAME": "Mr. Matthew McCollum dba McCollum Timber and Lumber Company",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1765929600000,
+        "EFFECTIVE_DATE": 1765929600000,
+        "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Weakley",
-        "SITE_LOCATION": "3463 Old Troy Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122140",
-        "LATITUDE": 36.284079999999996,
-        "LONGITUDE": -88.94251,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.54372699999999,
-          36.49016300000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00360",
-        "PERMITTEE_NAME": "Rodriguez Farm",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1526601600000,
-        "EFFECTIVE_DATE": 1526601600000,
-        "EXPIRATION_DATE": 1596153600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Old Bethel Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00360",
-        "LATITUDE": 36.490162999999995,
-        "LONGITUDE": -88.54372699999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.70422899999994,
-          36.38712600000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00371",
-        "PERMITTEE_NAME": "G3D Farms",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "571 Turbeville Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00371",
-        "LATITUDE": 36.387125999999995,
-        "LONGITUDE": -88.704229,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.60976699999998,
-          36.15107300000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122682",
-        "PERMITTEE_NAME": "Zach Wallace",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "5761 Highway 124",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122682",
-        "LATITUDE": 36.151073,
-        "LONGITUDE": -88.60976699999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.75070799999997,
-          36.15481100000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122608",
-        "PERMITTEE_NAME": "Hanh Tien, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "SR-124",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122608",
-        "LATITUDE": 36.154810999999995,
-        "LONGITUDE": -88.750708,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.60976699999998,
-          36.15107300000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00377",
-        "PERMITTEE_NAME": "Zach Wallace",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1780963200000,
-        "EFFECTIVE_DATE": 1780963200000,
-        "EXPIRATION_DATE": 1822262400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "5761 Highway 124",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00377",
-        "LATITUDE": 36.151073,
-        "LONGITUDE": -88.60976699999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.86852199999998,
-          36.33672100000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122693",
-        "PERMITTEE_NAME": "Martin MOB, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "384 Hannings Lane",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122693",
-        "LATITUDE": 36.336721,
-        "LONGITUDE": -88.868522,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.88829999999996,
-          36.353500000000054
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS19.200",
-        "PERMITTEE_NAME": "Allison Whitledge",
-        "PERMITTING_ACTION": "Incomplete",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "UN Trib to Little Cypress Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS19.200",
-        "LATITUDE": 36.353500000000004,
-        "LONGITUDE": -88.8883,
-        "permit_status": "Pending"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.63611099999997,
-          36.33083300000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "927009",
-        "PERMITTEE_NAME": "David K. Parham, Jerry Perry, and Thomas W. Spence",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1581465600000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1670630400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "443SW Trib-Cypress Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:927009",
-        "LATITUDE": 36.330833,
-        "LONGITUDE": -88.636111,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.89249999999998,
-          36.379444000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "927026",
-        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1774828800000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1868054400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "435nw Trib-little Cypress Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:927026",
-        "LATITUDE": 36.379444,
-        "LONGITUDE": -88.8925,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.59176299999996,
-          36.16693800000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122672",
-        "PERMITTEE_NAME": "Zach Wallace",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "1452 Union Church Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122672",
-        "LATITUDE": 36.166938,
-        "LONGITUDE": -88.591763,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.84386599999993,
-          36.152454000000034
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122699",
-        "PERMITTEE_NAME": "Huy Vo",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Lynn Point Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122699",
-        "LATITUDE": 36.152454,
-        "LONGITUDE": -88.84386599999999,
+        "SITE_LOCATION": "3220 HIGHWAY 124",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059442",
+        "LATITUDE": 36.148649999999996,
+        "LONGITUDE": -88.691425,
         "permit_status": "Active"
       }
     },
@@ -1722,39 +1696,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.61489999999998,
-          36.21794100000005
+          -88.83526299999994,
+          36.324625000000026
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR050389",
-        "PERMITTEE_NAME": "Best-Wade Petroleum, Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1763769600000,
-        "EFFECTIVE_DATE": 1763769600000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "108 West Union Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050389",
-        "LATITUDE": 36.217940999999996,
-        "LONGITUDE": -88.6149,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.74706399999997,
-          36.155061000000046
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122671",
-        "PERMITTEE_NAME": "Nancy Doan",
+        "PERMIT_NUMBER": "TNR122241",
+        "PERMITTEE_NAME": "Vowell Ventures",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -1762,166 +1710,10 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Weakley",
-        "SITE_LOCATION": "24 Hwy 124",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122671",
-        "LATITUDE": 36.155060999999996,
-        "LONGITUDE": -88.747064,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.65831999999995,
-          36.37153900000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122940",
-        "PERMITTEE_NAME": "Ann Giang",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Boydsville Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122940",
-        "LATITUDE": 36.371539,
-        "LONGITUDE": -88.65831999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.53825499999994,
-          36.48275700000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123024",
-        "PERMITTEE_NAME": "STACEY ADAMS",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "OLD BETHEL RD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123024",
-        "LATITUDE": 36.482757,
-        "LONGITUDE": -88.53825499999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.66204499999998,
-          36.34548100000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122985",
-        "PERMITTEE_NAME": "Denver Melton",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "903 Pleasant Hill Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122985",
-        "LATITUDE": 36.345481,
-        "LONGITUDE": -88.66204499999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.88829999999996,
-          36.353500000000054
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.033",
-        "PERMITTEE_NAME": "Keith Cursey",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1748476800000,
-        "EFFECTIVE_DATE": 1748476800000,
-        "EXPIRATION_DATE": 1780012800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "124 Kelly West",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.033",
-        "LATITUDE": 36.353500000000004,
-        "LONGITUDE": -88.8883,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.54160599999994,
-          36.500901000000056
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122979",
-        "PERMITTEE_NAME": "Mary Hawkins",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "7052 State Line Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122979",
-        "LATITUDE": 36.500901,
-        "LONGITUDE": -88.541606,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.53795499999995,
-          36.47987900000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123040",
-        "PERMITTEE_NAME": "DUSTIN ADAMS",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "OLD BETHEL RD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123040",
-        "LATITUDE": 36.479879,
-        "LONGITUDE": -88.537955,
+        "SITE_LOCATION": "Sand Hill Rd and Kenny Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122241",
+        "LATITUDE": 36.324625,
+        "LONGITUDE": -88.835263,
         "permit_status": "Active"
       }
     },
@@ -1975,6 +1767,370 @@
         "LATITUDE": 36.253865999999995,
         "LONGITUDE": -88.5569,
         "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.94250999999997,
+          36.284080000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122140",
+        "PERMITTEE_NAME": "Steven Vu",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "3463 Old Troy Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122140",
+        "LATITUDE": 36.284079999999996,
+        "LONGITUDE": -88.94251,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.85821599999997,
+          36.334640000000036
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122351",
+        "PERMITTEE_NAME": "Chad McDaniel",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Murphy Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122351",
+        "LATITUDE": 36.33464,
+        "LONGITUDE": -88.858216,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.74706399999997,
+          36.155061000000046
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122513",
+        "PERMITTEE_NAME": "Nancy Doan",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "24 Hwy 124",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122513",
+        "LATITUDE": 36.155060999999996,
+        "LONGITUDE": -88.747064,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57427999999999,
+          36.500740000000064
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122524",
+        "PERMITTEE_NAME": "David Nguyen",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Emerson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122524",
+        "LATITUDE": 36.50074,
+        "LONGITUDE": -88.57428,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65203099999997,
+          36.32991400000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122495",
+        "PERMITTEE_NAME": "Robert Martin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Richardson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122495",
+        "LATITUDE": 36.329913999999995,
+        "LONGITUDE": -88.652031,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66027799999995,
+          36.320303000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122424",
+        "PERMITTEE_NAME": "Bryan Hart",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "175 Matheny Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122424",
+        "LATITUDE": 36.320302999999996,
+        "LONGITUDE": -88.66027799999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65462299999996,
+          36.18955200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPCD0037",
+        "PERMITTEE_NAME": "Allen Farms",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-I",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "1065 Mount Zion Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPCD0037",
+        "LATITUDE": 36.189552,
+        "LONGITUDE": -88.654623,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.74527799999998,
+          36.316111000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "927028",
+        "PERMITTEE_NAME": "Mud Creek W.D.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1735776000000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1828137600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "443sw Mud Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:927028",
+        "LATITUDE": 36.316111,
+        "LONGITUDE": -88.745278,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65017499999999,
+          36.32931400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122496",
+        "PERMITTEE_NAME": "Nathaniel Martin",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Richardson Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122496",
+        "LATITUDE": 36.329314,
+        "LONGITUDE": -88.65017499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60976699999998,
+          36.15107300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "SOPC00377",
+        "PERMITTEE_NAME": "Zach Wallace",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CAFO-NoD",
+        "ISSUANCE_DATE": 1780963200000,
+        "EFFECTIVE_DATE": 1780963200000,
+        "EXPIRATION_DATE": 1822262400000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "5761 Highway 124",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00377",
+        "LATITUDE": 36.151073,
+        "LONGITUDE": -88.60976699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60976699999998,
+          36.15107300000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122682",
+        "PERMITTEE_NAME": "Zach Wallace",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "5761 Highway 124",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122682",
+        "LATITUDE": 36.151073,
+        "LONGITUDE": -88.60976699999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.84386599999993,
+          36.152454000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122699",
+        "PERMITTEE_NAME": "Huy Vo",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Lynn Point Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122699",
+        "LATITUDE": 36.152454,
+        "LONGITUDE": -88.84386599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59176299999996,
+          36.16693800000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122672",
+        "PERMITTEE_NAME": "Zach Wallace",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "1452 Union Church Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122672",
+        "LATITUDE": 36.166938,
+        "LONGITUDE": -88.591763,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.86852199999998,
+          36.33672100000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122693",
+        "PERMITTEE_NAME": "Martin MOB, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "384 Hannings Lane",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122693",
+        "LATITUDE": 36.336721,
+        "LONGITUDE": -88.868522,
+        "permit_status": "Active"
       }
     },
     {
@@ -2060,24 +2216,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.62949099999997,
-          36.29405600000007
+          -88.75070799999997,
+          36.15481100000005
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2502.086",
-        "PERMITTEE_NAME": "Colin Johnson",
+        "PERMIT_NUMBER": "TNR122608",
+        "PERMITTEE_NAME": "Hanh Tien, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "SR-124",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122608",
+        "LATITUDE": 36.154810999999995,
+        "LONGITUDE": -88.750708,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.83451099999996,
+          36.266451000000075
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.007",
+        "PERMITTEE_NAME": "West Tennessee Railroad Authority",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1761264000000,
-        "EFFECTIVE_DATE": 1761523200000,
+        "ISSUANCE_DATE": 1776729600000,
+        "EFFECTIVE_DATE": 1776729600000,
         "EXPIRATION_DATE": 1905033600000,
         "TERMINATION_DATE": null,
         "COUNTY": "Weakley",
-        "SITE_LOCATION": "Corner of Shuff Rd and Hwy 54 just east of Dresden",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.086",
-        "LATITUDE": 36.294056,
-        "LONGITUDE": -88.629491,
+        "SITE_LOCATION": "Bridge at MP 423.1 on the West TN Railroad Mainline parallel to a drainag",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.007",
+        "LATITUDE": 36.266450999999996,
+        "LONGITUDE": -88.83451099999999,
         "permit_status": "Active"
       }
     },
@@ -2086,24 +2268,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.88829999999996,
-          36.353500000000054
+          -88.60962999999998,
+          36.20238000000006
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2502.043",
-        "PERMITTEE_NAME": "Alan Cary",
+        "PERMIT_NUMBER": "TNR051084",
+        "PERMITTEE_NAME": "H. C. SPINKS CLAY COMPANY, INCORPORATED",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1749772800000,
-        "EFFECTIVE_DATE": 1749772800000,
-        "EXPIRATION_DATE": 1781308800000,
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1782086400000,
+        "EFFECTIVE_DATE": 1782086400000,
+        "EXPIRATION_DATE": 1909008000000,
         "TERMINATION_DATE": null,
         "COUNTY": "Weakley",
-        "SITE_LOCATION": "UN Trib to Little Cypress Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.043",
-        "LATITUDE": 36.353500000000004,
-        "LONGITUDE": -88.8883,
+        "SITE_LOCATION": "560 PEACE AND HARMONY ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051084",
+        "LATITUDE": 36.20238,
+        "LONGITUDE": -88.60963,
         "permit_status": "Active"
       }
     },
@@ -2112,24 +2294,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.66204499999998,
-          36.34548100000006
+          -88.89145499999995,
+          36.32362100000006
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2502.019",
-        "PERMITTEE_NAME": "Denver Melton",
+        "PERMIT_NUMBER": "TNR123189",
+        "PERMITTEE_NAME": "Matt Vincent",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1743120000000,
-        "EFFECTIVE_DATE": 1743120000000,
-        "EXPIRATION_DATE": 1775347200000,
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Weakley",
-        "SITE_LOCATION": "903 Pleasant Hill Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.019",
-        "LATITUDE": 36.345481,
-        "LONGITUDE": -88.66204499999999,
+        "SITE_LOCATION": "107 Three Point Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123189",
+        "LATITUDE": 36.323620999999996,
+        "LONGITUDE": -88.891455,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.74189499999994,
+          36.209978000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR192474",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "SR-54; Bridge over Branch, LM 5.25",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR192474",
+        "LATITUDE": 36.209978,
+        "LONGITUDE": -88.741895,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.74189499999994,
+          36.209978000000035
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS26.160",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1793059200000,
+        "EFFECTIVE_DATE": 1793059200000,
+        "EXPIRATION_DATE": 1950739200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "SR-54; Bridge over Branch, LM 5.25",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS26.160",
+        "LATITUDE": 36.209978,
+        "LONGITUDE": -88.741895,
         "permit_status": "Active"
       }
     },
@@ -2169,6 +2403,84 @@
         ]
       },
       "properties": {
+        "PERMIT_NUMBER": "TNR123040",
+        "PERMITTEE_NAME": "DUSTIN ADAMS",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "OLD BETHEL RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123040",
+        "LATITUDE": 36.479879,
+        "LONGITUDE": -88.537955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62949099999997,
+          36.29405600000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.086",
+        "PERMITTEE_NAME": "Colin Johnson",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1761264000000,
+        "EFFECTIVE_DATE": 1761523200000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Corner of Shuff Rd and Hwy 54 just east of Dresden",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.086",
+        "LATITUDE": 36.294056,
+        "LONGITUDE": -88.629491,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66204499999998,
+          36.34548100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.019",
+        "PERMITTEE_NAME": "Denver Melton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1743120000000,
+        "EFFECTIVE_DATE": 1743120000000,
+        "EXPIRATION_DATE": 1775347200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "903 Pleasant Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.019",
+        "LATITUDE": 36.345481,
+        "LONGITUDE": -88.66204499999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53795499999995,
+          36.47987900000004
+        ]
+      },
+      "properties": {
         "PERMIT_NUMBER": "NR2502.036",
         "PERMITTEE_NAME": "Dustin Adams",
         "PERMITTING_ACTION": "Active",
@@ -2182,6 +2494,110 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.036",
         "LATITUDE": 36.479879,
         "LONGITUDE": -88.537955,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.84678899999994,
+          36.36150100000003
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR059078",
+        "PERMITTEE_NAME": "UFP NAC, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1759321482000,
+        "EFFECTIVE_DATE": 1759321482000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "191 Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059078",
+        "LATITUDE": 36.361501,
+        "LONGITUDE": -88.846789,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.88829999999996,
+          36.353500000000054
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2502.033",
+        "PERMITTEE_NAME": "Keith Cursey",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1748476800000,
+        "EFFECTIVE_DATE": 1748476800000,
+        "EXPIRATION_DATE": 1780012800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "124 Kelly West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.033",
+        "LATITUDE": 36.353500000000004,
+        "LONGITUDE": -88.8883,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54160599999994,
+          36.500901000000056
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122979",
+        "PERMITTEE_NAME": "Mary Hawkins",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "7052 State Line Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122979",
+        "LATITUDE": 36.500901,
+        "LONGITUDE": -88.541606,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53825499999994,
+          36.48275700000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123024",
+        "PERMITTEE_NAME": "STACEY ADAMS",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "OLD BETHEL RD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123024",
+        "LATITUDE": 36.482757,
+        "LONGITUDE": -88.53825499999999,
         "permit_status": "Active"
       }
     },
@@ -2242,448 +2658,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.84678899999994,
-          36.36150100000003
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR059078",
-        "PERMITTEE_NAME": "UFP NAC, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1759321482000,
-        "EFFECTIVE_DATE": 1759321482000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "191 Industrial Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR059078",
-        "LATITUDE": 36.361501,
-        "LONGITUDE": -88.846789,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.54372699999999,
-          36.49016300000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPC00379",
-        "PERMITTEE_NAME": "Jeremy Walters",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-NoD",
-        "ISSUANCE_DATE": 1785715200000,
-        "EFFECTIVE_DATE": 1785715200000,
-        "EXPIRATION_DATE": 1830211200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Old Bethel Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPC00379",
-        "LATITUDE": 36.490162999999995,
-        "LONGITUDE": -88.54372699999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.70262799999995,
-          36.29183500000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123144",
-        "PERMITTEE_NAME": "Susan Cox Development",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "East Main Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123144",
-        "LATITUDE": 36.291835,
-        "LONGITUDE": -88.70262799999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.64089999999999,
-          36.24210000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR053759",
-        "PERMITTEE_NAME": "Old Hickory Clay Company",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1756339200000,
-        "EFFECTIVE_DATE": 1756339200000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "5420 Old Highway 22",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR053759",
-        "LATITUDE": 36.2421,
-        "LONGITUDE": -88.6409,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.86563199999995,
-          36.338944000000026
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123146",
-        "PERMITTEE_NAME": "University of Tennessee",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "315 HANNINGS LN",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123146",
-        "LATITUDE": 36.338944,
-        "LONGITUDE": -88.86563199999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.89104999999995,
-          36.35479000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123143",
-        "PERMITTEE_NAME": "Greg Vise",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "259 Hwy 431",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123143",
-        "LATITUDE": 36.35479,
-        "LONGITUDE": -88.89104999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.80703999999997,
-          36.18121000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.107",
-        "PERMITTEE_NAME": "City of Greenfield",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1765843200000,
-        "EFFECTIVE_DATE": 1765843200000,
-        "EXPIRATION_DATE": 1797379200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "north of Greenfield, east of Hwy. 45 E, south of Bean Switch Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.107",
-        "LATITUDE": 36.18121,
-        "LONGITUDE": -88.80704,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.80703999999997,
-          36.18121000000008
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.108",
-        "PERMITTEE_NAME": "City of Greenfield",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1765843200000,
-        "EFFECTIVE_DATE": 1765843200000,
-        "EXPIRATION_DATE": 1797379200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "north of Greenfield, east of Hwy. 45 E, south of Bean Switch Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.108",
-        "LATITUDE": 36.18121,
-        "LONGITUDE": -88.80704,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.89153799999997,
-          36.35445100000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122989",
-        "PERMITTEE_NAME": "Mid State Investments",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "289 TN-431",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122989",
-        "LATITUDE": 36.354451,
-        "LONGITUDE": -88.891538,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.85419999999993,
-          36.33200000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122553",
-        "PERMITTEE_NAME": "TF Holdings LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "112 Peach Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122553",
-        "LATITUDE": 36.332,
-        "LONGITUDE": -88.8542,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.80682399999995,
-          36.18183000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123101",
-        "PERMITTEE_NAME": "Weakley County",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Bean Switch Lane",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123101",
-        "LATITUDE": 36.18183,
-        "LONGITUDE": -88.80682399999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.53900799999997,
-          36.49488800000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123123",
-        "PERMITTEE_NAME": "Thu Bui",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "900 Old Bethel Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123123",
-        "LATITUDE": 36.494887999999996,
-        "LONGITUDE": -88.539008,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.89145499999995,
-          36.32362100000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123189",
-        "PERMITTEE_NAME": "Matt Vincent",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "107 Three Point Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123189",
-        "LATITUDE": 36.323620999999996,
-        "LONGITUDE": -88.891455,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.60962999999998,
-          36.20238000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR051084",
-        "PERMITTEE_NAME": "H. C. SPINKS CLAY COMPANY, INCORPORATED",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1782086400000,
-        "EFFECTIVE_DATE": 1782086400000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "560 PEACE AND HARMONY ROAD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051084",
-        "LATITUDE": 36.20238,
-        "LONGITUDE": -88.60963,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.83451099999996,
-          36.266451000000075
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR26.007",
-        "PERMITTEE_NAME": "West Tennessee Railroad Authority",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1776729600000,
-        "EFFECTIVE_DATE": 1776729600000,
-        "EXPIRATION_DATE": 1905033600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "Bridge at MP 423.1 on the West TN Railroad Mainline parallel to a drainag",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.007",
-        "LATITUDE": 36.266450999999996,
-        "LONGITUDE": -88.83451099999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.74527799999998,
-          36.316111000000035
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "927028",
-        "PERMITTEE_NAME": "Mud Creek W.D.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1735776000000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1828137600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "443sw Mud Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:927028",
-        "LATITUDE": 36.316111,
-        "LONGITUDE": -88.745278,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.65462299999996,
-          36.18955200000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "SOPCD0037",
-        "PERMITTEE_NAME": "Allen Farms",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CAFO-I",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Weakley",
-        "SITE_LOCATION": "1065 Mount Zion Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:SOPCD0037",
-        "LATITUDE": 36.189552,
-        "LONGITUDE": -88.654623,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.87489299999999,
           36.34110000000004
         ]
@@ -2702,6 +2676,58 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123185",
         "LATITUDE": 36.341100000000004,
         "LONGITUDE": -88.874893,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65831999999995,
+          36.37153900000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122940",
+        "PERMITTEE_NAME": "Ann Giang",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "Boydsville Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122940",
+        "LATITUDE": 36.371539,
+        "LONGITUDE": -88.65831999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66204499999998,
+          36.34548100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122985",
+        "PERMITTEE_NAME": "Denver Melton",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Weakley",
+        "SITE_LOCATION": "903 Pleasant Hill Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122985",
+        "LATITUDE": 36.345481,
+        "LONGITUDE": -88.66204499999999,
         "permit_status": "Active"
       }
     }

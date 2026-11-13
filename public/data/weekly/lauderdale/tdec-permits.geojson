@@ -6,24 +6,154 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.39583299999998,
-          35.900000000000034
+          -89.47429999999997,
+          35.81380000000007
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR050367",
-        "PERMITTEE_NAME": "Hutcherson Metals, Inc.",
+        "PERMIT_NUMBER": "TNR122749",
+        "PERMITTEE_NAME": "Ford Construction Co.",
         "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1767744000000,
-        "EFFECTIVE_DATE": 1767744000000,
-        "EXPIRATION_DATE": 1909008000000,
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "14293 HIGHWAY 210",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050367",
-        "LATITUDE": 35.9,
-        "LONGITUDE": -89.395833,
+        "SITE_LOCATION": "0.34 miles NE from intersection of US-51 - SR-3 with Curve Nankipoo Rd",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122749",
+        "LATITUDE": 35.8138,
+        "LONGITUDE": -89.4743,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40105599999998,
+          35.85619400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123134",
+        "PERMITTEE_NAME": "Alu Materials America, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "1401 South Church Street",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123134",
+        "LATITUDE": 35.856193999999995,
+        "LONGITUDE": -89.401056,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52779999999996,
+          35.72900000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123199",
+        "PERMITTEE_NAME": "Pure Power Contractors, LLC",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "Highland Street Ext",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123199",
+        "LATITUDE": 35.729,
+        "LONGITUDE": -89.5278,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.76942999999994,
+          35.72551000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2602.009",
+        "PERMITTEE_NAME": "TWRA",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773014400000,
+        "EFFECTIVE_DATE": 1773014400000,
+        "EXPIRATION_DATE": 1804464000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "Ripley",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.009",
+        "LATITUDE": 35.72551,
+        "LONGITUDE": -89.76943,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52921899999996,
+          35.72599400000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR123191",
+        "PERMITTEE_NAME": "J2 Company, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "50 WALKER EAST ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123191",
+        "LATITUDE": 35.725994,
+        "LONGITUDE": -89.529219,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.53809999999999,
+          35.77260000000007
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR122753",
+        "PERMITTEE_NAME": "D&D Homes, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "1840 EDITH-NANKIPOO ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122753",
+        "LATITUDE": 35.772600000000004,
+        "LONGITUDE": -89.5381,
         "permit_status": "Active"
       }
     },
@@ -50,32 +180,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050109",
         "LATITUDE": 35.884167,
         "LONGITUDE": -89.4025,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.52274899999998,
-          35.76738100000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR050162",
-        "PERMITTEE_NAME": "Marvin Windows of Tennessee, Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1753056000000,
-        "EFFECTIVE_DATE": 1753056000000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "101 Marvin Road\r\n",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050162",
-        "LATITUDE": 35.767381,
-        "LONGITUDE": -89.52274899999999,
         "permit_status": "Active"
       }
     },
@@ -136,6 +240,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -89.39583299999998,
+          35.900000000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050367",
+        "PERMITTEE_NAME": "Hutcherson Metals, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1767744000000,
+        "EFFECTIVE_DATE": 1767744000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "14293 HIGHWAY 210",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050367",
+        "LATITUDE": 35.9,
+        "LONGITUDE": -89.395833,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52274899999998,
+          35.76738100000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR050162",
+        "PERMITTEE_NAME": "Marvin Windows of Tennessee, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1753056000000,
+        "EFFECTIVE_DATE": 1753056000000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "101 Marvin Road\r\n",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050162",
+        "LATITUDE": 35.767381,
+        "LONGITUDE": -89.52274899999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -89.53972199999998,
           35.75805600000007
         ]
@@ -188,24 +344,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.45226999999994,
-          35.78338000000008
+          -89.46499999999997,
+          35.85111100000006
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "497013",
-        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMIT_NUMBER": "497020",
+        "PERMITTEE_NAME": "Thomas J. Stanley",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1734307200000,
+        "ISSUANCE_DATE": 1755043200000,
         "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1818460800000,
+        "EXPIRATION_DATE": 1816041600000,
         "TERMINATION_DATE": null,
         "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "421sw Lost Creek",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:497013",
-        "LATITUDE": 35.78338,
-        "LONGITUDE": -89.45227,
+        "SITE_LOCATION": "421sw Trib-double Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:497020",
+        "LATITUDE": 35.851110999999996,
+        "LONGITUDE": -89.465,
         "permit_status": "Active"
       }
     },
@@ -422,32 +578,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.46499999999997,
-          35.85111100000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "497020",
-        "PERMITTEE_NAME": "Thomas J. Stanley",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Dams",
-        "ISSUANCE_DATE": 1755043200000,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": 1816041600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "421sw Trib-double Branch",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:497020",
-        "LATITUDE": 35.851110999999996,
-        "LONGITUDE": -89.465,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -89.63068999999996,
           35.78239000000008
         ]
@@ -492,6 +622,32 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR121855",
         "LATITUDE": 35.77932,
         "LONGITUDE": -89.52198,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.45226999999994,
+          35.78338000000008
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "497013",
+        "PERMITTEE_NAME": "West Tennessee River Basin Authority",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Dams",
+        "ISSUANCE_DATE": 1734307200000,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": 1818460800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "421sw Lost Creek",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:497013",
+        "LATITUDE": 35.78338,
+        "LONGITUDE": -89.45227,
         "permit_status": "Active"
       }
     },
@@ -552,58 +708,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.56606799999997,
-          35.75887600000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNB078191",
-        "PERMITTEE_NAME": "Ripley Gas, Water & Wastewater Department",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "Biosolids",
-        "ISSUANCE_DATE": 1626825600000,
-        "EFFECTIVE_DATE": 1626825600000,
-        "EXPIRATION_DATE": 1723680000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "SR-19 West",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB078191",
-        "LATITUDE": 35.758876,
-        "LONGITUDE": -89.566068,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.53977999999995,
-          35.73463900000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123111",
-        "PERMITTEE_NAME": "Lauderdale County School District",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "254 S JEFFERSON ST",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123111",
-        "LATITUDE": 35.734639,
-        "LONGITUDE": -89.53978,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -89.39999999999998,
           35.83000000000004
         ]
@@ -656,6 +760,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -89.47989999999999,
+          35.811500000000024
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS21.189",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1635379200000,
+        "EFFECTIVE_DATE": 1635379200000,
+        "EXPIRATION_DATE": 1793059200000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "SR-3 Intersection at Curve Nankipoo Road LM 14.43",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.189",
+        "LATITUDE": 35.8115,
+        "LONGITUDE": -89.4799,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56606799999997,
+          35.75887600000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNB078191",
+        "PERMITTEE_NAME": "Ripley Gas, Water & Wastewater Department",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "Biosolids",
+        "ISSUANCE_DATE": 1626825600000,
+        "EFFECTIVE_DATE": 1626825600000,
+        "EXPIRATION_DATE": 1723680000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Lauderdale",
+        "SITE_LOCATION": "SR-19 West",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNB078191",
+        "LATITUDE": 35.758876,
+        "LONGITUDE": -89.566068,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -89.53809999999999,
           35.77260000000007
         ]
@@ -682,13 +838,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.53809999999999,
-          35.77260000000007
+          -89.53977999999995,
+          35.73463900000007
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122753",
-        "PERMITTEE_NAME": "D&D Homes, LLC",
+        "PERMIT_NUMBER": "TNR123111",
+        "PERMITTEE_NAME": "Lauderdale County School District",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -696,36 +852,10 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "1840 EDITH-NANKIPOO ROAD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122753",
-        "LATITUDE": 35.772600000000004,
-        "LONGITUDE": -89.5381,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.47429999999997,
-          35.81380000000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR122749",
-        "PERMITTEE_NAME": "Ford Construction Co.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "0.34 miles NE from intersection of US-51 - SR-3 with Curve Nankipoo Rd",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122749",
-        "LATITUDE": 35.8138,
-        "LONGITUDE": -89.4743,
+        "SITE_LOCATION": "254 S JEFFERSON ST",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123111",
+        "LATITUDE": 35.734639,
+        "LONGITUDE": -89.53978,
         "permit_status": "Active"
       }
     },
@@ -760,50 +890,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.51929999999999,
-          35.77970000000005
+          -89.47989999999999,
+          35.811500000000024
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR122975",
-        "PERMITTEE_NAME": "State of Tennessee",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "127 Industrial Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122975",
-        "LATITUDE": 35.7797,
-        "LONGITUDE": -89.5193,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.56450999999998,
-          35.673560000000066
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2502.020",
-        "PERMITTEE_NAME": "Lauderdale County Highway Department",
+        "PERMIT_NUMBER": "NRS21.189-26",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1747612800000,
-        "EXPIRATION_DATE": 1778803200000,
+        "ISSUANCE_DATE": 1788393600000,
+        "EFFECTIVE_DATE": 1793145600000,
+        "EXPIRATION_DATE": 1950825600000,
         "TERMINATION_DATE": null,
         "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "Henning-Bethlehem Road over Branch",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.020",
-        "LATITUDE": 35.67356,
-        "LONGITUDE": -89.56451,
+        "SITE_LOCATION": "SR-3 Intersection at Curve Nankipoo Road LM 14.43",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.189-26",
+        "LATITUDE": 35.8115,
+        "LONGITUDE": -89.4799,
         "permit_status": "Active"
       }
     },
@@ -864,24 +968,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.76942999999994,
-          35.72551000000004
+          -89.56450999999998,
+          35.673560000000066
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2602.009",
-        "PERMITTEE_NAME": "TWRA",
+        "PERMIT_NUMBER": "NR2502.020",
+        "PERMITTEE_NAME": "Lauderdale County Highway Department",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1773014400000,
-        "EFFECTIVE_DATE": 1773014400000,
-        "EXPIRATION_DATE": 1804464000000,
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1747612800000,
+        "EXPIRATION_DATE": 1778803200000,
         "TERMINATION_DATE": null,
         "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "Ripley",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2602.009",
-        "LATITUDE": 35.72551,
-        "LONGITUDE": -89.76943,
+        "SITE_LOCATION": "Henning-Bethlehem Road over Branch",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2502.020",
+        "LATITUDE": 35.67356,
+        "LONGITUDE": -89.56451,
         "permit_status": "Active"
       }
     },
@@ -890,13 +994,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.52921899999996,
-          35.72599400000007
+          -89.51929999999999,
+          35.77970000000005
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "TNR123191",
-        "PERMITTEE_NAME": "J2 Company, LLC",
+        "PERMIT_NUMBER": "TNR122975",
+        "PERMITTEE_NAME": "State of Tennessee",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "CGP",
         "ISSUANCE_DATE": null,
@@ -904,115 +1008,11 @@
         "EXPIRATION_DATE": 1948492800000,
         "TERMINATION_DATE": null,
         "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "50 WALKER EAST ST",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123191",
-        "LATITUDE": 35.725994,
-        "LONGITUDE": -89.529219,
+        "SITE_LOCATION": "127 Industrial Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR122975",
+        "LATITUDE": 35.7797,
+        "LONGITUDE": -89.5193,
         "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.47989999999999,
-          35.811500000000024
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS21.189",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1635379200000,
-        "EFFECTIVE_DATE": 1635379200000,
-        "EXPIRATION_DATE": 1793059200000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "SR-3 Intersection at Curve Nankipoo Road LM 14.43",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.189",
-        "LATITUDE": 35.8115,
-        "LONGITUDE": -89.4799,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.40105599999998,
-          35.85619400000007
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123134",
-        "PERMITTEE_NAME": "Alu Materials America, Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "1401 South Church Street",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123134",
-        "LATITUDE": 35.856193999999995,
-        "LONGITUDE": -89.401056,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.47989999999999,
-          35.811500000000024
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS21.189-26",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1788393600000,
-        "EFFECTIVE_DATE": 1793145600000,
-        "EXPIRATION_DATE": 1950825600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "SR-3 Intersection at Curve Nankipoo Road LM 14.43",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS21.189-26",
-        "LATITUDE": 35.8115,
-        "LONGITUDE": -89.4799,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.52779999999996,
-          35.72900000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR123199",
-        "PERMITTEE_NAME": "Pure Power Contractors, LLC",
-        "PERMITTING_ACTION": "Pending",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": null,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Lauderdale",
-        "SITE_LOCATION": "Highland Street Ext",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR123199",
-        "LATITUDE": 35.729,
-        "LONGITUDE": -89.5278,
-        "permit_status": "Pending"
       }
     }
   ]

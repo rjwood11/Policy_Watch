@@ -6,6 +6,188 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.50226599999996,
+          36.28616200000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNG830287",
+        "PERMITTEE_NAME": "Wingfield Environmental, Inc.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "UST",
+        "ISSUANCE_DATE": 1709510400000,
+        "EFFECTIVE_DATE": 1709510400000,
+        "EXPIRATION_DATE": 1853884800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "8565 Rutledge Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830287",
+        "LATITUDE": 36.286162,
+        "LONGITUDE": -83.50226599999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52942099999996,
+          36.273772000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.037",
+        "PERMITTEE_NAME": "Cathy Kerby",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1773360000000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "222 Bryan Road",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.037",
+        "LATITUDE": 36.273772,
+        "LONGITUDE": -83.529421,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58369999999996,
+          36.298100000000034
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR26.056",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1773792000000,
+        "EFFECTIVE_DATE": 1773792000000,
+        "EXPIRATION_DATE": 1905033600000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "SR-131, Bridge over Williams Creek @ LM 7.73",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.056",
+        "LATITUDE": 36.298100000000005,
+        "LONGITUDE": -83.58370000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70332699999994,
+          36.15515000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR138148",
+        "PERMITTEE_NAME": "LKM Properties, L.P.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "Rutledge Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138148",
+        "LATITUDE": 36.15515,
+        "LONGITUDE": -83.703327,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70332699999994,
+          36.15515000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2503.175",
+        "PERMITTEE_NAME": "LKM Properties, L.P.",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1764633600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "Rutledge Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.175",
+        "LATITUDE": 36.15515,
+        "LONGITUDE": -83.703327,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58799999999997,
+          36.161200000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.063",
+        "PERMITTEE_NAME": "Gary Caldwell",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1776297600000,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "252 Holston Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.063",
+        "LATITUDE": 36.1612,
+        "LONGITUDE": -83.58800000000001,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63588999999996,
+          36.272061000000065
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS20.229-26",
+        "PERMITTEE_NAME": "SCP Cumberland, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1779408000000,
+        "EFFECTIVE_DATE": 1778457600000,
+        "EXPIRATION_DATE": 1936224000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "10631 TN-131",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.229-26",
+        "LATITUDE": 36.272061,
+        "LONGITUDE": -83.63588999999999,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.48155199999997,
           36.296794000000034
         ]
@@ -266,6 +448,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.43569999999994,
+          36.354100000000074
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NRS17.345",
+        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": 1523404800000,
+        "EFFECTIVE_DATE": 1523404800000,
+        "EXPIRATION_DATE": 1649548800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "SR-32 Offsetting Intersection SR-131",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.345",
+        "LATITUDE": 36.3541,
+        "LONGITUDE": -83.4357,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.35200899999995,
           36.294407000000035
         ]
@@ -344,32 +552,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.43569999999994,
-          36.354100000000074
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS17.345",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1523404800000,
-        "EFFECTIVE_DATE": 1523404800000,
-        "EXPIRATION_DATE": 1649548800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "SR-32 Offsetting Intersection SR-131",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS17.345",
-        "LATITUDE": 36.3541,
-        "LONGITUDE": -83.4357,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -83.68994999999995,
           36.171726000000035
         ]
@@ -388,58 +570,6 @@
         "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR050292",
         "LATITUDE": 36.171726,
         "LONGITUDE": -83.68995,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.50226599999996,
-          36.28616200000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNG830287",
-        "PERMITTEE_NAME": "Wingfield Environmental, Inc.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "UST",
-        "ISSUANCE_DATE": 1709510400000,
-        "EFFECTIVE_DATE": 1709510400000,
-        "EXPIRATION_DATE": 1853884800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "8565 Rutledge Pike",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNG830287",
-        "LATITUDE": 36.286162,
-        "LONGITUDE": -83.50226599999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.56614999999994,
-          36.18016000000006
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS25.004",
-        "PERMITTEE_NAME": "Josh Moore",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1751846400000,
-        "EFFECTIVE_DATE": 1751846400000,
-        "EXPIRATION_DATE": 1909526400000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "2872 Holston Shores Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.004",
-        "LATITUDE": 36.18016,
-        "LONGITUDE": -83.56615,
         "permit_status": "Active"
       }
     },
@@ -474,24 +604,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.60797599999995,
-          36.13531700000004
+          -83.71124399999997,
+          36.134389000000056
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2503.112",
-        "PERMITTEE_NAME": "Christie Bunkley",
+        "PERMIT_NUMBER": "TNR138524",
+        "PERMITTEE_NAME": "Axiom Properties, LLC",
         "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "CGP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1948492800000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "Eastland Park Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138524",
+        "LATITUDE": 36.134389,
+        "LONGITUDE": -83.711244,
+        "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49527999999998,
+          36.28767000000005
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.181",
+        "PERMITTEE_NAME": "Uriel Edde",
+        "PERMITTING_ACTION": "Pending",
         "PERMIT_TYPE": "ARAP",
         "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1755648000000,
+        "EFFECTIVE_DATE": null,
         "EXPIRATION_DATE": null,
         "TERMINATION_DATE": null,
         "COUNTY": "Grainger",
-        "SITE_LOCATION": "1937 River Mist Circle",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.112",
-        "LATITUDE": 36.135317,
-        "LONGITUDE": -83.607976,
+        "SITE_LOCATION": "8768 Highway 11W",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.181",
+        "LATITUDE": 36.28767,
+        "LONGITUDE": -83.49528,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.56476699999996,
+          36.167432000000076
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "NR2603.180",
+        "PERMITTEE_NAME": "Scott Campbell",
+        "PERMITTING_ACTION": "Incomplete",
+        "PERMIT_TYPE": "ARAP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "1424 Holston Shores",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.180",
+        "LATITUDE": 36.167432,
+        "LONGITUDE": -83.56476699999999,
+        "permit_status": "Pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26699999999994,
+          36.34700000000004
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051646",
+        "PERMITTEE_NAME": "Whaley Construction, LLC",
+        "PERMITTING_ACTION": "Active",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": 1790812800000,
+        "EFFECTIVE_DATE": 1790812800000,
+        "EXPIRATION_DATE": 1909008000000,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "128 MOORES CHAPEL ROAD",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051646",
+        "LATITUDE": 36.347,
+        "LONGITUDE": -83.26700000000001,
         "permit_status": "Active"
       }
     },
@@ -526,24 +734,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.58799999999997,
-          36.161200000000065
+          -83.60797599999995,
+          36.13531700000004
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2603.063",
-        "PERMITTEE_NAME": "Gary Caldwell",
+        "PERMIT_NUMBER": "NR2503.112",
+        "PERMITTEE_NAME": "Christie Bunkley",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
         "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1776297600000,
+        "EFFECTIVE_DATE": 1755648000000,
         "EXPIRATION_DATE": null,
         "TERMINATION_DATE": null,
         "COUNTY": "Grainger",
-        "SITE_LOCATION": "252 Holston Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.063",
-        "LATITUDE": 36.1612,
-        "LONGITUDE": -83.58800000000001,
+        "SITE_LOCATION": "1937 River Mist Circle",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.112",
+        "LATITUDE": 36.135317,
+        "LONGITUDE": -83.607976,
         "permit_status": "Active"
       }
     },
@@ -552,180 +760,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.70332699999994,
-          36.15515000000005
+          -83.56614999999994,
+          36.18016000000006
         ]
       },
       "properties": {
-        "PERMIT_NUMBER": "NR2503.175",
-        "PERMITTEE_NAME": "LKM Properties, L.P.",
+        "PERMIT_NUMBER": "NRS25.004",
+        "PERMITTEE_NAME": "Josh Moore",
         "PERMITTING_ACTION": "Active",
         "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1764633600000,
-        "EXPIRATION_DATE": null,
+        "ISSUANCE_DATE": 1751846400000,
+        "EFFECTIVE_DATE": 1751846400000,
+        "EXPIRATION_DATE": 1909526400000,
         "TERMINATION_DATE": null,
         "COUNTY": "Grainger",
-        "SITE_LOCATION": "Rutledge Pike",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2503.175",
-        "LATITUDE": 36.15515,
-        "LONGITUDE": -83.703327,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.58369999999996,
-          36.298100000000034
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR26.056",
-        "PERMITTEE_NAME": "Tennessee Department of Transportation (TDOT)",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1773792000000,
-        "EFFECTIVE_DATE": 1773792000000,
-        "EXPIRATION_DATE": 1905033600000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "SR-131, Bridge over Williams Creek @ LM 7.73",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR26.056",
-        "LATITUDE": 36.298100000000005,
-        "LONGITUDE": -83.58370000000001,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.70332699999994,
-          36.15515000000005
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR138148",
-        "PERMITTEE_NAME": "LKM Properties, L.P.",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "Rutledge Pike",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138148",
-        "LATITUDE": 36.15515,
-        "LONGITUDE": -83.703327,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.52942099999996,
-          36.273772000000065
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NR2603.037",
-        "PERMITTEE_NAME": "Cathy Kerby",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1773360000000,
-        "EXPIRATION_DATE": null,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "222 Bryan Road",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NR2603.037",
-        "LATITUDE": 36.273772,
-        "LONGITUDE": -83.529421,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.63588999999996,
-          36.272061000000065
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "NRS20.229-26",
-        "PERMITTEE_NAME": "SCP Cumberland, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "ARAP",
-        "ISSUANCE_DATE": 1779408000000,
-        "EFFECTIVE_DATE": 1778457600000,
-        "EXPIRATION_DATE": 1936224000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "10631 TN-131",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS20.229-26",
-        "LATITUDE": 36.272061,
-        "LONGITUDE": -83.63588999999999,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.71124399999997,
-          36.134389000000056
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR138524",
-        "PERMITTEE_NAME": "Axiom Properties, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "CGP",
-        "ISSUANCE_DATE": null,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1948492800000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "Eastland Park Drive",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR138524",
-        "LATITUDE": 36.134389,
-        "LONGITUDE": -83.711244,
-        "permit_status": "Active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.26699999999994,
-          36.34700000000004
-        ]
-      },
-      "properties": {
-        "PERMIT_NUMBER": "TNR051646",
-        "PERMITTEE_NAME": "Whaley Construction, LLC",
-        "PERMITTING_ACTION": "Active",
-        "PERMIT_TYPE": "TMSP",
-        "ISSUANCE_DATE": 1790812800000,
-        "EFFECTIVE_DATE": 1790812800000,
-        "EXPIRATION_DATE": 1909008000000,
-        "TERMINATION_DATE": null,
-        "COUNTY": "Grainger",
-        "SITE_LOCATION": "128 MOORES CHAPEL ROAD",
-        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051646",
-        "LATITUDE": 36.347,
-        "LONGITUDE": -83.26700000000001,
+        "SITE_LOCATION": "2872 Holston Shores Drive",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:NRS25.004",
+        "LATITUDE": 36.18016,
+        "LONGITUDE": -83.56615,
         "permit_status": "Active"
       }
     },
@@ -753,6 +805,32 @@
         "LATITUDE": 36.32878,
         "LONGITUDE": -83.378852,
         "permit_status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.71339999999998,
+          36.14220000000006
+        ]
+      },
+      "properties": {
+        "PERMIT_NUMBER": "TNR051698",
+        "PERMITTEE_NAME": "Michael Dyer",
+        "PERMITTING_ACTION": "Pending",
+        "PERMIT_TYPE": "TMSP",
+        "ISSUANCE_DATE": null,
+        "EFFECTIVE_DATE": null,
+        "EXPIRATION_DATE": null,
+        "TERMINATION_DATE": null,
+        "COUNTY": "Grainger",
+        "SITE_LOCATION": "622 Old Rutledge Pike",
+        "URL": "https://dataviewers.tdec.tn.gov/dataviewers/f?p=2005:34051::::34051:P34051_PERMIT_NUMBER:TNR051698",
+        "LATITUDE": 36.1422,
+        "LONGITUDE": -83.71340000000001,
+        "permit_status": "Pending"
       }
     },
     {

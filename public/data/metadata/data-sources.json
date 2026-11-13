@@ -101,10 +101,10 @@
     "sourceName": "TDEC DWR Public MapServer layer 1",
     "sourceUrl": "https://tdeconline.tn.gov/arcgis/rest/services/DWR_Public/MapServer/1",
     "refreshFrequency": "Weekly local refresh; published to GitHub",
-    "lastUpdated": "2026-11-11",
+    "lastUpdated": "2026-11-13",
     "notes": "County maps use a static weekly cache generated from the public TDEC DWR MapServer. The browser falls back to the live service when a cache file is unavailable.",
     "refreshStatus": "Current",
-    "lastChecked": "2026-11-11"
+    "lastChecked": "2026-11-13"
   },
   {
     "dataset": "Solid waste landfill permit locations",
