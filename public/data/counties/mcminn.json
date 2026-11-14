@@ -3,7 +3,7 @@
   "name": "McMinn",
   "region": "East Tennessee",
   "population": 54884,
-  "buildDate": "2026-11-11",
+  "buildDate": "2026-11-14",
   "prototypeStatus": {
     "label": "Statewide county summary",
     "coverageNote": "This county page is generated from statewide contracts so every Tennessee county has baseline environmental and civic context.",
@@ -294,7 +294,7 @@
       "definition": "ACS 5-year total county population.",
       "caveat": "ACS estimates should be read as broad county context rather than precise local conditions.",
       "sourceDataset": "ACS indicators",
-      "updatedAt": "2026-11-11",
+      "updatedAt": "2026-11-14",
       "stateRank": {
         "rank": 31,
         "total": 95,
@@ -310,7 +310,7 @@
       "definition": "Share of people below the poverty level based on ACS table B17001.",
       "caveat": "County-wide rates can hide tract-level variation.",
       "sourceDataset": "ACS indicators",
-      "updatedAt": "2026-11-11",
+      "updatedAt": "2026-11-14",
       "stateRank": {
         "rank": 69,
         "total": 95,

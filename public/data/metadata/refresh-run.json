@@ -1,7 +1,6 @@
 {
-  "checkedAt": "2026-11-11",
+  "checkedAt": "2026-11-14",
   "failures": [
-    "Solid waste landfill permit locations: Request failed for https://tdeconline.tn.gov/arcgis/rest/services/SWM_Permits/MapServer/0: 403 Client Error: Forbidden for url: https://tdeconline.tn.gov/arcgis/rest/services/SWM_Permits/MapServer/0?f=json",
-    "Some TDEC / ECHO counties could not refresh; see weekly manifest"
+    "Some weekly permit/compliance counties could not refresh; see weekly manifest"
   ]
 }
